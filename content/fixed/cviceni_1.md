@@ -80,7 +80,7 @@
 
 ### Přízvuk 
 
-Starořecký přízvuk byl tonální a realizoval se změnou výšky hlasu. Tradične zachycujeme tři typy přízvuků, které se zapisují nad vokálem nebo nad offglidem diftongu: 
+Starořecký přízvuk byl tonální a realizoval se změnou výšky hlasu. Tradičně zachycujeme tři typy přízvuků, které se zapisují nad vokálem nebo nad offglidem diftongu: 
 
 1. ostrý (´) : *oxytonon, paroxytonon, proparoxytonon*; píše se napravo od přídechu (ἄ)
 2. průtažný (˜): *perispómenon, properispómenon*; píše se nad přídech (ἆ)
