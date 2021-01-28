@@ -1,0 +1,11 @@
+baseURL = "/"
+languageCode = "en-us"
+relativeURLs = "true"
+title = "Starořecký jazyk"
+theme = "lanyon"
+publishDir = "docs"
+
+[params]
+  author = "Martin Masliš"
+  description = "Navigácia"
+  title = "Starořecký jazyk"

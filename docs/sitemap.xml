@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2014-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/literatura/</loc>
+  </url>
+  
+  <url>
+    <loc>/fixed/cviceni_1/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/2014-01-02-introducing-lanyon/</loc>
+    <lastmod>2014-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2014-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2014-01-01-example-content/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2013-12-31-whats-jekyll/</loc>
+    <lastmod>2013-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/fixed/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>

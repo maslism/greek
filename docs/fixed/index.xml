@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fixeds on Starořecký jazyk</title>
+    <link>/fixed/</link>
+    <description>Recent content in Fixeds on Starořecký jazyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/fixed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Literatura</title>
+      <link>/fixed/literatura/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fixed/literatura/</guid>
+      <description>Česká literatura
+ [Hn] = HNÁTEK, Jaroslav, Rudolf TRNKA, Drahomíra WITTICHOVÁ, Čestmír VRÁNEK, Zdeněk VYSOKÝ a Miloš LUKÁŠ, ed. Cvičebnice jazyka řeckého. 3. fototyp. vyd. Praha: Scriptum, 1993. [scan] [N] = NIEDERLE, Jindřich, Václav NIEDERLE a Ladislav VARCL. Mluvnice jazyka řeckého. Fototypické vydání dle vydání z roku 1956. Praha: Vyšehrad, 1998. [scan] [F] = FÜRST, Kamil. Cvičebnice jazyka řeckého pro V. a VI. třídu gymnasií. 2., nezměněné vyd. Praha: Profesorské nakladatelství a knihkupectví, 1939.</description>
+    </item>
+    
+    <item>
+      <title>1. cvičení – Alfabeta, přízvuky a přídechy</title>
+      <link>/fixed/cviceni_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fixed/cviceni_1/</guid>
+      <description>Alfabeta  # Znak Platnost Název     1 Α α /a/ ἄλφα   2 Β β /b/ βῆτα   3 Γ γ /g/ γάμμα   4 Δ δ /d/ δέλτα   5 Ε ε /e/ ἒ ψιλόν   6 Ζ ζ /zd/ ~ /dz/ ζῆτα   7 Η η /ē/ ἦτα   8 Θ θ /th/ θῆτα   9 Ι ι /i/ ἰῶτα   10 Κ κ /k/ κάππα   11 Λ λ /l/ λάμβδα   12 Μ μ /m/ μῦ   13 Ν ν /n/ νῦ   14 Ξ ξ /ks/ ξῖ   15 Ο ο /o/ ὂ μικρόν   16 Π π /p/ πῖ   17 Ρ ρ /r/ ῥῶ   18 Σ σ/ς /s/ σῖγμα   19 Τ τ /t/ ταῦ   20 Υ υ /u/ ~ /ü/ ~ /i/ ὒ ψιλόν   21 Φ φ /ph/ ~ /f/ φῖ   22 Χ χ /kh/ ~ /ch/ χῖ   23 Ψ ψ /ps/ ψῖ   24 Ω ω /ō/ ὦ μέγα    Diftongy (dvojhlásky)  Forma Platnost     αι /ay/   ᾳ/αι /āy/ ~ /ā/   ει /ey/   ῃ/ηι /ēy/ ~ /ē/   οι /oy/   ῳ/ωι /ōy/ ~ /ō/   υι /üy/   αυ /aw/   ευ /ew/   ηυ /ēw/   ου /ū/     znaky ᾳ, ῃ a ῳ představují dlouhé diftongy, ve kterých je znak ι podepsaný a tvoří tzv.</description>
+    </item>
+    
+  </channel>
+</rss>
