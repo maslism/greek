@@ -1,12 +1,10 @@
 {
-    "title": "1. cvičení – Alfabeta, přízvuky a přídechy",
+    "title": "1. cvičení – Alfabeta, přízvuk a přídech",
     "sidebar": true,
     "weight": "1"
 }
 
-## Alfabeta
-
-
+### Alfabeta
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
@@ -82,9 +80,9 @@
 
 Starořecký přízvuk byl tonální a realizoval se změnou výšky hlasu. Tradičně zachycujeme tři typy přízvuků, které se zapisují nad vokálem nebo nad offglidem diftongu: 
 
-1. ostrý (´) : *oxytonon, paroxytonon, proparoxytonon*; píše se napravo od přídechu (ἄ)
-2. průtažný (˜): *perispómenon, properispómenon*; píše se nad přídech (ἆ)
-3. těžký (`): *barytonon*; píše se napravo od přídechu (ἂ)
+1. ostrý (´) : *oxytonon, paroxytonon, proparoxytonon*; píše se napravo od přídechu (ἄ, εὔ)
+2. průtažný (˜): *perispómenon, properispómenon*; píše se nad přídech (ἆ, εὖ)
+3. těžký (`): *barytonon*; píše se napravo od přídechu (ἂ, εὒ)
 
 Přízvuk se může vyskytnout jen na jedné z posledních třech slabik slova:
 
@@ -92,10 +90,10 @@ Přízvuk se může vyskytnout jen na jedné z posledních třech slabik slova:
   - podmínka: je-li je poslední slabika dlouhá (má dlouhý vokál nebo diftong), nemůže být ostrý přízvuk na třetí slabice od konce, ale posune se na předposlední slabiku (nom. ἄν-θρω-πος "člověk" *ale* gen. ἀν-θρώ-που "člověka")
 - **průtažný přízvuk** může být jenom na poslední (*perispómenon*) nebo předposlední slabice (*pro-perispómenon*)
   - podmínka 1: slabika musí mít dlouhý vokál nebo libovolný diftong
-  - podmínka 2: průtažný přízvuk nemůže být na předposlední slabice, je-li poslední slabika dlouhá (má dlouhý vokál nebo libovolný diftong), ale mění se na ostrý (nom. σφαῖ-ρα "sféra" *ale* gen. σφαί-ρᾱς "sféry"
-  - podmínka 3: je-li poslední slabika krátka a přízvuk je na předposlední slabice, která je dlouhá, je tento přízvuk automaticky průtažný (nom. σω-τήρ "zachránce" *ale* acc. σω-τῆ-ρα)
+  - podmínka 2: je-li poslední slabika dlouhá (má dlouhý vokál nebo libovolný diftong), nemůže být průtažný přízvuk na předposlední slabice, ale mění se na ostrý (nom. σφαῖ-ρα "sféra" *ale* gen. σφαί-ρᾱς "sféry"
+  - podmínka 3: je-li poslední slabika krátká a přízvuk je na předposlední slabice, která je dlouhá, je tento přízvuk automaticky průtažný (nom. σω-τήρ "zachránce" *ale* acc. σω-τῆ-ρα)
 - **těžký přízvuk** může být jenom na poslední slabice slova
-  - podmínka: tento přízvuk nahrazuje ostrý přízvuk na konci slova, nasleduje-li jiné slovo (ἀγαθός "dobrý" *ale* ὁ ἀθαθὸς ἄνθρωπος "dobrý člověk")
+  - podmínka: tento přízvuk nahrazuje ostrý přízvuk na konci slova, nasleduje-li jiné slovo (ἀγαθός "dobrý" *ale* ὁ ἀγαθὸς ἄνθρωπος "dobrý člověk")
 
 
 

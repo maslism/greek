@@ -9,115 +9,637 @@
 
     
       <item>
-        <title>Introducing Lanyon</title>
-        <link>/post/2014-01-02-introducing-lanyon/</link>
-        <pubDate>Thu, 02 Jan 2014 00:00:00 UTC</pubDate>
+        <title>Literatura</title>
+        <link>/fixed/literatura/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
         <author>Martin Masliš</author>
-        <guid>/post/2014-01-02-introducing-lanyon/</guid>
-        <description>&lt;p&gt;Lanyon is an unassuming &lt;a href=&#34;http://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It&amp;rsquo;s based on &lt;a href=&#34;http://getpoole.com&#34;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
-&lt;h3 id=&#34;built-on-poole&#34;&gt;Built on Poole&lt;/h3&gt;
-&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&#34;https://twitter.com/mdo&#34;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Lanyon here) includes the following:&lt;/p&gt;
+        <guid>/fixed/literatura/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;Česká literatura&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&#34;./404&#34;&gt;404&lt;/a&gt;, &lt;a href=&#34;./index.xml&#34;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&#34;./about&#34;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-&lt;li&gt;Easily scalable text and component sizing with &lt;code&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-&lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-&lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-&lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
+&lt;li&gt;[Hn] = HNÁTEK, Jaroslav, Rudolf TRNKA, Drahomíra WITTICHOVÁ, Čestmír VRÁNEK, Zdeněk VYSOKÝ a Miloš LUKÁŠ, ed. &lt;em&gt;Cvičebnice jazyka řeckého&lt;/em&gt;. 3. fototyp. vyd. Praha: Scriptum, 1993. &lt;a href=&#34;https://urls.ff.cuni.cz/wp-content/uploads/sites/66/2020/06/HNATEK-Cvicebnice-jazyka-reckeho.pdf&#34;&gt;[scan]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[N] = NIEDERLE, Jindřich, Václav NIEDERLE a Ladislav VARCL. &lt;em&gt;Mluvnice jazyka řeckého&lt;/em&gt;. Fototypické vydání dle vydání z roku 1956. Praha: Vyšehrad, 1998. &lt;a href=&#34;https://urls.ff.cuni.cz/wp-content/uploads/sites/66/2020/06/NIEDERLE-Gramatika-1946.pdf&#34;&gt;[scan]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[F] = FÜRST, Kamil. &lt;em&gt;Cvičebnice jazyka řeckého pro V. a VI. třídu gymnasií&lt;/em&gt;. 2., nezměněné vyd. Praha: Profesorské nakladatelství a knihkupectví, 1939.&lt;/li&gt;
+&lt;li&gt;[H-Ch] = HORÁČEK, Filip a Radek CHLUP. &lt;em&gt;Učebnice klasické řečtiny&lt;/em&gt;. Praha: Academia, 2012.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;lanyon-features&#34;&gt;Lanyon features&lt;/h3&gt;
-&lt;p&gt;In addition to the features of Poole, Lanyon adds the following:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anglická literatura&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Toggleable sliding sidebar (built with only CSS) via &lt;strong&gt;☰&lt;/strong&gt; link in top corner&lt;/li&gt;
-&lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
-&lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&#34;https://github.com/poole/lanyon#reverse-layout&#34;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/poole/lanyon#themes&#34;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
+&lt;li&gt;[M] = MASTRONARDE, Donald J. &lt;em&gt;Introduction to Attic Greek&lt;/em&gt;. Second edition. Berkeley: University of California Press, 2013.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/poole/lanyon#readme&#34;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
-&lt;h3 id=&#34;browser-support&#34;&gt;Browser support&lt;/h3&gt;
-&lt;p&gt;Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
-&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
-&lt;p&gt;Lanyon is developed on and hosted with GitHub. Head to the &lt;!-- raw HTML omitted --&gt;GitHub repository&lt;!-- raw HTML omitted --&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
-&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Slovníky&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[LSJ] = LIDDELL, Henry George a Robert SCOTT, JONES, Henry Stuart a Roderick MCKENZIE, ed. &lt;em&gt;A Greek-English Lexicon&lt;/em&gt;. Oxford: Clarendon Press, 1996. &lt;a href=&#34;https://logeion.uchicago.edu/lexidium&#34;&gt;[online]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Lep] = LEPAŘ, František, ed. &lt;em&gt;Nehomérovský slovník řeckočeský&lt;/em&gt;. Mladá Boleslav: Karel Vačlena, 1892. &lt;a href=&#34;http://librinostri.catholica.cz/vyhledat/Lepa%C5%99%20Franti%C5%A1ek&#34;&gt;[scan]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
       </item>
     
       <item>
-        <title>Example content</title>
-        <link>/post/2014-01-01-example-content/</link>
-        <pubDate>Wed, 01 Jan 2014 00:00:00 UTC</pubDate>
+        <title>1. cvičení – Alfabeta, přízvuk a přídech</title>
+        <link>/fixed/cviceni_1/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
         <author>Martin Masliš</author>
-        <guid>/post/2014-01-01-example-content/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;!-- raw HTML omitted --&gt;dis parturient montes&lt;!-- raw HTML omitted --&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
-&lt;h2 id=&#34;inline-html-elements&#34;&gt;Inline HTML elements&lt;/h2&gt;
-&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&#34;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Abbreviations, like &lt;!-- raw HTML omitted --&gt;HTML&lt;!-- raw HTML omitted --&gt; should use &lt;code&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
-&lt;li&gt;Citations, like &lt;!-- raw HTML omitted --&gt;— Mark otto&lt;!-- raw HTML omitted --&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Deleted&lt;!-- raw HTML omitted --&gt; text should use &lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;!-- raw HTML omitted --&gt;inserted&lt;!-- raw HTML omitted --&gt; text should use &lt;code&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Superscript &lt;!-- raw HTML omitted --&gt;text&lt;!-- raw HTML omitted --&gt; uses &lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;!-- raw HTML omitted --&gt;text&lt;!-- raw HTML omitted --&gt; uses &lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
-&lt;h2 id=&#34;heading&#34;&gt;Heading&lt;/h2&gt;
-&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
-&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// Example can be run directly in your JavaScript console
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;// Create a function that takes two arguments and returns the sum of those arguments
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;adder&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;new&lt;/span&gt; Function(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;a&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;b&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;return a + b&amp;#34;&lt;/span&gt;);
+        <guid>/fixed/cviceni_1/</guid>
+        <description>&lt;h3 id=&#34;alfabeta&#34;&gt;Alfabeta&lt;/h3&gt;
 
-&lt;span style=&#34;color:#75715e&#34;&gt;// Call the function
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;adder&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;6&lt;/span&gt;);
-&lt;span style=&#34;color:#75715e&#34;&gt;// &amp;gt; 8
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
-&lt;h3 id=&#34;lists&#34;&gt;Lists&lt;/h3&gt;
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;table-responsive&#34;&gt;
+&lt;table class=&#34;table table-hover table-sm&#34;&gt;
+&lt;thead class=&#34;light&#34;&gt;
+&lt;tr&gt;
+&lt;th&gt;#&lt;/th&gt;
+&lt;th&gt;Znak&lt;/th&gt;
+&lt;th&gt;Platnost&lt;/th&gt;
+&lt;th&gt;Název&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Α α&lt;/td&gt;
+&lt;td&gt;/a/&lt;/td&gt;
+&lt;td&gt;ἄλφα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Β β&lt;/td&gt;
+&lt;td&gt;/b/&lt;/td&gt;
+&lt;td&gt;βῆτα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Γ γ&lt;/td&gt;
+&lt;td&gt;/g/&lt;/td&gt;
+&lt;td&gt;γάμμα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Δ δ&lt;/td&gt;
+&lt;td&gt;/d/&lt;/td&gt;
+&lt;td&gt;δέλτα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Ε ε&lt;/td&gt;
+&lt;td&gt;/e/&lt;/td&gt;
+&lt;td&gt;ἒ ψιλόν&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;Ζ ζ&lt;/td&gt;
+&lt;td&gt;/zd/ ~ /dz/&lt;/td&gt;
+&lt;td&gt;ζῆτα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;Η η&lt;/td&gt;
+&lt;td&gt;/ē/&lt;/td&gt;
+&lt;td&gt;ἦτα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;Θ θ&lt;/td&gt;
+&lt;td&gt;/th/&lt;/td&gt;
+&lt;td&gt;θῆτα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;Ι ι&lt;/td&gt;
+&lt;td&gt;/i/&lt;/td&gt;
+&lt;td&gt;ἰῶτα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;Κ κ&lt;/td&gt;
+&lt;td&gt;/k/&lt;/td&gt;
+&lt;td&gt;κάππα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;Λ λ&lt;/td&gt;
+&lt;td&gt;/l/&lt;/td&gt;
+&lt;td&gt;λάμβδα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;Μ μ&lt;/td&gt;
+&lt;td&gt;/m/&lt;/td&gt;
+&lt;td&gt;μῦ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;Ν ν&lt;/td&gt;
+&lt;td&gt;/n/&lt;/td&gt;
+&lt;td&gt;νῦ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;Ξ ξ&lt;/td&gt;
+&lt;td&gt;/ks/&lt;/td&gt;
+&lt;td&gt;ξῖ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;Ο ο&lt;/td&gt;
+&lt;td&gt;/o/&lt;/td&gt;
+&lt;td&gt;ὂ μικρόν&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;Π π&lt;/td&gt;
+&lt;td&gt;/p/&lt;/td&gt;
+&lt;td&gt;πῖ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;Ρ ρ&lt;/td&gt;
+&lt;td&gt;/r/&lt;/td&gt;
+&lt;td&gt;ῥῶ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;Σ σ/ς&lt;/td&gt;
+&lt;td&gt;/s/&lt;/td&gt;
+&lt;td&gt;σῖγμα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;td&gt;Τ τ&lt;/td&gt;
+&lt;td&gt;/t/&lt;/td&gt;
+&lt;td&gt;ταῦ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;Υ υ&lt;/td&gt;
+&lt;td&gt;/u/ ~ /ü/ ~ /i/&lt;/td&gt;
+&lt;td&gt;ὒ ψιλόν&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;Φ φ&lt;/td&gt;
+&lt;td&gt;/ph/ ~ /f/&lt;/td&gt;
+&lt;td&gt;φῖ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;td&gt;Χ χ&lt;/td&gt;
+&lt;td&gt;/kh/ ~ /ch/&lt;/td&gt;
+&lt;td&gt;χῖ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;td&gt;Ψ ψ&lt;/td&gt;
+&lt;td&gt;/ps/&lt;/td&gt;
+&lt;td&gt;ψῖ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;td&gt;Ω ω&lt;/td&gt;
+&lt;td&gt;/ō/&lt;/td&gt;
+&lt;td&gt;ὦ μέγα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+&lt;h3 id=&#34;diftongy-dvojhlásky&#34;&gt;Diftongy (dvojhlásky)&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;table-responsive&#34;&gt;
+&lt;table class=&#34;table table-hover table-sm&#34;&gt;
+&lt;thead class=&#34;light&#34;&gt;
+&lt;tr&gt;
+&lt;th&gt;Forma&lt;/th&gt;
+&lt;th&gt;Platnost&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;αι&lt;/td&gt;
+&lt;td&gt;/ay/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ᾳ/αι&lt;/td&gt;
+&lt;td&gt;/āy/ ~ /ā/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ει&lt;/td&gt;
+&lt;td&gt;/ey/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ῃ/ηι&lt;/td&gt;
+&lt;td&gt;/ēy/ ~ /ē/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;οι&lt;/td&gt;
+&lt;td&gt;/oy/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ῳ/ωι&lt;/td&gt;
+&lt;td&gt;/ōy/ ~ /ō/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;υι&lt;/td&gt;
+&lt;td&gt;/üy/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;αυ&lt;/td&gt;
+&lt;td&gt;/aw/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ευ&lt;/td&gt;
+&lt;td&gt;/ew/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ηυ&lt;/td&gt;
+&lt;td&gt;/ēw/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ου&lt;/td&gt;
+&lt;td&gt;/ū/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;
+
 &lt;ul&gt;
-&lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
-&lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
-&lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+&lt;li&gt;znaky ᾳ, ῃ a ῳ představují dlouhé diftongy, ve kterých je znak ι podepsaný a tvoří tzv. &lt;em&gt;iota subscriptum&lt;/em&gt;, podepsanou jotu&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+&lt;h3 id=&#34;přídech&#34;&gt;Přídech&lt;/h3&gt;
+&lt;p&gt;Řečtina nemá samostatný foném /h/. /h/ se může realizovat jen na začátku slova, které začína vokálem nebo diftongem. U slov s počátečnou samohláskou nebo dvojhláskou je proto nutné označovat, zda se /h/ vyslovuje (῾) nebo ne (᾿). Na to slouží značka pro přídech, která se píše nad prvním vokálem nebo nad offglidem diftongu, u velkých písmen pak před znakem.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;table-responsive&#34;&gt;
+&lt;table class=&#34;table table-hover table-sm&#34;&gt;
+&lt;thead class=&#34;light&#34;&gt;
+&lt;tr&gt;
+&lt;th&gt;Přídech&lt;/th&gt;
+&lt;th&gt;Znaky&lt;/th&gt;
+&lt;th&gt;Platnost&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;jemný (&lt;em&gt;spiritus lenis&lt;/em&gt;)&lt;/td&gt;
+&lt;td&gt;ἀ, ἐ, ὀ, ἰ, εἰ, οἰ, αὐ, εὐ, οὐ (Ἀ, Ἐ, Ὀ, Ἰ, Εἰ atd.)&lt;/td&gt;
+&lt;td&gt;/a/, /e/, /o/, /i/, /ey/, /oy/, /aw/, /ew/, /ū/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ostrý (&lt;em&gt;spiritus asper&lt;/em&gt;)&lt;/td&gt;
+&lt;td&gt;ἁ, ἑ, ὁ, ἱ, ὑ, εἱ, οἱ, αὑ, εὑ, οὑ (Ἁ, Ἑ, Ὁ, Ἱ, Ὑ, Εἱ atd.)&lt;/td&gt;
+&lt;td&gt;/ha/, /he/, /ho/, /hi/, /hü/, /hey/, /hoy/, /haw/, /hew/, /hū/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+&lt;h3 id=&#34;přízvuk&#34;&gt;Přízvuk&lt;/h3&gt;
+&lt;p&gt;Starořecký přízvuk byl tonální a realizoval se změnou výšky hlasu. Tradičně zachycujeme tři typy přízvuků, které se zapisují nad vokálem nebo nad offglidem diftongu:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
-&lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
-&lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
+&lt;li&gt;ostrý (´) : &lt;em&gt;oxytonon, paroxytonon, proparoxytonon&lt;/em&gt;; píše se napravo od přídechu (ἄ, εὔ)&lt;/li&gt;
+&lt;li&gt;průtažný (˜): &lt;em&gt;perispómenon, properispómenon&lt;/em&gt;; píše se nad přídech (ἆ, εὖ)&lt;/li&gt;
+&lt;li&gt;těžký (`): &lt;em&gt;barytonon&lt;/em&gt;; píše se napravo od přídechu (ἂ, εὒ)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Want to see something else added? &lt;!-- raw HTML omitted --&gt;Open an issue.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Přízvuk se může vyskytnout jen na jedné z posledních třech slabik slova:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ostrý přízvuk&lt;/strong&gt; může být na poslední (&lt;em&gt;oxytonon&lt;/em&gt;), předposlední (&lt;em&gt;par-oxytonon&lt;/em&gt;) i třetí slabice od konce (&lt;em&gt;pro-par-oxytonon&lt;/em&gt;)
+&lt;ul&gt;
+&lt;li&gt;podmínka: je-li je poslední slabika dlouhá (má dlouhý vokál nebo diftong), nemůže být ostrý přízvuk na třetí slabice od konce, ale posune se na předposlední slabiku (nom. ἄν-θρω-πος &amp;ldquo;člověk&amp;rdquo; &lt;em&gt;ale&lt;/em&gt; gen. ἀν-θρώ-που &amp;ldquo;člověka&amp;rdquo;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;průtažný přízvuk&lt;/strong&gt; může být jenom na poslední (&lt;em&gt;perispómenon&lt;/em&gt;) nebo předposlední slabice (&lt;em&gt;pro-perispómenon&lt;/em&gt;)
+&lt;ul&gt;
+&lt;li&gt;podmínka 1: slabika musí mít dlouhý vokál nebo libovolný diftong&lt;/li&gt;
+&lt;li&gt;podmínka 2: je-li poslední slabika dlouhá (má dlouhý vokál nebo libovolný diftong), nemůže být průtažný přízvuk na předposlední slabice, ale mění se na ostrý (nom. σφαῖ-ρα &amp;ldquo;sféra&amp;rdquo; &lt;em&gt;ale&lt;/em&gt; gen. σφαί-ρᾱς &amp;ldquo;sféry&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;podmínka 3: je-li poslední slabika krátká a přízvuk je na předposlední slabice, která je dlouhá, je tento přízvuk automaticky průtažný (nom. σω-τήρ &amp;ldquo;zachránce&amp;rdquo; &lt;em&gt;ale&lt;/em&gt; acc. σω-τῆ-ρα)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;těžký přízvuk&lt;/strong&gt; může být jenom na poslední slabice slova
+&lt;ul&gt;
+&lt;li&gt;podmínka: tento přízvuk nahrazuje ostrý přízvuk na konci slova, nasleduje-li jiné slovo (ἀγαθός &amp;ldquo;dobrý&amp;rdquo; &lt;em&gt;ale&lt;/em&gt; ὁ ἀγαθὸς ἄνθρωπος &amp;ldquo;dobrý člověk&amp;rdquo;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;křížové-odkazy&#34;&gt;Křížové odkazy&lt;/h3&gt;
+&lt;nav&gt;
+	&lt;div class=&#34;nav nav-tabs&#34; id=&#34;nav-tab&#34; role=&#34;tablist&#34;&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link active&#34; id=&#34;nav-1&#34; data-toggle=&#34;tab&#34; href=&#34;#tab11&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;true&#34;&gt;Hnátek&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-1&#34; data-toggle=&#34;tab&#34; href=&#34;#tab12&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Niederle&lt;/a&gt;
+
+		
+		
+
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;1&#34;&gt;
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade show active&#34; id=&#34;tab11&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName1&#34;&gt;
+
+	s. 5-7
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab12&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName2&#34;&gt;
+
+	Alfabeta § 1 (s. 7), výslovnost § 2 (s. 8), 5 (s. 9-10), přízvuk § 8-14 (s. 11-13), přídech § 3 (s. 8-9)
+
+&lt;/div&gt;
+
+
+
+
+
+&lt;/div&gt;
 </description>
       </item>
     
       <item>
-        <title>What&#39;s Jekyll?</title>
-        <link>/post/2013-12-31-whats-jekyll/</link>
-        <pubDate>Tue, 31 Dec 2013 00:00:00 UTC</pubDate>
+        <title>2. cvičení – II. deklinace: maskulina (paroxytona, oxytona), člen</title>
+        <link>/fixed/cviceni_2/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
         <author>Martin Masliš</author>
-        <guid>/post/2013-12-31-whats-jekyll/</guid>
-        <description>&lt;p&gt;&lt;a href=&#34;http://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&#34;https://github.com/mojombo/jekyll/blob/master/README.markdown&#34;&gt;the project&amp;rsquo;s readme&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory [&amp;hellip;] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;It&amp;rsquo;s an immensely useful tool and one we encourage you to use here with Hyde.&lt;/p&gt;
-&lt;p&gt;Find out more by &lt;a href=&#34;https://github.com/mojombo/jekyll&#34;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+        <guid>/fixed/cviceni_2/</guid>
+        <description>&lt;h3 id=&#34;maskulina-ii-deklinace-paroxytona-oxytona&#34;&gt;Maskulina II. deklinace (paroxytona, oxytona)&lt;/h3&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;table-responsive&#34;&gt;
+&lt;table class=&#34;table table-hover table-sm&#34;&gt;
+&lt;thead class=&#34;light&#34;&gt;
+&lt;tr&gt;
+&lt;th&gt;Pád&lt;/th&gt;
+&lt;th&gt;Sg.&lt;/th&gt;
+&lt;th&gt;Pl.&lt;/th&gt;
+&lt;th&gt;Sg.&lt;/th&gt;
+&lt;th&gt;Pl.&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;nom.&lt;/td&gt;
+&lt;td&gt;ἵππ-&lt;strong&gt;ος&lt;/strong&gt; &amp;ldquo;kůň&amp;rdquo;&lt;/td&gt;
+&lt;td&gt;ἵππ-&lt;strong&gt;οι&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ποταμ-&lt;strong&gt;ός&lt;/strong&gt; &amp;ldquo;řeka&amp;rdquo;&lt;/td&gt;
+&lt;td&gt;ποταμ-&lt;strong&gt;οί&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;gen.&lt;/td&gt;
+&lt;td&gt;ἵππ-&lt;strong&gt;ου&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ἵππ-&lt;strong&gt;ων&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ποταμ-&lt;strong&gt;οῦ&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ποταμ-&lt;strong&gt;ῶν&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;dat.&lt;/td&gt;
+&lt;td&gt;ἵππ-&lt;strong&gt;ῳ&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ἵππ-&lt;strong&gt;οις&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ποταμ-&lt;strong&gt;ῷ&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ποταμ-&lt;strong&gt;οῖς&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;acc.&lt;/td&gt;
+&lt;td&gt;ἵππ-&lt;strong&gt;ον&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ἵππ-&lt;strong&gt;ους&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ποταμ-&lt;strong&gt;όν&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ποταμ-&lt;strong&gt;ούς&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;voc.&lt;/td&gt;
+&lt;td&gt;ἵππ-&lt;strong&gt;ε&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ἵππ-&lt;strong&gt;οι&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ποταμ-&lt;strong&gt;έ&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ποταμ-&lt;strong&gt;οί&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+&lt;h3 id=&#34;člen&#34;&gt;Člen&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;table-responsive&#34;&gt;
+&lt;table class=&#34;table table-hover table-sm&#34;&gt;
+&lt;thead class=&#34;light&#34;&gt;
+&lt;tr&gt;
+&lt;th&gt;Sg.&lt;/th&gt;
+&lt;th&gt;muž.&lt;/th&gt;
+&lt;th&gt;žen.&lt;/th&gt;
+&lt;th&gt;střed.&lt;/th&gt;
+&lt;th&gt;Pl.&lt;/th&gt;
+&lt;th&gt;muž.&lt;/th&gt;
+&lt;th&gt;žen.&lt;/th&gt;
+&lt;th&gt;střed.&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;nom.&lt;/td&gt;
+&lt;td&gt;ὁ&lt;/td&gt;
+&lt;td&gt;ἡ&lt;/td&gt;
+&lt;td&gt;τό&lt;/td&gt;
+&lt;td&gt;nom.&lt;/td&gt;
+&lt;td&gt;οἱ&lt;/td&gt;
+&lt;td&gt;αἱ&lt;/td&gt;
+&lt;td&gt;τά&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;gen.&lt;/td&gt;
+&lt;td&gt;τοῦ&lt;/td&gt;
+&lt;td&gt;τῆς&lt;/td&gt;
+&lt;td&gt;τοῦ&lt;/td&gt;
+&lt;td&gt;gen.&lt;/td&gt;
+&lt;td&gt;τῶν&lt;/td&gt;
+&lt;td&gt;τῶν&lt;/td&gt;
+&lt;td&gt;τῶν&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;dat.&lt;/td&gt;
+&lt;td&gt;τῷ&lt;/td&gt;
+&lt;td&gt;τῇ&lt;/td&gt;
+&lt;td&gt;τῷ&lt;/td&gt;
+&lt;td&gt;dat.&lt;/td&gt;
+&lt;td&gt;τοῖς&lt;/td&gt;
+&lt;td&gt;ταῖς&lt;/td&gt;
+&lt;td&gt;τοῖς&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;acc.&lt;/td&gt;
+&lt;td&gt;τόν&lt;/td&gt;
+&lt;td&gt;τήν&lt;/td&gt;
+&lt;td&gt;τό&lt;/td&gt;
+&lt;td&gt;acc.&lt;/td&gt;
+&lt;td&gt;τούς&lt;/td&gt;
+&lt;td&gt;τάς&lt;/td&gt;
+&lt;td&gt;τά&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+&lt;h3 id=&#34;věty&#34;&gt;Věty&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Ὁ ἵππ-ος εὖ τρέχει.&lt;br&gt;
+Kůň dobře běží.&lt;/li&gt;
+&lt;li&gt;Ὁ τοῦ φίλ-ου λόγ-ος πιστός ἐστιν.&lt;br&gt;
+Slovo přítele je spolehlivé.&lt;/li&gt;
+&lt;li&gt;Ὁ φίλ-ος πιστεύει τῷ φίλ-ῳ.&lt;br&gt;
+Přítel věří příteli.&lt;/li&gt;
+&lt;li&gt;Ὁ φίλ-ος στέργει τὸν φίλ-ον.&lt;br&gt;
+Přítel miluje přítele.&lt;/li&gt;
+&lt;li&gt;Ὦ φίλ-ε, στέργε τὸν φίλον!&lt;br&gt;
+Příteli, miluj přítele!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;1. Οἱ τῶν φίλων λόγοι πιστοί εἰσιν. 2. Ὁ ἐμὸς φίλος τοῖς ἐμοῖς λόγοις πιστεύει.  3. Ὁ ἐμὸς φίλος τοὺς ἐμοὺς φίλους στέργει. 4. Ὦ φίλοι, δεῖ εὖ παιδεύειν!&lt;/p&gt;
+&lt;h3 id=&#34;křížové-odkazy&#34;&gt;Křížové odkazy&lt;/h3&gt;
+&lt;nav&gt;
+	&lt;div class=&#34;nav nav-tabs&#34; id=&#34;nav-tab&#34; role=&#34;tablist&#34;&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link active&#34; id=&#34;nav-1&#34; data-toggle=&#34;tab&#34; href=&#34;#tab11&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;true&#34;&gt;Hnátek&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-1&#34; data-toggle=&#34;tab&#34; href=&#34;#tab12&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Niederle&lt;/a&gt;
+
+		
+		
+
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;1&#34;&gt;
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade show active&#34; id=&#34;tab11&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName1&#34;&gt;
+
+	s. 7-8
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab12&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName2&#34;&gt;
+
+	II. deklinace: maskulina (paroxytona, oxytona) § 72, 73.1—2 (s.), člen § 59 (s.)
+
+&lt;/div&gt;
+
+
+
+
+
+&lt;/div&gt;
 </description>
       </item>
     
