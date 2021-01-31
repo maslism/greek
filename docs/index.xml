@@ -30,6 +30,16 @@
 &lt;li&gt;[LSJ] = LIDDELL, Henry George a Robert SCOTT, JONES, Henry Stuart a Roderick MCKENZIE, ed. &lt;em&gt;A Greek-English Lexicon&lt;/em&gt;. Oxford: Clarendon Press, 1996. &lt;a href=&#34;https://logeion.uchicago.edu/lexidium&#34;&gt;[online]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;[Lep] = LEPAŘ, František, ed. &lt;em&gt;Nehomérovský slovník řeckočeský&lt;/em&gt;. Mladá Boleslav: Karel Vačlena, 1892. &lt;a href=&#34;http://librinostri.catholica.cz/vyhledat/Lepa%C5%99%20Franti%C5%A1ek&#34;&gt;[scan]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Two men wrote a lexicon,&lt;br&gt;
+Liddell and Scott;&lt;br&gt;
+One half was clever,&lt;br&gt;
+And one half was not.&lt;br&gt;
+Give me the answer, boys,&lt;br&gt;
+Quick to this riddle,&lt;br&gt;
+Which was by Scott&lt;br&gt;
+And which was by Liddell?&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
       </item>
     
@@ -342,10 +352,15 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;těžký přízvuk&lt;/strong&gt; může být jenom na poslední slabice slova
 &lt;ul&gt;
-&lt;li&gt;podmínka: tento přízvuk nahrazuje ostrý přízvuk na konci slova, nasleduje-li jiné slovo (ἀγαθός &amp;ldquo;dobrý&amp;rdquo; &lt;em&gt;ale&lt;/em&gt; ὁ ἀγαθὸς ἄνθρωπος &amp;ldquo;dobrý člověk&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;podmínka: tento přízvuk nahrazuje ostrý přízvuk na konci slova, následuje-li jiné slovo (ἀγαθός &amp;ldquo;dobrý&amp;rdquo; &lt;em&gt;ale&lt;/em&gt; ὁ ἀγαθὸς ἄνθρωπος &amp;ldquo;dobrý člověk&amp;rdquo;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;br&gt;
+&lt;a class=&#34;btn btn-outline-info&#34; target=&#34;_blank&#34; href=&#34; /greek/data/alfabeta.pdf &#34;&gt;
+  Vzory pro psaní rukou.pdf
+&lt;/a&gt;
+
 &lt;h3 id=&#34;křížové-odkazy&#34;&gt;Křížové odkazy&lt;/h3&gt;
 &lt;nav&gt;
 	&lt;div class=&#34;nav nav-tabs&#34; id=&#34;nav-tab&#34; role=&#34;tablist&#34;&gt;
@@ -484,6 +499,9 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;oxytona&lt;/em&gt; (ostrý přízvuk na poslední slabice) mění v gen. a dat. obou čísel ostrý přízvuk za průtažný: ποταμοῦ, ποταμῷ, ποταμῶν, ποταμοῖς&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;/div&gt;
 
@@ -555,6 +573,9 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;tvary ὁ, ἡ, οἱ, αἱ nemají vlastní slovní přízvuk&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;/div&gt;
 
@@ -568,7 +589,7 @@ Slovo přítele je spolehlivé.&lt;/li&gt;
 Přítel věří příteli.&lt;/li&gt;
 &lt;li&gt;Ὁ φίλ-ος στέργει τὸν φίλ-ον.&lt;br&gt;
 Přítel miluje přítele.&lt;/li&gt;
-&lt;li&gt;Ὦ φίλ-ε, στέργε τὸν φίλον!&lt;br&gt;
+&lt;li&gt;Ὦ φίλ-ε, στέργε τὸν φίλ-ον!&lt;br&gt;
 Příteli, miluj přítele!&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;1. Οἱ τῶν φίλων λόγοι πιστοί εἰσιν. 2. Ὁ ἐμὸς φίλος τοῖς ἐμοῖς λόγοις πιστεύει.  3. Ὁ ἐμὸς φίλος τοὺς ἐμοὺς φίλους στέργει. 4. Ὦ φίλοι, δεῖ εὖ παιδεύειν!&lt;/p&gt;

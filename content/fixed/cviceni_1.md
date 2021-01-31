@@ -93,7 +93,11 @@ Přízvuk se může vyskytnout jen na jedné z posledních třech slabik slova:
   - podmínka 2: je-li poslední slabika dlouhá (má dlouhý vokál nebo libovolný diftong), nemůže být průtažný přízvuk na předposlední slabice, ale mění se na ostrý (nom. σφαῖ-ρα "sféra" *ale* gen. σφαί-ρᾱς "sféry"
   - podmínka 3: je-li poslední slabika krátká a přízvuk je na předposlední slabice, která je dlouhá, je tento přízvuk automaticky průtažný (nom. σω-τήρ "zachránce" *ale* acc. σω-τῆ-ρα)
 - **těžký přízvuk** může být jenom na poslední slabice slova
-  - podmínka: tento přízvuk nahrazuje ostrý přízvuk na konci slova, nasleduje-li jiné slovo (ἀγαθός "dobrý" *ale* ὁ ἀγαθὸς ἄνθρωπος "dobrý člověk")
+  - podmínka: tento přízvuk nahrazuje ostrý přízvuk na konci slova, následuje-li jiné slovo (ἀγαθός "dobrý" *ale* ὁ ἀγαθὸς ἄνθρωπος "dobrý člověk")
+
+
+
+{{< button href="/greek/data/alfabeta.pdf" class="btn-outline-info">}}Vzory pro psaní rukou.pdf{{< /button >}}
 
 
 

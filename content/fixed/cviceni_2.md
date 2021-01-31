@@ -18,6 +18,8 @@
 | acc. | ἵππ-__ον__       | ἵππ-__ους__ | ποταμ-__όν__        | ποταμ-__ούς__ |
 | voc. | ἵππ-__ε__        | ἵππ-__οι__  | ποταμ-__έ__         | ποταμ-__οί__  |
 
+- _oxytona_ (ostrý přízvuk na poslední slabice) mění v gen. a dat. obou čísel ostrý přízvuk za průtažný: ποταμοῦ, ποταμῷ, ποταμῶν, ποταμοῖς
+
 {{< /bootstrap-table >}}
 
 
@@ -33,6 +35,8 @@
 | dat. | τῷ   | τῇ   | τῷ     | dat. | τοῖς | ταῖς | τοῖς   |
 | acc. | τόν  | τήν  | τό     | acc. | τούς | τάς  | τά     |
 
+- tvary ὁ, ἡ, οἱ, αἱ nemají vlastní slovní přízvuk  
+
 {{< /bootstrap-table >}}
 
 
@@ -47,7 +51,7 @@
    Přítel věří příteli. 
 4. Ὁ φίλ-ος στέργει τὸν φίλ-ον.  
    Přítel miluje přítele.
-5. Ὦ φίλ-ε, στέργε τὸν φίλον!  
+5. Ὦ φίλ-ε, στέργε τὸν φίλ-ον!  
    Příteli, miluj přítele!
 
 
