@@ -95,6 +95,10 @@ Přízvuk se může vyskytnout jen na jedné z posledních třech slabik slova:
 - **těžký přízvuk** může být jenom na poslední slabice slova
   - podmínka: tento přízvuk nahrazuje ostrý přízvuk na konci slova, následuje-li jiné slovo (ἀγαθός "dobrý" *ale* ὁ ἀγαθὸς ἄνθρωπος "dobrý člověk")
 
+### Úkol
+
+- nácvik výslovnosti s pomocí [tohoto nástroje](http://atticgreek.org/pronunc/practiceUnit3.html) (celky 3, 4, 7, 8)
+
 
 
 {{< button href="/greek/data/alfabeta.pdf" class="btn-outline-info">}}Vzory pro psaní rukou.pdf{{< /button >}}
