@@ -58,6 +58,25 @@
 
 1\. Οἱ τῶν φίλων λόγοι πιστοί εἰσιν. 2. Ὁ ἐμὸς φίλος τοῖς ἐμοῖς λόγοις πιστεύει.  3. Ὁ ἐμὸς φίλος τοὺς ἐμοὺς φίλους στέργει. 4. Ὦ φίλοι, δεῖ εὖ παιδεύειν!  
 
+{{< pure-expand title="Slovní zásoba" >}}
+ἵππος, τοῦ ἵππου, ὁ   – kůň   
+πιστεύειν – důvěřovat + dat.  
+τρέχειν – běžet   
+στέργειν – milovat, mít rád  
+εὖ – dobře   
+εἰσὶ(ν) – jsou   
+φίλος, -ου, ὁ – přítel, druh   
+ἐμός – můj  
+λόγος, -ου, ὁ – slovo, řeč  
+δεῖ – je třeba  
+πιστός – věrný, spolehlivý   
+παιδεύειν – vychovávat  
+ἐστ(ὶ) – je {{</ pure-expand >}}
+
+### Úkol
+
+- vyskloňujte slovο _ὁ λογος_ a spojení _ὁ πιστὸς φίλος_ "věrný přítel" i se členy; přídavné jméno _πιστός_ se skloňuje stejně jako vzor _ποταμός_ i se změnou přízvuku v sg. a dat. obou čísel
+
 
 
 ### Křížové odkazy
@@ -68,7 +87,7 @@ s. 7-8
 {{< /tab >}}
 {{< tab tabNum="2" >}}
 
-II. deklinace: maskulina (paroxytona, oxytona) § 72, 73.1—2 (s.), člen § 59 (s.)
+II. deklinace: maskulina (paroxytona, oxytona) § 72, 73.1-2 (s. 35-36), člen § 59 (s. 31)
 {{< /tab >}}
 {{< /tabs >}}
 
