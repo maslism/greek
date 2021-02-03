@@ -71,7 +71,7 @@
 δεῖ – je třeba  
 πιστός – věrný, spolehlivý   
 παιδεύειν – vychovávat  
-ἐστ(ὶ) – je {{</ pure-expand >}}
+ἐστὶ(v) – je {{</ pure-expand >}}
 
 ### Úkol
 

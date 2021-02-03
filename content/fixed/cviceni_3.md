@@ -42,7 +42,7 @@
 - podle παιδεύω se časují slovesa, kterých kmen před -ω se končí:
   - na dvojhlásku nebo samohlásku kromě -ε-, -α-, -ο-
   - na souhlásku
-- slovesa mají recesivní (zvratný) přízvuk, který je co nejdál od konce podle pravidel přizvukování 
+- slovesa mají recesivní (zvratný) přízvuk, který je co nejdál od konce podle pravidel přízvukování 
 - k některým koncovkám na -ε a -ι může přistupovat přísuvné ný (νῦ ἐφελκυστικόν); zpravidla pak k zamezení hiátu (styk dvou vokálů na hranici slov)
 
 {{< /bootstrap-table >}}
