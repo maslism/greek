@@ -75,7 +75,7 @@
 
 ### Úkol
 
-- vyskloňujte slovο _ὁ λογος_ a spojení _ὁ πιστὸς φίλος_ "věrný přítel" i se členy; přídavné jméno _πιστός_ se skloňuje stejně jako vzor _ποταμός_ i se změnou přízvuku v sg. a dat. obou čísel
+- vyskloňujte slovο _ὁ λόγος_ a spojení _ὁ πιστὸς φίλος_ "věrný přítel" i se členy; přídavné jméno _πιστός_ se skloňuje stejně jako vzor _ποταμός_ i se změnou přízvuku v gen. a dat. obou čísel
 
 
 
