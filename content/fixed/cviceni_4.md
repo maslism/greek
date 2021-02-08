@@ -41,16 +41,16 @@
 - _mediopasivum_ je slovesní rod, který v jedné formě slučuje _medium_ a _pasivum_ 
   - interpretace slovesné formy v mediopasivu a rozlišení, zda jde o pasivum nebo medium, vyplývá z kontextu
 - u media je subjekt (nom.) původcem slovesného děje, který se k subjektu vztahuje jako k přímému nebo nepřímému předmětu: 
-  - medium přímé (~ acc.): Ὃ φίλος __γυμνάζεται__. _Přítel __se cvičí__._
-  - medium nepřímé n. prospěchové  (~ dat.): Ὃ δοῦλος __παρασκευάζεται__ σῖτον. _Otrok __si připravuje__ pokrm._
+  - medium přímé (~ acc.): Ὁ φίλος __γυμνάζεται__. _Přítel __se cvičí__._
+  - medium nepřímé n. prospěchové  (~ dat.): Ὁ δοῦλος __παρασκευάζεται__ σῖτον. _Otrok __si připravuje__ pokrm._
 - u pasiva je subjekt cílem děje, který má původ jinde; původce děje může být vyjádřen vazbou ὑπὸ + gen.
-  - Ὃ ἵππος __ἄγεται__ ὑπὸ τοῦ δούλου. _Kůň __je veden__ otrokem._
+  - Ὁ ἵππος __ἄγεται__ ὑπὸ τοῦ δούλου. _Kůň __je veden__ otrokem._
 
 {{< /bootstrap-table >}}
 
 ### Vazba akuzativu s infinitivem po δεῖ 
 
-Neosobní sloveso δεῖ _je třeba_ se váže s akuzativem a infinitivem (AccInf). Akuzativ plní funkci buď podmětu slovesa v infinitivu, nebo naopak přímého předmětu slovesa v infinitivu. V jedné větě můžou být zachyceny obě funkce s pomocí dvou různých akuzativů.  
+Neosobní sloveso δεῖ _je třeba_ se váže s akuzativem a infinitivem (AccInf). Akuzativ plní funkci buď podmětu slovesa v infinitivu, nebo naopak přímého předmětu slovesa v infinitivu. V jedné větě můžou být zachyceny obě funkce pomocí dvou různých akuzativů.  
 
 - akuzativ jako podmět: v českém překladu se uplatní nominativ
   - aktivní infinitiv: Δεῖ __τὸν διδάσκαλον__ εὖ παιδεύειν. _Je třeba, aby __učitel__ dobře vychovával._
@@ -70,10 +70,10 @@ Neosobní sloveso δεῖ _je třeba_ se váže s akuzativem a infinitivem (AccI
 
 ### Věty
 
-1\. Ὃ δοῦλος ἄγει τὸν ἵππον. Ὃ ἵππος ἄγεται ὑπὸ τοῦ δούλου.   
+1\. Ὁ δοῦλος ἄγει τὸν ἵππον. Ὃ ἵππος ἄγεται ὑπὸ τοῦ δούλου.   
 2\. Οἱ δοῦλοι ἄγουσι τοὺς ἵππους. Οἱ ἵπποὶ ἄγονται ὑπὸ τῶν δούλων.     
-3\. Γυμνάζω τὸν φίλον. Ὃ φίλος γυμνάζεται.   
-4\. Ὃ δοῦλος παρασκευάζει σῖτον τῷ ἐμῷ φίλῳ. Ὃ δοῦλος παρασκευάζεται σῖτον.    
+3\. Γυμνάζω τὸν φίλον. Ὁ φίλος γυμνάζεται.   
+4\. Ὁ δοῦλος παρασκευάζει σῖτον τῷ ἐμῷ φίλῳ. Ὁ δοῦλος παρασκευάζεται σῖτον.    
 5\. Δεῖ τὸν διδάσκαλον εὖ τοὺς νέους παιδεύειν.   
 6\. Δεῖ τοὺς νέους ὑπὸ τοῦ διδασκάλου εὖ παιδεύεσϑαι.   
 7\. Δεῖ τοὺς νέους εὖ γυμνάζεσϑαι.  
