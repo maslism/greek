@@ -71,7 +71,7 @@ Přátelé, milujte své přátelé, nevyhýbejte se námahám!
 σός – tvůj   
 καί – a, i, také  
 πόνος, -ου, ὁ – námaha, práce   
-δοῦλος, δούλου, ὀ – otrok, sluha  
+δοῦλος, δούλου, ὁ – otrok, sluha  
 μή – ne (ve větách rozkazovacích a žádacích)   
 οὐ (οὐκ, οὐχ) – ne, nikoli (ve větách oznamovacích)  
 φεύγω, -ειν (s ak.) – utíkám před, vyhýbám se  
@@ -99,11 +99,11 @@ Přátelé, milujte své přátelé, nevyhýbejte se námahám!
 
 {{< tabs tabTotal="2" tabID="1" tabName1="Hnátek" tabName2="Niederle" >}}
 {{< tab tabNum="1" >}}
-s. ...
+s. 8-10
 {{< /tab >}}
 {{< tab tabNum="2" >}}
 
-II. deklinace: maskulina (properispómena) § 72 (s.), ind., impt., inf. praes. παιδεύω § 185 (s.)
+II. deklinace: maskulina (properispómena) § 72 (s. 35), ind., impt., inf. praes. παιδεύω § 185 (s. 86-87)
 {{< /tab >}}
 {{< /tabs >}}
 

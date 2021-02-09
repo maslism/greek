@@ -29,22 +29,25 @@
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
-| Osoba | indikativ                        | imperativ         | infinitiv        |
-| ----- | -------------------------------- | ----------------- | ---------------- |
-| 1.    | παιδεύ-**ο-μαι** "vychovávám si" |                   | παιδεύ-**εσθαι** |
-| 2.    | παιδεύ-**ῃ**                     | παιδεύ-**ου**     |                  |
-| 3.    | παιδεύ-**ε-ται**                 | παιδευ-**έ-σθω**  |                  |
-| 1.    | παιδευ-**ό-μεθα**                |                   |                  |
-| 2.    | παιδεύ-**ε-σθε**                 | παιδεύ-**ε-σθε**  |                  |
-| 3.    | παιδεύ-**ο-νται**                | παιδευ-**έ-σθων** |                  |
+| Osoba | indikativ                          | imperativ         | infinitiv         |
+| ----- | ---------------------------------- | ----------------- | ----------------- |
+| 1.    | παιδεύ-**ο-μαι** "jsem vychováván" |                   | παιδεύ-**εσθαι*** |
+| 2.    | παιδεύ-**ῃ**                       | παιδεύ-**ου**     |                   |
+| 3.    | παιδεύ-**ε-ται**                   | παιδευ-**έ-σθω**  |                   |
+| 1.    | παιδευ-**ό-μεθα**                  |                   |                   |
+| 2.    | παιδεύ-**ε-σθε**                   | παιδεύ-**ε-σθε**  |                   |
+| 3.    | παιδεύ-**ο-νται**                  | παιδευ-**έ-σθων** |                   |
 
-- _mediopasivum_ je slovesní rod, který v jedné formě slučuje _medium_ a _pasivum_ 
+- _mediopasivum_ je slovesný rod, který v jedné formě slučuje _medium_ a _pasivum_ 
   - interpretace slovesné formy v mediopasivu a rozlišení, zda jde o pasivum nebo medium, vyplývá z kontextu
+  - παιδεύομαι - _jsem vychováván (pass.) / vychovávám se (med. přím.) / vychovávám si (med. nepřím.)_  
 - u media je subjekt (nom.) původcem slovesného děje, který se k subjektu vztahuje jako k přímému nebo nepřímému předmětu: 
   - medium přímé (~ acc.): Ὁ φίλος __γυμνάζεται__. _Přítel __se cvičí__._
   - medium nepřímé n. prospěchové  (~ dat.): Ὁ δοῦλος __παρασκευάζεται__ σῖτον. _Otrok __si připravuje__ pokrm._
 - u pasiva je subjekt cílem děje, který má původ jinde; původce děje může být vyjádřen vazbou ὑπὸ + gen.
   - Ὁ ἵππος __ἄγεται__ ὑπὸ τοῦ δούλου. _Kůň __je veden__ otrokem._
+
+*\-αι v -εσθαι je z hlediska přízvuku krátké, přízvuk je proto na třetí slabice od konce
 
 {{< /bootstrap-table >}}
 
@@ -82,40 +85,70 @@ Neosobní sloveso δεῖ _je třeba_ se váže s akuzativem a infinitivem (AccI
 10\. Ὅμηρον ϑαυμάζομεν καὶ στέργομεν.
 
 {{< pure-expand title="Slovní zásoba" >}}     
-νῦν – nyní   
-ὁ νῦν – nynější   
-ὑπό (s gen.) – od  
+
+ἄγω, -ειν – vést  
 ἄνϑρωπος, ἀνθρώπου, ὁ – člověk  
 γυμνάζω, -ειν – cvičím   
-ϑαυμάζω, -ειν – podivuji se, obdivuji  
-παρα-σκευάζω, -ειν – připravuji, chystám   
-ϑαυμάζομαι – jsem obdivován  
-σῖτος, -ου, ὁ – pokrm   
 διδάσκαλος, διδασκάλου, ὁ – učitel   
-Ὅμηρος, Ὁμήρου, ὁ – Homér  
+ϑαυμάζομαι – jsem obdivován  
+ϑαυμάζω, -ειν – podivuji se, obdivuji  
+νέοι – mladí (lidé), mládež     
 νέος – nový, mladý, čerstvý  
-νέοι – mladí (lidé), mládež
+νῦν – nyní   
+ὁ νῦν – nynější   
+Ὅμηρος, Ὁμήρου, ὁ – Homér  
+παρα-σκευάζω, -ειν – připravuji, chystám   
+σῖτος, -ου, ὁ – pokrm   
+ὑπό (s gen.) – od  
 
 {{</ pure-expand >}}
 
 
 
-### <!--Úkol--> 
+### Úkol
 
+1\. Εὖ παιδεύομαι, εὖ παιδευόμεϑα. 2. Κρύπτῃ· μὴ κρύπτου! 3. Οὐ παίῃ· μὴ παῖε! 4. Οὐ στέργεται. 5. Θαυμάζετε καὶ ϑαυμάζεσϑε. 6. Οὐ φϑείρονται, ἀλλὰ σῴζονται. 7. Ὁ ἵππος τῷ ἀνϑρώπῳ δουλεύει. 8. Ὁ ϑάνατος τὸν τοῦ ἀνϑρώπου βίον λύει. 9. Οἱ νόμοι τοὺς ἀνθρώπους παιδεύουσιν. 10. Ὁ δίκαιος ἄνϑρωπος ἀεὶ στέργεται καὶ ϑαυμάζεται. 11. Σῴζετε, ὦ ϑεοί, τὸν ἀδελφὸν ἐκ δεινοῦ κινδύνου! 12. Οἱ σοφοὶ τὸν ἄνϑρωπον μικρὸν κόσμον ἐν τῷ μακρῷ κόσμῳ λέγουσιν. 13. Καλὸν φέρουσι καρπὸν οἱ χρηστοὶ φίλοι. 
 
+{{< pure-expand title="Slovní zásoba" >}}  
 
-<!--{{< pure-expand title="Slovní zásoba" >}}  
-{{</ pure-expand >}}-->
+ἀδελφός, -ου, ὁ – bratr  
+βίος, -ου, ὁ – život    
+δεινός, -οῦ – hrozný  
+δίκαιος, -ου – spravedlivý  
+δουλεύω, -ειν – sloužím, otročím  
+ἐκ, ἐξ (s gen.) – z, ze; ἐξ před samohláskami  
+ἐν (s dat.) – v, ve, na (kde?)  
+ϑάνατος, -ου, ὁ – smrt  
+ϑεός, -οῦ, ὁ – bůh  
+καλός, -οῦ – krásný  
+καρπός, -οῦ, ὁ – plod, ovoce  
+κίνδυνος, -ου, ὁ – nebezpečí  
+κόσμος, -ου, ὁ – pořádek, ozdoba, svět    
+κρύπτω, -ειν – kryji, skrývám   
+λέγω, -ειν – mluvit; + acc. + acc nazvývat něco něčím  
+λύω, -ειν – uvolňuji, ruším, přerušuji  
+μακρός, -οῦ – dlouhý, rozlehlý  
+μικρός, -οῦ – malý, krátký  
+νόμος, -ου, ὁ – zákon    
+παίω, -ειν – biji, poraňuji  
+σοφός, -οῦ – moudrý; ὁ σοφός moudrý člověk  
+σῴζω, -ειν – chráním, zachraňuji  
+φέρω, -ειν – nést, přinášet  
+φϑείρω, -ειν – hubím, ničím  
+φίλος, -ου – milý, přátelský; ὁ φίλος přítel    
+χρηστός, -οῦ – řádný, poctivý, užitečný 
+
+{{</ pure-expand >}}
 
 ### Křížové odkazy
 
 {{< tabs tabTotal="2" tabID="1" tabName1="Hnátek" tabName2="Niederle" >}}
 {{< tab tabNum="1" >}}
-s. ...
+s. 10-12
 {{< /tab >}}
 {{< tab tabNum="2" >}}
 
-§ 
+II. deklinace: maskulina (proparoxytona) § 72 (s. 35), Ind., impt., inf. praes. med. pass. § 186, 187 (s. 88-89)
 {{< /tab >}}
 {{< /tabs >}}
 
