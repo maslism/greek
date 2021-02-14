@@ -47,7 +47,7 @@
 - u pasiva je subjekt cílem děje, který má původ jinde; původce děje může být vyjádřen vazbou ὑπὸ + gen.
   - Ὁ ἵππος __ἄγεται__ ὑπὸ τοῦ δούλου. _Kůň __je veden__ otrokem._
 
-*\-αι v -εσθαι je z hlediska přízvuku krátké, přízvuk je proto na třetí slabice od konce
+*\-αι v -εσθαι, -ομαι, -εται, -ονται je z hlediska přízvuku krátké, přízvuk je proto na třetí slabice od konce
 
 {{< /bootstrap-table >}}
 
@@ -74,7 +74,7 @@ Neosobní sloveso δεῖ _je třeba_ se váže s akuzativem a infinitivem (AccI
 ### Věty
 
 1\. Ὁ δοῦλος ἄγει τὸν ἵππον. Ὁ ἵππος ἄγεται ὑπὸ τοῦ δούλου.   
-2\. Οἱ δοῦλοι ἄγουσι τοὺς ἵππους. Οἱ ἵπποὶ ἄγονται ὑπὸ τῶν δούλων.     
+2\. Οἱ δοῦλοι ἄγουσι τοὺς ἵππους. Οἱ ἵπποι ἄγονται ὑπὸ τῶν δούλων.     
 3\. Γυμνάζω τὸν φίλον. Ὁ φίλος γυμνάζεται.   
 4\. Ὁ δοῦλος παρασκευάζει σῖτον τῷ ἐμῷ φίλῳ. Ὁ δοῦλος παρασκευάζεται σῖτον.    
 5\. Δεῖ τὸν διδάσκαλον εὖ τοὺς νέους παιδεύειν.   
@@ -125,7 +125,7 @@ Neosobní sloveso δεῖ _je třeba_ se váže s akuzativem a infinitivem (AccI
 κίνδυνος, -ου, ὁ – nebezpečí  
 κόσμος, -ου, ὁ – pořádek, ozdoba, svět    
 κρύπτω, -ειν – kryji, skrývám   
-λέγω, -ειν – mluvit; + acc. + acc nazvývat něco něčím  
+λέγω, -ειν – mluvit; + acc. + acc nazývat něco něčím  
 λύω, -ειν – uvolňuji, ruším, přerušuji  
 μακρός, -οῦ – dlouhý, rozlehlý  
 μικρός, -οῦ – malý, krátký  
