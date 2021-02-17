@@ -23,18 +23,20 @@
 παρασκευάζω, -ειν – připravuji  
 πολλάκις – často  
 ἔργον, -ου, τό – čin    
-θαυμάζω, -ειν – obdivuji  
+θαυμάζω, -ειν – obdivuji    
+ἀγαθός, -όν – dobrý  
 
 {{< /column >}} 
 {{< column >}}
-ἀγαθός, -όν – dobrý  
 πονηρός, -όν – zlý   
 πιστεύω, -ειν – věřím  
 στρατηγός, -οῦ, ὁ – stratég  
 γάρ – totiž  
 ἱερά, -ῶν, τά – oběť  
 καλός, -όν – dobrý, krásný  
-ὅσιος, -ον – zbožný  
+ὅσιος, -ον – zbožný         
+λόγος, -ου, ὁ – slovo, řeč  
+θεός, -οῦ, ὁ – bůh  
 ἄνευ (s gen.) – bez  
 φίλος, -ον – milý, přátelský   
 χαλεπός, -όν - náročný  
@@ -57,20 +59,22 @@
 τόξον, -ου, τό – luk (ř. dat. ~ český instrumentál)  
 θηρίον, -ου, τό – zvíře  
 θηρεύω, -ειν – lovím      
-λαμπρός, -όν – skvělý, zářivý   
+λαμπρός, -όν – skvělý, zářivý       
+παιδίον, -ου, τό – dítě  
 μάλα – velmi  
 
 {{< /column >}} 
 {{< column >}}
 
-εὐφραίνω, -ειν – těším  
+εὐφραίνω, -ειν – těším     
+ἀλλά – ale  
+βίος, -ου, ὁ – život  
 πολλά - nom. pl. neut. mnoho  
-πόνος, -ου, ὁ – námaha  
-θεός, -οῦ, ὁ – bůh  
+πόνος, -ου, ὁ – námaha    
 σῴζω, -ειν – zachraňuji  
 ἦν – byl, byla, bylo  
 ἦσαν – byli, byly, byla  
-ἱερόν, -οῦ, τό – chrám  
+ἱερόν, -οῦ, τό – chrám, chrámový obvod  
 ὑψηλός, -όν – vysoký
 
 {{< /column >}} 
