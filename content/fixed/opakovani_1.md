@@ -80,3 +80,9 @@
 {{< /column >}} 
 {{< /row >}}
 
+&nbsp;
+
+
+
+{{< figure src="/data/diadem.jpg" width=400 caption="Eliptický diadém z Mykén, asi 1600-1500 p. n. l." >}}
+

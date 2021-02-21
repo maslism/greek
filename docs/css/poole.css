@@ -229,8 +229,8 @@ blockquote p:last-child {
 
 img {
   display: block;
+  margin: auto;
   max-width: 100%;
-  margin: 0 0 1rem;
   border-radius: 5px;
 }
 
@@ -440,3 +440,9 @@ a.pagination-item:hover {
 .tab-content {
 	margin: 2rem 0 2rem 1rem;
 }
+
+figcaption {
+text-align: center;
+font-size: 0.8rem;
+ font-style:italic;
+{
