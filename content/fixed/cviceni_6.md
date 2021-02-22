@@ -1,5 +1,5 @@
 {
-    "title": "6. cvičení – lmperfektum aktiva, I. deklinace: nom. -η, gen. -ης sg.",
+    "title": "6. cvičení – lmperfektum aktiva, I. deklinace: nom. -η, gen. -ης",
     "sidebar": true,
     "weight": "7"
 }
@@ -30,7 +30,7 @@
 - kmenotvorné -η pochází z dlouhého vokálu **ā*, který prošel touto změnou v attickém a iónském dialektu (srov. dórské tvary μάχᾱ, τιμά)
 - původní **-a* je viditelné v pl. 
 - gen. pl. má vždy přízvuk na koncovém -ῶν (gen. pl. *ā́sōm > *ā́hōn > *ā́ōn > -ῶν)
-- nom. pl. -αι je pro přízvuk krátký 
+- koncovka nom. pl. -αι je pro přízvuk krátká 
 
 
 
@@ -71,7 +71,7 @@
 
 Ἔ-φερ-ο-ν τὸ ἐμὸν δῶρον. – _Nesl jsem svůj dar._  
 Ἔ-φερ-ε-ς τὸ σὸν δῶρον. – _Nesl jsi svůj dar._  
-Ἔ-φερ-ε(ν) τὸ **ἑαυτοῦ** δῶρον. – Nesl svůj dar.   
+Ἔ-φερ-ε(ν) τὸ **ἑαυτοῦ** δῶρον. – _Nesl svůj dar._   
 Ἐ-φέρ-ο-μεν τὰ ἡμέτερα δῶρα.  
 Ἐ-φέρ-ε-τε τὰ ὑμέτερα δῶρα.  
 Ἔ-φερ-ο-ν τὰ **ἑαυτῶν** δῶρα.  
