@@ -76,7 +76,7 @@
 Ἐ-φέρ-ε-τε τὰ ὑμέτερα δῶρα.  
 Ἔ-φερ-ο-ν τὰ **ἑαυτῶν** δῶρα.  
 
-Řečtina nepoužívá zvratné přivlastňovací zájmeno (srov. č. **sv**ůj, lat. **su**us) ve všech třech osobách jako čeština. U první a druhé osoby stojí ve funkci zvratného přivlastňovacího zájmena přivlastňovací zájmena první, resp. druhé osoby (ἐμός, -ή  -ον – můj, σός, ή, -όν – tvůj, ἡμέτερος, -ή, -ον – náš, ὑμέτερος, -ή, -ον – váš).   
+Řečtina nepoužívá zvratné přivlastňovací zájmeno (srov. č. **sv**ůj, lat. **su**us) ve všech třech osobách jako čeština. U první a druhé osoby stojí ve funkci zvratného přivlastňovacího zájmena přivlastňovací zájmena první, resp. druhé osoby (ἐμός, -ή  -όν – můj, σός, ή, -όν – tvůj, ἡμέτερος, -η, -ον – náš, ὑμέτερος, -η, -ον – váš).   
 
 Jenom třetí osoba sg. a pl. disponují zvratným přivlastňovacím zájmenem, které obsahuje kmen _*swe-_ (> ἑ-). Toto zájmeno má podobu pádu gen., který číslem a rodem odpovídá osobě, které se něco přivlastňuje. 
 
@@ -109,7 +109,7 @@ Jenom třetí osoba sg. a pl. disponují zvratným přivlastňovacím zájmenem,
 χαίρω (s dat.) – těším se, raduji se   
 ᾄδω – zpívám  
 χαίρω τῇ νίκῃ – těším se z vítězství   
-καλός, ἡ, ὄν – krásný
+καλός, -ή, -όν – krásný
 
 {{</ pure-expand >}}
 
@@ -136,4 +136,4 @@ Imperfektum aktiva § 185., I. deklinace: -η, -ης sg. § 63. Člen § 59
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/mask.png" width=300 caption="Posmrtná maska z šachtového hrobu v Mykénách tradičně označována jako Agamemnónova maska, asi 1550-1500 p. n. l." >}}
+{{< figure src="/data/mask.png" width=300 caption="Posmrtná maska z šachtového hrobu v Mykénách, tradičně označována jako Agamemnónova maska, asi 1550-1500 p. n. l." >}}
