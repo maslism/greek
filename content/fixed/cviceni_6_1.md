@@ -1,55 +1,115 @@
 {
-    "title": "6.1 cvičení – I. deklinace: ᾱ pūrum",
+    "title": "6.1 cvičení – lmperfektum aktiva, I. deklinace: nom. -η, gen. -ης",
     "sidebar": true,
-    "weight": "8"
+    "weight": "7"
 }
 
-### I. deklinace: ᾱ pūrum
+### I. deklinace: nom. -η, gen. -ης 
 
 </br>
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
-| Singulár   | Člen |                  |                  |            |
-| ---------- | ---- | ---------------- | ---------------- | ---------- |
-| nom.       | ἡ    | οἰκί-__ᾱ__ "dům" | χώρ-**ᾱ** "země" | θε-**ά**   |
-| gen.       | τῆς  | οἰκί-**ᾱς**      | χώρ-**ᾱς**       | θε-**ᾶς**  |
-| dat.       | τῇ   | οἰκί-__ᾳ__       | χώρ-**ᾳ**        | θε-**ᾷ**   |
-| acc.       | τήν  | οἰκί-__ᾱν__      | χώρ-**ᾱν**       | θε-**άν**  |
-| voc.       |      | οἰκί-__ᾱ__       | χώρ-**ᾱ**        | θε-**ά**   |
-| **Plurál** |      |                  |                  |            |
-| nom.       | αἱ   | οἰκί-**αι**      | χῶρ-**αι**       | θε-**αί**  |
-| gen.       | τῶν  | οἰκι-**ῶν**      | χωρ-**ῶν**       | θε-**ῶν**  |
-| dat.       | ταῖς | οἰκί-**αις**     | χώρ-**αις**      | θε-**αῖς** |
-| acc.       | τάς  | οἰκί-**ᾱς**      | χώρ-**ᾱς**       | θε-**άς**  |
-| voc.       |      | = nom.           | = nom.           |            |
+| Singulár   | Člen | Paroxytona        | Oxytona          |
+| ---------- | ---- | ----------------- | ---------------- |
+| nom.       | ἡ    | μάχ-__η__ "bitva" | τιμ-**ή** "čest" |
+| gen.       | τῆς  | μάχ-**ης**        | τιμ-**ῆς**       |
+| dat.       | τῇ   | μάχ-__ῃ__         | τιμ-**ῇ**        |
+| acc.       | τήν  | μάχ-__ην__        | τιμ-**ήν**       |
+| voc.       |      | μάχ-__η__         | τιμ-**ή**        |
+| **Plurál** |      |                   |                  |
+| nom.       | αἱ   | μάχ-**αι**        | τιμ-**αί**       |
+| gen.       | τῶν  | μαχ-**ῶν**        | τιμ-**ῶν**       |
+| dat.       | ταῖς | μάχ-**αις**       | τιμ-**αῖς**      |
+| acc.       | τάς  | μάχ-**ᾱς**        | τιμ-**άς**       |
+| voc.       |      | = nom.            | = nom.           |
 
 {{< /bootstrap-table >}}
 
 - oxytona v gen. a dat. obou čísel mění přízvuk na průtažný 
-- znakem podtypu ᾱ *pūrum* je přítomnost kmenotvorného -α v pádech obou čísel oproti podtypu -η, -ης (νίκη, νίκης), u kterého se -α objevuje jen v pl.
-  - ᾱ *pūrum* je vlastní attickému dialektu a týká se slov, ve kterých koncovce předchází **-ε-, -ι-**, nebo **-ρ-**
-  - příčinou vzniku tohoto podtypu je attická reverze: původní _*ā_ se v iónsko-attických dialektech měnilo na -η. Tento posun byl ale v attickém dialektu potlačen, předcházela-li před **ā* hláska -ε-, -ι-, nebo -ρ-. V iónštině proces proběhl bez výjimek, srovnej att. οἰκίᾱ oproti ión. οἰκίη 
+- kmenotvorné -η pochází z dlouhého vokálu **ā*, který prošel touto změnou v attickém a iónském dialektu (srov. dórské tvary μάχᾱ, τιμά)
+- původní **-a* je viditelné v pl. 
 - gen. pl. má vždy přízvuk na koncovém -ῶν (gen. pl. *ā́sōm > *ā́hōn > *ā́ōn > -ῶν)
 - koncovka nom. pl. -αι je pro přízvuk krátká 
 
 
 
+### Imperfektum aktiva
+
+
+
+{{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
+
+| Osoba | Ιndikativ                          | Primární koncovky akt. | Sekundární koncovky akt. |
+| ----- | ---------------------------------- | ---------------------- | ------------------------ |
+| 1.    | ἐ-παίδευ-**ο-ν** "vychovával jsem" | -ω                     | -ον                      |
+| 2.    | ἐ-παίδευ-**ε-ς**                   | -εις                   | -ες                      |
+| 3.    | ἐ-παίδευ-**ε(ν)**                  | -ει                    | -ε                       |
+| 1.    | ἐ-παιδεύ-**ο-μεν**                 | -ομεν                  | -ομεν                    |
+| 2.    | ἐ-παιδεύ-**ε-τε**                  | -ετε                   | -ετε                     |
+| 3.    | ἐ-παίδευ-**ο-ν**                   | -ουσι                  | -ον                      |
+
+- imperfektum je minulý průběhový čas
+- indikativ minulého času má vlastní sadu koncovek, které se konvenčně označují jako sekundární 
+- tvary minulého času v indikativu se vyznačují tzv. augmentem (přímnožkem) v podobě předpony ἐ- 
+  - augment má u sloves začínajících souhláskou podobu ἐ- (slabičný augment)
+  - u sloves začínajících samohláskou n. diftongem augment splyne s počátkem slova a vzniká dlouhý vokál n. dlouhý diftong (časový augment): 
+    - α → η: ἄγω → ἦγον 
+    - ε → η: ἐλπίζω → ἤλπιζον
+    - ο → ω: ὀρύττω → ὤρυττον
+    - ι → ῑ: ἱππεύω → ἵππευον
+    - υ → ῡ: ὑβρίζω → ὕβριζον
+    - αι → ῃ: αἰσθάνομαι → ᾐσθανόμην
+    - ᾳ → ῃ: ᾄδω → ᾖδον
+    - αυ → ηυ: αὐξάνω → ηὔξανον
+    - ευ → ηυ: εὐθύνω → ηὔθυνον
+    - οι → ῳ: οἰκτίρω → ᾤκτιρον
+
+{{< /bootstrap-table >}}
+
+### Vyjádření zvratného přivlastnění 
+
+Ἔ-φερ-ο-ν τὸ ἐμὸν δῶρον. – _Nesl jsem svůj dar._  
+Ἔ-φερ-ε-ς τὸ σὸν δῶρον. – _Nesl jsi svůj dar._  
+Ἔ-φερ-ε(ν) τὸ **ἑαυτοῦ** δῶρον. – _Nesl svůj dar._   
+Ἐ-φέρ-ο-μεν τὰ ἡμέτερα δῶρα.  
+Ἐ-φέρ-ε-τε τὰ ὑμέτερα δῶρα.  
+Ἔ-φερ-ο-ν τὰ **ἑαυτῶν** δῶρα.  
+
+Řečtina nepoužívá zvratné přivlastňovací zájmeno (srov. č. **sv**ůj, lat. **su**us) ve všech třech osobách jako čeština. U první a druhé osoby stojí ve funkci zvratného přivlastňovacího zájmena přivlastňovací zájmena první, resp. druhé osoby (ἐμός, -ή  -όν – můj, σός, ή, -όν – tvůj, ἡμέτερος, -η, -ον – náš, ὑμέτερος, -η, -ον – váš).   
+
+Jenom třetí osoba sg. a pl. disponují zvratným přivlastňovacím zájmenem, které obsahuje kmen _*swe-_ (> ἑ-). Toto zájmeno má podobu pádu gen., který číslem a rodem odpovídá osobě, které se něco přivlastňuje. 
+
+ 
+
+| Osoba      | Muž. rod                  | Žen. rod                  |
+| ---------- | ------------------------- | ------------------------- |
+| 3. os. sg. | ἑαυτοῦ "svůj, svoje atd." | ἑαυτῆς "svůj, svoje atd." |
+| 3. os. pl. | ἑαυτῶν "svůj, svoje atd." | ἑαυτῶν "svůj, svoje atd." |
+
+ 
+
 ### Věty
 
-1\. Τὸ Ἀϑηνᾶς τῆς ϑεᾶς ἱερὸν καλόν ἐστιν. 2. Οἱ Ἀϑηναῖοι Ἀϑηνᾷ τῇ ϑεᾷ ἐπίστευον. 3. Τὴν ὑμετέραν χώραν στέργετε, ὦ φίλοι! 4. Ὁ δῆμος ταῖς νίκαις χαίρει. 5. Οἱ Ἀϑηναῖοι περὶ τῶν μαχῶν καλὰς ᾠδὰς ᾖδον. 6. Σῷζε, ὦ Ἀϑηνᾶ, σῷζε τὰς ἡμετέρας οἰκίας!
+1\. Ἡ νίκη τιμὴν φέρει. 2. Ἐκ τῆς νίκης τιμή ἐστι καὶ τῷ δήμῳ καὶ τῷ στρατηγῷ. 3. Ὁ δῆμος τῇ καλῇ νίκῃ ἔχαιρεν. 4. Τὴν φίλην εἰρήνην οἱ ἄνϑρωποι ἀεὶ ἔστεργον. 5. Χαῖρε, ὦ καλὴ νίκη! 6. Ὁ φίλος τὸν
+ἑαυτοῦ ἵππον ἦγεν. 7. Τὰ τέκνα καλὴν ᾠδὴν ᾖδεν.
 
-{{< pure-expand title="Slovní zásoba" >}}      
-Ἀϑηνᾶ ἡ ϑεά – bohyně Athéna   
-Ἀϑηναῖοι, Ἀϑηναίων, οἱ – Athéňané   
-χώρᾱ, -ᾱς, ἡ – země  
-ἱερόν, -οῦ, τό – svatyně   
-περί (s gen.) – o  
-ϑεά, -ᾶς, ἡ – bohyně   
-μάχη, -ης, ἡ – boj, bitva  
-Ἀϑηνᾶ (z Ἀϑηνάα), -ᾶς, ἡ – Athéna, bohyně moudrosti    
-σῴζω – chráním, ochraňují  
-ἡ οἰκίᾱ, -ᾱς – dům, příbytek
+{{< pure-expand title="Slovní zásoba" >}}     
+
+νίκη, ης, ἡ – vítězství   
+εἰρήνη, -ης, ἡ – mír  
+τιμή, -ῆς, ἡ – čest, pocta   
+φίλος, φίλη, φίλον – milý, drahý, vzácný, vítaný   
+ἐκ, ἐξ (s gen.) – z   
+δῆμος, δήμου, ὁ – lid (jen svobodní občané, nikoliv otroci)  
+ἀεί – vždy, stále  
+χαῖρε! – buď zdráv! buď vítán!  
+στρατηγός, -οῦ, ὁ – vojevůdce   
+ᾠδή, -ῆς – píseň, zpěv  
+χαίρω (s dat.) – těším se, raduji se   
+ᾄδω – zpívám  
+χαίρω τῇ νίκῃ – těším se z vítězství   
+καλός, -ή, -όν – krásný
 
 {{</ pure-expand >}}
 
@@ -57,100 +117,23 @@
 
 ### Úkol
 
-Ι.
-
-1\. Ἡ νίκη τῷ στρατηγῷ τιμὴν φέρει. 2. Ἡ τῶν συμμάχων φυγὴ ἦν ἀρχὴ τῆς τῶν πολεμίων νίκης. 3. Ἐν τῇ εἰρήνῃ αἱ τέχναι ἀκμάζουσιν. 4. Μετὰ τὰς μάχας τρόπαια ἱδρύεται. 5. Αἰ λῦπαι ἕπονται πολλάκις ταῖς ἡδοναῖς. 6. Πηγὴ τῶν λυπῶν αἱ τῆς τύχης μεταβολαί εἰσιν. — 7. Ἡ τύχη οὐ πιστή ἐστιν. 8. Λόγος δίκαιος ψυχῆς ἀγαϑῆς εἴδωλόν ἐστιν. 9. Οὔτε αἱ ψυχαὶ ϑνηταί εἰσιν, οὔτε αἱ τῶν ψυχῶν ἀρεταί. 10. Ἀγαϑῇ τύχῃ. 11. Λύπης ἰατρός ἐστιν ἀνϑρώποις λόγος.
-
-{{< row >}}
-{{< column >}}
-**2\.** σύμμαχος, -ου, ὁ spojenec  
-φυγή, -ῆς, ἡ – útěk  
-ἦν – 3. os. sg., byl  
-ἀρχή, -ῆς, ἡ – začátek  
-πολέμιος, -ου, ὁ – nepřítel  
-**3\.** τέχνη, -ης, ἡ – umění  
-ἀκμάζω, -ειν – vzkvétat, být na vrcholu sil   
-**4\.** μετά (s acc.) – po  
-τρόπαιον, -ου, τό – [tropaion](https://en.wikipedia.org/wiki/Tropaion)  
-ἱδρύω, -ειν – stavět  
-**5\.** λύπη, -ης, ἡ – zármutek, bolest  
-ἕπομαι, -εσθαι (s dat.) – následovat  
-ἡδονή, -ῆς, ἡ – slast  
-
-{{< /column >}} 
-{{< column >}}  
-
-**6\.** πηγή, -ῆς, ἡ – pramen, zdroj  
-τύχη, -ης, ἡ – osud  
-μεταβολή, -ῆς, ἡ – změna  
-**7\.** πιστός, -ή, -όν – důveryhodný, spolehlivý  
-**8\.** δίκαιος, -α, -ον – spravedlivý   
-ψυχή, -ῆς, ἡ – duše  
-ἀγαϑός, -ή, -όν – dobrý  
-εἴδωλον, -ου, τό – obraz  
-**9\.** οὔτε - οὔτε – ani - ani   
-ϑνητός, -ή, -όν – smrtelný  
-ἀρετή, -ῆς, ἡ – cnost, kvalita  
-**11\.** ἰατρός, -οῦ, ὁ – lékař
-
-{{< /column >}} 
-{{< /row >}}
-
-&nbsp; 
+- Skloňujte písemně: ἡ καλὴ ᾠδή _krásná píseň_, ἡ ἐμὴ νίκη _moje/svoje vítězství_ (tvar ἐμή se bude v každém pádě měnit),  ἡ ἑαυτοῦ τιμή _svoje čest_ (tvar ἑαυτοῦ se nebude měnit)
+- Jakého rodu je majitel daru v těchto spojeních: τό ἑαυτοῦ δῶρον, τό ἑαυτῆς δῶρον, τό ἑαυτῶν δῶρον? 
+- Časujte v imperfektu aktiva slovesa: στέργω _miluji_, ἀγω _vedu_, ᾄδω _zpívám_, γυμνάζω _cvičím_. Dbejte na rozdíl mezi slabičným augmentem (ἐ-) a časovým augmentem (viz seznam kontrakcí). 
 
 
-
-ΙΙ. 
-
-1\. Ἐν τῇ ἡδονῇ πολλάκις ἡ τῆς λύπης πηγή ἐστιν, ἀλλ' ἡ ἀρετὴ πηγὴ ἀληϑινῆς ἡδονῆς ἐστιν. 2. Τοῖς μὲν ἡ τύχη ἡδονὴν φέρει, τοῖς δὲ λύπην. 3. Στέργομεν τὰς τέχνας· αἱ γὰρ τέχναι ταῖς χώραις εὐδαιμονίαν φέρουσιν. 4. Λέγουσιν ἐν τῇ εἰρήνῃ τὰς τέχνας ἀκμάζειν. 5. Πρέπει ἀρετὴν ἔχειν ἐν τῇ ψυχῇ. 6. Ὁ φϑόνος ἐστὶ πηγὴ αἰσχρῶν ἐπιϑυμιῶν. 7. Ἐν Ἀϑήναις αἱ τέχναι καὶ αἱ ἐπιστῆμαι ἐν τιμῇ ἦσαν. 8. Ὁ σοφὸς τὴν ἀρετὴν κόσμον τῆς ψυχῆς λέγει. 9. Ὑπὸ τοῦ σοφοῦ ἡ ἀρετὴ κόσμος τῆς ψυχῆς
-λέγεται. 10. Οἱ σοφοὶ τὸν πόλεμον καὶ τὰς μάχας πηγὰς τῶν λυπῶν λέγουσιν, τὴν δὲ εἰρήνην καὶ τὰς τέχνας πηγὰς τοῦ πλούτου καὶ τῶν ἡδονῶν· ἡ γὰρ εἰρήνη καὶ αἱ τέχναι τοὺς ἀνθρώπους τρέφουσιν. 11. Ὁ πόλεμος καὶ αἱ μάχαι ὑπὸ τῶν σοφῶν πηγαὶ τῶν λυπῶν λέγονται, ἡ δὲ εἰρήνη καὶ αἱ τέχναι πηγαὶ τοῦ πλούτου καὶ τῶν ἡδονῶν· τῇ γὰρ εἰρήνῃ καὶ ταῖς τέχναις οἱ ἄνϑρωποι τρέφονται. 12. Ἡ τῆς ϑεᾶς
-φιλία φυλάττει τὴν τῆς χώρας ἐλευϑερίαν. — Τῇ τῆς ϑεᾶς φιλίᾳ ἡ τῆς χώρας ἐλευϑερία φυλάττεται. — Οἱ ϑεοὶ (Αἱ ϑεαὶ) φυλάττουσι τὰς χώρας. — Αἱ χῶραι ὑπὸ τῶν ϑεῶν φυλάττονται.
-
-{{< row >}}
-{{< column >}}  
-**1\.** πολλάκις – často  
-ἀληϑινός, -ή, -όν – pravdivý  
-**2\.** τοῖς μὲν - τοῖς δὲ  – jedněm - druhým  
-**3\.** εὐδαιμονία, -ας, ἡ – blahobyt, štěstí  
-γάρ – totiž   
-**4\.** λέγω + AccInf. – říkám, že...  
-**5\.** πρέπει + Inf. – je třeba  
-ἔχω, -ειν – mám   
-**6\.** φϑόνος, -ου, ὁ – zášť, závist   
-αἰσχρός, -ή, -όν – hanebný  
-ἐπιϑυμία, -ης, ἡ – touha, tužba     
-**7\.** Ἀϑῆναι, -ῶν, αἱ – Athény  
-
-{{< /column >}} 
-{{< column >}}    
-
-ἐπιστήμη, -ης, ἡ – věda, znalost   
-ἦσαν – 3. os. pl. impf., byli   
-**8\.** σοφός, -οῦ, ὁ – mudrc  
-κόσμος, -ου, ὁ – ozdoba, řád, svět  
-**10\.** πόλεμος, -ου, ὁ – válka   
-δέ –  ale   
-πλοῦτος, -ου, ὁ – bohatství  
-τρέφω, -ειν – živím    
-**12\.** φιλία, -ης, ἡ – láska, přátelství  
-φυλάττω, -ειν – strážit     
-τῇ φιλίᾳ (dat.) – *čím?*, neživotný původce děje u sloves v pasivu   
-ἐλευϑερία, -ας, ἡ – svoboda    
-
-{{< /column >}} 
-{{< /row >}}
 
 ### Křížové odkazy
 
 {{< tabs tabTotal="2" tabID="1" tabName1="Hnátek" tabName2="Niederle" >}}
 {{< tab tabNum="1" >}}
-s. 15-16
+s. 13-14
 {{< /tab >}}
 {{< tab tabNum="2" >}}
 
-I. deklinace: ᾱ pūrum (§ 62, 64, 65)
+Imperfektum aktiva § 185., I. deklinace: -η, -ης sg. § 63. Člen § 59
 
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/dagger.gif" width=550 caption="Bronzová dýka z Pylu se zlatou a stříbrnou inkrustací znázorňující mořské hlavonožce, asi 1500 p. n. l." >}}
+{{< figure src="/data/mask.png" width=300 caption="Posmrtná maska z šachtového hrobu v Mykénách, tradičně označována jako Agamemnónova maska, asi 1550-1500 p. n. l." >}}
