@@ -38,9 +38,9 @@
 
 
 
-- v -ειᾱ- a Vίρᾱ- přechází dlouhému -ᾱ- v gen. a dat. **-ι-**, resp. **-ρ-**, a proto se -ᾱ- nezmění na -η-. Tato slova jsou kvůli tomu v kategorii **α _pūrum_** 
+- v -ειᾱ- a Vίρᾱ- předchází dlouhému -ᾱ- v gen. a dat. **-ι-**, resp. **-ρ-**, a proto se -ᾱ- nezmění na -η-. Tato slova jsou kvůli tomu v kategorii **α _pūrum_** 
 - poznávacím znakem této podkategorie je přízvuk v nom. sg., který odhaluje, že -ᾰ v nom. je krátké: 
-  - βασίλειᾰ, ἀλήθειᾰ: ostrý na třetí slabice od konce (*basíleuw-ya, *alḗthes-ya)
+  - βασίλειᾰ, ἀλήθειᾰ: ostrý na třetí slabice od konce (*basílew-ya, *alḗthes-ya)
   - σφαῖρᾰ, μοῖρᾰ: průtažný na druhé slabice od konce 
 - znakem podtypu α *pūrum* je přítomnost kmenotvorného -α v pádech obou čísel oproti podtypu -η, -ης (νίκη, νίκης), u kterého se -α objevuje jen v pl.
 - α *pūrum* je vlastní attickému dialektu a týká se slov, ve kterých koncovce předchází **-ε-, -ι-**, nebo **-ρ-**
