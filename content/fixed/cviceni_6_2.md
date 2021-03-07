@@ -117,7 +117,7 @@
 **5\.** πρέπει + Inf. – je třeba  
 ἔχω, -ειν – mám   
 **6\.** φϑόνος, -ου, ὁ – zášť, závist   
-αἰσχρός, -ή, -όν – hanebný  
+αἰσχρός, -ά, -όν – hanebný  
 ἐπιϑυμία, -ας, ἡ – touha, tužba     
 **7\.** Ἀϑῆναι, -ῶν, αἱ – Athény  
 
@@ -155,4 +155,4 @@ I. deklinace: ᾱ pūrum (§ 62, 64, 65)
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/dagger.gif" width=550 caption="Bronzová dýka z Pylu se zlatou a stříbrnou inkrustací znázorňující mořské hlavonožce, asi 1500 p. n. l." >}}
+{{< figure src="/data/dagger.gif" width=550 caption="Bronzová dýka z Pylu se zlatou a stříbrnou inkrustací znázorňující mořské hlavonožce, asi 1500 p. n. l." link="/data/dagger.gif" target=”_blank” >}}

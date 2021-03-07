@@ -123,4 +123,4 @@ I. deklinace: ᾱ pūrum (§ 62, 64, 65), Imperfektum med. a pass. (§ 186)
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/vineleaf.png" width=300 caption="Keramický kantharos zdobený vinnými listy a bobulemi, Boiótie, 450-400 p. n. l." >}}
+{{< figure src="/data/vineleaf.png" width=300 caption="Keramický kantharos zdobený vinnými listy a bobulemi. Boiótie, 450-400 p. n. l." link="/data/vineleaf.png" target=”_blank” >}}

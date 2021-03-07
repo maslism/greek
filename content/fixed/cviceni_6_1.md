@@ -136,4 +136,4 @@ Imperfektum aktiva § 185., I. deklinace: -η, -ης sg. § 63. Člen § 59
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/mask.png" width=300 caption="Posmrtná maska z šachtového hrobu v Mykénách, tradičně označována jako Agamemnónova maska, asi 1550-1500 p. n. l." >}}
+{{< figure src="/data/mask.png" width=300 caption="Posmrtná maska z šachtového hrobu v Mykénách, tradičně označována jako Agamemnónova maska, asi 1550-1500 p. n. l." link="/data/mask.png" target=”_blank” >}}
