@@ -87,9 +87,9 @@ Některá podstatná jména II. deklinace jsou ženského rodu. Většinou se je
 θνητός, -ή, -όν – smrtelný, pomíjející  
 ὁδός, -οῦ, ἡ – cesta  
 ῥᾴδιος, -ᾱ, -ον – snadný, lehký  
-ὀρθός, -ή, -ον – přímý, správný   
-μικρός, -ά, -ον – malý, krátký  
-ἡ Αἴγυπτος, ου, ἡ – Egypt  
+ὀρθός, -ή, -όν – přímý, správný   
+μικρός, -ά, -όν – malý, krátký  
+ἡ Αἴγυπτος, -ου, ἡ – Egypt  
 πλούσιος, -ᾱ, -ον – bohatý   
 πορεύομαι, -εσθαι – pochoduji, táhnu
 
