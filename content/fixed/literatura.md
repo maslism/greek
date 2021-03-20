@@ -24,6 +24,7 @@
 
 - [LSJ] = LIDDELL, Henry George a Robert SCOTT, JONES, Henry Stuart a Roderick MCKENZIE, ed. *A Greek-English Lexicon*. Oxford: Clarendon Press, 1996. [[online]](https://logeion.uchicago.edu/lexidium)
 - [Lep] = LEPAŘ, František, ed. *Nehomérovský slovník řeckočeský*. Mladá Boleslav: Karel Vačlena, 1892. [[scan]](http://librinostri.catholica.cz/vyhledat/Lepa%C5%99%20Franti%C5%A1ek)
+- Slovní zásoba z *Cvičebnice jazyka řeckého* [[online]](https://maslism.github.io/gr-lexica)
 
 
 
@@ -35,4 +36,6 @@
 > Quick to this riddle,  
 > Which was by Scott  
 > And which was by Liddell?_  
+
+
 

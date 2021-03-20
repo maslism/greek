@@ -93,8 +93,13 @@ Některá podstatná jména II. deklinace jsou ženského rodu. Většinou se je
 πλούσιος, -ᾱ, -ον – bohatý   
 πορεύομαι, -εσθαι – pochoduji, táhnu
 
-
 {{</ pure-expand >}}
+
+
+
+### Úkol
+
+{{< button href="/greek/data/cviceni_4.pdf" class="btn-outline-info">}}Cvičení.pdf{{< /button >}}
 
 
 
