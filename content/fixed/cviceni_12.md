@@ -44,7 +44,7 @@
 | dat.    | οἷς        | αἷς       | οἷς        |
 | pl.     | οὕς        | ἅς        | ἅ          |
 
-- vztažné zájmeno se skloňuje jako člen; nemá hlásku τ- a je vždy pod přízvukem; přízvuk gen. a dat. obou čísel je automaticky průtažný, v jiných pádech je ostrý přízvuk
+- vztažné zájmeno se skloňuje jako člen; nemá hlásku τ- a je vždy s přízvukem; přízvuk gen. a dat. obou čísel je automaticky průtažný, v jiných pádech je ostrý přízvuk
 
  {{< /bootstrap-table >}}
 
@@ -64,7 +64,7 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
 ### Věty
 
 1\. Μὴ φεύγωμεν, ὦ φίλοι, ἀλλ᾽ ἀνδρείως μαχώμεϑα! 2. Πρὸ μὲν τοῦ ἔργου βουλευώμεϑα, ἔπειτα δὲ πράττωμεν! 3. Μήποτε μέλλωμεν πράττειν τὰ ἀγαϑά! 4. Αἱ ὁδοὶ πολλάκις ἄβατοί εἰσιν. 5. Οἱ Πέρσαι
-λέγουσι γλώττῃ βαρβάρῳ. 6. Οἱ τῶν φρονίμων καὶ ἐμπείρων ἀνθρώπων λόγοι βέβαιοί εἰσιν. 7. Μάχαιρα, ἣν ἔχει ὅ ἀνδρεῖος, ἰσχυρά ἐστιν. 8. Ἅ ἔχεις, τῷ σῷ πόνῳ ἔχεις.
+λέγουσι γλώττῃ βαρβάρῳ. 6. Οἱ τῶν φρονίμων καὶ ἐμπείρων ἀνθρώπων λόγοι βέβαιοί εἰσιν. 7. Μάχαιρα, ἣν ἔχει ὁ ἀνδρεῖος, ἰσχυρά ἐστιν. 8. Ἅ ἔχεις, τῷ σῷ πόνῳ ἔχεις.
 
 {{< pure-expand title="Slovní zásoba" >}}      
 πρό (s gen.) – před  
