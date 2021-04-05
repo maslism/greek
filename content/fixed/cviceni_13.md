@@ -20,7 +20,7 @@
 | 3.    | παιδεύ-**οι-εν**                  | παιδεύ-**οι-ντο**                     |
 
 - optativ je slovesný způsob, který vyjadřuje přání nebo možnost
-- u tematických sloves se tvoří příponou -οι- a má sekundární koncovky (koncovky pro minulý čas)
+- u tematických sloves se tvoří příponou -οι- a má převážně sekundární koncovky (koncovky pro minulý čas)
 - **optativ přací**: 
   - někdy s částicí εἴθε *kéž*; záporka je μή
   - εἴθε λέγοις *kéž říkáš* ~ εἴθε μὴ λέγοις *kéž neříkáš*
@@ -29,7 +29,7 @@
   - λέγοις ἄν *říkal bys* ~  οὐκ ἂν λέγοις *neříkal bys*
 - **optativ zástupný** (*obliquus*): v souvětích, ve kterých je vedlejší věta s konjunktivem nebo indikativem, může být tento indik. nebo konj. nahrazen optativem, je-li hlavní věta v minulém čase
   - Γράφω τῷ φίλῳ, ἵνα **χαίρῃ** - *Píšu příteli, aby měl radost*.
-  - Ἔραφον τῷ φίλῳ, ἵνα **χαίροι**. - *Psal jsem příteli, aby měl radost*. 
+  - Ἔγραφον τῷ φίλῳ, ἵνα **χαίροι**. - *Psal jsem příteli, aby měl radost*. 
 
  {{< /bootstrap-table >}}
 
@@ -61,11 +61,11 @@
 Účel se může vyjádřit souvětím se spojkou. Jako účelové spojky můžou figurovat ἵνα, ὡς, ὅπως; záporka je μή a následuje za spojkou. Ve vedlejší větě je konjunktiv nebo  optativ (po hl. větě v minulém čase).   
 
 - Γράφω τῷ φίλῳ, ἵνα **χαίρῃ** - *Píšu příteli, aby měl radost*.
-- Ἔραφον τῷ φίλῳ, ἵνα **χαίροι**. - *Psal jsem příteli, aby měl radost*. 
+- Ἔγραφον τῷ φίλῳ, ἵνα **χαίροι**. - *Psal jsem příteli, aby měl radost*. 
 
 ### Věty
 
-1\. Εἴϑε οἱ νέοι εὖ παιδεύοιντο! 2. Μὴ φεύγοιτε τοὺς πόνους, ἀλλ᾽ ἄσμενοι ὑπομένοιτε! 3. Εἴϑέ οἱ πολῖται τοὺς νόμους φυλάττοιεν! 4. Ἀποτρέποιτε, ὦ ϑεοί, τὸν πόλεμον ἀπὸ τῆς ἡμετέρας χώρας! 5. Μὴ κρίνωμεν, ἵνα μὴ κρινώμεϑα. 6. Εὖ, ὦ νεανία, ὑπὸ τῶν διδασκάλων ἐπαιδεύου, ἵνα ἀγαϑὸς γίγνοιο. 7. Οἱ νέοι ἐγυμνάζοντο, ὅπως τοὺς τοῦ πολέμου πόνους φέροιεν. 8. Πυϑία Κροίσῳ ἐμαντεύετο, ὅτι ἰσχυρὰν
+1\. Εἴϑε οἱ νέοι εὖ παιδεύοιντο! 2. Μὴ φεύγοιτε τοὺς πόνους, ἀλλ᾽ ἄσμενοι ὑπομένοιτε! 3. Εἴϑε οἱ πολῖται τοὺς νόμους φυλάττοιεν! 4. Ἀποτρέποιτε, ὦ ϑεοί, τὸν πόλεμον ἀπὸ τῆς ἡμετέρας χώρας! 5. Μὴ κρίνωμεν, ἵνα μὴ κρινώμεϑα. 6. Εὖ, ὦ νεανία, ὑπὸ τῶν διδασκάλων ἐπαιδεύου, ἵνα ἀγαϑὸς γίγνοιο. 7. Οἱ νέοι ἐγυμνάζοντο, ὅπως τοὺς τοῦ πολέμου πόνους φέροιεν. 8. Πυϑία Κροίσῳ ἐμαντεύετο, ὅτι ἰσχυρὰν
 ἀρχὴν καταλύσοι.
 
 {{< pure-expand title="Slovní zásoba" >}}      
