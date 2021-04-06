@@ -4190,6 +4190,214 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
 </description>
       </item>
     
+      <item>
+        <title>Exkurz – řecké sloveso </title>
+        <link>/fixed/excursus_verbum/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+        <author>Martin Masliš</author>
+        <guid>/fixed/excursus_verbum/</guid>
+        <description>&lt;h2 id=&#34;slovesný-systém-staré-řečtiny&#34;&gt;Slovesný systém staré řečtiny&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;aspektuální-kmeny&#34;&gt;Aspektuální kmeny&lt;/h3&gt;
+&lt;p&gt;Slovesný systém staré řečtiny není čistě temporální, ale spojuje v sobě znaky temporálních a aspektuálních systémů. Tzv. &lt;em&gt;viewpoint aspect&lt;/em&gt; (č. vid) určuje to, jak mluvčí konceptualizuje děj vyjádřený slovesným tvarem. V řečtině aspekt zachycuje a rozlišuje děje vyznačující se:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;trváním&lt;/strong&gt; (č. &lt;em&gt;psal jsem&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;dokonavostí&lt;/strong&gt; (č. &lt;em&gt;napsal jsem&lt;/em&gt;) nebo&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;rezultujícím stavem&lt;/strong&gt;. (č. &lt;em&gt;jsem napsán&lt;/em&gt;).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Tyto tři aspektuální možnosti gramatický systém kóduje pomocí tří slovesných kmenů: kmen imperfekta (prézentní), kmen aoristu a kmen perfekta.&lt;/p&gt;
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+
+
+&lt;div class=&#34;table-responsive&#34;&gt;
+&lt;table class=&#34;table table-hover table-sm&#34;&gt;
+&lt;caption&gt;Aspekt a jeho realizace v řečtině&lt;/caption&gt;
+&lt;thead class=&#34;light&#34;&gt;
+&lt;tr&gt;
+&lt;th&gt;Aspekt&lt;/th&gt;
+&lt;th&gt;Řecký slovesný kmen&lt;/th&gt;
+&lt;th&gt;Příklad&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;trvání&lt;/td&gt;
+&lt;td&gt;imperfektivní (n. prézentní) kmen [✓]&lt;/td&gt;
+&lt;td&gt;παιδευ- [✓]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;dokonavost&lt;/td&gt;
+&lt;td&gt;kmen aoristu&lt;/td&gt;
+&lt;td&gt;παιδευσ-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rezultující stav&lt;/td&gt;
+&lt;td&gt;kmen perfekta&lt;/td&gt;
+&lt;td&gt;πεπαιδευ-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+&lt;h3 id=&#34;slovesný-čas&#34;&gt;Slovesný čas&lt;/h3&gt;
+&lt;p&gt;Časová reference slovesného tvaru (&lt;em&gt;tense&lt;/em&gt;) situuje popisovaný děj vzhledem na čas promluvy. Řecký systém přirozeně rozlišuje tři možnosti:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;čas popisovaného děje &lt;strong&gt;předchází&lt;/strong&gt; času promluvy ~ minulý čas (č. &lt;em&gt;psal jsem&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;popisovaný děj je &lt;strong&gt;současný&lt;/strong&gt; s časem promluvy ~ přítomný čas (č. &lt;em&gt;píšu&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;popisovaný děj je &lt;strong&gt;pozdější&lt;/strong&gt; než čas promluvy ~ budoucí čas (č. &lt;em&gt;budu psát&lt;/em&gt;).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Tyto časové reference se kombinují se slovesnými – teda aspektuálními – kmeny, no ne všechny kombinace jsou možné.&lt;/p&gt;
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+
+
+&lt;div class=&#34;table-responsive&#34;&gt;
+&lt;table class=&#34;table table-hover table-sm&#34;&gt;
+&lt;caption&gt;Kombinace časů a aspektů v indikativu&lt;/caption&gt;
+&lt;thead class=&#34;light&#34;&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Imperfektivní kmen&lt;/th&gt;
+&lt;th&gt;Kmen aoristu&lt;/th&gt;
+&lt;th&gt;Kmen perfekta&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;minulý čas&lt;/td&gt;
+&lt;td&gt;imperfektum [✓] - ἐπαίδευον&lt;/td&gt;
+&lt;td&gt;indik. aoristu - ἐπαίδευσα&lt;/td&gt;
+&lt;td&gt;plusquamperfektum - ἐπεπαιδεύκη&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;přítomný čas&lt;/td&gt;
+&lt;td&gt;prézens [✓] - παιδεύω&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;perfektum - πεπαίδευκα&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;budoucí čas&lt;/td&gt;
+&lt;td&gt;futurum [✓] - παιδεύσω&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;futurum exactum&lt;/em&gt; (mps.) - πεπαιδεύσομαι&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Čas jako takový řečtina kóduje hlavně koncovkami, ale taky temporálními příponami a předponami. Přítomný a budoucí čas mají pro každý slovesný rod společnou sadu koncovek, které se nazývají &lt;em&gt;primární&lt;/em&gt;. Minulý čas má vlastní sadu koncovek, které se nazývají &lt;em&gt;sekundární&lt;/em&gt;. Toto neplatí pro časy perfekta, které mají zvláštní sadu koncovek pro minulý i přítomný čas.&lt;/p&gt;
+&lt;p&gt;Protože přítomný a budoucí čas mají stejné koncovky, musí být rozlišeny jinak. Nejběžnější způsob je přípona -σ- ve futuru, zřídka pak speciální kmen pro futurum.&lt;/p&gt;
+&lt;p&gt;Minulý čas se kromě sekundárních koncovek vyznačuje taky předponou ἐ- (někdy kontrahovanou), zvanou &lt;em&gt;augment&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Trojúrovňové dělení gramatického času se veskrze týká jenom oznamovacího způsobu (indikativu).&lt;/p&gt;
+&lt;h3 id=&#34;slovesný-způsob&#34;&gt;Slovesný způsob&lt;/h3&gt;
+&lt;p&gt;Slovesný způsob (&lt;em&gt;mood&lt;/em&gt;) vyjadřuje subjektivní postoj mluvčího k ději, který je zachycený slovesným tvarem. Mluvčí může děj chápat kromě jiného jako skutečný, chtěný, očekávaný, nereálný, možný nebo jako rozkaz určený adresátovi či vybídku. Řečtina zná čtyři slovesné způsoby:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;indikativ (oznamovací zp.)&lt;/li&gt;
+&lt;li&gt;imperativ (rozkazovací zp.)&lt;/li&gt;
+&lt;li&gt;konjunktiv&lt;/li&gt;
+&lt;li&gt;optativ&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Slovesný čas (přít., min., bud.) se plně uplatňuje jenom v indikativu. U zbylých tří způsobů dbáme primárně na kombinaci aspektuálního kmene a způsobu, zachyceného modální příponou nebo u imperativu koncovkou.&lt;/p&gt;
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+
+
+&lt;div class=&#34;table-responsive&#34;&gt;
+&lt;table class=&#34;table table-hover table-sm&#34;&gt;
+&lt;caption&gt;Kombinace způsobů a aspektů&lt;/caption&gt;
+&lt;thead class=&#34;light&#34;&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Imperfektivní kmen&lt;/th&gt;
+&lt;th&gt;Kmen aoristu&lt;/th&gt;
+&lt;th&gt;Kmen perfekta&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;indikativ&lt;/td&gt;
+&lt;td&gt;[✓] - παιδεύω (+ ind. impf. a fut.)&lt;/td&gt;
+&lt;td&gt;ἐπαίδευσα&lt;/td&gt;
+&lt;td&gt;πεπαίδευκα (+ ind. plpf. a fut. ex.)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;imperativ&lt;/td&gt;
+&lt;td&gt;[✓] - παίδευε&lt;/td&gt;
+&lt;td&gt;παίδευσον&lt;/td&gt;
+&lt;td&gt;(mps.) - πεπαίδευσο&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;konjunktiv&lt;/td&gt;
+&lt;td&gt;[✓] - παιδεύω&lt;/td&gt;
+&lt;td&gt;παιδεύσω&lt;/td&gt;
+&lt;td&gt;πεπαιδεύκω&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;optativ&lt;/td&gt;
+&lt;td&gt;[✓] - παιδεύοιμι (+ opt. fut.)&lt;/td&gt;
+&lt;td&gt;παιδεύσαιμι&lt;/td&gt;
+&lt;td&gt;πεπαιδεύκοιμι (+ opt. fut. ex. mps.)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+&lt;h3 id=&#34;shrnutí&#34;&gt;Shrnutí&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;základním kamenem řeckého slovesného systému je &lt;strong&gt;aspekt&lt;/strong&gt; (č. vid)
+&lt;ul&gt;
+&lt;li&gt;tři různé aspekty se vyjadřují pomocí &lt;strong&gt;tří slovesných kmenů&lt;/strong&gt;: imperfektivný k., kmen aoristu a kmen perfekta&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;slovesné kmeny se kombinují buď s gramatickou kategorií &lt;strong&gt;času&lt;/strong&gt;, nebo &lt;strong&gt;způsobu&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;imperfektivní kmen a kmen perfekta zachycují všechny tři časové roviny (min., přít., bud.); kmen aoristu zachycuje jenom minulost&lt;/li&gt;
+&lt;li&gt;ze čtyř slovesných způsobů (indikativ, imperativ, konjunktiv, optativ) jenom indikativ zachycuje všechny tři časové roviny&lt;/li&gt;
+&lt;li&gt;optativ zachycuje taky futurum u aspektuálních kmenů, které futurum tvoří (imperfektivní k., kmen perfekta)&lt;/li&gt;
+&lt;li&gt;u imperativu a konjunktivu mluvíme nanejvýš o spojení aspektuálního kmene a slovesného způsobu, nikoliv času&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      </item>
+    
 
   </channel>
 </rss>
