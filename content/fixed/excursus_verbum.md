@@ -60,7 +60,7 @@ Trojúrovňové dělení gramatického času se veskrze týká jenom oznamovací
 
 ### Slovesný způsob
 
-Slovesný způsob (*mood*) vyjadřuje subjektivní postoj mluvčího k ději, který je zachycený slovesným tvarem. Mluvčí může děj chápat kromě jiného jako skutečný, chtěný, očekávaný, nereálný, možný nebo jako rozkaz určený adresátovi či vybídku. Řečtina zná čtyři slovesné způsoby:
+Slovesný způsob (*mood*) vyjadřuje subjektivní postoj mluvčího k ději, který je zachycen slovesným tvarem. Mluvčí může děj chápat kromě jiného jako skutečný, chtěný, očekávaný, nereálný, možný nebo jako rozkaz určený adresátovi či vybídku. Řečtina zná čtyři slovesné způsoby:
 
 1. indikativ (oznamovací zp.)
 2. imperativ (rozkazovací zp.)
@@ -86,7 +86,7 @@ Slovesný čas (přít., min., bud.) se plně uplatňuje jenom v indikativu. U z
 
 - základním kamenem řeckého slovesného systému je **aspekt** (č. vid)
   - tři různé aspekty se vyjadřují pomocí **tří slovesných kmenů**: imperfektivný k., kmen aoristu a kmen perfekta
-- slovesné kmeny se kombinují buď s gramatickou kategorií **času**, nebo **způsobu**
+- slovesné kmeny se kombinují buď s gramatickou kategorii **času**, nebo **způsobu**
   - imperfektivní kmen a kmen perfekta zachycují všechny tři časové roviny (min., přít., bud.); kmen aoristu zachycuje jenom minulost
   - ze čtyř slovesných způsobů (indikativ, imperativ, konjunktiv, optativ) jenom indikativ zachycuje všechny tři časové roviny
   - optativ zachycuje taky futurum u aspektuálních kmenů, které futurum tvoří (imperfektivní k., kmen perfekta)
