@@ -24,7 +24,7 @@ Tyto tři aspektuální možnosti gramatický systém kóduje pomocí tří slov
 | ---------------- | ------------------------------------- | ----------- |
 | trvání           | imperfektivní (n. prézentní) kmen [✓] | παιδευ- [✓] |
 | dokonavost       | kmen aoristu                          | παιδευσ-    |
-| rezultující stav | kmen perfekta                         | πεπαιδευ-   |
+| rezultující stav | kmen perfekta                         | πεπαιδευκ-  |
 
  {{< /bootstrap-table >}}
 
@@ -67,7 +67,7 @@ Slovesný způsob (*mood*) vyjadřuje subjektivní postoj mluvčího k ději, kt
 3. konjunktiv 
 4. optativ
 
-Slovesný čas (přít., min., bud.) se plně uplatňuje jenom v indikativu. U zbylých tří způsobů dbáme primárně na kombinaci aspektuálního kmene a způsobu, zachyceného modální příponou nebo u imperativu koncovkou.  
+Slovesný čas (přít., min., bud.) se plně uplatňuje jenom v indikativu. U zbylých tří způsobů dbáme primárně na kombinaci aspektuálního kmene a způsobu, zachyceného modální příponou nebo u imperativu koncovkou.   
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Kombinace způsobů a aspektů">}}
 
@@ -91,3 +91,7 @@ Slovesný čas (přít., min., bud.) se plně uplatňuje jenom v indikativu. U z
   - ze čtyř slovesných způsobů (indikativ, imperativ, konjunktiv, optativ) jenom indikativ zachycuje všechny tři časové roviny
   - optativ zachycuje taky futurum u aspektuálních kmenů, které futurum tvoří (imperfektivní k., kmen perfekta)
   - u imperativu a konjunktivu mluvíme nanejvýš o spojení aspektuálního kmene a slovesného způsobu, nikoliv času   
+
+### Úkol
+
+{{< button href="/greek/data/cviceni_6.pdf" class="btn-outline-info">}}Cvičení.pdf{{< /button >}}

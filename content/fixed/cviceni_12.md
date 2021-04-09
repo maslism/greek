@@ -86,7 +86,9 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
 
 {{</ pure-expand >}}
 
+### Úkol
 
+{{< button href="/greek/data/cviceni_5.pdf" class="btn-outline-info">}}Cvičení.pdf{{< /button >}}
 
 
 
