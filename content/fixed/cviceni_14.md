@@ -4,7 +4,7 @@
     "weight": "18"
 }
 
-### Infinitivní doplněni 
+### Infinitivní doplnění
 
 Infinitiv v řečtině často doplňuje řídící predikát, který má obyčejně podobu slovesa. Podle významu řídících predikátů můžeme infinitivní doplnění rozdělit na dvě kategorie: 
 
@@ -61,7 +61,7 @@ V souladu s významem řídících predikátu, které často vyjadřují vůli, 
 Řídící slovesa s lexikálními významy jako *zakazování*, *bránění*, *zdržení* a pod. vyjadřují to, že děj zachycený dynamickým infinitivem se nemá stát nebo je oddálen. Takovéto řídící predikáty jsou automaticky doplněny záporkou μή pro zdůraznění nerealizace děje vyjádřeného dynamickým infinitivem. Toto expletivní μή (srov. fr. *empêcher que ne*) se neprojeví na překladu do češtiny. Je-li řídící predikát negován, díky čemu nabývá jako celek kladný význam, je expletivní μή taky negováno na výsledné μὴ οὐ; celá konstrukce má pak kladný význam.    
 
 Ἁπαγορεύω τῶι δούλῳ **μὴ λέγειν** - *Zakazuji otrokovi **mluvit**.*  
-**Οὐκ** ἀναβάλλομαι **μή οὐ μάχεσθαι**. - *Spěchám **bojovat**.* 
+**Οὐκ** ἀναβάλλομαι **μὴ οὐ μάχεσθαι**. - *Spěchám **bojovat**.* 
 
 - ἀναβάλλομαι μή + inf. - *odkládám (na jindy)*...
 - **οὐκ** ἀναβάλλομαι **μὴ οὐ** - *neodkládám...* = *spěchám...* 
@@ -112,4 +112,4 @@ Rijksbaron, Albert (2002). *The syntax and semantics of the verb in classical Gr
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/krater.png" width=270 caption="Kratér na míchání vína a vody. Asi 480 p. n. l., Attika" link="/data/krater.png" target=”_blank” >}}
+{{< figure src="/data/krater.png" width=270 caption="Kratér na míchání vína a vody. Οἱ ἀγαθοὶ μάχεσθαι. Asi 480 p. n. l., Attika" link="/data/krater.png" target=”_blank” >}}

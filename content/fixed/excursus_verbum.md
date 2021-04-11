@@ -40,17 +40,17 @@ Tyto časové reference se kombinují se slovesnými – teda aspektuálními �
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Kombinace časů a aspektů v indikativu">}}
 
-|              | Imperfektivní kmen          | Kmen aoristu               | Kmen perfekta                            |
-| ------------ | --------------------------- | -------------------------- | ---------------------------------------- |
-| minulý čas   | imperfektum [✓] - ἐπαίδευον | indik. aoristu - ἐπαίδευσα | plusquamperfektum - ἐπεπαιδεύκη          |
-| přítomný čas | prézens [✓] - παιδεύω       | —                          | perfektum - πεπαίδευκα                   |
-| budoucí čas  | futurum [✓] - παιδεύσω      | —                          | *futurum exactum* (mps.) - πεπαιδεύσομαι |
+|                           | Imperfektivní kmen          | Kmen aoristu               | Kmen perfekta                            |
+| ------------------------- | --------------------------- | -------------------------- | ---------------------------------------- |
+| minulý čas                | imperfektum [✓] - ἐπαίδευον | indik. aoristu - ἐπαίδευσα | plusquamperfektum - ἐπεπαιδεύκη          |
+| přítomný čas              | prézens [✓] - παιδεύω       | —                          | perfektum - πεπαίδευκα                   |
+| budoucí čas [kmen futura] | futurum [✓] - παιδεύσω      | —                          | *futurum exactum* (mps.) - πεπαιδεύσομαι |
 
  {{< /bootstrap-table >}}
 
 Čas jako takový řečtina kóduje hlavně koncovkami, ale taky temporálními příponami a předponami. Přítomný a budoucí čas mají pro každý slovesný rod společnou sadu koncovek, které se nazývají *primární*. Minulý čas má vlastní sadu koncovek, které se nazývají *sekundární*. Toto neplatí pro časy perfekta, které mají zvláštní sadu koncovek pro minulý i přítomný čas.  
 
-Protože přítomný a budoucí čas mají stejné koncovky, musí být rozlišeny jinak. Nejběžnější způsob je přípona -σ- ve futuru, zřídka pak speciální kmen pro futurum.    
+Budoucí čas (futurum) je tvořen speciálním kmenem, často na základě (synchronní) přípony -σ-. Tento kmen je výlučně časový a z hlediska aspektu není definován, díky čemu může mít řecké futurum dokonavou (zastupuje futurum aoristu) i nedokonavou platnost.   
 
 Minulý čas se kromě sekundárních koncovek vyznačuje taky předponou ἐ- (někdy kontrahovanou), zvanou *augment*. 
 
@@ -85,11 +85,11 @@ Slovesný čas (přít., min., bud.) se plně uplatňuje jenom v indikativu. U z
 ### Shrnutí
 
 - základním kamenem řeckého slovesného systému je **aspekt** (č. vid)
-  - tři různé aspekty se vyjadřují pomocí **tří slovesných kmenů**: imperfektivný k., kmen aoristu a kmen perfekta
+  - tři různé aspekty se vyjadřují pomocí **tří slovesných kmenů**: imperfektivní k., kmen aoristu a kmen perfekta
 - slovesné kmeny se kombinují buď s gramatickou kategorii **času**, nebo **způsobu**
-  - imperfektivní kmen a kmen perfekta zachycují všechny tři časové roviny (min., přít., bud.); kmen aoristu zachycuje jenom minulost
+  - imperfektivní kmen a kmen perfekta zachycují časové roviny pro minulost a přítomnost; kmen aoristu zachycuje jenom minulost; budoucí čas se vyjadřuje kmenem futura, který nemá jednotnou vidovou platnost – futurum může být teda dokonavé i nedokonavé 
   - ze čtyř slovesných způsobů (indikativ, imperativ, konjunktiv, optativ) jenom indikativ zachycuje všechny tři časové roviny
-  - optativ zachycuje taky futurum u aspektuálních kmenů, které futurum tvoří (imperfektivní k., kmen perfekta)
+  - optativ se tvoří od tří aspektuálních kmenů (imperfektivní k., aorist, perfektum) a od kmenů budoucích (futurum, *futurum exactum*)
   - u imperativu a konjunktivu mluvíme nanejvýš o spojení aspektuálního kmene a slovesného způsobu, nikoliv času   
 
 ### Úkol

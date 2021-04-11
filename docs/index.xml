@@ -4306,7 +4306,7 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
 &lt;td&gt;perfektum - πεπαίδευκα&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;budoucí čas&lt;/td&gt;
+&lt;td&gt;budoucí čas [kmen futura]&lt;/td&gt;
 &lt;td&gt;futurum [✓] - παιδεύσω&lt;/td&gt;
 &lt;td&gt;—&lt;/td&gt;
 &lt;td&gt;&lt;em&gt;futurum exactum&lt;/em&gt; (mps.) - πεπαιδεύσομαι&lt;/td&gt;
@@ -4317,7 +4317,7 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
 &lt;/div&gt;
 
 &lt;p&gt;Čas jako takový řečtina kóduje hlavně koncovkami, ale taky temporálními příponami a předponami. Přítomný a budoucí čas mají pro každý slovesný rod společnou sadu koncovek, které se nazývají &lt;em&gt;primární&lt;/em&gt;. Minulý čas má vlastní sadu koncovek, které se nazývají &lt;em&gt;sekundární&lt;/em&gt;. Toto neplatí pro časy perfekta, které mají zvláštní sadu koncovek pro minulý i přítomný čas.&lt;/p&gt;
-&lt;p&gt;Protože přítomný a budoucí čas mají stejné koncovky, musí být rozlišeny jinak. Nejběžnější způsob je přípona -σ- ve futuru, zřídka pak speciální kmen pro futurum.&lt;/p&gt;
+&lt;p&gt;Budoucí čas (futurum) je tvořen speciálním kmenem, často na základě (synchronní) přípony -σ-. Tento kmen je výlučně časový a z hlediska aspektu není definován, díky čemu může mít řecké futurum dokonavou (zastupuje futurum aoristu) i nedokonavou platnost.&lt;/p&gt;
 &lt;p&gt;Minulý čas se kromě sekundárních koncovek vyznačuje taky předponou ἐ- (někdy kontrahovanou), zvanou &lt;em&gt;augment&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Trojúrovňové dělení gramatického času se veskrze týká jenom oznamovacího způsobu (indikativu).&lt;/p&gt;
 &lt;h3 id=&#34;slovesný-způsob&#34;&gt;Slovesný způsob&lt;/h3&gt;
@@ -4389,14 +4389,14 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
 &lt;ul&gt;
 &lt;li&gt;základním kamenem řeckého slovesného systému je &lt;strong&gt;aspekt&lt;/strong&gt; (č. vid)
 &lt;ul&gt;
-&lt;li&gt;tři různé aspekty se vyjadřují pomocí &lt;strong&gt;tří slovesných kmenů&lt;/strong&gt;: imperfektivný k., kmen aoristu a kmen perfekta&lt;/li&gt;
+&lt;li&gt;tři různé aspekty se vyjadřují pomocí &lt;strong&gt;tří slovesných kmenů&lt;/strong&gt;: imperfektivní k., kmen aoristu a kmen perfekta&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;slovesné kmeny se kombinují buď s gramatickou kategorii &lt;strong&gt;času&lt;/strong&gt;, nebo &lt;strong&gt;způsobu&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;imperfektivní kmen a kmen perfekta zachycují všechny tři časové roviny (min., přít., bud.); kmen aoristu zachycuje jenom minulost&lt;/li&gt;
+&lt;li&gt;imperfektivní kmen a kmen perfekta zachycují časové roviny pro minulost a přítomnost; kmen aoristu zachycuje jenom minulost; budoucí čas se vyjadřuje kmenem futura, který nemá jednotnou vidovou platnost – futurum může být teda dokonavé i nedokonavé&lt;/li&gt;
 &lt;li&gt;ze čtyř slovesných způsobů (indikativ, imperativ, konjunktiv, optativ) jenom indikativ zachycuje všechny tři časové roviny&lt;/li&gt;
-&lt;li&gt;optativ zachycuje taky futurum u aspektuálních kmenů, které futurum tvoří (imperfektivní k., kmen perfekta)&lt;/li&gt;
+&lt;li&gt;optativ se tvoří od tří aspektuálních kmenů (imperfektivní k., aorist, perfektum) a od kmenů budoucích (futurum, &lt;em&gt;futurum exactum&lt;/em&gt;)&lt;/li&gt;
 &lt;li&gt;u imperativu a konjunktivu mluvíme nanejvýš o spojení aspektuálního kmene a slovesného způsobu, nikoliv času&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -4416,7 +4416,7 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
         <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
         <author>Martin Masliš</author>
         <guid>/fixed/cviceni_14/</guid>
-        <description>&lt;h3 id=&#34;infinitivní-doplněni&#34;&gt;Infinitivní doplněni&lt;/h3&gt;
+        <description>&lt;h3 id=&#34;infinitivní-doplnění&#34;&gt;Infinitivní doplnění&lt;/h3&gt;
 &lt;p&gt;Infinitiv v řečtině často doplňuje řídící predikát, který má obyčejně podobu slovesa. Podle významu řídících predikátů můžeme infinitivní doplnění rozdělit na dvě kategorie:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;dynamický infinitiv&lt;/strong&gt;&lt;/li&gt;
@@ -4465,7 +4465,7 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
 &lt;h4 id=&#34;expletivní-μή&#34;&gt;Expletivní μή&lt;/h4&gt;
 &lt;p&gt;Řídící slovesa s lexikálními významy jako &lt;em&gt;zakazování&lt;/em&gt;, &lt;em&gt;bránění&lt;/em&gt;, &lt;em&gt;zdržení&lt;/em&gt; a pod. vyjadřují to, že děj zachycený dynamickým infinitivem se nemá stát nebo je oddálen. Takovéto řídící predikáty jsou automaticky doplněny záporkou μή pro zdůraznění nerealizace děje vyjádřeného dynamickým infinitivem. Toto expletivní μή (srov. fr. &lt;em&gt;empêcher que ne&lt;/em&gt;) se neprojeví na překladu do češtiny. Je-li řídící predikát negován, díky čemu nabývá jako celek kladný význam, je expletivní μή taky negováno na výsledné μὴ οὐ; celá konstrukce má pak kladný význam.&lt;/p&gt;
 &lt;p&gt;Ἁπαγορεύω τῶι δούλῳ &lt;strong&gt;μὴ λέγειν&lt;/strong&gt; - &lt;em&gt;Zakazuji otrokovi &lt;strong&gt;mluvit&lt;/strong&gt;.&lt;/em&gt;&lt;br&gt;
-&lt;strong&gt;Οὐκ&lt;/strong&gt; ἀναβάλλομαι &lt;strong&gt;μή οὐ μάχεσθαι&lt;/strong&gt;. - &lt;em&gt;Spěchám &lt;strong&gt;bojovat&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;strong&gt;Οὐκ&lt;/strong&gt; ἀναβάλλομαι &lt;strong&gt;μὴ οὐ μάχεσθαι&lt;/strong&gt;. - &lt;em&gt;Spěchám &lt;strong&gt;bojovat&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ἀναβάλλομαι μή + inf. - &lt;em&gt;odkládám (na jindy)&lt;/em&gt;&amp;hellip;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;οὐκ&lt;/strong&gt; ἀναβάλλομαι &lt;strong&gt;μὴ οὐ&lt;/strong&gt; - &lt;em&gt;neodkládám&amp;hellip;&lt;/em&gt; = &lt;em&gt;spěchám&amp;hellip;&lt;/em&gt;&lt;/li&gt;
@@ -4564,8 +4564,8 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
 &lt;/div&gt;
 &lt;figure&gt;&lt;a href=&#34;./data/krater.png&#34; target=&#34;”_blank”&#34;&gt;
     &lt;img src=&#34;./data/krater.png&#34;
-         alt=&#34;Kratér na míchání vína a vody. Asi 480 p. n. l., Attika&#34; width=&#34;270&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
-            &lt;p&gt;Kratér na míchání vína a vody. Asi 480 p. n. l., Attika&lt;/p&gt;
+         alt=&#34;Kratér na míchání vína a vody. Οἱ ἀγαθοὶ μάχεσθαι. Asi 480 p. n. l., Attika&#34; width=&#34;270&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;Kratér na míchání vína a vody. Οἱ ἀγαθοὶ μάχεσθαι. Asi 480 p. n. l., Attika&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
