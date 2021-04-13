@@ -11,7 +11,7 @@ Infinitiv v řečtině často doplňuje řídící predikát, který má obyčej
 1. **dynamický infinitiv**
 2. deklarativní infinitiv
 
-Dynamický infinitiv se vyskytuje po slovesech *vůle, (ne)chtění*, *(ne)schopnosti* a *(ne)možnosti* a po adjektivech *kvality, (ne)schopnosti* a *(ne)možnosti*. Po slovesech *dávání* a *přijímání* někdy stojí tento infinitiv a vyjadřuje cíl, který sleduje agens řídícího slovesa (č. *Pošlu syna studovat do Anglie.*)  Doplnění dynamickým infinitivem teda zachycuje potenciální děje (ἐν δυνάμει), které jsou buď cílem vůle nějakého aktéra, nebo vyplývají z nespecifikované povinnosti, či z (ne)schopnosti vůbec tyto potenciálně děje realizovat. 
+Dynamický infinitiv se vyskytuje po slovesech *vůle, (ne)chtění*, *(ne)schopnosti* a *(ne)možnosti* a po adjektivech *kvality, (ne)schopnosti* a *(ne)možnosti*. Po slovesech *dávání* a *přijímání* někdy stojí tento infinitiv a vyjadřuje cíl, který sleduje agens řídícího slovesa (č. *Pošlu syna studovat do Anglie.*)  Doplnění dynamickým infinitivem teda zachycuje potenciální děje (ἐν δυνάμει), které jsou buď cílem vůle nějakého aktéra, nebo vyplývají z nespecifikované povinnosti, či z (ne)schopnosti vůbec tyto potenciální děje realizovat. 
 
 Je-li subjekt řídícího slovesa a infinitivu shodný, stojí infinitiv bez explicitního vyjádření subjektu (ang. *I want to leave*). V případě neshody mezi subjekty musí být podmět infinitivu vyjádřen (ang. *I want you to leave*). Pád, ve kterém stojí vyjádřený podmět infinitivu, odpovídá vazbě řídícího slovesa; dynamický infinitiv může mít podmět v genitivu, dativu (č. *Radím ti odejít*.) nebo akuzativu (č. *Donutím tě odejít*.)  
 
