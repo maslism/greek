@@ -117,4 +117,4 @@ Rijksbaron, Albert (2002). *The syntax and semantics of the verb in classical Gr
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/krater.png" width=270 caption="Kratér na míchání vína a vody. Οἱ ἀγαθοὶ μάχεσθαι. Asi 480 p. n. l., Attika." link="/data/krater.png" target=”_blank” >}}
+{{< figure src="/data/krater.png" width=270 caption="Krátér na míchání vína a vody. Οἱ ἀγαθοὶ μάχεσθαι. Asi 480 p. n. l., Attika." link="/data/krater.png" target=”_blank” >}}
