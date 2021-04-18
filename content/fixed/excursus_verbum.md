@@ -14,7 +14,7 @@ Slovesný systém staré řečtiny není čistě temporální, ale spojuje v sob
 
 1. **trváním** (č. *psal jsem*)
 2. **dokonavostí** (č. *napsal jsem*) nebo 
-3. **rezultujícím stavem**. (č. *jsem napsán*). 
+3. **rezultujícím stavem**. (č. *je napsáno*). 
 
 Tyto tři aspektuální možnosti gramatický systém kóduje pomocí tří slovesných kmenů: kmen imperfekta (prézentní), kmen aoristu a kmen perfekta.   
 
@@ -40,11 +40,11 @@ Tyto časové reference se kombinují se slovesnými – teda aspektuálními �
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Kombinace časů a aspektů v indikativu">}}
 
-|                           | Imperfektivní kmen          | Kmen aoristu               | Kmen perfekta                            |
-| ------------------------- | --------------------------- | -------------------------- | ---------------------------------------- |
-| minulý čas                | imperfektum [✓] - ἐπαίδευον | indik. aoristu - ἐπαίδευσα | plusquamperfektum - ἐπεπαιδεύκη          |
-| přítomný čas              | prézens [✓] - παιδεύω       | —                          | perfektum - πεπαίδευκα                   |
-| budoucí čas [kmen futura] | futurum [✓] - παιδεύσω      | —                          | *futurum exactum* (mps.) - πεπαιδεύσομαι |
+|                               | Imperfektivní kmen          | Kmen aoristu               | Kmen perfekta                            |
+| ----------------------------- | --------------------------- | -------------------------- | ---------------------------------------- |
+| minulý čas                    | imperfektum [✓] - ἐπαίδευον | indik. aoristu - ἐπαίδευσα | plusquamperfektum - ἐπεπαιδεύκη          |
+| přítomný čas                  | prézens [✓] - παιδεύω       | —                          | perfektum - πεπαίδευκα                   |
+| budoucí čas [**kmen futura**] | ~ futurum [✓] - παιδεύσω    | ~ futurum                  | *futurum exactum* (mps.) - πεπαιδεύσομαι |
 
  {{< /bootstrap-table >}}
 

@@ -4209,7 +4209,7 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;trváním&lt;/strong&gt; (č. &lt;em&gt;psal jsem&lt;/em&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;dokonavostí&lt;/strong&gt; (č. &lt;em&gt;napsal jsem&lt;/em&gt;) nebo&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;rezultujícím stavem&lt;/strong&gt;. (č. &lt;em&gt;jsem napsán&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;rezultujícím stavem&lt;/strong&gt;. (č. &lt;em&gt;je napsáno&lt;/em&gt;).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Tyto tři aspektuální možnosti gramatický systém kóduje pomocí tří slovesných kmenů: kmen imperfekta (prézentní), kmen aoristu a kmen perfekta.&lt;/p&gt;
 
@@ -4306,9 +4306,9 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
 &lt;td&gt;perfektum - πεπαίδευκα&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;budoucí čas [kmen futura]&lt;/td&gt;
-&lt;td&gt;futurum [✓] - παιδεύσω&lt;/td&gt;
-&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;budoucí čas [&lt;strong&gt;kmen futura&lt;/strong&gt;]&lt;/td&gt;
+&lt;td&gt;~ futurum [✓] - παιδεύσω&lt;/td&gt;
+&lt;td&gt;~ futurum&lt;/td&gt;
 &lt;td&gt;&lt;em&gt;futurum exactum&lt;/em&gt; (mps.) - πεπαιδεύσομαι&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -4423,7 +4423,13 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
 &lt;li&gt;deklarativní infinitiv&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Dynamický infinitiv se vyskytuje po slovesech &lt;em&gt;vůle, (ne)chtění&lt;/em&gt;, &lt;em&gt;(ne)schopnosti&lt;/em&gt; a &lt;em&gt;(ne)možnosti&lt;/em&gt; a po adjektivech &lt;em&gt;kvality, (ne)schopnosti&lt;/em&gt; a &lt;em&gt;(ne)možnosti&lt;/em&gt;. Po slovesech &lt;em&gt;dávání&lt;/em&gt; a &lt;em&gt;přijímání&lt;/em&gt; někdy stojí tento infinitiv a vyjadřuje cíl, který sleduje agens řídícího slovesa (č. &lt;em&gt;Pošlu syna studovat do Anglie.&lt;/em&gt;)  Doplnění dynamickým infinitivem teda zachycuje potenciální děje (ἐν δυνάμει), které jsou buď cílem vůle nějakého aktéra, nebo vyplývají z nespecifikované povinnosti, či z (ne)schopnosti vůbec tyto potenciální děje realizovat.&lt;/p&gt;
-&lt;p&gt;Je-li subjekt řídícího slovesa a infinitivu shodný, stojí infinitiv bez explicitního vyjádření subjektu (ang. &lt;em&gt;I want to leave&lt;/em&gt;). V případě neshody mezi subjekty musí být podmět infinitivu vyjádřen (ang. &lt;em&gt;I want you to leave&lt;/em&gt;). Pád, ve kterém stojí vyjádřený podmět infinitivu, odpovídá vazbě řídícího slovesa; dynamický infinitiv může mít podmět v genitivu, dativu (č. &lt;em&gt;Radím ti odejít&lt;/em&gt;.) nebo akuzativu (č. &lt;em&gt;Donutím tě odejít&lt;/em&gt;.)&lt;/p&gt;
+&lt;p&gt;Je-li subjekt řídícího slovesa a infinitivu shodný, stojí infinitiv bez explicitního vyjádření subjektu (ang. &lt;em&gt;I want to leave.&lt;/em&gt;). V případě neshody mezi subjekty musí být podmět infinitivu vyjádřen (ang. &lt;em&gt;I want you to leave.&lt;/em&gt;). Pád, ve kterém stojí vyjádřený podmět infinitivu, odpovídá vazbě řídícího slovesa; dynamický infinitiv může mít podmět v genitivu, dativu (č. &lt;em&gt;Radím ti odejít&lt;/em&gt;.) nebo akuzativu (č. &lt;em&gt;Donutím tě odejít&lt;/em&gt;.)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Δεῖ &lt;strong&gt;φυλάττεσθαι&lt;/strong&gt; τὴν ἐλευϑερίαν.&lt;br&gt;
+&lt;em&gt;Je třeba, aby byla svoboda střežena.&lt;/em&gt;&lt;br&gt;
+Συμβουλεύω τῷ στρατηγῷ &lt;strong&gt;μὴ&lt;/strong&gt; &lt;strong&gt;πιστεύειν&lt;/strong&gt; τῷ πολεμίῳ.&lt;br&gt;
+&lt;em&gt;Radím stratégovi, aby nevěřil nepříteli.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;div class=&#34;row&#34;&gt;
 &lt;div class=&#34;col-md&#34;&gt;&lt;p&gt;&lt;strong&gt;Vůle&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -4464,7 +4470,7 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
 &lt;p&gt;V souladu s významem řídících predikátu, které často vyjadřují vůli, je dynamický infinitiv negován záporkou &lt;strong&gt;μή&lt;/strong&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;expletivní-μή&#34;&gt;Expletivní μή&lt;/h4&gt;
 &lt;p&gt;Řídící slovesa s lexikálními významy jako &lt;em&gt;zakazování&lt;/em&gt;, &lt;em&gt;bránění&lt;/em&gt;, &lt;em&gt;zdržení&lt;/em&gt; a pod. vyjadřují to, že děj zachycený dynamickým infinitivem se nemá stát nebo je oddálen. Takovéto řídící predikáty jsou automaticky doplněny záporkou μή pro zdůraznění nerealizace děje vyjádřeného dynamickým infinitivem. Toto expletivní μή (srov. fr. &lt;em&gt;empêcher que ne&lt;/em&gt;) se neprojeví na překladu do češtiny. Je-li řídící predikát negován, díky čemu nabývá jako celek kladný význam, je expletivní μή taky negováno na výsledné μὴ οὐ; celá konstrukce má pak kladný význam.&lt;/p&gt;
-&lt;p&gt;Ἁπαγορεύω τῶι δούλῳ &lt;strong&gt;μὴ λέγειν&lt;/strong&gt; - &lt;em&gt;Zakazuji otrokovi &lt;strong&gt;mluvit&lt;/strong&gt;.&lt;/em&gt;&lt;br&gt;
+&lt;p&gt;Ἁπαγορεύω τῷ δούλῳ &lt;strong&gt;μὴ λέγειν&lt;/strong&gt; - &lt;em&gt;Zakazuji otrokovi &lt;strong&gt;mluvit&lt;/strong&gt;.&lt;/em&gt;&lt;br&gt;
 &lt;strong&gt;Οὐκ&lt;/strong&gt; ἀναβάλλομαι &lt;strong&gt;μὴ οὐ μάχεσθαι&lt;/strong&gt;. - &lt;em&gt;Spěchám &lt;strong&gt;bojovat&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ἀναβάλλομαι μή + inf. - &lt;em&gt;odkládám (na jindy)&lt;/em&gt;&amp;hellip;&lt;/li&gt;
@@ -4564,8 +4570,146 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
 &lt;/div&gt;
 &lt;figure&gt;&lt;a href=&#34;./data/krater.png&#34; target=&#34;”_blank”&#34;&gt;
     &lt;img src=&#34;./data/krater.png&#34;
-         alt=&#34;Kratér na míchání vína a vody. Οἱ ἀγαθοὶ μάχεσθαι. Asi 480 p. n. l., Attika&#34; width=&#34;270&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
-            &lt;p&gt;Kratér na míchání vína a vody. Οἱ ἀγαθοὶ μάχεσθαι. Asi 480 p. n. l., Attika&lt;/p&gt;
+         alt=&#34;Kratér na míchání vína a vody. Οἱ ἀγαθοὶ μάχεσθαι. Asi 480 p. n. l., Attika.&#34; width=&#34;270&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;Kratér na míchání vína a vody. Οἱ ἀγαθοὶ μάχεσθαι. Asi 480 p. n. l., Attika.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+</description>
+      </item>
+    
+      <item>
+        <title>15. cvičení – Deklarativní infinitiv</title>
+        <link>/fixed/cviceni_15/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+        <author>Martin Masliš</author>
+        <guid>/fixed/cviceni_15/</guid>
+        <description>&lt;p&gt;Deklarativní infinitiv doplňuje řídící predikáty s významem &lt;em&gt;jazykového projevu&lt;/em&gt; nebo &lt;em&gt;mentální činnosti&lt;/em&gt;. Zatímco dynamický infinitiv popisuje potenciální nebo virtuální děje (č. &lt;em&gt;Chci malovat.&lt;/em&gt;), deklarativní infinitiv zachycuje reálny stav z pohledu subjektu řídícího slovesa (lat. &lt;em&gt;Dīcō eum bene labōrāre&lt;/em&gt;.). Infinitiv prézentu popisuje děj současný vzhledem na čas řídícího slovesa.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Λέγω&lt;/em&gt;, &lt;strong&gt;ὅτι&lt;/strong&gt; ὁ ἀγαϑὸς πολίτης πείϑεται τοῖς νόμοις. =&lt;br&gt;
+&lt;em&gt;Λέγω&lt;/em&gt; &lt;strong&gt;τὸν ἀγαϑὸν πολίτην&lt;/strong&gt; &lt;strong&gt;πείϑεσϑαι&lt;/strong&gt; τοῖς νόμοις.&lt;br&gt;
+&lt;em&gt;Říkám, že dobrý občan poslouchá zákony.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Je-li subjekt řídícího slovesa a infinitivu totožný, nemusí být subjekt u inf. explicitně vyjádřen. Při neshodě podmětů je ale podmět infinitivu vyjádřen, a to vždy &lt;strong&gt;akuzativem&lt;/strong&gt;. Deklarativní infinitiv je teda velmi často součástí vazby &lt;strong&gt;akuzativu s infinitivem.&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Λέγομεν&lt;/em&gt; &lt;strong&gt;τοὺς πολίτας&lt;/strong&gt; ὑπὸ τῶν νόμων &lt;strong&gt;παιδεύεσθαι&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;Říkáme, že občané jsou zákony dobře vychováváni.&lt;/em&gt;&lt;br&gt;
+Ale: Λέγομεν εὖ &lt;strong&gt;παιδεύεσϑαι&lt;/strong&gt; ὑπὸ τῶν νόμων.&lt;br&gt;
+&lt;em&gt;Říkáme, že jsme zákony dobře vychováváni&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Deklarativní infinitiv je negován záporkou &lt;strong&gt;οὐ&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Vazbu akuzativu s infinitivem lze převézt na vazbu &lt;strong&gt;nominativu s infinitivem&lt;/strong&gt;: řídící sloveso je v pasivu, osobou a číslem se shoduje s podmětem v nominativu; původní akuzativ se mění na nominativ (lat. &lt;em&gt;Dīcō patrem bene labōrāre&lt;/em&gt;. &amp;gt; &lt;em&gt;Pater bene labōrāre dīcitur&lt;/em&gt;.).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Οἱ πολῖται&lt;/strong&gt; ὑπὸ τῶν νόμων &lt;strong&gt;παιδεύεσθαι&lt;/strong&gt; &lt;em&gt;λέγονται&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;Říká se, že občané jsou zákony vychováváni.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;row&#34;&gt;
+&lt;div class=&#34;col-md&#34;&gt;&lt;p&gt;&lt;strong&gt;Řídící slovesa&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;λέγω &lt;em&gt;říkám&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;ἀγγέλλω &lt;em&gt;oznamuji&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;νομίζω &lt;em&gt;myslím&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+ 
+&lt;div class=&#34;col-md&#34;&gt;&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;οἴομαι &lt;em&gt;domnívám se, myslím&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;πυνθάνομαι &lt;em&gt;dovídám se&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;ἀκούω &lt;em&gt;slyším&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+ 
+&lt;/div&gt;
+
+&lt;h3 id=&#34;věty&#34;&gt;Věty&lt;/h3&gt;
+&lt;p&gt;1. Νομίζομεν τὸν κακὸν βλάπτειν καὶ τοὺς φίλους. 2. Ὑπολαμβάνομεν σελήνην καὶ περὶ τὸν ἥλιον στρέφεσθαι. 3. Ὁ ἄγγελος ἀγγέλλει τὸν πολέμιον παρασκευάζεσϑαι πρὸς τὸν πόλεμον. 4. Ἠγγέλλετο ἡ στρατιὰ ἰσχυρῶς μάχεσϑαι καὶ νίκη προσέρχεσϑαι. 5. Νομίζομεν τοὺς συμμάχους ἐν πολέμῳ συμπράττειν τῷ δήμῳ καὶ λόγῳ καὶ ἔργῳ. 6. Λέγομεν τὴν γλῶτταν πολλάκις μᾶλλον βλάπτειν ἢ τὸν σίδηρον. 7. Ἀεὶ ἐνομίζομεν τὴν εἰρήνην ὑπὸ τῶν φίλων καὶ τῶν συμμάχων σῴζεσθαι.&lt;/p&gt;
+&lt;div class=&#34;pure-expand&#34;&gt;
+  &lt;input id=&#34;expand-1&#34; class=&#34;pure-expand-checkbox&#34; type=&#34;checkbox&#34; /&gt;
+  &lt;label for=&#34;expand-1&#34; class=&#34;pure-expand-header&#34;&gt;&lt;span class=&#34;pure-expand-header-title&#34;&gt;Slovní zásoba&lt;/span&gt;&lt;/label&gt;&lt;div class=&#34;pure-expand-content&#34;&gt;βλάπτω, -ειν (s ak.) –  škodím&lt;br&gt;
+ὑπο-λαμβάνω, -ειν – domnívám se&lt;br&gt;
+περί (s ak.) – okolο&lt;br&gt;
+στρέφω, -ειν – otáčím, překrucuji&lt;br&gt;
+ἄγγελος, -ου, ὁ – posel&lt;br&gt;
+ἀγγέλλω, -ειν – oznamuji, zvěstuji&lt;br&gt;
+προσ-έρχομαι, -εσθαι – přicházím, blížím se&lt;br&gt;
+σύμμαχος, -ου, ὁ – spojenec&lt;br&gt;
+συμ-πράττω, -ειν (s dat.) – pomáhám&lt;br&gt;
+μᾶλλον - ἤ – více - než&lt;br&gt;
+σίδηρος, -ου, ὁ – železo&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&#34;křížové-odkazy&#34;&gt;Křížové odkazy&lt;/h3&gt;
+&lt;nav&gt;
+	&lt;div class=&#34;nav nav-tabs&#34; id=&#34;nav-tab&#34; role=&#34;tablist&#34;&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link active&#34; id=&#34;nav-1&#34; data-toggle=&#34;tab&#34; href=&#34;#tab11&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;true&#34;&gt;Hnátek&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-1&#34; data-toggle=&#34;tab&#34; href=&#34;#tab12&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Rijksbaron&lt;/a&gt;
+
+		
+		
+
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;1&#34;&gt;
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade show active&#34; id=&#34;tab11&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName1&#34;&gt;
+
+	s. 25-26
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab12&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName2&#34;&gt;
+
+	Rijksbaron, Albert (2002). &lt;em&gt;The syntax and semantics of the verb in classical Greek: an introduction&lt;/em&gt; (3rd edition). Gieben. — s. 96-112.
+
+&lt;/div&gt;
+
+
+
+
+
+&lt;/div&gt;
+&lt;figure&gt;&lt;a href=&#34;./data/hermes.png&#34; target=&#34;”_blank”&#34;&gt;
+    &lt;img src=&#34;./data/hermes.png&#34;
+         alt=&#34;Lékythos s Hermem, poslem bohů – ἄγγελος τῶν θεῶν. 480-470 p. n. l., Attika.&#34; width=&#34;170&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;Lékythos s Hermem, poslem bohů – ἄγγελος τῶν θεῶν. 480-470 p. n. l., Attika.&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 

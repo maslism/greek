@@ -159,7 +159,7 @@ původ jevusylabifikace -οι, když následovalo jiné slovo se začátečným 
       
       <guid>/fixed/excursus_verbum/</guid>
       <description>Slovesný systém staré řečtiny Aspektuální kmeny Slovesný systém staré řečtiny není čistě temporální, ale spojuje v sobě znaky temporálních a aspektuálních systémů. Tzv. viewpoint aspect (č. vid) určuje to, jak mluvčí konceptualizuje děj vyjádřený slovesným tvarem. V řečtině aspekt zachycuje a rozlišuje děje vyznačující se:
- trváním (č. psal jsem) dokonavostí (č. napsal jsem) nebo rezultujícím stavem. (č. jsem napsán).  Tyto tři aspektuální možnosti gramatický systém kóduje pomocí tří slovesných kmenů: kmen imperfekta (prézentní), kmen aoristu a kmen perfekta.</description>
+ trváním (č. psal jsem) dokonavostí (č. napsal jsem) nebo rezultujícím stavem. (č. je napsáno).  Tyto tři aspektuální možnosti gramatický systém kóduje pomocí tří slovesných kmenů: kmen imperfekta (prézentní), kmen aoristu a kmen perfekta.</description>
     </item>
     
     <item>
@@ -170,6 +170,18 @@ původ jevusylabifikace -οι, když následovalo jiné slovo se začátečným 
       <guid>/fixed/cviceni_14/</guid>
       <description>Infinitivní doplnění Infinitiv v řečtině často doplňuje řídící predikát, který má obyčejně podobu slovesa. Podle významu řídících predikátů můžeme infinitivní doplnění rozdělit na dvě kategorie:
  dynamický infinitiv deklarativní infinitiv  Dynamický infinitiv se vyskytuje po slovesech vůle, (ne)chtění, (ne)schopnosti a (ne)možnosti a po adjektivech kvality, (ne)schopnosti a (ne)možnosti. Po slovesech dávání a přijímání někdy stojí tento infinitiv a vyjadřuje cíl, který sleduje agens řídícího slovesa (č. Pošlu syna studovat do Anglie.</description>
+    </item>
+    
+    <item>
+      <title>15. cvičení – Deklarativní infinitiv</title>
+      <link>/fixed/cviceni_15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fixed/cviceni_15/</guid>
+      <description>Deklarativní infinitiv doplňuje řídící predikáty s významem jazykového projevu nebo mentální činnosti. Zatímco dynamický infinitiv popisuje potenciální nebo virtuální děje (č. Chci malovat.), deklarativní infinitiv zachycuje reálny stav z pohledu subjektu řídícího slovesa (lat. Dīcō eum bene labōrāre.). Infinitiv prézentu popisuje děj současný vzhledem na čas řídícího slovesa.
+ Λέγω, ὅτι ὁ ἀγαϑὸς πολίτης πείϑεται τοῖς νόμοις. =
+Λέγω τὸν ἀγαϑὸν πολίτην πείϑεσϑαι τοῖς νόμοις.
+Říkám, že dobrý občan poslouchá zákony.</description>
     </item>
     
   </channel>
