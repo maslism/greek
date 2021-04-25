@@ -70,6 +70,10 @@ Vazbu akuzativu s infinitivem lze převézt na vazbu **nominativu s infinitivem*
 
 {{</ pure-expand >}}
 
+### Úkol
+
+{{< button href="/greek/data/cviceni_7.pdf" class="btn-outline-info">}}Cvičení.pdf{{< /button >}}
+
 
 
 ### Křížové odkazy
