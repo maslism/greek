@@ -100,6 +100,10 @@ U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -θω, 
 τὰ χαλεπὰ πράγματα – obtížné poměry, obtížné postavení    
 {{</ pure-expand >}}
 
+### Úkol
+
+{{< button href="/greek/data/cviceni_8.pdf" class="btn-outline-info">}}Cvičení.pdf{{< /button >}}
+
 
 
 ### Křížové odkazy
