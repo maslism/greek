@@ -13,7 +13,7 @@
 | nom. | -ς nebo kmen (-ρ, -ν) | ∅     |      | -ες          | -ᾰ     |
 | gen. | -ος                   | -ος   |      | -ων          | -ων    |
 | dat. | -ῐ                    | -ῐ    |      | -σῐ(ν)       | -σῐ(ν) |
-| acc. | -ᾰ                    | ∅     |      | -ᾰς          | -ᾰ     |
+| acc. | -ᾰ, -ν                | ∅     |      | -ᾰς, -ς      | -ᾰ     |
 | voc. | = nom. nebo kmen      | ∅     |      | = nom.       | -ᾰ     |
 
  {{< /bootstrap-table >}}
@@ -177,4 +177,4 @@ III. dekl.: kmeny hrdelné a retné (§ 90-91); fut. kmenů hrdel. a retných
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/lekythos.png" width=230 caption="Lékythos. Prostřední pás s Néreovnami přinášejícími novou zbroj pro Achilla, spodní pás s amazonomachii - bojem Thésea a Hippolýta proti Amazonkám. Asi 420 p. n. l., Eretria Painter." link="/data/lekythos.png" target=”_blank” >}}
+{{< figure src="/data/lekythos.png" width=230 caption="Lékythos. Prostřední pás s Néreovnami přinášejícími novou zbroj pro Achilla, spodní pás s amazonomachií - bojem Thésea a Hippolýta proti Amazonkám. Asi 420 p. n. l., Eretria Painter." link="/data/lekythos.png" target=”_blank” >}}
