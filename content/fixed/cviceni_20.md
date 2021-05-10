@@ -16,13 +16,13 @@ Nom. *-ont-ya > *-onsa > -ōsa > -ουσᾰ. Gen. *-ont-yā-s > -onsās > *-ōs�
 
 {{</ pure-expand >}}
 
-> Časová reference *participia prézentu aktiva* je vždy současná s časovou referenci určitého slovesného tvaru ve větě. 
+> Časová reference *participia prézentu aktiva* je vždy současná s časovou referencí určitého slovesného tvaru ve větě. 
 
 Participium futura aktiva se příponou shoduje s ptc. praes. akt., no je tvořeno od kmene futura:
 
 παιδεύσ-ων, g. -σοντος; παιδεύσ-ουσα, g. -σης; παιδεῦσ-ον, g. -σοντος *maje (chtěje) vychovávat (vychovat)*
 
-> Časová reference *participia futura aktiva* je vždy následná vzhledem na časovou referenci určitého slovesného tvaru ve větě. 
+> Časová reference *participia futura aktiva* je vždy následná vzhledem na časovou referencí určitého slovesného tvaru ve větě. 
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
@@ -50,19 +50,19 @@ Participium prézentu media a pasiva je trojvýchodné slovesné adjektivum I. a
 
 παιδευ-ό-μενος, παιδευ-ο-μένη, παιδευ-ό-μενον 1. *vychovávaje si, se*; 2. *jsa vychováván*; 3. *vychovávaný*
 
-> Časová reference *participia prézentu mediopasiva* je vždy současná s časovou referenci určitého slovesného tvaru ve větě. Participium může mít mediální nebo pasivní význam.
+> Časová reference *participia prézentu mediopasiva* je vždy současná s časovou referencí určitého slovesného tvaru ve větě. Participium může mít mediální nebo pasivní význam.
 
 Participium futura media se příponou shoduje s ptc. praes. mps., no je tvořeno od kmene futura s tematickým vokálem -ο-:
 
 παιδευσ-ό-μενος, παιδευσ-ο-μένη, παιδευσ-ό-μενον *maje (chtěje) si (se) vychovávat (vychovat)*
 
-> Časová reference *participia futura mediopasiva* je vždy následná vzhledem na časovou referenci určitého slovesného tvaru ve větě. Participium může mít jenom mediální význam, nikoliv pasivní.
+> Časová reference *participia futura mediopasiva* je vždy následná vzhledem na časovou referencí určitého slovesného tvaru ve větě. Participium může mít jenom mediální význam, nikoliv pasivní.
 
 
 
 ### Genitiv absolutní
 
-*Κύρου βασιλεύοντος* ol Πέρσαι ἰσχυροὶ ἦσαν. — *Když vládl Kyros*
+*Κύρου βασιλεύοντος* οἱ Πέρσαι ἰσχυροὶ ἦσαν. — *Když vládl Kyros*
 *(Za vlády Kyrovy), byli Peršané mocní.*
 
 Má-li part. v gen. svůj podmět rovněž v gen. (jiný než podmět věty
