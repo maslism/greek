@@ -48,7 +48,7 @@ window.addEventListener('load', function() {
                 customSearchResults();
               }
 	        }
-          } 
+          }
 		  if (this.status == 404) {
             document.getElementById("custom-search-results").innerHTML = params['err_filefailed'];
 	      }
@@ -58,7 +58,7 @@ window.addEventListener('load', function() {
 	  }
     }
   }
-}, false); 
+}, false);
 
 document.getElementById("custom-search-field").addEventListener('keyup', function(e) {
   if (params['autocomplete'] == 1) {
@@ -152,7 +152,7 @@ function customSearchResults() {
     sOption = optionField.value;
   } else {
     sOption = params['defaultsearch'];
-  } 
+  }
 
   var badwords = [];
   if (params['badwords'] != '') {
@@ -227,16 +227,16 @@ function customSearchResults() {
           if (key == 'title') searchstr = title;
           if ((key == 'tags') && (tags != '')) searchstr = tags.join(",");
           if (key == 'summary') searchstr = summary;
-          if (key == 'content') searchstr = content; 
-           
+          if (key == 'content') searchstr = content;
+
           if (searchword.test(searchstr) === true) {
             matches_calc = matches_calc + val;
             count = searchstr.match(searchword).length;
             if (key == 'title') title_matches = title_matches + count;
             if ((key == 'tags') && (tags != '')) tags_matches = tags_matches + count;
             if (key == 'summary') summary_matches = summary_matches + count;
-            if (key == 'content') content_matches = content_matches + count; 
-          }           
+            if (key == 'content') content_matches = content_matches + count;
+          }
         }
         matched++;
       }
@@ -258,7 +258,7 @@ function customSearchResults() {
         results.push(data[i]);
       }
     }
-  } 
+  }
 
   // results
   if (results.length >= 1) {
@@ -268,14 +268,14 @@ function customSearchResults() {
       } else {
         return b.matches_calc - a.matches_calc || a.date - b.date;
       }
-    }); 
+    });
 
     var results_header = '';
     if (results.length > 1) {
       results_header = params['res_more_items'];
     } else {
       results_header = params['res_one_item'];
-    } 
+    }
     results_header = results_header.replace("[CNT]", results.length);
     if ((add_searchlink) && (add_searchlink != '')) {
       results_header += add_searchlink;
@@ -289,7 +289,8 @@ function customSearchResults() {
       var title   = results[i].title;
       var summary = results[i].summary;
       var date    = results[i].date;
-      var url     = results[i].url;
+      var url1    = results[i].url;
+      var url     = '/greek'+url1;
       var tags    = results[i].tags;
       var section = results[i].section;
       var extern  = results[i].extern;
@@ -340,21 +341,21 @@ function customSearchResults() {
         templ = templ.replace(/\[URL\]/g, url);
 
         if (templ.includes("[DATE]")) {
-          if (date != '') { 
+          if (date != '') {
             templ = templ.replace("[DATE]", datestr);
           } else {
             templ = templ.replace("[DATE]", '');
           }
         }
         if (templ.includes("[SUMMARY]")) {
-          if (summary != '') { 
+          if (summary != '') {
             templ = templ.replace("[SUMMARY]", summary);
           } else {
             templ = templ.replace("[SUMMARY]", '');
           }
         }
         if (templ.includes("[TAGS]")) {
-          if (tags != '') { 
+          if (tags != '') {
             tags  = tags.join(",");
             tags  = tags.replace(/,/g, ", ");
             templ = templ.replace("[TAGS]", tags);
@@ -363,7 +364,7 @@ function customSearchResults() {
           }
         }
         if (templ.includes("[SECTION]")) {
-          if (section != '') { 
+          if (section != '') {
             templ = templ.replace("[SECTION]", '['+section+'] ');
           } else {
             templ = templ.replace("[SECTION]", '');
@@ -374,7 +375,7 @@ function customSearchResults() {
           results_content += '<li>'+infos+'</li>';
         }
       }
-    } 
+    }
     sOutput.innerHTML = results_header+tag_top+results_content+tag_bottom;
   } else {
     var noresult = '';
@@ -385,4 +386,3 @@ function customSearchResults() {
     sOutput.innerHTML = noresult;
   }
 }
-
