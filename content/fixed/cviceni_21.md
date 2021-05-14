@@ -12,7 +12,7 @@ Participium prézentu aktiva je tvořeno zděděným *-nt- kmenem (srov. lat. la
 
 {{< pure-expand title="Původ feminina" >}}      
 
-Nom. *-ont-ya > *-onsa > -ōsa > -ουσᾰ. Gen. *-ont-yā-s > -onsās > *-ōsās > -ούσης 
+Nom. *-ont-ya > *-onsa > -ōsa > -ουσᾰ. Gen. *-ont-yā-s > -onsās > *-ōsās > -οὐσης 
 
 {{</ pure-expand >}}
 

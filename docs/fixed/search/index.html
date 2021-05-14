@@ -13,7 +13,7 @@
 
   <title>
     
-      Introducing Lanyon &middot; Starořecký jazyk
+      Hledat &middot; Starořecký jazyk
     
   </title>
 
@@ -46,7 +46,7 @@
 
   <nav class="sidebar-nav">
     
-    <a class="sidebar-nav-item " href="../../fixed/search/">Hledat</a>
+    <a class="sidebar-nav-item  active " href="../../fixed/search/">Hledat</a>
       <a class="sidebar-nav-item " href="../../">Domovská stránka</a>
       <a class="sidebar-nav-item " href="../../fixed/literatura/">Literatura</a>
       <a class="sidebar-nav-item " href="../../fixed/cviceni_1/">1. cvičení – Alfabeta, přízvuk a přídech</a>
@@ -91,34 +91,60 @@
       <div class="container content">
 
 
-<div class="post">
-  <h1 class="post-title">Introducing Lanyon</h1>
-  <span class="post-date">Jan 2, 2014</span>
-  <p>Lanyon is an unassuming <a href="http://jekyllrb.com">Jekyll</a> theme that places content first by tucking away navigation in a hidden drawer. It&rsquo;s based on <a href="http://getpoole.com">Poole</a>, the Jekyll butler.</p>
-<h3 id="built-on-poole">Built on Poole</h3>
-<p>Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by <a href="https://twitter.com/mdo">@mdo</a>. Poole, and every theme built on it (like Lanyon here) includes the following:</p>
-<ul>
-<li>Complete Jekyll setup included (layouts, config, <a href="../../404">404</a>, <a href="../../index.xml">RSS feed</a>, posts, and <a href="../../about">example page</a>)</li>
-<li>Mobile friendly design and development</li>
-<li>Easily scalable text and component sizing with <code>rem</code> units in the CSS</li>
-<li>Support for a wide gamut of HTML elements</li>
-<li>Related posts (time-based, because Jekyll) below each post</li>
-<li>Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)</li>
-</ul>
-<h3 id="lanyon-features">Lanyon features</h3>
-<p>In addition to the features of Poole, Lanyon adds the following:</p>
-<ul>
-<li>Toggleable sliding sidebar (built with only CSS) via <strong>☰</strong> link in top corner</li>
-<li>Sidebar includes support for textual modules and a dynamically generated navigation with active link support</li>
-<li>Two orientations for content and sidebar, default (left sidebar) and <a href="https://github.com/poole/lanyon#reverse-layout">reverse</a> (right sidebar), available via <code>&lt;body&gt;</code> classes</li>
-<li><a href="https://github.com/poole/lanyon#themes">Eight optional color schemes</a>, available via <code>&lt;body&gt;</code> classes</li>
-</ul>
-<p><a href="https://github.com/poole/lanyon#readme">Head to the readme</a> to learn more.</p>
-<h3 id="browser-support">Browser support</h3>
-<p>Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.</p>
-<h3 id="download">Download</h3>
-<p>Lanyon is developed on and hosted with GitHub. Head to the <!-- raw HTML omitted -->GitHub repository<!-- raw HTML omitted --> for downloads, bug reports, and features requests.</p>
-<p>Thanks!</p>
+<div class="page">
+  <h1 class="page-title">Hledat</h1>
+  <form id="custom-search" name="custom-search" method="post" action="" onsubmit="customSearchResults(); return false;">
+    <p>
+    <input id="custom-search-field" type="text" name="search" value="" title="Search String" placeholder="Zadání">
+    
+    </p>
+    
+    
+</form>
+
+<div id="custom-search-results"></div>
+
+<script>
+
+let params = {
+    json_src       : '/index.json', 
+    minlength      : 2,
+    defaultsearch  : 'AND',
+    sort_date      : 'DESC',
+    autocomplete   : 1, 
+    section_search : 0, 
+    badwords       : 'and,there,the,this,that,you', 
+    json_wait      : '<p><em>loading...</em></p>',
+    json_ready     : '<p><em>Zadejte hledaný výraz</em></p>',
+    extern_icon    : ' (external link)', 
+    err_badstring  : '<p>Příliš krátké!</p>',
+    err_noresult   : '<p>Nic se nenašlo. Zkuste něco jiné.</p>',
+    err_norequest  : '<p style="text-align: center; color:red;">The full text search is currently not available.</p>',
+    err_filefailed : '<p style="text-align: center;color: red;">Soubor je nepřístupný</p>',
+    res_one_item   : '<p><em>[CNT] Výsledek</em></p>',
+    res_more_items : '<p><em>[CNT] Výsledků</em></p>',
+    res_out_top    : '<ul>',
+    res_out_bottom : '</ul>',
+    res_item_tpl   : '<li><a href="[URL]">[TITLE]</a><br>[DATE]:[SUMMARY]<br><em>[SECTION][TAGS]</em></li>'
+};
+
+
+let section_trans = {
+    "post" : "Blog",
+    
+};
+
+let searchfield_weight = {
+    "title"   : 5,
+    "tags"    : 5,
+    "summary" : 2,
+    "content" : 1
+};
+
+</script>
+<script type="text/javascript" src="../../js/search.js"></script>
+
+
 </div>
 
       </div>

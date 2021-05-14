@@ -9,3 +9,6 @@ publishDir = "docs"
   author = "Martin Masliš"
   description = "Navigácia"
   title = "Starořecký jazyk"
+
+[outputs]
+     home = [ "HTML", "JSON" ]

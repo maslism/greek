@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/fixed/search/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
   </url>
@@ -101,6 +105,10 @@
   
   <url>
     <loc>/fixed/cviceni_20/</loc>
+  </url>
+  
+  <url>
+    <loc>/fixed/cviceni_21/</loc>
   </url>
   
   <url>
