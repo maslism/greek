@@ -98,7 +98,9 @@ Labiály jsou souhlásky, které se artikulují spojením rtů (*labia*).
 
 Slovesa, kterých kmen je zakončen na veláru (κ, γ, χ) nebo labiálu (β, π, φ), tvoří sigmatické futurum na -ξω, resp. -ψω. 
 
-U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -κω, -γω, -χω, -ττω/-σσω (< *-Kyō), někdy -ζω (< *gyō)
+U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -κω, -γω, -χω, -ττω/-σσω (< `*-Kyō`), někdy -ζω (< `*gyō`).
+
+Některá slovesa mají deponentní futurum (mps. morfologii). Příčinou tohoto jevu je původ řeckého futura v desiderativním sufixu `*-s-`. Sémantika desiderativu má přirozeně blízko k mediu, vyjadřujícímu osobní prospěch. 
 
 {{< row >}}
 {{< column >}}
@@ -119,7 +121,7 @@ U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -κω, 
 
 
 
-U labiálních kmenů může mít kmen prézentu tyto synchronní podoby: -πω, -βω, -φω, -πτω (< *-Pyō)
+U labiálních kmenů může mít kmen prézentu tyto synchronní podoby: -πω, -βω, -φω, -πτω (< `*-Pyō`).
 
 {{< row >}}
 {{< column >}}

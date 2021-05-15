@@ -10,13 +10,13 @@
 
 ### Aspektuální kmeny
 
-Slovesný systém staré řečtiny není čistě temporální, ale spojuje v sobě znaky temporálních a aspektuálních systémů. Tzv. *viewpoint aspect* (č. vid) určuje to, jak mluvčí konceptualizuje děj vyjádřený slovesným tvarem. V řečtině aspekt zachycuje a rozlišuje děje vyznačující se:
+Slovesný systém staré řečtiny není čistě temporální, ale spojuje v sobě znaky temporálních a aspektuálních systémů. Tzv. *viewpoint aspect* (č. vid) určuje to, jak mluvčí konceptualizuje děj, vyjádřený slovesným tvarem. V řečtině aspekt zachycuje a rozlišuje děje vyznačující se:
 
 1. **trváním** (č. *psal jsem*)
 2. **dokonavostí** (č. *napsal jsem*) nebo 
 3. **rezultujícím stavem**. (č. *je napsáno*). 
 
-Tyto tři aspektuální možnosti gramatický systém kóduje pomocí tří slovesných kmenů: kmen imperfekta (prézentní), kmen aoristu a kmen perfekta.   
+Tyto tři aspektuální možnosti gramatický systém kóduje pomocí tří slovesných kmenů: imperfektivní kmen (prézentní), kmen aoristu a kmen perfekta.   
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Aspekt a jeho realizace v řečtině">}}
 
@@ -74,7 +74,7 @@ Slovesný čas (přít., min., bud.) se plně uplatňuje jenom v indikativu. U z
 |            | Imperfektivní kmen                  | Kmen aoristu | Kmen perfekta                        |
 | ---------- | ----------------------------------- | ------------ | ------------------------------------ |
 | indikativ  | [✓] - παιδεύω (+ ind. impf. a fut.) | ἐπαίδευσα    | πεπαίδευκα (+ ind. plpf. a fut. ex.) |
-| imperativ  | [✓] - παίδευε                       | παίδευσον    | (mps.) - πεπαίδευσο                  |
+| imperativ  | [✓] - παίδευε                       | παίδευσον    | (med.) - πεπαίδευσο                  |
 | konjunktiv | [✓] - παιδεύω                       | παιδεύσω     | πεπαιδεύκω                           |
 | optativ    | [✓] - παιδεύοιμι (+ opt. fut.)      | παιδεύσαιμι  | πεπαιδεύκοιμι (+ opt. fut. ex. mps.) |
 

@@ -24,7 +24,7 @@
 
 Alveoláry jsou souhlásky, které se artikulují pomocí styku špičky jazyka s alveolárním pruhem dásní (*alveoli*) blízko předních zubů. Řecký fonologický inventář rozlišuje pro každé artikulační místu tři typy ražených souhlásek: znělé, neznělé, neznělé aspirované.
 
-{{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Veláry v řečtině" >}}
+{{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Alveoláry v řečtině" >}}
 
 | Artikulační místo | Znělá   | Neznělá | Neznělá aspirovaná |
 | ----------------- | ------- | ------- | ------------------ |
@@ -51,17 +51,15 @@ Alveoláry jsou souhlásky, které se artikulují pomocí styku špičky jazyka 
 | voc. | = nom.                     | = nom.               | = nom.         |
 
 - kmeny slov γυμνής a ἐλπίς jsou γυμνῆ**τ**-, resp. ἐλπί**δ**- 
-- třída neuter na -μα, -ματος pochází z původního proterokynetického kmene *´-mn̩, *-mén-, v řečtině zjednodušeného na *´-mn̩ a rozšířeného o -τ- mimo nom./acc. sg.: *-mn̩, *-mn̩t- > -μα, -ματ- 
+- třída neuter na -μα, -ματος pochází z původního proterokynetického kmene `*´-mn̩`, `*-mén-`, v řečtině zjednodušeného na `*´-mn̩` a rozšířeného o `*-t-` mimo nom./acc. sg.: `*-mn̩` / `*-mn̩t-` > -μα / -ματ- 
 
 {{< /bootstrap-table >}}
-
-
 
 ### Futurum kmenů alveolárních
 
 Slovesa, kterých kmen je zakončen na alveoláru (τ, δ, θ), tvoří sigmatické futurum na -σω kvůli ztrátě kmenového vokálu. 
 
-U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -θω, -ζω (< *-dyō)
+U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -θω, -ζω (< `*-adyō`)
 
 {{< row >}}
 {{< column >}}

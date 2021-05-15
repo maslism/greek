@@ -6,19 +6,19 @@
 
 ### Participium prézentu a futura aktiva
 
-Participium prézentu aktiva je tvořeno zděděným *-nt- kmenem (srov. lat. laudantēs, nem. arbeitend). V masc. a neut. se teda jedná o slovesné adjektivum III. deklinace, femininum je typ θάλασσα:
+Participium prézentu aktiva je tvořeno zděděným `*-nt-` kmenem (srov. lat. laudantēs, nem. arbeitend); přípona -ντ- se připojuje za imperfektivní kmen, rozšířený o tematický vokál -ο- > -ο-ντ-. V masc. a neut. se teda jedná o slovesné adjektivum III. deklinace, femininum je typ θάλασσα:
 
 παιδεύ-ων, g. -οντος; παιδεύ-ουσᾰ, g. -σης; παιδεῦ-ον, g. -οντος 1. *vychovávaje*, 2. *vychovávající*
 
 {{< pure-expand title="Původ feminina" >}}      
 
-Nom. *-ont-ya > *-onsa > -ōsa > -ουσᾰ. Gen. *-ont-yā-s > -onsās > *-ōsās > -ούσης 
+Nom. `*-ont-ya` > `*-onsa` > `-ōsa` > -ουσᾰ. Gen. `*-ont-yā-s` > `-onsās` > `*-ōsās` > -ούσης 
 
 {{</ pure-expand >}}
 
 > Časová reference *participia prézentu aktiva* je vždy současná s časovou referencí určitého slovesného tvaru ve větě. 
 
-Participium futura aktiva se příponou shoduje s ptc. praes. akt., no je tvořeno od kmene futura:
+Participium futura aktiva se příponou -ο-ντ- shoduje s ptc. praes. akt., no je tvořeno od kmene futura:
 
 παιδεύσ-ων, g. -σοντος; παιδεύσ-ουσα, g. -σης; παιδεῦσ-ον, g. -σοντος *maje (chtěje) vychovávat (vychovat)*
 
@@ -26,19 +26,19 @@ Participium futura aktiva se příponou shoduje s ptc. praes. akt., no je tvoře
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
-| Pád     | Masc.            | Fem.           | Neut.            |
-| ------- | ---------------- | -------------- | ---------------- |
-| nom.    | παιδεύ-ων        | παιδεύ-ουσ-ᾰ   | παιδεύ-ον        |
-| gen.    | παιδεύ-οντ-ος    | παιδευ-ούσ-ης  | παιδεύ-οντ-ος    |
-| dat.    | παιδεύ-οντ-ι     | παιδευ-ούσ-ῃ   | παιδεύ-οντ-ι     |
-| acc.    | παιδεύ-οντ-α     | παιδεύ-ουσ-ᾰν  | παιδεύ-ον        |
-| voc.    | **παιδεύ-ων**    | παιδεύ-ουσ-ᾰ   | παιδεύ-ον        |
-| **Pl.** |                  |                |                  |
-| nom.    | παιδεύ-οντ-ες    | παιδεύ-ουσ-αι  | παιδεύ-οντ-α     |
-| gen.    | παιδευ-όντ-ων    | παιδευ-ουσ-ῶν  | παιδευ-όντ-ων    |
-| dat.    | παιδεύ-**ουσιν** | παιδευ-ούσ-αις | παιδεύ-**ουσιν** |
-| acc.    | παιδεύ-οντ-ας    | παιδευ-ούσ-ᾱς  | παιδεύ-οντ-α     |
-| voc.    | παιδεύ-οντ-ες    | παιδεύ-ουσ-αι  | παιδεύ-οντ-α     |
+| Pád     | Masc.             | Fem.           | Neut.             |
+| ------- | ----------------- | -------------- | ----------------- |
+| nom.    | παιδεύ-ων         | παιδεύ-ουσ-ᾰ   | παιδεύ-ον         |
+| gen.    | παιδεύ-οντ-ος     | παιδευ-ούσ-ης  | παιδεύ-οντ-ος     |
+| dat.    | παιδεύ-οντ-ι      | παιδευ-ούσ-ῃ   | παιδεύ-οντ-ι      |
+| acc.    | παιδεύ-οντ-α      | παιδεύ-ουσ-ᾰν  | παιδεύ-ον         |
+| voc.    | **παιδεύ-ων**     | παιδεύ-ουσ-ᾰ   | παιδεύ-ον         |
+| **Pl.** |                   |                |                   |
+| nom.    | παιδεύ-οντ-ες     | παιδεύ-ουσ-αι  | παιδεύ-οντ-α      |
+| gen.    | παιδευ-όντ-ων     | παιδευ-ουσ-ῶν  | παιδευ-όντ-ων     |
+| dat.    | παιδεύ-**ου-σιν** | παιδευ-ούσ-αις | παιδεύ-**ου-σιν** |
+| acc.    | παιδεύ-οντ-ας     | παιδευ-ούσ-ᾱς  | παιδεύ-οντ-α      |
+| voc.    | παιδεύ-οντ-ες     | παιδεύ-ουσ-αι  | παιδεύ-οντ-α      |
 
 {{< /bootstrap-table >}}
 

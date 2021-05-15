@@ -6,18 +6,18 @@
 
 ### III. dekl.: -ντ- kmeny
 
-Slova s kmenem na  -ντ- mají specifickou podobu v nom. sg., voc. sg. a v dat. pl. 
+Slova s kmenem na  -ντ- (`*-nt-`)mají specifickou podobu v nom. sg., voc. sg. a v dat. pl. 
 
 - nom. sg.:
   - příznakem pádu (v masc.) je -ς
-  - skupina -ντ-ς se zjednodušuje na -νς
-  - skupina -νς se rovněž zjednodušuje na **-ς** nebo **-ν**, se současným **prodloužením** předcházejícího vokálu; nesigmatický nom. masc. má podobu **-ων** 
+  - skupina `*-nt-s` se zjednodušuje na `*-ns`
+  - skupina `*-ns` se rovněž zjednodušuje na **-ς** nebo **-ν**, se současným **prodloužením** předcházejícího vokálu; neobsahuje-li nom. sigmu, má podobu **-ων** 
 - voc. sg.:
-  - pouhý kmen, který podléha fonotaktickému zjednodušení -ντ > **-ν**
+  - pouhý kmen, který podléha fonotaktickému zjednodušení `*-nt` > **-ν**
   - vokál před koncovým konsonantem je krátký 
 - dat. pl.:
-  - podobně jako v nom. sg se skupina -ντ-σ- zjednodušuje
-  - -ντ-σ- > -νσ- > -σ- se současným **náhradním dloužením** předcházejícího vokálu
+  - podobně jako v nom. sg se skupina `*-nt-s-` zjednodušuje
+  - `*-nt-s` > `*-ns-` > -σ- se současným **náhradním dloužením** předcházejícího vokálu
 
 **Náhradní dloužení**
 
@@ -25,12 +25,12 @@ Hlásková změna, při které se zjednodušuje souhlásková skupina za součas
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
-| Skupina | Výsledek |
-| ------- | -------- |
-| -ονσ-   | -ουσ-    |
-| -ᾰνσ-   | -ᾱσ-     |
-| -ενσ-   | -εισ-    |
-| -ῠνσ-   | -ῡσ-     |
+| Skupina  | Výsledek |
+| -------- | -------- |
+| `*-ons-` | -ουσ-    |
+| `*-ans-` | -ᾱσ-     |
+| `*-ens-` | -εισ-    |
+| `*-uns-` | -ῡσ-     |
 
 {{< /bootstrap-table >}}
 
@@ -38,19 +38,19 @@ Hlásková změna, při které se zjednodušuje souhlásková skupina za součas
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
-| Pád     | Sg.         | Sg.          |
-| ------- | ----------- | ------------ |
-| nom.    | ὁ γίγᾱς     | ὁ γέρων      |
-| gen.    | γίγαντ-ος   | γέροντ-ος    |
-| dat.    | γίγαντ-ι    | γέροντ-ι     |
-| acc.    | γίγαντ-α    | γέροντ-α     |
-| voc.    | **γίγᾰν**   | **γέρον**    |
-| **Pl.** |             |              |
-| nom.    | γίγαντ-ες   | γέροντ-ες    |
-| gen.    | γιγάντ-ων   | γερόντ-ων    |
-| dat.    | γίγ**ᾱσιν** | γέρ**ουσιν** |
-| acc.    | γίγαντ-ας   | γέροντ-ας    |
-| voc.    | γίγαντ-ες   | γέροντ-ες    |
+| Pád     | Sg.           | Sg.              |
+| ------- | ------------- | ---------------- |
+| nom.    | ὁ γίγᾱς "obr" | ὁ γέρων "stařec" |
+| gen.    | γίγαντ-ος     | γέροντ-ος        |
+| dat.    | γίγαντ-ι      | γέροντ-ι         |
+| acc.    | γίγαντ-α      | γέροντ-α         |
+| voc.    | **γίγᾰν**     | **γέρον**        |
+| **Pl.** |               |                  |
+| nom.    | γίγαντ-ες     | γέροντ-ες        |
+| gen.    | γιγάντ-ων     | γερόντ-ων        |
+| dat.    | γίγ**ᾱ-σιν**  | γέρ**ου-σιν**    |
+| acc.    | γίγαντ-ας     | γέροντ-ας        |
+| voc.    | γίγαντ-ες     | γέροντ-ες        |
 
 {{< /bootstrap-table >}}
 
@@ -62,44 +62,44 @@ Maskulina a neutra některých adjektiv se skloňují jako -ντ- kmeny III. dek
 
 {{< pure-expand title="K skloňování feminin" >}}      
 
-Feminina vznikla příponou *-ya / *-yā k původnímu kmeni na -ντ-: nom. *pant-ya > pā~~n~~sa- > πᾶσα; gen. *pant-yā-s > *pā~~n~~sās > πάσης.
+Feminina vznikla příponou `*-ya` / `*-yā-` k původnímu kmeni na -ντ-: nom. `*pant-ya` > `*pansa` > πᾶσα; gen. `*pant-yā-s` > `*pansās` > πάσης.
 
 {{</ pure-expand >}}
 
-Adjektiva na -εις, -εντ- (*-wents / *-went-), fem. -εσσᾰ, g. -έσσης  představují typ posesivních adjektiv, vyjadřujících to, že se popisovaný objekt nebo osoba vyznačuje zdrojovým konceptem adjektiva:
+Adjektiva na -εις, g. -εντ-ος (`*-went-s` / `*-went-os`), fem. -εσσᾰ, g. -έσσης, neut. -εν, g. -εντ-ος  představují typ posesivních adjektiv, vyjadřujících to, že se popisovaný objekt nebo osoba vyznačuje zdrojovým konceptem adjektiva:
 
-- χάρις "radost, libost" → χαρί-εις, χαρί-εντος "líbezný"
-- πτερόν "křídlo" → πτερό-εις, πτερό-εντος "okřídlený"
+- χάρις "radost, libost" → χαρί-εις, g. χαρί-εντος "líbezný"
+- πτερόν "křídlo" → πτερό-εις, g. πτερό-εντος "okřídlený"
 
-{{< pure-expand title="K skloňování feminin -εσσα a k dat. pl. -εσι" >}}      
+{{< pure-expand title="K skloňování feminin -εσσα a k dat. pl. masc. a neut. -εσι" >}}      
 
-Dat. pl. masc. a neut. má krátké ε kvůli nulovému stupni přípony: *-wn̩tsi > *-wassi > *-wes(s)i > -εσι. Odvození feminina: nom. *-wn̩t-ya > *-watya > *-wetya > *-wessa > -εσσα 
+Dat. pl. masc. a neut. má krátké ε kvůli nulovému stupni přípony: `*-wn̩t-si` > `*-wat-si` > `*-was-si` > `*-wes-(s)i` > -εσι. Odvození feminina: nom. `*-wn̩t-ya` > `*-wat-ya` > `*-wet-ya` > `*-wessa` > -εσσα 
 
 {{</ pure-expand >}} 
 
 1\. πᾶς, πᾶσα, πᾶν "všechen" (km. παντ-) a jeho složeniny  
 ἅπας, ἅπααα, ἅπαν a σύμπας, σύμπασα, σύμπαν "veškerý"
 
-2\. ἑκών, έκοῦσα, ἑκόν "rád" (km. έκοντ-) a  
-ἄκων, ἄκουσα, ἆκον "nerad" (km. ακοντ-)
+2\. ἑκών, ἑκοῦσα, ἑκόν "rád" (km. ἑκοντ-) a  
+ἄκων, ἄκουσα, ἆκον "nerad" (km. ἀκοντ-)
 
 3\. χαρίεις, χαρίεσσα, χαρίεν "libý" (km. χαριεντ-) a podobná
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
-| Pád     | Masc.   | Fem.   | Neut.   | Masc.      | Fem.       | Neut.      |
-| ------- | ------- | ------ | ------- | ---------- | ---------- | ---------- |
-| nom.    | πᾶς     | πᾶσᾰ   | πᾶν     | χαρίεις    | χαρίεσσᾰ   | χαρίεν     |
-| gen.    | παντ-ός | πάσης  | παντ-ός | χαρίεντ-ος | χαριέσσης  | χαρίεντ-ος |
-| dat.    | παντ-ί  | πάσῃ   | παντ-ί  | χαρίεντ-ι  | χαριέσσῃ   | χαρίεντ-ι  |
-| acc.    | πάντ-α  | πᾶσᾰν  | πᾶν     | χαρίεντ-ι  | χαρίεσσᾰν  | χαρίεν     |
-| voc.    |         |        |         | χαρίεν     | χαρίεσσᾰ   | χαρίεν     |
-| **Pl.** |         |        |         |            |            |            |
-| nom.    | πάντ-ες | πᾶσαι  | πάντ-α  | χαρίεντ-ες | χαρίεσσαι  | χαρίεντ-α  |
-| gen.    | πάντ-ων | πασῶν  | πάντ-ων | χαριέντ-ων | χαριεσσῶν  | χαριέντ-ων |
-| dat.    | πᾶσι(ν) | πάσαις | πᾶσι(ν) | χαρίεσι(ν) | χαριέσσαις | χαρίεσι(ν) |
-| acc.    | πάντ-ας | πάσᾱς  | πάντ-α  | χαρίεντ-ας | χαριέσσᾱς  | χαρίεντ-α  |
-| voc.    | πάντ-ες | πᾶσαι  | πάντ-α  | χαρίεντ-ες | χαρίεσσαι  | χαρίεντ-α  |
+| Pád     | Masc.    | Fem.   | Neut.    | Masc.      | Fem.       | Neut.      |
+| ------- | -------- | ------ | -------- | ---------- | ---------- | ---------- |
+| nom.    | πᾶς      | πᾶσᾰ   | πᾶν      | χαρίεις    | χαρίεσσᾰ   | χαρίεν     |
+| gen.    | παντ-ός  | πάσης  | παντ-ός  | χαρίεντ-ος | χαριέσσης  | χαρίεντ-ος |
+| dat.    | παντ-ί   | πάσῃ   | παντ-ί   | χαρίεντ-ι  | χαριέσσῃ   | χαρίεντ-ι  |
+| acc.    | πάντ-α   | πᾶσᾰν  | πᾶν      | χαρίεντ-ι  | χαρίεσσᾰν  | χαρίεν     |
+| voc.    |          |        |          | χαρίεν     | χαρίεσσᾰ   | χαρίεν     |
+| **Pl.** |          |        |          |            |            |            |
+| nom.    | πάντ-ες  | πᾶσαι  | πάντ-α   | χαρίεντ-ες | χαρίεσσαι  | χαρίεντ-α  |
+| gen.    | πάντ-ων  | πασῶν  | πάντ-ων  | χαριέντ-ων | χαριεσσῶν  | χαριέντ-ων |
+| dat.    | πᾶ-σι(ν) | πάσαις | πᾶ-σι(ν) | χαρίεσι(ν) | χαριέσσαις | χαρίεσι(ν) |
+| acc.    | πάντ-ας  | πάσᾱς  | πάντ-α   | χαρίεντ-ας | χαριέσσᾱς  | χαρίεντ-α  |
+| voc.    | πάντ-ες  | πᾶσαι  | πάντ-α   | χαρίεντ-ες | χαρίεσσαι  | χαρίεντ-α  |
 
 {{< /bootstrap-table >}}
 
