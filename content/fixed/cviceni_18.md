@@ -86,6 +86,10 @@ Paroxytona alveolárních kmenů na -ις a -υς mají akus. sg. na -ιν a -υ
 
 {{</ pure-expand >}}
 
+### Úkol
+
+{{< button href="/greek/data/cviceni_9.pdf" class="btn-outline-info">}}Cvičení.pdf{{< /button >}}
+
 
 
 ### Křížové odkazy
