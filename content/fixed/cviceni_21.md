@@ -82,7 +82,7 @@ Následující tvary nemají přízvuk v silném aoristu na kořeni ale na pří
 | sekundární čas | imperfektum ἔλειπον         | indikativ aoristu ἔλιπον    |
 | konjunktiv     | konjunktiv prézentu λείπω   | konjunktiv aoristu λίπω     |
 | optativ        | optativ prézentu λείποιμι   | optativ aoristu λίποιμι     |
-| imperativ      | imperativ prézentu λείπε    | imperativ aoristu λίπε (†)  |
+| imperativ      | imperativ prézentu λεῖπε    | imperativ aoristu λίπε (†)  |
 | participium    | participium prézentu λείπων | participium aoristu λιπών † |
 | infinitiv      | infinitiv prézentu λείπειν  | infinitiv aoristu λιπεῖν †  |
 
