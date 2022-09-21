@@ -61,7 +61,7 @@
 
 ### Přídech
 
-Řečtina nemá samostatný foném /h/. /h/ se může realizovat jen na začátku slova, které začína vokálem nebo diftongem. U slov s počátečnou samohláskou nebo dvojhláskou je proto nutné označovat, zda se /h/ vyslovuje (῾) nebo ne (᾿). Na to slouží značka pro přídech, která se píše nad prvním vokálem nebo nad offglidem diftongu, u velkých písmen pak před znakem. 
+Řečtina nemá samostatný foném /h/. /h/ se může realizovat jen na začátku slova, které začína vokálem nebo diftongem. U slov s počátečnou samohláskou nebo dvojhláskou je proto nutné označovat, zda se /h/ vyslovuje (῾) nebo ne (᾿). Na to slouží značka pro přídech, která se píše nad prvním vokálem nebo nad ofglajdem diftongu, u velkých písmen pak před znakem. 
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 

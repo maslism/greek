@@ -1,10 +1,10 @@
 {
-    "title": "Domovská stránka",
+"title": "Domovská stránka",
     "sidebar": true,
     "weight": "-2"
 
 }
 
-Predbežný sylabus k výuke starogréckeho jazyka primárne na základe učebnice od Jaroslava Hnátka a gramatiky od Jindřicha Niederleho. Práca so zahraničnou literatúrou je možná vďaka [tomuto projektu](https://en.wikipedia.org/wiki/Library_Genesis).
+Průvodní web k základní výuce starořeckého jazyka na Ústavu řeckých a latinských studií na Filozofické fakultě Univerzity Karlovy. Struktura webu kopíruje *Cvičebnici jazyka řeckého* od Jaroslava Hnátka a kol. Obsah je ve velké míře převzat z *Cvičebnice* a *Mluvnice řeckého jazyka* od Jindřicha Niederleho v pozdější úpravě Františka Groha a Václava Niederleho. 
 
 ~ [Martin Masliš](mailto:Martin.Maslis@ff.cuni.cz)
