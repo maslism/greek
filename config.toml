@@ -7,7 +7,7 @@ publishDir = "docs"
 
 [params]
   author = "Martin Masliš"
-  description = "Navigácia"
+  description = "Navigace"
   title = "Starořecký jazyk"
 
 [outputs]
