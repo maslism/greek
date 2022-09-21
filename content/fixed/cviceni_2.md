@@ -1,7 +1,8 @@
 {
-    "title": "2. cvičení – II. deklinace: maskulina (paroxytona, oxytona), člen",
+"title": "2. cvičení – II. deklinace: maskulina (paroxytona, oxytona), člen",
     "sidebar": true,
-    "weight": "2"
+    "weight": "2",
+"draft": true
 }
 
 ### Maskulina II. deklinace (paroxytona, oxytona)
@@ -22,8 +23,6 @@
 
 {{< /bootstrap-table >}}
 
-
-
 ### Člen
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
@@ -39,8 +38,6 @@
 
 {{< /bootstrap-table >}}
 
-
-
 ### Věty
 
 1. Ὁ ἵππ-ος εὖ τρέχει.  
@@ -53,8 +50,6 @@
    Přítel miluje přítele.
 5. Ὦ φίλ-ε, στέργε τὸν φίλ-ον!  
    Příteli, miluj přítele!
-
-
 
 1\. Οἱ τῶν φίλων λόγοι πιστοί εἰσιν. 2. Ὁ ἐμὸς φίλος τοῖς ἐμοῖς λόγοις πιστεύει.  3. Ὁ ἐμὸς φίλος τοὺς ἐμοὺς φίλους στέργει. 4. Ὦ φίλοι, δεῖ εὖ παιδεύειν!  
 
@@ -77,8 +72,6 @@
 
 - vyskloňujte slovο _ὁ λόγος_ a spojení _ὁ πιστὸς φίλος_ "věrný přítel" i se členy; přídavné jméno _πιστός_ se skloňuje stejně jako vzor _ποταμός_ i se změnou přízvuku v gen. a dat. obou čísel
 
-
-
 ### Křížové odkazy
 
 {{< tabs tabTotal="2" tabID="1" tabName1="Hnátek" tabName2="Niederle" >}}
@@ -90,4 +83,3 @@ s. 7-8
 II. deklinace: maskulina (paroxytona, oxytona) § 72, 73.1-2 (s. 35-36), člen § 59 (s. 31)
 {{< /tab >}}
 {{< /tabs >}}
-

@@ -1,7 +1,8 @@
 {
-    "title": "13. cvičení – Opt. praes. akt., med., pass.; opt. fut. akt. a med.; věty účelové ",
+"title": "13. cvičení – Opt. praes. akt., med., pass.; opt. fut. akt. a med.; věty účelové ",
     "sidebar": true,
-    "weight": "16"
+    "weight": "16",
+"draft": true
 }
 
 ### Optativ prézentu aktiva, media a pasiva
@@ -20,20 +21,25 @@
 | 3.    | παιδεύ-**οι-εν**                  | παιδεύ-**οι-ντο**                     |
 
 - optativ je slovesný způsob, který vyjadřuje přání nebo možnost
+
 - u tematických sloves se tvoří příponou -οι- a má převážně sekundární koncovky (koncovky pro minulý čas)
+
 - **optativ přací**: 
+  
   - někdy s částicí εἴθε *kéž*; záporka je μή
   - εἴθε λέγοις *kéž říkáš* ~ εἴθε μὴ λέγοις *kéž neříkáš*
+
 - **optativ možnosti**: 
+  
   - s částicí ἄν; záporka je οὐ 
   - λέγοις ἄν *říkal bys* ~  οὐκ ἂν λέγοις *neříkal bys*
+
 - **optativ zástupný** (*obliquus*): v souvětích, ve kterých je vedlejší věta s konjunktivem nebo indikativem, může být tento indik. nebo konj. nahrazen optativem, je-li hlavní věta v minulém čase
+  
   - Γράφω τῷ φίλῳ, ἵνα **χαίρῃ** - *Píšu příteli, aby měl radost*.
   - Ἔγραφον τῷ φίλῳ, ἵνα **χαίροι**. - *Psal jsem příteli, aby měl radost*. 
-
- {{< /bootstrap-table >}}
-
-
+  
+  {{< /bootstrap-table >}}
 
 ### Optativ futura aktiva a media
 
@@ -51,10 +57,8 @@
 | 3.    | παιδεύ-**σ-οι-εν**  | παιδεύ-**σ-οι-ντο**  |
 
 - zřídkavý tvar; vyskytuje se jako **zástupný optativ** namísto původního futura
-
- {{< /bootstrap-table >}}
-
-
+  
+  {{< /bootstrap-table >}}
 
 ### Věty účelové
 
@@ -85,10 +89,6 @@
 κατα-λύω, -ειν – ruším, ničím 
 
 {{</ pure-expand >}}
-
-
-
-
 
 ### Křížové odkazy
 

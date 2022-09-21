@@ -1,10 +1,11 @@
 {
-    "title": "6.1 cvičení – lmperfektum aktiva, I. deklinace: nom. -η, gen. -ης",
+"title": "6.1 cvičení – lmperfektum aktiva, I. deklinace: nom. -η, gen. -ης",
     "sidebar": true,
-    "weight": "7"
+    "weight": "7",
+"draft": true
 }
 
-### I. deklinace: nom. -η, gen. -ης 
+### I. deklinace: nom. -η, gen. -ης
 
 </br>
 
@@ -32,11 +33,7 @@
 - gen. pl. má vždy přízvuk na koncovém -ῶν (gen. pl. *ā́sōm > *ā́hōn > *ā́ōn > -ῶν)
 - koncovka nom. pl. -αι je pro přízvuk krátká 
 
-
-
 ### Imperfektum aktiva
-
-
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
@@ -67,7 +64,7 @@
 
 {{< /bootstrap-table >}}
 
-### Vyjádření zvratného přivlastnění 
+### Vyjádření zvratného přivlastnění
 
 Ἔ-φερ-ο-ν τὸ ἐμὸν δῶρον. – _Nesl jsem svůj dar._  
 Ἔ-φερ-ε-ς τὸ σὸν δῶρον. – _Nesl jsi svůj dar._  
@@ -80,14 +77,10 @@
 
 Jenom třetí osoba sg. a pl. disponují zvratným přivlastňovacím zájmenem, které obsahuje kmen _*swe-_ (> ἑ-). Toto zájmeno má podobu pádu gen., který číslem a rodem odpovídá osobě, které se něco přivlastňuje. 
 
- 
-
 | Osoba      | Muž. rod                  | Žen. rod                  |
 | ---------- | ------------------------- | ------------------------- |
 | 3. os. sg. | ἑαυτοῦ "svůj, svoje atd." | ἑαυτῆς "svůj, svoje atd." |
 | 3. os. pl. | ἑαυτῶν "svůj, svoje atd." | ἑαυτῶν "svůj, svoje atd." |
-
- 
 
 ### Věty
 
@@ -113,15 +106,11 @@ Jenom třetí osoba sg. a pl. disponují zvratným přivlastňovacím zájmenem,
 
 {{</ pure-expand >}}
 
-
-
 ### Úkol
 
 - Skloňujte písemně: ἡ καλὴ ᾠδή _krásná píseň_, ἡ ἐμὴ νίκη _moje/svoje vítězství_ (tvar ἐμή se bude v každém pádě měnit),  ἡ ἑαυτοῦ τιμή _svoje čest_ (tvar ἑαυτοῦ se nebude měnit)
 - Jakého rodu je majitel daru v těchto spojeních: τό ἑαυτοῦ δῶρον, τό ἑαυτῆς δῶρον, τό ἑαυτῶν δῶρον? 
 - Časujte v imperfektu aktiva slovesa: στέργω _miluji_, ἀγω _vedu_, ᾄδω _zpívám_, γυμνάζω _cvičím_. Dbejte na rozdíl mezi slabičným augmentem (ἐ-) a časovým augmentem (viz seznam kontrakcí). 
-
-
 
 ### Křížové odkazy
 

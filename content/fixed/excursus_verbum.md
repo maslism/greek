@@ -1,7 +1,8 @@
 {
-    "title": "Exkurz – řecké sloveso ",
+"title": "Exkurz – řecké sloveso ",
     "sidebar": true,
-    "weight": "17"
+    "weight": "17",
+"draft": true
 }
 
 ## Slovesný systém staré řečtiny
@@ -56,8 +57,6 @@ Minulý čas se kromě sekundárních koncovek vyznačuje taky předponou ἐ- (
 
 Trojúrovňové dělení gramatického času se veskrze týká jenom oznamovacího způsobu (indikativu). 
 
-
-
 ### Slovesný způsob
 
 Slovesný způsob (*mood*) vyjadřuje subjektivní postoj mluvčího k ději, který je zachycen slovesným tvarem. Mluvčí může děj chápat kromě jiného jako skutečný, chtěný, očekávaný, nereálný, možný nebo jako rozkaz určený adresátovi či vybídku. Řečtina zná čtyři slovesné způsoby:
@@ -79,8 +78,6 @@ Slovesný čas (přít., min., bud.) se plně uplatňuje jenom v indikativu. U z
 | optativ    | [✓] - παιδεύοιμι (+ opt. fut.)      | παιδεύσαιμι  | πεπαιδεύκοιμι (+ opt. fut. ex. mps.) |
 
  {{< /bootstrap-table >}}
-
-
 
 ### Shrnutí
 

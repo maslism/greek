@@ -1,41 +1,53 @@
 {
-    "title": "Literatura",
+"title": "Literatura",
     "sidebar": true,
     "weight": "-1" 
 
 }
 
-**Česká literatura**
+**Základní**  
 
-- [Hn] = HNÁTEK, Jaroslav, Rudolf TRNKA, Drahomíra WITTICHOVÁ, Čestmír VRÁNEK, Zdeněk VYSOKÝ a Miloš LUKÁŠ, ed. *Cvičebnice jazyka řeckého*. 3. fototyp. vyd. Praha: Scriptum, 1993. [[scan]](https://urls.ff.cuni.cz/wp-content/uploads/sites/66/2020/06/HNATEK-Cvicebnice-jazyka-reckeho.pdf)
-- [N] = NIEDERLE, Jindřich, Václav NIEDERLE a Ladislav VARCL. *Mluvnice jazyka řeckého*. Fototypické vydání dle vydání z roku 1956. Praha: Vyšehrad, 1998. [[scan]](https://urls.ff.cuni.cz/wp-content/uploads/sites/66/2020/06/NIEDERLE-Gramatika-1946.pdf)
-- [F] = FÜRST, Kamil. *Cvičebnice jazyka řeckého pro V. a VI. třídu gymnasií*. 2., nezměněné vyd. Praha: Profesorské nakladatelství a knihkupectví, 1939.
-- [H-Ch] = HORÁČEK, Filip a Radek CHLUP. *Učebnice klasické řečtiny*. Praha: Academia, 2012. 
+- **Hnátek, J. et al. (1998). *Cvičebnice jazyka řeckého*. Praha: Vyšehrad. [nebo jiná vyd.]**
+
+- **Niederle, J., Niederle, V., & Varcl, L. (1991). *Mluvnice řeckého jazyka*. Praha: Scriptum. [nebo jiná vyd., ne starší vyd. než 1956]**
+
+- Horáček, F., & Chlup, R. (2012). *Učebnice klasické řečtiny*. Praha: Academia.
+
+- Muchnová, D. (2000). *Souhrn starořecké gramatiky*. Praha: Holman.
+
+**Anglické učebnice**
+
+- Joint Association of Classical Teachers. (2019). *Reading Greek: Grammar and Exercises*. Cambridge: Cambridge University Press.
+
+- Joint Association of Classical Teachers. (2019). *Reading Greek: Text and Vocabulary*. Cambridge: Cambridge University Press.
+
+- Mastronarde, D. J. (2013). *Introduction to Attic Greek*. Los Angeles: University of California Press.
+
+**Referenční gramatika**  
 
 
-
-**Anglická literatura**
-
-- [M] = MASTRONARDE, Donald J. *Introduction to Attic Greek*. Second edition. Berkeley: University of California Press, 2013.
-
-
+- van Emde Boas, E., Rijksbaron, A., Huitink, L., & de Bakker, M. (2019). *Cambridge grammar of classical Greek*. Cambridge: Cambridge University Press.
 
 **Slovníky**
 
-- [LSJ] = LIDDELL, Henry George a Robert SCOTT, JONES, Henry Stuart a Roderick MCKENZIE, ed. *A Greek-English Lexicon*. Oxford: Clarendon Press, 1996. [[online]](https://logeion.uchicago.edu/lexidium)
-- [Lep] = LEPAŘ, František, ed. *Nehomérovský slovník řeckočeský*. Mladá Boleslav: Karel Vačlena, 1892. [[scan]](http://librinostri.catholica.cz/vyhledat/Lepa%C5%99%20Franti%C5%A1ek)
-- Slovní zásoba z *Cvičebnice jazyka řeckého* [[online]](https://maslism.github.io/gr-lexica)
+- Liddell-Scott-Jones 
 
+- Lepař, F. (2008). *Nehomérovský* s*lovník řeckočeský*. Praha: Rezek.
 
+**Pomůcky**
 
-> _Two men wrote a lexicon,  
-> Liddell and Scott;  
-> One half was clever,  
-> And one half was not.  
-> Give me the answer, boys,  
-> Quick to this riddle,  
-> Which was by Scott  
-> And which was by Liddell?_  
+- [Vyhledávač v slovní zásobě z *Cvičebnice* *jazyka řeckého*](https://maslism.github.io/gr-lexica/)
 
+- [Quizlet se slovní zásobou pro lekce 2.–62.](https://quizlet.com/kamilgregor/folders/slovicka-starorectina-attictina/sets)
 
+- Desktop verze slovníku Liddell-Scott-Jones a morfologického analyzátoru ([postup instalace rozhraní](https://latin-dict.github.io/docs/howto.html), [LSJ [slob-goldendict]](https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-02-14), [Morphologia Graeca [desktop-goldendict]](https://github.com/latin-dict/Morphologia-Graeca/releases/tag/v0.4))
 
+- [*Logeion* - online agregátor řeckých slovníků](https://logeion.uchicago.edu/lexidium)
+
+- [*Perseus* - databáze textů se slovníky a morfologickým analyzátorem](http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Greco-Roman)
+
+{{< center >}} 🙚 {{< /center >}}
+
+<br>
+
+{{< center >}}<i>Two men wrote a lexicon,  <br>Liddell and Scott;  <br>One half was clever,  <br>And one half was not.  <br>Give me the answer, boys,  <br>Quick to this riddle,  <br>Which was by Scott  <br>And which was by Liddell?</i>  {{< /center >}}

@@ -1,24 +1,23 @@
 {
-    "title": "18. cvičení – III. dekl.: kmeny alveolární pokračování; paroxytona -ις, -υς",
+"title": "18. cvičení – III. dekl.: kmeny alveolární pokračování; paroxytona -ις, -υς",
     "sidebar": true,
-    "weight": "22"
+    "weight": "22",
+"draft": true
 }
 
 ### Třetí deklinace
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Koncovky v třetí deklinaci" >}}
 
-| Pád  | Masc. + Fem.          | Neut. | Pl.  | Masc. + Fem. | Neut.  |
-| ---- | --------------------- | ----- | ---- | ------------ | ------ |
-| nom. | -ς nebo kmen (-ρ, -ν) | ∅     |      | -ες          | -ᾰ     |
-| gen. | -ος                   | -ος   |      | -ων          | -ων    |
-| dat. | -ῐ                    | -ῐ    |      | -σῐ(ν)       | -σῐ(ν) |
-| acc. | -ᾰ, -ν                | ∅     |      | -ᾰς, -ς      | -ᾰ     |
-| voc. | = nom. nebo kmen      | ∅     |      | = nom.       | -ᾰ     |
+| Pád  | Masc. + Fem.          | Neut. | Pl. | Masc. + Fem. | Neut.  |
+| ---- | --------------------- | ----- | --- | ------------ | ------ |
+| nom. | -ς nebo kmen (-ρ, -ν) | ∅     |     | -ες          | -ᾰ     |
+| gen. | -ος                   | -ος   |     | -ων          | -ων    |
+| dat. | -ῐ                    | -ῐ    |     | -σῐ(ν)       | -σῐ(ν) |
+| acc. | -ᾰ, -ν                | ∅     |     | -ᾰς, -ς      | -ᾰ     |
+| voc. | = nom. nebo kmen      | ∅     |     | = nom.       | -ᾰ     |
 
  {{< /bootstrap-table >}}
-
-
 
 ### III. dekl.: kmeny alveolární pokračování
 
@@ -52,8 +51,6 @@ Některé alveolární kmeny mají synchronně odchylný nominativ nebo vokativ.
 
 {{< /bootstrap-table >}}
 
-
-
 ### III. deklinace: paroxytona -ις, -υς
 
 Paroxytona alveolárních kmenů na -ις a -υς mají akus. sg. na -ιν a -υv, vok. na -ι a -υ, přecházejí tak ke kmenům samohláskovým.
@@ -61,9 +58,7 @@ Paroxytona alveolárních kmenů na -ις a -υς mají akus. sg. na -ιν a -υ
 ἡ χάρις — gen. χάριτος — acc. χάριν - "vděk, radost"  
 ἡ κόρυς — gen. κόρυϑος — acc. κόρυν - "přilba"
 
-
-
-### Věty 
+### Věty
 
 1\. Ὦ παῖ, δεῖ τοὺς παῖδας γυμνάζεσθαι 2. Τοῖς μὲν ποσὶ βαίνομεν, τοῖς δ᾽ ὠσὶν ἀκούομεν. 3. Οἱ στρατιῶται πολλάκις καὶ νυκτὸς ἐπορεύοντο. 4. Τὰ τέκνα γάλακτι τρέφεται. 5. Σελήνη Ἀρτέμιδι φίλη ἦν. 6. Ὁ στρατιώτης πρὸ τῆς μάχης τὴν ἀσπίδα, τὴν κόρυν, τὸ δόρυ παρεσκευάζετο. 7. Χάρις χάριν, ἔρις ἔριν τίκτει. 8. Μὴ παιδὶ μάχαιραν! 9. Οἱ ἄνϑρωποι τῇ τῶν ὀρνίϑων ᾠδῇ χαίρουσιν. 10. Ὕδωρ καὶ γάλα πίνομεν.
 
@@ -91,8 +86,6 @@ Paroxytona alveolárních kmenů na -ις a -υς mají akus. sg. na -ιν a -υ
 ### Úkol
 
 {{< button href="/greek/data/cviceni_9.pdf" class="btn-outline-info">}}Cvičení.pdf{{< /button >}}
-
-
 
 ### Křížové odkazy
 

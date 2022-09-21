@@ -1,7 +1,8 @@
 {
-    "title": "8. cvičení – Adjektiva -ος, -η (-ᾱ), -ον. Adverbia -ως ",
+"title": "8. cvičení – Adjektiva -ος, -η (-ᾱ), -ον. Adverbia -ως ",
     "sidebar": true,
-    "weight": "10"
+    "weight": "10",
+"draft": true
 }
 
 ### Adjektiva -ος, -η (-ᾱ), -ον
@@ -58,8 +59,6 @@
 
 &nbsp;
 
-
-
 {{< row >}}
 {{< column >}}
 ὁ τίμιος ἄνϑρωπος   
@@ -108,8 +107,6 @@ Adverbia od adjektiv I. a II. deklinace se tvoří nahrazením koncovky gen. pl.
 ἀγαθός, -ή, -όν – dobrý   
 
 {{</ pure-expand >}}
-
-
 
 ### Křížové odkazy
 

@@ -1,7 +1,8 @@
 {
-    "title": "7. cvičení – I. deklinace: α pūrum (dokončení), Imperfektum med.   a pass. ",
+"title": "7. cvičení – I. deklinace: α pūrum (dokončení), Imperfektum med.   a pass. ",
     "sidebar": true,
-    "weight": "9"
+    "weight": "9",
+"draft": true
 }
 
 ### I. deklinace: α pūrum (dokončení)
@@ -26,30 +27,32 @@
 
 {{< /bootstrap-table >}}
 
-​	{{< pure-expand title="Přípona *-ya-/-yā-" >}} 
+​    {{< pure-expand title="Přípona *-ya-/-yā-" >}} 
 
 - do první deklinace patří i slova odvozená příponou *-ya-/-yā- **(ř. *-jᾰ-/-jᾱ-)**. Oproti běžné příponě I. deklinace *-ā- (ř. *-ᾱ-), která je v každém pádě sg. dlouhá, je **vokál v *-ya- (ř. *-jᾰ-) krátký v nom. a acc. sg.**; __v gen. a dat. sg. je naopak dlouhý, *-yā- (ř. *-jᾱ-)__ 
 
 - původní *j této přípony je zachováno jen zřídka; často se jeho podoba změnila kvůli palatalizačním procesům
 
 - možným výsledkem palatalizace jsou i skupiny **-ειᾰ-** (z *-es-ya- nebo *-ew-ya-) a **-Vῖρᾰ-** (z \*-Vr-ya-) **v nom. a acc. sg.**, **-ειᾱ-** (z \*-es-yā- nebo *-ew-yā-) a **-Vίρᾱ-** (z *-Vr-yā-) **v gen. a dat. sg.**   
-
+  
   {{</ pure-expand >}}
 
-
-
 - v -ειᾱ- a Vίρᾱ- předchází dlouhému -ᾱ- v gen. a dat. **-ι-**, resp. **-ρ-**, a proto se -ᾱ- nezmění na -η-. Tato slova jsou kvůli tomu v kategorii **α _pūrum_** 
+
 - poznávacím znakem této podkategorie je přízvuk v nom. sg., který odhaluje, že -ᾰ v nom. je krátké: 
+  
   - βασίλειᾰ, ἀλήθειᾰ: ostrý na třetí slabice od konce (*basílew-ya, *alḗthes-ya)
   - σφαῖρᾰ, μοῖρᾰ: průtažný na druhé slabice od konce 
+
 - znakem podtypu α *pūrum* je přítomnost kmenotvorného -α v pádech obou čísel oproti podtypu -η, -ης (νίκη, νίκης), u kterého se -α objevuje jen v pl.
+
 - α *pūrum* je vlastní attickému dialektu a týká se slov, ve kterých koncovce předchází **-ε-, -ι-**, nebo **-ρ-**
+  
   - příčinou vzniku tohoto podtypu je attická reverze: původní _*ā_ se v iónsko-attických dialektech měnilo na η. Tento posun byl ale v attickém dialektu potlačen, předcházela-li před **ā* hláska -ε-, -ι-, nebo -ρ-. V iónštině proces proběhl bez výjimek, srovnej att. οἰκίᾱ oproti ión. οἰκίη 
 
 - gen. pl. má vždy přízvuk na koncovém -ῶν
+
 - koncovka nom. pl. -αι je pro přízvuk krátká 
-
-
 
 ### Imperfektum media a pasiva
 
@@ -99,14 +102,10 @@
 
 {{</ pure-expand >}}
 
-
-
 ### Úkol
 
 - skloňujte θεοσέβειᾰ καλή *dobrá zbožnost*, σφαῖρᾰ λαμπρά *zářivá koule*
 - Převeďte do impf. věty cv. 5 (kromě věty 3)
-
-
 
 {{< button href="/greek/data/cviceni_2.pdf" class="btn-outline-info">}}Cvičení.pdf{{< /button >}}
 

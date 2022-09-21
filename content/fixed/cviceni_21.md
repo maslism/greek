@@ -1,7 +1,8 @@
 {
-    "title": "21. cvičení – III. dekl.: kmeny s likvidami -λ, -ρ; silný aorist",
+"title": "21. cvičení – III. dekl.: kmeny s likvidami -λ, -ρ; silný aorist",
     "sidebar": true,
-    "weight": "25"
+    "weight": "25",
+"draft": true
 }
 
 ### III. dekl.: kmeny s likvidami -λ, -ρ
@@ -47,16 +48,14 @@ Ablaut (taky střída) v řečtině je střídání různých podob jednoho vok�
 
 &nbsp;
 
-
-
 #### Příklady ablautu
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
-| Kořen n. přípona | Dlouhý stupeň | Plný stupeň    | Nulový stupeň            |
-| ---------------- | ------------- | -------------- | ------------------------ |
-| λειπ-            | –             | λειπ-, λοιπ-   | λιπ-                     |
-| φευγ-            | –             | φευγ-          | φυγ-                     |
+| Kořen n. přípona | Dlouhý stupeň | Plný stupeň    | Nulový stupeň             |
+| ---------------- | ------------- | -------------- | ------------------------- |
+| λειπ-            | –             | λειπ-, λοιπ-   | λιπ-                      |
+| φευγ-            | –             | φευγ-          | φυγ-                      |
 | στρεφ-           | –             | στρεφ-, στροφ- | στραφ- < `*str̩ph-`       |
 | -τερ             | -τηρ          | -τερ-          | -τρ-V; -τρα-C < `*-tr̩-C` |
 
@@ -88,7 +87,7 @@ Následující tvary nemají přízvuk v silném aoristu na kořeni ale na pří
 
 {{< /bootstrap-table >}}
 
-### Podmínka ireální 
+### Podmínka ireální
 
 Souvětí podmínkové neskutečné (ireální) vyjadřuje děj neskutečný
 (bez zřetele na čas):
@@ -108,7 +107,7 @@ Konjunktiv rozvažovací: v 1. os. sg. nebo pl.
 ποῖ φεύγωμεν; *kam (máme) utíkat?*  
 ποῖ φύγωμεν; *kam (máme) utéci?*   
 
-### Věty 
+### Věty
 
 1\. Ὁ ἅλς τῷ ἀνθρώπῳ πρὸς βίον ἀναγκαῖός ἐστιν. 2. Ἔνιοι τῶν ϑηρῶν τοῖς ϑηρσὶ μάχονται. 3. Εἴϑε οἱ ῥήτορες ἀεὶ τῷ δήμῳ χρήσιμα συμβουλεύοιεν! 4. Ἡ τοῦ ἦρος ἀρχὴ πᾶσι φίλη ἐστίν. 5. Τοῖς μάρτυσιν οὐκ ἂν ἐπιστεύομεν, εἰ μὴ πιστὰ ἔλεγον. 6. Οἱ Πέρσαι προσήγαγον ἰσχυρὰν στρατιὰν εἰς τὴν Ἑλλάδα. 7. Τῆς μάχης γιγνομένης οἱ πολέμιοι πάντα καταλιπόντες εἰς φυγὴν ἐτράποντο. 8. Μὴ καταλίπῃς τὸν φίλον ἐν κινδύνῳ! 9. Οἱ πολέμιοι μετὰ τὴν μάχην ἔλεγον· "Ποῖ τραπώμεϑα, ποῖ φύγωμεν;“ 10. Καλόν ἐστι παισὶν ἐλευϑερίαν καταλιπέσϑαι.
 
@@ -130,8 +129,6 @@ Konjunktiv rozvažovací: v 1. os. sg. nebo pl.
 
 {{</ pure-expand >}}
 
-
-
 ### Křížové odkazy
 
 {{< tabs tabTotal="2" tabID="1" tabName1="Hnátek" tabName2="Niederle" >}}
@@ -146,4 +143,3 @@ III. dekl.: kmeny plynné -λ,-p (§ 107, 108.1-4); aor. sllný (II.) (§ 199-20
 {{< /tabs >}}
 
 {{< figure src="/data/theres.png" width=250 caption="Θῆρες οἱ μαχόμενοι. 540-530 p. n. l., Chalkis." link="/data/theres.png" target=”_blank” >}}
-

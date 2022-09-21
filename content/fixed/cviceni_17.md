@@ -1,24 +1,23 @@
 {
-    "title": "17. cvičení – III. dekl.: kmeny alveolární; fut. kmenů alveolár.",
+"title": "17. cvičení – III. dekl.: kmeny alveolární; fut. kmenů alveolár.",
     "sidebar": true,
-    "weight": "21"
+    "weight": "21",
+"draft": true
 }
 
 ### Třetí deklinace
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Koncovky v třetí deklinaci" >}}
 
-| Pád  | Masc. + Fem.          | Neut. | Pl.  | Masc. + Fem. | Neut.  |
-| ---- | --------------------- | ----- | ---- | ------------ | ------ |
-| nom. | -ς nebo kmen (-ρ, -ν) | ∅     |      | -ες          | -ᾰ     |
-| gen. | -ος                   | -ος   |      | -ων          | -ων    |
-| dat. | -ῐ                    | -ῐ    |      | -σῐ(ν)       | -σῐ(ν) |
-| acc. | -ᾰ, -ν                | ∅     |      | -ᾰς, -ς      | -ᾰ     |
-| voc. | = nom. nebo kmen      | ∅     |      | = nom.       | -ᾰ     |
+| Pád  | Masc. + Fem.          | Neut. | Pl. | Masc. + Fem. | Neut.  |
+| ---- | --------------------- | ----- | --- | ------------ | ------ |
+| nom. | -ς nebo kmen (-ρ, -ν) | ∅     |     | -ες          | -ᾰ     |
+| gen. | -ος                   | -ος   |     | -ων          | -ων    |
+| dat. | -ῐ                    | -ῐ    |     | -σῐ(ν)       | -σῐ(ν) |
+| acc. | -ᾰ, -ν                | ∅     |     | -ᾰς, -ς      | -ᾰ     |
+| voc. | = nom. nebo kmen      | ∅     |     | = nom.       | -ᾰ     |
 
  {{< /bootstrap-table >}}
-
-
 
 ### III. dekl.: kmeny alveolární
 
@@ -78,9 +77,7 @@ U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -θω, 
 
 &nbsp;
 
-
-
-### Věty 
+### Věty
 
 1\. Ev τῇ μάχῃ πρὸ τῶν φαλάγγων οἱ γυμνῆτες ἐμάχοντο. 2. Ἡ τοῦ ἀνϑρώπου ψυχὴ πολλάκις ταῖς ἐλπίσι τρέφεται. 3. Τὰ τῶν στρατιωτῶν σώματα ταῖς ἀσπίσι σῴζεται. 4. Οἱ ἀγαϑοὶ πολῖται τοῖς τῆς πατρίδος νόμοις πείσονται. 5. Ἀεὶ ἐϑαυμάζομεν καὶ ϑαυμασόμεϑα τὰ τοῦ Ὁμήρου ποιήματα. 6. Οἱ ποιηταὶ ᾄσονται καλὰς ᾠδὰς περὶ τῆς πατρίδος. Ἀκουσόμεϑα. 7. Ὦ νεανία, ἐν χαλεποῖς πράγμασιν ἴσϑι ἀνδρεῖος! 8. Τίς σώσει τὴν πατρίδα; Νόμοι, πολῖται, εἰρήνη.
 
@@ -101,8 +98,6 @@ U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -θω, 
 ### Úkol
 
 {{< button href="/greek/data/cviceni_8.pdf" class="btn-outline-info">}}Cvičení.pdf{{< /button >}}
-
-
 
 ### Křížové odkazy
 

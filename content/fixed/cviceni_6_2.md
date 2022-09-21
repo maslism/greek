@@ -1,7 +1,8 @@
 {
-    "title": "6.2 cvičení – I. deklinace: ᾱ pūrum",
+"title": "6.2 cvičení – I. deklinace: ᾱ pūrum",
     "sidebar": true,
-    "weight": "8"
+    "weight": "8",
+"draft": true
 }
 
 ### I. deklinace: ᾱ pūrum
@@ -33,8 +34,6 @@
 - gen. pl. má vždy přízvuk na koncovém -ῶν (gen. pl. *ā́sōm > *ā́hōn > *ā́ōn > -ῶν)
 - koncovka nom. pl. -αι je pro přízvuk krátká 
 
-
-
 ### Věty
 
 1\. Τὸ Ἀϑηνᾶς τῆς ϑεᾶς ἱερὸν καλόν ἐστιν. 2. Οἱ Ἀϑηναῖοι Ἀϑηνᾷ τῇ ϑεᾷ ἐπίστευον. 3. Τὴν ὑμετέραν χώραν στέργετε, ὦ φίλοι! 4. Ὁ δῆμος ταῖς νίκαις χαίρει. 5. Οἱ Ἀϑηναῖοι περὶ τῶν μαχῶν καλὰς ᾠδὰς ᾖδον. 6. Σῷζε, ὦ Ἀϑηνᾶ, σῷζε τὰς ἡμετέρας οἰκίας!
@@ -52,8 +51,6 @@
 ἡ οἰκίᾱ, -ᾱς – dům, příbytek
 
 {{</ pure-expand >}}
-
-
 
 ### Úkol
 
@@ -97,8 +94,6 @@
 {{< /row >}}
 
 &nbsp; 
-
-
 
 ΙΙ. 
 

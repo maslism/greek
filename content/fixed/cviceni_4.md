@@ -1,7 +1,8 @@
 {
-    "title": "4. cvičení – II. deklinace: maskulina (proparoxytona), Ind., impt., inf. praes. med., pass.",
+"title": "4. cvičení – II. deklinace: maskulina (proparoxytona), Ind., impt., inf. praes. med., pass.",
     "sidebar": true,
-    "weight": "4"
+    "weight": "4",
+"draft": true
 }
 
 ### Maskulina II. deklinace (proparoxytona)
@@ -22,8 +23,6 @@
 
 - ostrý přízvuk se z třetí slabiky od konce přesouvá na druhou, je-li poslední slabika dlouhá (má diftong nebo dlouhý vokál) 
 - koncovka nom. pl -οι je z hlediska přízvuku krátká
-
-
 
 ### Indikativ, imperativ, infinitiv prézentu mediopasiva
 
@@ -51,7 +50,7 @@
 
 {{< /bootstrap-table >}}
 
-### Vazba akuzativu s infinitivem po δεῖ 
+### Vazba akuzativu s infinitivem po δεῖ
 
 Neosobní sloveso δεῖ _je třeba_ se váže s akuzativem a infinitivem (AccInf). Akuzativ plní funkci buď podmětu slovesa v infinitivu, nebo naopak přímého předmětu slovesa v infinitivu. V jedné větě můžou být zachyceny obě funkce pomocí dvou různých akuzativů.  
 
@@ -68,8 +67,6 @@ Neosobní sloveso δεῖ _je třeba_ se váže s akuzativem a infinitivem (AccI
 
 1. substantivizuje: νέοι _mladí_ → οἱ νέοι _mládež_;
 2. adjektivizuje; νῦν _nyní_ → οἱ νῦν ἄνϑρωποι _nynější lidé, dnešní generace_
-
-
 
 ### Věty
 
@@ -102,8 +99,6 @@ Neosobní sloveso δεῖ _je třeba_ se váže s akuzativem a infinitivem (AccI
 ὑπό (s gen.) – od  
 
 {{</ pure-expand >}}
-
-
 
 ### Úkol
 
@@ -151,4 +146,3 @@ s. 10-12
 II. deklinace: maskulina (proparoxytona) § 72 (s. 35), Ind., impt., inf. praes. med. pass. § 186, 187 (s. 88-89)
 {{< /tab >}}
 {{< /tabs >}}
-

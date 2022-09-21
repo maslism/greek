@@ -1,7 +1,8 @@
 {
-    "title": "9.1 cvičení – I. deklinace: nom. sg. -ᾰ, gen. sg. -ης",
+"title": "9.1 cvičení – I. deklinace: nom. sg. -ᾰ, gen. sg. -ης",
     "sidebar": true,
-    "weight": "11"
+    "weight": "11",
+"draft": true
 }
 
 ### I. deklinace: nom. sg. -ᾰ, gen. sg. -ης
@@ -19,10 +20,12 @@
 | voc. | θάλαττ-**ᾰ!**       | θάλαττ-αι  | δόξ-**ᾰ**         | δόξ-αι  | *-**jᾰ**      |
 
 - přípona *-jᾰ je krátká v nom., acc. a voc. sg.; -ᾰ se proto nemůže změnit na -η
-- v gen. a dat. sg je přípona *-jᾱ dlouhá; -ᾱ se proto změní na η, když mu nepředchází -ε-, -ι- nebo -ρ- 
-- tento typ feminin se dá identifikovat v nom. sg. podle toho, že má koncovku -ᾰ, ačkoliv jí nepředchází -ε-, -ι- nebo -ρ- 
 
- {{< /bootstrap-table >}}
+- v gen. a dat. sg je přípona *-jᾱ dlouhá; -ᾱ se proto změní na η, když mu nepředchází -ε-, -ι- nebo -ρ- 
+
+- tento typ feminin se dá identifikovat v nom. sg. podle toho, že má koncovku -ᾰ, ačkoliv jí nepředchází -ε-, -ι- nebo -ρ- 
+  
+  {{< /bootstrap-table >}}
 
 ### Shrnutí feminin I. deklinace
 
@@ -47,31 +50,28 @@
 
 {{< /bootstrap-table >}}
 
-
-
 ### Věty
 
 1\. Ἡ τοῦ κακοῦ ἀνϑρώπου γλῶττα πολλάκις δεινή ἐστιν. 2. Καλοὶ εἰσιν οἱ τῆς σοφῆς γλώττης λόγοι. 3. Τῇ ἡμετέρᾳ γλώττῃ, ὦ νέοι, ἀεὶ καλῶς λέγετε καὶ γράφετε! 4. Φεῦγε ἀεὶ τὴν τῶν κακῶν γλῶτταν! 5. Ἴσϑι μετρία, ὦ γλῶττα! 6. Οἱ τῆς ϑαλάττης κίνδυνοι πολλάκις δεινοί εἰσιν. 7. Ἡ στρατιὰ ἔχαιρε καὶ ἔλεγεν· "Θάλαττα, θάλαττα!"
 
 {{< pure-expand title="Slovní zásoba" >}}      
 
-κακός, -ή, -όν – zlý, špatný   	   
+κακός, -ή, -όν – zlý, špatný          
 γλῶττα, -ης, ἡ – jazyk, nářečí, řeč  
 πολλάκις – často   
 δεινός, -ή, -όν – hrozný, strašný  
 λέγω, -ειν  – říkám, mluvím  
 καλῶς – krásně, správně   
-ἴσθι! – buď 	  
+ἴσθι! – buď       
 μέτριος, -α, -ον – mírný, skromný  
 δίκαιος, -α, -ον – spravedlivý  
 εἰ – jestliže, -li  
 ὅτι – že  
-λαμπρός, -ά, -όν – skvělý	  
+λαμπρός, -ά, -όν – skvělý      
 δόξα, -ης, ἡ – sláva, domněnka  
-θάλαττα, -ης, ἡ – moře	  
-κίνδυνος, -ου, ὁ – nebezpečí	  
-τῆς θαλάττης κίνδυνος – nebezpečí na moři	    
-
+θάλαττα, -ης, ἡ – moře      
+κίνδυνος, -ου, ὁ – nebezpečí      
+τῆς θαλάττης κίνδυνος – nebezpečí na moři        
 
 {{</ pure-expand >}}
 

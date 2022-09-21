@@ -1,7 +1,8 @@
 {
-    "title": "19. cvičení – III. dekl.: -ντ- kmeny",
+"title": "19. cvičení – III. dekl.: -ντ- kmeny",
     "sidebar": true,
-    "weight": "23"
+    "weight": "23",
+"draft": true
 }
 
 ### III. dekl.: -ντ- kmeny
@@ -54,8 +55,6 @@ Hlásková změna, při které se zjednodušuje souhlásková skupina za součas
 
 {{< /bootstrap-table >}}
 
-
-
 ### Adjektiva s kmenem -ντ-
 
 Maskulina a neutra některých adjektiv se skloňují jako -ντ- kmeny III. deklinace. Feminina se skloňují jako typ θάλασσα, -ης. 
@@ -103,9 +102,7 @@ Dat. pl. masc. a neut. má krátké ε kvůli nulovému stupni přípony: `*-wn�
 
 {{< /bootstrap-table >}}
 
-
-
-### Věty 
+### Věty
 
 Τοῖς γίγᾱσιν ἦν ἰσχυρὰ σώματα.  
 Πιστεύομεν τοῖς σοφοῖς γέρουσιν.
@@ -130,8 +127,6 @@ Dat. pl. masc. a neut. má krátké ε kvůli nulovému stupni přípony: `*-wn�
 χρήσιμος 3, 2 – užitečný, prospěšný   
 
 {{</ pure-expand >}}
-
-
 
 ### Křížové odkazy
 

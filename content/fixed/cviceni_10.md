@@ -1,7 +1,8 @@
 {
-    "title": "10. cvičení – I. deklinace: maskulina, II. deklinace: feminina, Ind. fut. med.",
+"title": "10. cvičení – I. deklinace: maskulina, II. deklinace: feminina, Ind. fut. med.",
     "sidebar": true,
-    "weight": "13"
+    "weight": "13",
+"draft": true
 }
 
 ### I. deklinace: maskulina
@@ -24,12 +25,16 @@
 | pl.     | τοὺς νεανί-ᾱς           | τοὺς Ἀτρείδ-ᾱς             | τοὺς πολίτ-ᾱς          |
 
 - maskulina I. deklinace mají v nom. sg. -ᾱς po -ε-, -ι-, -ρ- (ᾱ *pūrum*), jinak -ης
-- v sg. se skloňují jako feminina I. deklinace kromě nom. a gen. sg., kde je koncovka -ου (podle mask. II. dekl.)
-- po -ε-, -ι-, -ρ- je v každém pádě sg. -α- 
-- -α je ve voc. sg. u substantiv s α *pūrum* a u slov na -της/-τής; voc. sg. -η je pak u substantiv na -ης kromě -της
-- pl. se skloňuje jako u feminin I. deklinace
 
- {{< /bootstrap-table >}}
+- v sg. se skloňují jako feminina I. deklinace kromě nom. a gen. sg., kde je koncovka -ου (podle mask. II. dekl.)
+
+- po -ε-, -ι-, -ρ- je v každém pádě sg. -α- 
+
+- -α je ve voc. sg. u substantiv s α *pūrum* a u slov na -της/-τής; voc. sg. -η je pak u substantiv na -ης kromě -της
+
+- pl. se skloňuje jako u feminin I. deklinace
+  
+  {{< /bootstrap-table >}}
 
 ### II. deklinace: feminina
 
@@ -55,8 +60,6 @@ Některá podstatná jména II. deklinace jsou ženského rodu. Většinou se je
 {{< /column >}} 
 {{< /row >}}
 
-
-
 ### Indikativ futura media
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
@@ -71,9 +74,10 @@ Některá podstatná jména II. deklinace jsou ženského rodu. Většinou se je
 | 3.    | παιδεύ-σ-ονται                     | -σ-ονται |
 
 - futurum se tvoří příponou -σ- a má stejné koncovky jako prézens
-- fut. med. má jenom mediální význam, nikoliv pasivní 
 
- {{< /bootstrap-table >}}
+- fut. med. má jenom mediální význam, nikoliv pasivní 
+  
+  {{< /bootstrap-table >}}
 
 ### Věty
 
@@ -95,13 +99,9 @@ Některá podstatná jména II. deklinace jsou ženského rodu. Většinou se je
 
 {{</ pure-expand >}}
 
-
-
 ### Úkol
 
 {{< button href="/greek/data/cviceni_4.pdf" class="btn-outline-info">}}Cvičení.pdf{{< /button >}}
-
-
 
 ### Křížové odkazy
 

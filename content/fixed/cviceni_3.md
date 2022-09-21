@@ -1,7 +1,8 @@
 {
-    "title": "3. cvičení – II. deklinace: maskulina (properispómena), ind., impt., inf. praes. akt. παιδεύω",
+"title": "3. cvičení – II. deklinace: maskulina (properispómena), ind., impt., inf. praes. akt. παιδεύω",
     "sidebar": true,
-    "weight": "3"
+    "weight": "3",
+"draft": true
 }
 
 ### Maskulina II. deklinace (properispómena)
@@ -23,8 +24,6 @@
 - průtažný přízvuk se mění na ostrý, je-li poslední slabika dlouhá (má diftong nebo dlouhý vokál) 
 - koncovka nom. pl -οι je krátká, ačkoliv jde o diftong  
   {{< pure-expand title="původ jevu" >}} sylabifikace -οι, když následovalo jiné slovo se začátečným vokálem, byla -ο.ιV-; nestejnoslabičné -ο.ι není prozodický dlouhé; chápaní nom. pl -οι jako krátké koncovky se pak rozšířilo bez ohledu na hláskový kontext {{</ pure-expand >}}
-
-
 
 ### Indikativ, imperativ, infinitiv prézentu aktiva παιδεύ-ω
 
@@ -53,8 +52,6 @@ Srov.: peč-u (< *ō), peč-e-š, peč-e, peč-e-me (nepůvodní), peč-e-te, pe
 
 {{</ pure-expand >}}
 
-
-
 ### Věty
 
 Ὦ φίλε, στέργ-ε τὸν σὸν φίλον, μὴ φεῦγ-ε τὸν πόνον!  
@@ -80,9 +77,7 @@ Přátelé, milujte své přátelé, nevyhýbejte se námahám!
 τίς; – (vždy přízvuk ostrý) kdo?  
 ὑμέτερος – váš  {{</ pure-expand >}}
 
-
-
-### Úkol 
+### Úkol
 
 1\. Παιδεύω. 2. Στέργεις. 3. Οὐ πιστεύει. 4. Οὐκ ἀκούομεν. 5. Ἀεὶ θαυμάζετε. 6. Λέγουσι καὶ γράφουσιν. 7. Φεῦγε. 8. Μὴ φέρετε. 9. Θέλει ᾄδειν. 10. Οὐκ ἀκούετε, ἀλλὰ λέγετε. 11. Πιστεύομεν τοῖς τῶν φίλων λόγοις. 12. Μὴ φεῦγε τοὺς πόνους, ὦ φίλε.
 
@@ -106,4 +101,3 @@ s. 8-10
 II. deklinace: maskulina (properispómena) § 72 (s. 35), ind., impt., inf. praes. παιδεύω § 185 (s. 86-87)
 {{< /tab >}}
 {{< /tabs >}}
-

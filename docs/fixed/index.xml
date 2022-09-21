@@ -21,8 +21,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fixed/literatura/</guid>
-      <description>Česká literatura
- [Hn] = HNÁTEK, Jaroslav, Rudolf TRNKA, Drahomíra WITTICHOVÁ, Čestmír VRÁNEK, Zdeněk VYSOKÝ a Miloš LUKÁŠ, ed. Cvičebnice jazyka řeckého. 3. fototyp. vyd. Praha: Scriptum, 1993. [scan] [N] = NIEDERLE, Jindřich, Václav NIEDERLE a Ladislav VARCL. Mluvnice jazyka řeckého. Fototypické vydání dle vydání z roku 1956. Praha: Vyšehrad, 1998. [scan] [F] = FÜRST, Kamil. Cvičebnice jazyka řeckého pro V. a VI. třídu gymnasií. 2., nezměněné vyd. Praha: Profesorské nakladatelství a knihkupectví, 1939.</description>
+      <description>Základní
+  Hnátek, J. et al. (1998). Cvičebnice jazyka řeckého. Praha: Vyšehrad. [nebo jiná vyd.]
+  Niederle, J., Niederle, V., &amp;amp; Varcl, L. (1991). Mluvnice řeckého jazyka. Praha: Scriptum. [nebo jiná vyd., ne starší vyd. než 1956]
+  Horáček, F., &amp;amp; Chlup, R. (2012). Učebnice klasické řečtiny. Praha: Academia.
+  Muchnová, D. (2000). Souhrn starořecké gramatiky. Praha: Holman.
+  Anglické učebnice
+  Joint Association of Classical Teachers.</description>
     </item>
     
     <item>
@@ -31,233 +36,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fixed/cviceni_1/</guid>
-      <description>Alfabeta  # Znak Platnost Název     1 Α α /a/ ἄλφα   2 Β β /b/ βῆτα   3 Γ γ /g/ γάμμα   4 Δ δ /d/ δέλτα   5 Ε ε /e/ ἒ ψιλόν   6 Ζ ζ /zd/ ~ /dz/ ζῆτα   7 Η η /ē/ ἦτα   8 Θ θ /th/ θῆτα   9 Ι ι /i/ ἰῶτα   10 Κ κ /k/ κάππα   11 Λ λ /l/ λάμβδα   12 Μ μ /m/ μῦ   13 Ν ν /n/ νῦ   14 Ξ ξ /ks/ ξῖ   15 Ο ο /o/ ὂ μικρόν   16 Π π /p/ πῖ   17 Ρ ρ /r/ ῥῶ   18 Σ σ/ς /s/ σῖγμα   19 Τ τ /t/ ταῦ   20 Υ υ /u/ ~ /ü/ ~ /i/ ὒ ψιλόν   21 Φ φ /ph/ ~ /f/ φῖ   22 Χ χ /kh/ ~ /ch/ χῖ   23 Ψ ψ /ps/ ψῖ   24 Ω ω /ō/ ὦ μέγα    Diftongy (dvojhlásky)  Forma Platnost     αι /ay/   ᾳ/αι /āy/ ~ /ā/   ει /ey/   ῃ/ηι /ēy/ ~ /ē/   οι /oy/   ῳ/ωι /ōy/ ~ /ō/   υι /üy/   αυ /aw/   ευ /ew/   ηυ /ēw/   ου /ū/     znaky ᾳ, ῃ a ῳ představují dlouhé diftongy, ve kterých je znak ι podepsaný a tvoří tzv.</description>
-    </item>
-    
-    <item>
-      <title>2. cvičení – II. deklinace: maskulina (paroxytona, oxytona), člen</title>
-      <link>/fixed/cviceni_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_2/</guid>
-      <description>Maskulina II. deklinace (paroxytona, oxytona)  Pád Sg. Pl. Sg. Pl.     nom. ἵππ-ος &amp;ldquo;kůň&amp;rdquo; ἵππ-οι ποταμ-ός &amp;ldquo;řeka&amp;rdquo; ποταμ-οί   gen. ἵππ-ου ἵππ-ων ποταμ-οῦ ποταμ-ῶν   dat. ἵππ-ῳ ἵππ-οις ποταμ-ῷ ποταμ-οῖς   acc. ἵππ-ον ἵππ-ους ποταμ-όν ποταμ-ούς   voc. ἵππ-ε ἵππ-οι ποταμ-έ ποταμ-οί     oxytona (ostrý přízvuk na poslední slabice) mění v gen. a dat. obou čísel ostrý přízvuk za průtažný: ποταμοῦ, ποταμῷ, ποταμῶν, ποταμοῖς  Člen  Sg.</description>
-    </item>
-    
-    <item>
-      <title>3. cvičení – II. deklinace: maskulina (properispómena), ind., impt., inf. praes. akt. παιδεύω</title>
-      <link>/fixed/cviceni_3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_3/</guid>
-      <description>Maskulina II. deklinace (properispómena)  Pád Sg. Pl.     nom. δοῦλ-ος &amp;ldquo;otrok&amp;rdquo; δοῦλ-οι   gen. δούλ-ου δούλ-ων   dat. δούλ-ῳ δούλ-οις   acc. δοῦλ-ον δούλ-ους   voc. δοῦλ-ε δοῦλ-οι     průtažný přízvuk se mění na ostrý, je-li poslední slabika dlouhá (má diftong nebo dlouhý vokál) koncovka nom. pl -οι je krátká, ačkoliv jde o diftong
-původ jevusylabifikace -οι, když následovalo jiné slovo se začátečným vokálem, byla -ο.</description>
-    </item>
-    
-    <item>
-      <title>4. cvičení – II. deklinace: maskulina (proparoxytona), Ind., impt., inf. praes. med., pass.</title>
-      <link>/fixed/cviceni_4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_4/</guid>
-      <description>Maskulina II. deklinace (proparoxytona)  Pád Sg. Pl.     nom. ἄνθρωπ-ος &amp;ldquo;člověk&amp;rdquo; ἄνθρωπ-οι   gen. ἀνθρώπ-ου ἀνθρώπ-ων   dat. ἀνθρώπ-ῳ ἀνθρώπ-οις   acc. ἄνθρωπ-ον ἀνθρώπ-ους   voc. ἄνθρωπ-ε ἄνθρωπ-οι     ostrý přízvuk se z třetí slabiky od konce přesouvá na druhou, je-li poslední slabika dlouhá (má diftong nebo dlouhý vokál) koncovka nom. pl -οι je z hlediska přízvuku krátká  Indikativ, imperativ, infinitiv prézentu mediopasiva  Osoba indikativ imperativ infinitiv     1.</description>
-    </item>
-    
-    <item>
-      <title>5. cvičení – II. deklinace: neutra, Deponentní slovesa</title>
-      <link>/fixed/cviceni_5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_5/</guid>
-      <description>Neutra II. deklinace  Singulár Člen Proparoxytona Paroxytona Properispómena Oxytona     nom. τό δάκρυ-ον &amp;ldquo;slza&amp;rdquo; τέκν-ον &amp;ldquo;dítě&amp;rdquo; δῶρ-ον &amp;ldquo;dar&amp;rdquo; ζυγ-όν &amp;ldquo;jařmo&amp;rdquo;   gen. τοῦ δακρύ-ου τέκν-ου δώρ-ου ζυγ-οῦ   dat. τῷ δακρύ-ῳ τέκν-ῳ δώρ-ῳ ζυγ-ῷ   acc. τό δάκρυ-ον τέκν-ον δῶρ-ον ζυγ-όν   voc.  δάκρυ-ον τέκν-ον δῶρ-ον ζυγ-όν   Plurál        nom. τά δάκρυ-α τέκν-α δῶρ-α ζυγ-ά   gen.</description>
-    </item>
-    
-    <item>
-      <title>Opakování I. – cv. 1. až 5.</title>
-      <link>/fixed/opakovani_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/opakovani_1/</guid>
-      <description>1. 1. Ὁ δοῦλος τῷ ἀδελφῷ δῶρον παρὰ τοῦ φίλου φέρει. 2.a) Τὸ δένδρον γιγνώσκεται ἐκ τῶν καρπῶν. 2.b) Τὰ δένδρα γιγνώσκεται ἐκ τῶν καρπῶν. 3.a) Τὰ φάρμακα ὑπὸ τοῦ ἰατροῦ παρασκευάζεται. 3.b) Ὁ ἰατρὸς τὰ φάρμακα παρασκευάζεται. 4. Πολλάκις καὶ τὰ τῶν τέκνων ἔργα ϑαυμάζομεν. 5. Τὸ μὲν ἀγαϑὸν δένδρον ἀγαϑοὺς φέρει καρπούς, τὸ δὲ πονηρὸν πονηρούς. 6. Πιστεύομεν τῷ στρατηγῷ· τὰ γὰρ ἱερὰ καλά ἐστιν. 7. Ὅσιοι λόγοι ἄνευ ὁσίων ἔργων τοῖς ϑεοῖς οὐ φίλοι εἰσίν.</description>
-    </item>
-    
-    <item>
-      <title>6.1 cvičení – lmperfektum aktiva, I. deklinace: nom. -η, gen. -ης</title>
-      <link>/fixed/cviceni_6_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_6_1/</guid>
-      <description>I. deklinace: nom. -η, gen. -ης  Singulár Člen Paroxytona Oxytona     nom. ἡ μάχ-η &amp;ldquo;bitva&amp;rdquo; τιμ-ή &amp;ldquo;čest&amp;rdquo;   gen. τῆς μάχ-ης τιμ-ῆς   dat. τῇ μάχ-ῃ τιμ-ῇ   acc. τήν μάχ-ην τιμ-ήν   voc.  μάχ-η τιμ-ή   Plurál      nom. αἱ μάχ-αι τιμ-αί   gen. τῶν μαχ-ῶν τιμ-ῶν   dat. ταῖς μάχ-αις τιμ-αῖς   acc.</description>
-    </item>
-    
-    <item>
-      <title>6.2 cvičení – I. deklinace: ᾱ pūrum</title>
-      <link>/fixed/cviceni_6_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_6_2/</guid>
-      <description>I. deklinace: ᾱ pūrum  Singulár Člen        nom. ἡ οἰκί-ᾱ &amp;ldquo;dům&amp;rdquo; χώρ-ᾱ &amp;ldquo;země&amp;rdquo; θε-ά &amp;ldquo;bohyně&amp;rdquo;   gen. τῆς οἰκί-ᾱς χώρ-ᾱς θε-ᾶς   dat. τῇ οἰκί-ᾳ χώρ-ᾳ θε-ᾷ   acc. τήν οἰκί-ᾱν χώρ-ᾱν θε-άν   voc.  οἰκί-ᾱ χώρ-ᾱ θε-ά   Plurál       nom. αἱ οἰκί-αι χῶρ-αι θε-αί   gen. τῶν οἰκι-ῶν χωρ-ῶν θε-ῶν   dat.</description>
-    </item>
-    
-    <item>
-      <title>7. cvičení – I. deklinace: α pūrum (dokončení), Imperfektum med.   a pass. </title>
-      <link>/fixed/cviceni_7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_7/</guid>
-      <description>I. deklinace: α pūrum (dokončení)  Singulár Člen   Přípona     nom. ἡ βασίλει-ᾰ &amp;ldquo;královna&amp;rdquo; σφαῖρ-ᾰ &amp;ldquo;koule&amp;rdquo; *-jᾰ   gen. τῆς βασιλεί-ᾱς σφαίρ-ᾱς *-jᾱ-   dat. τῇ βασιλεί-ᾳ σφαίρ-ᾳ *-jᾱ-   acc. τήν βασίλει-ᾰν σφαῖρ-ᾰν *-jᾰ-   voc.  βασίλει-ᾰ σφαῖρ-ᾰ *-jᾰ   Plurál       nom. αἱ βασίλει-αι σφαῖρ-αι    gen. τῶν βασιλει-ῶν σφαιρ-ῶν    dat.</description>
-    </item>
-    
-    <item>
-      <title>8. cvičení – Adjektiva -ος, -η (-ᾱ), -ον. Adverbia -ως </title>
-      <link>/fixed/cviceni_8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_8/</guid>
-      <description>Adjektiva -ος, -η (-ᾱ), -ον   Mužský rod Ženský rod Štřední rod Ve slovníku     I. -ος -η -ον ἀγαθός, -ή, -όν ~ ἀγαθός, 3   II. -εος -εᾱ -εον νέος, -ᾱ, -ον ~ νέος, 3   III. -ιος -ιᾱ -ιον ἀνδρεῖος, -ᾱ, -ον ~ ἀνδρεῖος, 3   IV. -ρος -ρᾱ -ρον μακρός, -ά, -όν ~ μακρός, 3     trojvýchodná adjektiva I.</description>
-    </item>
-    
-    <item>
-      <title>9.1 cvičení – I. deklinace: nom. sg. -ᾰ, gen. sg. -ης</title>
-      <link>/fixed/cviceni_9_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_9_1/</guid>
-      <description>I. deklinace: nom. sg. -ᾰ, gen. sg. -ης  Pád Sg. Pl. Sg. Pl. Přípona v sg.     nom. θάλαττ-ᾰ moře θάλαττ-αι δόξ-ᾰ sláva δόξ-αι *-jᾰ   gen. θαλάττ-ης θαλαττ-ῶν δόξ-ης δοξ-ῶν *-jᾱ-   dat. θαλάττ-ῃ θαλάττ-αις δόξ-ῃ δόξ-αις *-jᾱ-   acc. θάλαττ-ᾰν θαλάττ-ᾱς δόξ-ᾰν δόξ-ᾱς *-jᾰ-   voc. θάλαττ-ᾰ! θάλαττ-αι δόξ-ᾰ δόξ-αι *-jᾰ     přípona *-jᾰ je krátká v nom.</description>
-    </item>
-    
-    <item>
-      <title>9.2 cvičení – Ind. fut. akt. sloves samohl. nestažených</title>
-      <link>/fixed/cviceni_9_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_9_2/</guid>
-      <description>Ind. fut. akt. sloves samohláskových nestažených  Osoba Futurum Koncovky     1. παιδεύ-σ-ω budu vychovávat -σ-ω   2. παιδεύ-σ-εις -σ-εις   3. παιδεύ-σ-ει -σ-ει   1. παιδεύ-σ-ομεν -σ-ομεν   2. παιδεύ-σ-ετε -σ-ετε   3. παιδεύ-σ-ουσι(ν) -σ-ουσι(ν)     futurum se tvoří příponou -σ- a má stejné koncovky jako prézens  Věty 1. Τῷ δικαίῳ ἀνθρώπῳ πιστεύω καὶ ἀεὶ πιστεύσω. 2.</description>
-    </item>
-    
-    <item>
-      <title>10. cvičení – I. deklinace: maskulina, II. deklinace: feminina, Ind. fut. med.</title>
-      <link>/fixed/cviceni_10/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_10/</guid>
-      <description>I. deklinace: maskulina  Pád Kmen s -α- Kmen s -η- Přípona -της     nom. ὁ νεανί-ᾱς mladík ὁ Ἀτρείδ-ης Atreovec ὁ πολίτ-ης občan   gen. τοῦ νεανί-ου τοῦ Ἀτρείδ-ου τοῦ πολίτ-ου   dat. τῷ νεανί-ᾳ τῷ Ἀτρείδ-ῃ τῷ πολίτ-ῃ   acc. τὸν νεανί-ᾱν τὸν Ἀτρείδ-ην τὸν πολίτ-ην   voc. ὦ νεανί-ᾱ! ὦ Ἀτρείδ-η! ὦ πολῖτ-ᾰ!   Pl.      nom.</description>
-    </item>
-    
-    <item>
-      <title>12. cvičení – Konj. praes. akt., med. a pass., vztaž. zájm. ὅς, ἥ, ὅ</title>
-      <link>/fixed/cviceni_12/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_12/</guid>
-      <description>Konjunktiv prézentu aktiva, media a pasiva  Osoba Aktivum Mediopasivum     1. παιδεύ-ω ať vychovávám παιδεύ-ω-μαι ať si vychovávám   2. παιδεύ-ῃς παιδεύ-ῃ   3. παιδεύ-ῃ παιδεύ-η-ται   1. παιδεύ-ω-μεν παιδευ-ώ-μεθα   2. παιδεύ-η-τε παιδεύ-η-σθε   3. παιδεύ-ω-σιν παιδεύ-ω-νται     příznakem konjunktivu je prodloužený tematický (kmenotvorný) vokál  indik. -ο- &amp;gt; konj. -ω- indik. -ε- &amp;gt; konj. -η-   ve hlavních větách má konjunktiv funkci vybídky nebo rozkazu, resp.</description>
-    </item>
-    
-    <item>
-      <title>13. cvičení – Opt. praes. akt., med., pass.; opt. fut. akt. a med.; věty účelové </title>
-      <link>/fixed/cviceni_13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_13/</guid>
-      <description>Optativ prézentu aktiva, media a pasiva  Osoba Aktivum Mediopasivum     1. παιδεύ-οι-μι kéž vychovávám παιδευ-οί-μην kéž si vychovávám   2. παιδεύ-οι-ς παιδεύ-οι-ο   3. παιδεύ-οι παιδεύ-οι-το   1. παιδεύ-οι-μεν παιδευ-οί-μεθα   2. παιδεύ-οι-τε παιδεύ-οι-σθε   3. παιδεύ-οι-εν παιδεύ-οι-ντο     optativ je slovesný způsob, který vyjadřuje přání nebo možnost u tematických sloves se tvoří příponou -οι- a má převážně sekundární koncovky (koncovky pro minulý čas) optativ přací:  někdy s částicí εἴθε kéž; záporka je μή εἴθε λέγοις kéž říkáš ~ εἴθε μὴ λέγοις kéž neříkáš   optativ možnosti:  s částicí ἄν; záporka je οὐ λέγοις ἄν říkal bys ~ οὐκ ἂν λέγοις neříkal bys   optativ zástupný (obliquus): v souvětích, ve kterých je vedlejší věta s konjunktivem nebo indikativem, může být tento indik.</description>
-    </item>
-    
-    <item>
-      <title>Exkurz – řecké sloveso </title>
-      <link>/fixed/excursus_verbum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/excursus_verbum/</guid>
-      <description>Slovesný systém staré řečtiny Aspektuální kmeny Slovesný systém staré řečtiny není čistě temporální, ale spojuje v sobě znaky temporálních a aspektuálních systémů. Tzv. viewpoint aspect (č. vid) určuje to, jak mluvčí konceptualizuje děj, vyjádřený slovesným tvarem. V řečtině aspekt zachycuje a rozlišuje děje vyznačující se:
- trváním (č. psal jsem) dokonavostí (č. napsal jsem) nebo rezultujícím stavem. (č. je napsáno).  Tyto tři aspektuální možnosti gramatický systém kóduje pomocí tří slovesných kmenů: imperfektivní kmen (prézentní), kmen aoristu a kmen perfekta.</description>
-    </item>
-    
-    <item>
-      <title>14. cvičení – Dynamický infinitiv</title>
-      <link>/fixed/cviceni_14/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_14/</guid>
-      <description>Infinitivní doplnění Infinitiv v řečtině často doplňuje řídící predikát, který má obyčejně podobu slovesa. Podle významu řídících predikátů můžeme infinitivní doplnění rozdělit na dvě kategorie:
- dynamický infinitiv deklarativní infinitiv  Dynamický infinitiv se vyskytuje po slovesech vůle, (ne)chtění, (ne)schopnosti a (ne)možnosti a po adjektivech kvality, (ne)schopnosti a (ne)možnosti. Po slovesech dávání a přijímání někdy stojí tento infinitiv a vyjadřuje cíl, který sleduje agens řídícího slovesa (č. Pošlu syna studovat do Anglie.</description>
-    </item>
-    
-    <item>
-      <title>15. cvičení – Deklarativní infinitiv</title>
-      <link>/fixed/cviceni_15/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_15/</guid>
-      <description>Deklarativní infinitiv doplňuje řídící predikáty s významem jazykového projevu nebo mentální činnosti. Zatímco dynamický infinitiv popisuje potenciální nebo virtuální děje (č. Chci malovat.), deklarativní infinitiv zachycuje reálny stav z pohledu subjektu řídícího slovesa (lat. Dīcō eum bene labōrāre.). Infinitiv prézentu popisuje děj současný vzhledem na čas řídícího slovesa.
- Λέγω, ὅτι ὁ ἀγαϑὸς πολίτης πείϑεται τοῖς νόμοις. =
-Λέγω τὸν ἀγαϑὸν πολίτην πείϑεσϑαι τοῖς νόμοις.
-Říkám, že dobrý občan poslouchá zákony.</description>
-    </item>
-    
-    <item>
-      <title>16. cvičení – III. dekl.: kmeny velární a labiální; fut. kmenů velár. a labiál.</title>
-      <link>/fixed/cviceni_16/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_16/</guid>
-      <description>Třetí deklinace Koncovky v třetí deklinaci  Pád Masc. + Fem. Neut. Pl. Masc. + Fem. Neut.     nom. -ς nebo kmen (-ρ, -ν) ∅  -ες -ᾰ   gen. -ος -ος  -ων -ων   dat. -ῐ -ῐ  -σῐ(ν) -σῐ(ν)   acc. -ᾰ, -ν ∅  -ᾰς, -ς -ᾰ   voc. = nom. nebo kmen ∅  = nom. -ᾰ    III.</description>
-    </item>
-    
-    <item>
-      <title>17. cvičení – III. dekl.: kmeny alveolární; fut. kmenů alveolár.</title>
-      <link>/fixed/cviceni_17/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_17/</guid>
-      <description>Třetí deklinace Koncovky v třetí deklinaci  Pád Masc. + Fem. Neut. Pl. Masc. + Fem. Neut.     nom. -ς nebo kmen (-ρ, -ν) ∅  -ες -ᾰ   gen. -ος -ος  -ων -ων   dat. -ῐ -ῐ  -σῐ(ν) -σῐ(ν)   acc. -ᾰ, -ν ∅  -ᾰς, -ς -ᾰ   voc. = nom. nebo kmen ∅  = nom. -ᾰ    III.</description>
-    </item>
-    
-    <item>
-      <title>18. cvičení – III. dekl.: kmeny alveolární pokračování; paroxytona -ις, -υς</title>
-      <link>/fixed/cviceni_18/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_18/</guid>
-      <description>Třetí deklinace Koncovky v třetí deklinaci  Pád Masc. + Fem. Neut. Pl. Masc. + Fem. Neut.     nom. -ς nebo kmen (-ρ, -ν) ∅  -ες -ᾰ   gen. -ος -ος  -ων -ων   dat. -ῐ -ῐ  -σῐ(ν) -σῐ(ν)   acc. -ᾰ, -ν ∅  -ᾰς, -ς -ᾰ   voc. = nom. nebo kmen ∅  = nom. -ᾰ    III.</description>
-    </item>
-    
-    <item>
-      <title>19. cvičení – III. dekl.: -ντ- kmeny</title>
-      <link>/fixed/cviceni_19/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_19/</guid>
-      <description>III. dekl.: -ντ- kmeny Slova s kmenem na -ντ- (*-nt-)mají specifickou podobu v nom. sg., voc. sg. a v dat. pl.
- nom. sg.:  příznakem pádu (v masc.) je -ς skupina *-nt-s se zjednodušuje na *-ns skupina *-ns se rovněž zjednodušuje na -ς nebo -ν, se současným prodloužením předcházejícího vokálu; neobsahuje-li nom. sigmu, má podobu -ων   voc. sg.:  pouhý kmen, který podléha fonotaktickému zjednodušení *-nt &amp;gt; -ν vokál před koncovým konsonantem je krátký   dat.</description>
-    </item>
-    
-    <item>
-      <title>20. cvičení – Part. praes. akt., med., pass.; part. fut. akt. a med.</title>
-      <link>/fixed/cviceni_20/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_20/</guid>
-      <description>Participium prézentu a futura aktiva Participium prézentu aktiva je tvořeno zděděným *-nt- kmenem (srov. lat. laudantēs, nem. arbeitend); přípona -ντ- se připojuje za imperfektivní kmen, rozšířený o tematický vokál -ο- &amp;gt; -ο-ντ-. V masc. a neut. se teda jedná o slovesné adjektivum III. deklinace, femininum je typ θάλασσα:
-παιδεύ-ων, g. -οντος; παιδεύ-ουσᾰ, g. -σης; παιδεῦ-ον, g. -οντος 1. vychovávaje, 2. vychovávající
-Původ femininaNom. *-ont-ya &amp;gt; *-onsa &amp;gt; -ōsa &amp;gt; -ουσᾰ. Gen.</description>
-    </item>
-    
-    <item>
-      <title>21. cvičení – III. dekl.: kmeny s likvidami -λ, -ρ; silný aorist</title>
-      <link>/fixed/cviceni_21/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_21/</guid>
-      <description>III. dekl.: kmeny s likvidami -λ, -ρ  Pád -λ kmen Kolumnární ablaut -ηρ Kolumnární ablaut -(τ)ηρ Střídavý ablaut -(τ)ωρ / -(τ)ορ-     nom. ὁ ἅλς sůl ὁ θήρ zvěř ὁ σωτήρ ochránce ὁ ῥήτωρ řečník   gen. ἁλ-ός θηρ-ός σωτῆρ-ος ῥήτορ-ος   dat. ἁλ-ί θηρ-ί σωτῆρ-ι ῥήτορ-ι   acc. ἅλ-α θῆρ-α σωτῆρ-α ῥήτορ-α   voc. ἅλς θήρ σῶτερ ῥῆτορ   Pl.       nom.</description>
-    </item>
-    
-    <item>
-      <title>22. cvičení – III. dekl.: dokončení kmenů s -ρ</title>
-      <link>/fixed/cviceni_22/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/cviceni_22/</guid>
-      <description>III. dekl.: kmeny na -ρ s ablautem V některých slovech s kmenem -ρ se ablaut projevuje víc, než je to v běžné v zbytku řecké lexiky. Kmenotvorná přípona se realizuje ve všech třech stupních v závislosti od pádu a čísla. Nejpestřejší konfigurace je znázorněná v následující tabulce.
- Stupeň Podoba Pády     dlouhý -τηρ nom. sg.   plný -τέρ- acc. sg., voc. sg. (†), nom. pl., gen.</description>
+      <description>Alfabeta  # Znak Platnost Název     1 Α α /a/ ἄλφα   2 Β β /b/ βῆτα   3 Γ γ /g/ ~ /ŋK/ γάμμα   4 Δ δ /d/ δέλτα   5 Ε ε /e/ ἒ ψιλόν   6 Ζ ζ /d͡z/ &amp;gt; /zd/ ζῆτα   7 Η η /ɛː/ ἦτα   8 Θ θ /tʰ/ θῆτα   9 Ι ι /i/ ἰῶτα   10 Κ κ /k/ κάππα   11 Λ λ /l/ λάμβδα   12 Μ μ /m/ μῦ   13 Ν ν /n/ νῦ   14 Ξ ξ /ks/ ξῖ   15 Ο ο /o/ ὂ μικρόν   16 Π π /p/ πῖ   17 Ρ ρ /r/ ῥῶ   18 Σ σ/ς /s/ σῖγμα   19 Τ τ /t/ ταῦ   20 Υ υ /u/ &amp;gt; /y/ &amp;gt; /i/ ὒ ψιλόν   21 Φ φ /pʰ/ &amp;gt; /f/ φῖ   22 Χ χ /kʰ/ &amp;gt; /x/ χῖ   23 Ψ ψ /ps/ ψῖ   24 Ω ω /ɔː/ ὦ μέγα    Diftongy (dvojhlásky)  Forma Platnost     αι /ai̯/   ᾳ/αι /aːi̯/ &amp;gt; /aː/   ει /ei̯/   ῃ/ηι /ɛːi̯/ &amp;gt; /ɛː/   οι /oi̯/   ῳ/ωι /ɔːi̯/ &amp;gt; /ɔː/   υι /yi̯/   αυ /au̯/   ευ /eu̯/   ηυ /ɛːu̯/   ου /uː/     znaky ᾳ, ῃ a ῳ představují dlouhé diftongy, ve kterých je znak ι podepsaný a tvoří tzv.</description>
     </item>
     
   </channel>

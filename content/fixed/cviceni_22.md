@@ -1,7 +1,8 @@
 {
-    "title": "22. cvičení – III. dekl.: dokončení kmenů s -ρ",
+"title": "22. cvičení – III. dekl.: dokončení kmenů s -ρ",
     "sidebar": true,
-    "weight": "26"
+    "weight": "26",
+"draft": true
 }
 
 ### III. dekl.: kmeny na -ρ s ablautem
@@ -10,11 +11,11 @@ V některých slovech s kmenem -ρ se ablaut projevuje víc, než je to v běžn
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
-| Stupeň             | Podoba          | Pády                                                         |
-| ------------------ | --------------- | ------------------------------------------------------------ |
-| dlouhý             | -τηρ            | nom. sg.                                                     |
+| Stupeň             | Podoba          | Pády                                                           |
+| ------------------ | --------------- | -------------------------------------------------------------- |
+| dlouhý             | -τηρ            | nom. sg.                                                       |
 | plný               | -τέρ-           | acc. sg., voc. sg. (†), nom. pl., gen. pl., acc. pl., voc. pl. |
-| nulový n. zánikový | -τρ-V´-, -τρά-C | gen. sg., dat. sg., dat. pl.                                 |
+| nulový n. zánikový | -τρ-V´-, -τρά-C | gen. sg., dat. sg., dat. pl.                                   |
 
 - nom. sg. v dlouhém stupni má přízvuk buď na kořeni, nebo na příponě -τήρ
 - pády s plným stupněm mají přízvuk na příponě -τέρ kromě voc. sg., který má přízvuk zvratný
@@ -62,9 +63,7 @@ Některá slova ablaut ve svých paradigmatech potlačila, takže u nich převl�
 
 {{< /bootstrap-table >}}
 
-
-
-### Věty rozkazovací 
+### Věty rozkazovací
 
 1. Rozkaz vyjadřujeme imperativem:   
    λεῖπε! opouštěj!   
@@ -80,7 +79,7 @@ Některá slova ablaut ve svých paradigmatech potlačila, takže u nich převl�
     μὴ λίπῃς! neopusťi   
     μὴ λίπητε! neopusťtel
 
-### Věty 
+### Věty
 
 Ὁ πατὴρ ὑπὸ τῶν παίδων στέργεται.  
 Τοῦ πατρὸς βουλὴ ἀγαϑή ἐστιν.  
@@ -115,8 +114,6 @@ Některá slova ablaut ve svých paradigmatech potlačila, takže u nich převl�
 
 {{</ pure-expand >}}
 
-
-
 ### Křížové odkazy
 
 {{< tabs tabTotal="2" tabID="1" tabName1="Hnátek" tabName2="Niederle" >}}
@@ -129,6 +126,3 @@ III. dekl.: dokončení kmenů plynných -λ, -ρ (§ 108.5.)
 
 {{< /tab >}}
 {{< /tabs >}}
-
-
-

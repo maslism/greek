@@ -1,10 +1,9 @@
 {
-    "title": "15. cvičení – Deklarativní infinitiv",
+"title": "15. cvičení – Deklarativní infinitiv",
     "sidebar": true,
-    "weight": "19"
+    "weight": "19",
+"draft": true
 }
-
-
 
 Deklarativní infinitiv doplňuje řídící predikáty s významem *jazykového projevu* nebo *mentální činnosti*. Zatímco dynamický infinitiv popisuje potenciální nebo virtuální děje (č. *Chci malovat.*), deklarativní infinitiv zachycuje reálny stav z pohledu subjektu řídícího slovesa (lat. *Dīcō eum bene labōrāre*.). Infinitiv prézentu popisuje děj současný vzhledem na čas řídícího slovesa. 
 
@@ -40,8 +39,6 @@ Vazbu akuzativu s infinitivem lze převézt na vazbu **nominativu s infinitivem*
 
 &nbsp;
 
-
-
 - οἴομαι *domnívám se, myslím*  
 - πυνθάνομαι *dovídám se*  
 - ἀκούω *slyším*
@@ -49,9 +46,7 @@ Vazbu akuzativu s infinitivem lze převézt na vazbu **nominativu s infinitivem*
 {{< /column >}} 
 {{< /row >}}
 
-
-
-### Věty 
+### Věty
 
 1\. Νομίζομεν τὸν κακὸν βλάπτειν καὶ τοὺς φίλους. 2. Ὑπολαμβάνομεν σελήνην καὶ περὶ τὸν ἥλιον στρέφεσθαι. 3. Ὁ ἄγγελος ἀγγέλλει τὸν πολέμιον παρασκευάζεσϑαι πρὸς τὸν πόλεμον. 4. Ἠγγέλλετο ἡ στρατιὰ ἰσχυρῶς μάχεσϑαι καὶ νίκη προσέρχεσϑαι. 5. Νομίζομεν τοὺς συμμάχους ἐν πολέμῳ συμπράττειν τῷ δήμῳ καὶ λόγῳ καὶ ἔργῳ. 6. Λέγομεν τὴν γλῶτταν πολλάκις μᾶλλον βλάπτειν ἢ τὸν σίδηρον. 7. Ἀεὶ ἐνομίζομεν τὴν εἰρήνην ὑπὸ τῶν φίλων καὶ τῶν συμμάχων σῴζεσθαι.
 
@@ -73,8 +68,6 @@ Vazbu akuzativu s infinitivem lze převézt na vazbu **nominativu s infinitivem*
 ### Úkol
 
 {{< button href="/greek/data/cviceni_7.pdf" class="btn-outline-info">}}Cvičení.pdf{{< /button >}}
-
-
 
 ### Křížové odkazy
 

@@ -1,7 +1,8 @@
 {
-    "title": "20. cvičení – Part. praes. akt., med., pass.; part. fut. akt. a med.",
+"title": "20. cvičení – Part. praes. akt., med., pass.; part. fut. akt. a med.",
     "sidebar": true,
-    "weight": "24"
+    "weight": "24",
+"draft": true
 }
 
 ### Participium prézentu a futura aktiva
@@ -42,8 +43,6 @@ Participium futura aktiva se příponou -ο-ντ- shoduje s ptc. praes. akt., no
 
 {{< /bootstrap-table >}}
 
-
-
 ### Participium prézentu media a pasiva, participium futura media
 
 Participium prézentu media a pasiva je trojvýchodné slovesné adjektivum I. a II. deklinace, tvořené příponou -μενος, -μένη, -μενον. Základem je prézentní kmen s tematickým vokálem -ο-:
@@ -58,8 +57,6 @@ Participium futura media se příponou shoduje s ptc. praes. mps., no je tvořen
 
 > Časová reference *participia futura mediopasiva* je vždy následná vzhledem na časovou referencí určitého slovesného tvaru ve větě. Participium může mít jenom mediální význam, nikoliv pasivní.
 
-
-
 ### Genitiv absolutní
 
 *Κύρου βασιλεύοντος* οἱ Πέρσαι ἰσχυροὶ ἦσαν. — *Když vládl Kyros*
@@ -69,7 +66,7 @@ Má-li part. v gen. svůj podmět rovněž v gen. (jiný než podmět věty
 řídicí), tvoří s ním t. zv. genitiv absolutní. Překládáme jej nejčastěji
 větou časovou, důvodovou, podmínkovou, připouštěcí anebo předložkovým pádem. Ptc. praes. vyjadřuje děj současný.
 
-### Věty 
+### Věty
 
 1\. Οἱ τοὺς παῖδας διδάσκοντες καὶ παιδεύοντες διδάσκαλοι ὀνομάζονται. 2. Φίλους ἔχοντες νομίζετε ϑησαυρὸν ἔχειν! 3. Πιστεύοιμι ἂν τοῖς τὰ ἀγαϑὰ συμβουλεύουσιν. 4. Ἁλέξανδρος στρατευσόμενος ἐπὶ τοὺς Πέρσας στρατιὰν παρεσκευάζετο. 5. Ἄσμενοι ἀκουσόμεϑα τῶν ὀρνίϑων ᾀδόντων. 6. Ἡ στρατιὰ πιστεύουσα καὶ πειϑομένη τῷ στρατηγῷ εὖ φυλάξει τὴν πατρίδα. 7. Τῶν Περσῶν ἐπὶ πᾶσαν τὴν Ἑλλάδα πορευομένων πάντες οἱ Ἀϑηναῖοι ἐπίστευον τῷ Μιλτιάδῃ. 8. Τῶν Ἀθηναίων τῷ πολεμίῳ ἤδη μαχομένων οἱ Σπαρτιᾶται ἔτι συνεβουλεύοντο. 9. Τῶν γερόντων λεγόντων σιγὴν ἔχετε, ὦ νεανίαι! 10. Μετὰ τὴν μάχην
 ἐδίωκον οἱ στρατιῶται τοὺς πολεμίους φεύγοντας.
@@ -107,4 +104,3 @@ Part. praes. akt., med., pass.; part. fut. akt. a med. (§ 185-187)
 {{< /tabs >}}
 
 {{< figure src="/data/tetradrachm.png" width=250 caption="Stříbrná makedonská tetradrachma s hlavou Hérakla z období těsně po vládě Alexandra Velkého. 318-305 p. n. l." link="/data/tetradrachm.png" target=”_blank” >}}
-

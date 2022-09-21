@@ -1,7 +1,8 @@
 {
-    "title": "12. cvičení – Konj. praes. akt., med. a pass., vztaž. zájm. ὅς, ἥ, ὅ",
+"title": "12. cvičení – Konj. praes. akt., med. a pass., vztaž. zájm. ὅς, ἥ, ὅ",
     "sidebar": true,
-    "weight": "15"
+    "weight": "15",
+"draft": true
 }
 
 ### Konjunktiv prézentu aktiva, media a pasiva
@@ -20,13 +21,13 @@
 | 3.    | παιδεύ-**ω-σιν**             | παιδεύ-**ω-νται**                   |
 
 - příznakem konjunktivu je prodloužený tematický (kmenotvorný) vokál
+  
   - indik. -ο- > konj. -ω-
   - indik. -ε- > konj. -η-
+
 - ve hlavních větách má konjunktiv funkci vybídky nebo rozkazu, resp. zákazu; záporka je μή 
-
- {{< /bootstrap-table >}}
-
-
+  
+  {{< /bootstrap-table >}}
 
 ### Vztažné zájmeno
 
@@ -45,10 +46,8 @@
 | pl.     | οὕς        | ἅς        | ἅ          |
 
 - vztažné zájmeno se skloňuje jako člen; nemá hlásku τ- a je vždy s přízvukem; přízvuk gen. a dat. obou čísel je automaticky průtažný, v jiných pádech je ostrý přízvuk
-
- {{< /bootstrap-table >}}
-
-
+  
+  {{< /bootstrap-table >}}
 
 ### Dvojvýchodná adjektiva
 
@@ -58,8 +57,6 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
 ἄ-θεος, -ον (2) - *bezbožný*  
 βάρβαρος, -ον (2) - *barbarský, cizí*  
 βέβαιος, -α, -ον a βέβαιος, -ον (3, 2) - *jistý* 
-
-
 
 ### Věty
 
@@ -89,8 +86,6 @@ Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísaj�
 ### Úkol
 
 {{< button href="/greek/data/cviceni_5.pdf" class="btn-outline-info">}}Cvičení.pdf{{< /button >}}
-
-
 
 ### Křížové odkazy
 

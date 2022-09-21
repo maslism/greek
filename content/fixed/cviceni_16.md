@@ -1,30 +1,29 @@
 {
-    "title": "16. cvičení – III. dekl.: kmeny velární a labiální; fut. kmenů velár. a labiál.",
+"title": "16. cvičení – III. dekl.: kmeny velární a labiální; fut. kmenů velár. a labiál.",
     "sidebar": true,
-    "weight": "20"
+    "weight": "20",
+"draft": true
 }
 
 ### Třetí deklinace
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Koncovky v třetí deklinaci" >}}
 
-| Pád  | Masc. + Fem.          | Neut. | Pl.  | Masc. + Fem. | Neut.  |
-| ---- | --------------------- | ----- | ---- | ------------ | ------ |
-| nom. | -ς nebo kmen (-ρ, -ν) | ∅     |      | -ες          | -ᾰ     |
-| gen. | -ος                   | -ος   |      | -ων          | -ων    |
-| dat. | -ῐ                    | -ῐ    |      | -σῐ(ν)       | -σῐ(ν) |
-| acc. | -ᾰ, -ν                | ∅     |      | -ᾰς, -ς      | -ᾰ     |
-| voc. | = nom. nebo kmen      | ∅     |      | = nom.       | -ᾰ     |
+| Pád  | Masc. + Fem.          | Neut. | Pl. | Masc. + Fem. | Neut.  |
+| ---- | --------------------- | ----- | --- | ------------ | ------ |
+| nom. | -ς nebo kmen (-ρ, -ν) | ∅     |     | -ες          | -ᾰ     |
+| gen. | -ος                   | -ος   |     | -ων          | -ων    |
+| dat. | -ῐ                    | -ῐ    |     | -σῐ(ν)       | -σῐ(ν) |
+| acc. | -ᾰ, -ν                | ∅     |     | -ᾰς, -ς      | -ᾰ     |
+| voc. | = nom. nebo kmen      | ∅     |     | = nom.       | -ᾰ     |
 
  {{< /bootstrap-table >}}
-
-
 
 ### III. dekl.: kmeny velární a labiální
 
 Substantiva III. deklinace členíme podle hlásek, které stojí na konci jmenného kmene. Tyto kmenové hlásky interagují s některými koncovkami. 
 
- #### Velární kmeny
+#### Velární kmeny
 
 Veláry jsou souhlásky, které se artikulují pomocí styku hřbetu jazyka s měkkým podnebím (*velum*). Řecký fonologický inventář rozlišuje pro každé artikulační místu tři typy ražených souhlásek: znělé, neznělé, neznělé aspirované.
 
@@ -51,17 +50,16 @@ Veláry jsou souhlásky, které se artikulují pomocí styku hřbetu jazyka s m�
 - kmeny slov φύλαξ a φάλαγξ jsou φύλα**κ**-, resp. φαλάγ**γ**- 
 
 - Zvláštní skloňování mají:  
-
+  
   1. ἡ γυνή "žena", γυναικός, γυναικί, γυναῖκα, γύναι  
      γυναῖκες, γυναικών, γυναιξί(ν), γυναῖκας, γυναῖκες  
+  
   2. ἡ θρίξ "vlas", τριχός, τριχί, τρίχα atd., ale dat. pl. θριξί(ν)  
+  
   3. ἡ Πνύξ "Pnyx", Πυκνός, Πυκνί, Πύκνα (sněmoviště v Athénách)  
-
   - zvláštností těchto slov je i přízvuk, který respektuje rozdělení pádů na silné (nom., acc.) a slabé (gen., dat.): v nom. a acc. (+ voc.) obou čísel je přízvuk na stejné slabice jako v nom. sg.; v gen. a dat. obou čísel je na poslední slabice
 
 {{< /bootstrap-table >}}
-
-
 
 #### Labiální kmeny
 
@@ -92,8 +90,6 @@ Labiály jsou souhlásky, které se artikulují spojením rtů (*labia*).
 
 {{< /bootstrap-table >}}
 
-
-
 ### Futurum kmenů velárních a labiálních
 
 Slovesa, kterých kmen je zakončen na veláru (κ, γ, χ) nebo labiálu (β, π, φ), tvoří sigmatické futurum na -ξω, resp. -ψω. 
@@ -119,8 +115,6 @@ Některá slovesa mají deponentní futurum (mps. morfologii). Příčinou tohot
 
 &nbsp;
 
-
-
 U labiálních kmenů může mít kmen prézentu tyto synchronní podoby: -πω, -βω, -φω, -πτω (< `*-Pyō`).
 
 {{< row >}}
@@ -138,9 +132,7 @@ U labiálních kmenů může mít kmen prézentu tyto synchronní podoby: -πω,
 {{< /column >}} 
 {{< /row >}}
 
-
-
-### Věty 
+### Věty
 
 1\. Οἱ ἀγαϑοὶ πολῖται τῶν νόμων φύλακες πιστοί εἰσιν. 2. Οἱ Ἀϑηναῖοι ἀνδρείως ἐμάχοντο ταῖς τῶν βαρβάρων φάλαγξιν. 3. Κόλαξ κόλακι φίλος, γὺψ γυπί. 4. Τοῖς νεανίαις πολλάκις μακραὶ τρίχες εἰσίν. 5. Ὁ νόμος ἀεὶ ἄρξει τῶν πολιτῶν καὶ φυλάξει τὸν δῆμον. 6. Οὐκ ἀπολείψω τὴν φάλαγγα οὐδ᾽ ἐκ μάχης φεύξομαι. 7. Οἱ τῶν κολάκων λόγοι τοὺς ἀνθρώπους πολλάκις βλάψουσιν. 8. Ὁ φρόνιμος στρατηγὸς πρώτους τάξει τοὺς ἀνδρείους. 9. Γύναι, γυναιξὶ κόσμον ἡ σιγὴ φέρει. 10. Μετὰ τὴν μάχην οἱ στρατιῶται τὸν πολέμιον διώξονται.
 
@@ -162,8 +154,6 @@ U labiálních kmenů může mít kmen prézentu tyto synchronní podoby: -πω,
 διώκω, -ειν – pronásleduji
 
 {{</ pure-expand >}}
-
-
 
 ### Křížové odkazy
 

@@ -1,10 +1,11 @@
 {
-    "title": "5. cvičení – II. deklinace: neutra, Deponentní slovesa",
+"title": "5. cvičení – II. deklinace: neutra, Deponentní slovesa",
     "sidebar": true,
-    "weight": "5"
+    "weight": "5",
+"draft": true
 }
 
-### Neutra II. deklinace 
+### Neutra II. deklinace
 
 </br>
 
@@ -28,8 +29,6 @@
 
 - neutra II. deklinace se skloňují jako maskulina II. deklinace kromě koncovek nom/voc. sg., nom/voc/acc. pl. 
 - koncovky nom., acc. a voc. obou čísel jsou u neuter stejné 
-
-
 
 ### Deponentní slovesa
 
@@ -61,8 +60,6 @@ Deponentní slovesa mají v mediopasivních tvarech aktivní význam. Aktivními
 Τὸ σὸν δῶρον καλόν ἐστιν. _Tvůj dar je krásný._  
 Τὰ σὰ δῶρα καλά ἐστιν. _Tvé dary jsou krásné._
 
-
-
 ### Věty
 
 1\. Οὐ μόνον πορευόμεϑα, ἀλλὰ καὶ μαχόμεϑα. 2. Τὸ τέκνον τῷ τέκνῳ ἀπὸ τῶν φίλων καλὰ δῶρα φέρει. 3. Μὴ πορεύου, ὦ φίλε, ἀλλὰ μάχου! Μάχου τοῖς πολεμίοις, μὴ φεῦγε! 4. Ὁ δοῦλος τῷ ἵππῳ ζυγὸν φέρει. 5. Οἱ ἡμέτεροι πολέμιοι πορεύονται, ἀλλ᾽ οὐ μάχονται. 6. Τὰ ἡμέτερα τέκνα ὑπὸ τοῦ διδασκάλου εὖ παιδεύεται.
@@ -85,8 +82,6 @@ Deponentní slovesa mají v mediopasivních tvarech aktivní význam. Aktivními
 
 {{</ pure-expand >}}
 
-
-
 ### Úkol
 
 - časujte sloveso ἄγω _vedu_ v aktivu a mediopasivu i s překladem (mps. přeložte pasivně)
@@ -104,4 +99,3 @@ s. 12-13
 II. deklinace: neutra § 72. Člen § 59. Deponentia § 186, § 354.
 {{< /tab >}}
 {{< /tabs >}}
-
