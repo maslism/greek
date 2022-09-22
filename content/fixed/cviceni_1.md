@@ -12,7 +12,7 @@
 | --- | ----- | --------------- | -------- |
 | 1   | Α α   | /a/             | ἄλφα     |
 | 2   | Β β   | /b/             | βῆτα     |
-| 3   | Γ γ   | /g/ ~ /ŋK/      | γάμμα    |
+| 3   | Γ γ   | /g/ ~ [ŋK]      | γάμμα    |
 | 4   | Δ δ   | /d/             | δέλτα    |
 | 5   | Ε ε   | /e/             | ἒ ψιλόν  |
 | 6   | Ζ ζ   | /d͡z/ > /zd/    | ζῆτα     |
@@ -104,3 +104,5 @@ s. 5-7
 Alfabeta § 1 (s. 7), výslovnost § 2 (s. 8), 5 (s. 9-10), přízvuk § 8-14 (s. 11-13), přídech § 3 (s. 8-9)
 {{< /tab >}}
 {{< /tabs >}}
+
+{{< figure src="/data/ostrakon.png" width=250 caption="Ostrakon s prvními slovy Íliady, 580–640 n.l., egyptské Théby" link="/data/ostrakon.png" target=”_blank” >}}
