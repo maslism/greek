@@ -1,8 +1,7 @@
 {
 "title": "2. cvičení – II. deklinace: maskulina (paroxytona, oxytona), člen",
     "sidebar": true,
-    "weight": "2",
-"draft": true
+    "weight": "2"
 }
 
 ### Maskulina II. deklinace (paroxytona, oxytona)
@@ -13,7 +12,7 @@
 
 | Pád  | Sg.              | Pl.         | Sg.                 | Pl.           |
 | ---- | ---------------- | ----------- | ------------------- | ------------- |
-| nom. | ἵππ-__ος__ "kůň" | ἵππ-__οι__  | ποταμ-__ός__ "řeka" | ποταμ-__οί__  |
+| nom. | ἵππ-__ος__ 'kůň' | ἵππ-__οι__  | ποταμ-__ός__ 'řeka' | ποταμ-__οί__  |
 | gen. | ἵππ-__ου__       | ἵππ-__ων__  | ποταμ-__οῦ__        | ποταμ-__ῶν__  |
 | dat. | ἵππ-__ῳ__        | ἵππ-__οις__ | ποταμ-__ῷ__         | ποταμ-__οῖς__ |
 | acc. | ἵππ-__ον__       | ἵππ-__ους__ | ποταμ-__όν__        | ποταμ-__ούς__ |
@@ -68,9 +67,7 @@
 παιδεύειν – vychovávat  
 ἐστὶ(v) – je {{</ pure-expand >}}
 
-### Úkol
 
-- vyskloňujte slovο _ὁ λόγος_ a spojení _ὁ πιστὸς φίλος_ "věrný přítel" i se členy; přídavné jméno _πιστός_ se skloňuje stejně jako vzor _ποταμός_ i se změnou přízvuku v gen. a dat. obou čísel
 
 ### Křížové odkazy
 
@@ -83,3 +80,5 @@ s. 7-8
 II. deklinace: maskulina (paroxytona, oxytona) § 72, 73.1-2 (s. 35-36), člen § 59 (s. 31)
 {{< /tab >}}
 {{< /tabs >}}
+
+{{< figure src="/data/hippoi.png" width=170 caption="Amfora s koňským závodem, asi 510 p.n.l., Attika" link="/data/hippoi.png" target=”_blank” >}}
