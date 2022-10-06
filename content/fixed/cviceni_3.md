@@ -92,4 +92,4 @@ II. deklinace: maskulina (properispómena) § 72 (s. 35), ind., impt., inf. prae
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/kylix.png" width=280 caption="Kylix s chlapcem neseoucím voksovou tabulku na psaní, 460 p.n.l." link="/data/kylix.png" target=”_blank” >}}
+{{< figure src="/data/kylix.png" width=280 caption="Kylix s chlapcem neseoucím voskovou tabulku na psaní, 460 p.n.l." link="/data/kylix.png" target=”_blank” >}}
