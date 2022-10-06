@@ -37,6 +37,13 @@
 
 {{< /bootstrap-table >}}
 
+#### Přívlastkové postavení členu
+
+Přívlastek shodný i neshodný stojí mezi členem a substantivem nebo
+za subst. s opakovaným členem:   
+ὁ πιστὸς φίλος nebo (ὁ) φίλος ὁ πιστός   
+ὁ τοῦ φίλου λόγος nebo (ὁ) λόγος ὁ τοῦ φίλου
+
 ### Věty
 
 1. Ὁ ἵππ-ος εὖ τρέχει.  
@@ -66,8 +73,6 @@
 πιστός – věrný, spolehlivý   
 παιδεύειν – vychovávat  
 ἐστὶ(v) – je {{</ pure-expand >}}
-
-
 
 ### Křížové odkazy
 
