@@ -40,12 +40,12 @@
 - podle παιδεύω se časují slovesa, kterých kmen před -ω se končí:
   - na dvojhlásku nebo samohlásku kromě -ε-, -α-, -ο-
   - na souhlásku
-- určité slovosné mají recesivní (zvratný) přízvuk, který je co nejdál od konce slova podle pravidel přízvukování 
-- k některým koncovkám na -ε a -ι může přistupovat přísuvné ný (νῦ ἐφελκυστικόν); zpravidla pak k zamezení hiátu (styk dvou vokálů na hranici slov)
+- určité slovesné tvary mají recesivní (= zvratný) přízvuk, který je co nejdál od konce slova podle pravidel přízvukování 
+- k některým koncovkám na -ε a -ι může přistupovat přísuvné ný (νῦ ἐφελκυστικόν); zpravidla pak k zamezení hiátu (= styk dvou vokálů na hranici slov)
 
 {{< /bootstrap-table >}}
 
-{{< pure-expand title="O tematickém vokálu" >}} Tematický vokál je kmenotvorná přípona (θέμα 'kmen'), která u jednoho typu sloves vytváří prézentní (= imperfektivní / nedokonavý) kmen. Tematický vokál je v závislosti od osoby a čísla buď -ο- nebo -ε- a někdy splývá s vlastní koncovkou.   
+{{< pure-expand title="O tematickém vokálu" >}} Tematický vokál je kmenotvorná přípona (θέμα 'kmen'), která u jednoho typu sloves vytváří prézentní (= imperfektivní / nedokonavý) kmen. Tematický vokál je v závislosti od osoby a čísla buď -ο-, nebo -ε- a někdy splývá s vlastní koncovkou.   
 Sg. 1. os. -o-, 2. os. -ε-, 3. os. -ε-; Pl. 1. os. -ο-,  2. os. -ε-, 3. os. -ο-   
 Srov. Sg. peč-u (< `*ō`), peč-e-š, peč-e; Pl. peč-e-me (nepůvodní), peč-e-te, peč-ou
 
@@ -60,7 +60,7 @@ Zájmena přivlastňovací mají i význam zvratný:
 Ὦ φίλε, στέργ-ε τὸν σὸν φίλον, μὴ φεῦγ-ε τὸν πόνον!  
 Příteli, miluj svého přítele, nevyhýbej se námaze!  
 Ὦ φίλοι, στέργ-ε-τε τοὺς ὑμετέρους φίλους, μὴ φεύγ-ε-τε τοὺς πόνους!  
-Přátelé, milujte své přátelé, nevyhýbejte se námahám!
+Přátelé, milujte své přátele, nevyhýbejte se námahám!
 
 1\. Εὖ παίδευε! 2. Τὸν μὲν ἐχϑρὸν φεῦγε, τὸν δὲ πόνον μὴ φεῦγε! 3. Καὶ τοὺς ὑμετέρους δούλους στέργετε! 4. Τοῖς ἐχϑροῖς οὐ πιστεύω. 5. Εὖ γράφεις. 6. Τίς τὸν ποταμὸν διαβαίνει; Ὁ δοῦλος τὸν ποταμὸν διαβαίνει. 7. Τῷ δούλῳ πιστεύομεν. 8. Μὴ γράφετε! — Οὐ γράφομεν. 9. Τοὺς πόνους οὐ φεύγετε. 10. Οἱ φίλοι τοῖς ἐχϑροῖς οὐ πιστεύουσιν. 
 
