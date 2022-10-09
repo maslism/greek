@@ -1,8 +1,7 @@
 {
 "title": "4. cvičení – II. deklinace: maskulina (proparoxytona), Ind., impt., inf. praes. med., pass.",
     "sidebar": true,
-    "weight": "4",
-"draft": true
+    "weight": "4"
 }
 
 ### Maskulina II. deklinace (proparoxytona)
@@ -13,7 +12,7 @@
 
 | Pád  | Sg.                    | Pl.            |
 | ---- | ---------------------- | -------------- |
-| nom. | ἄνθρωπ-__ος__ "člověk" | ἄνθρωπ-__οι__  |
+| nom. | ἄνθρωπ-__ος__ 'člověk' | ἄνθρωπ-__οι__  |
 | gen. | ἀνθρώπ-__ου__          | ἀνθρώπ-__ων__  |
 | dat. | ἀνθρώπ-__ῳ__           | ἀνθρώπ-__οις__ |
 | acc. | ἄνθρωπ-__ον__          | ἀνθρώπ-__ους__ |
@@ -30,20 +29,20 @@
 
 | Osoba | indikativ                          | imperativ         | infinitiv         |
 | ----- | ---------------------------------- | ----------------- | ----------------- |
-| 1.    | παιδεύ-**ο-μαι** "jsem vychováván" |                   | παιδεύ-**εσθαι*** |
+| 1.    | παιδεύ-**ο-μαι** 'jsem vychováván' |                   | παιδεύ-**εσθαι*** |
 | 2.    | παιδεύ-**ῃ**                       | παιδεύ-**ου**     |                   |
 | 3.    | παιδεύ-**ε-ται**                   | παιδευ-**έ-σθω**  |                   |
 | 1.    | παιδευ-**ό-μεθα**                  |                   |                   |
 | 2.    | παιδεύ-**ε-σθε**                   | παιδεύ-**ε-σθε**  |                   |
 | 3.    | παιδεύ-**ο-νται**                  | παιδευ-**έ-σθων** |                   |
 
-- _mediopasivum_ je slovesný rod, který v jedné formě slučuje _medium_ a _pasivum_ 
-  - interpretace slovesné formy v mediopasivu a rozlišení, zda jde o pasivum nebo medium, vyplývá z kontextu
+- _mediopasivum_ je slovesný tvar, který v jedné formě slučuje _medium_ a _pasivum_ (slovesné rody, ang. *voice*) 
+  - interpretace slovesné formy v mediopasivu a rozlišení, zda jde o *pasivum* nebo *medium*, vyplývá z kontextu a lexikálního významu slovesa
   - παιδεύομαι - _jsem vychováván (pass.) / vychovávám se (med. přím.) / vychovávám si (med. nepřím.)_  
-- u media je subjekt (nom.) původcem slovesného děje, který se k subjektu vztahuje jako k přímému nebo nepřímému předmětu: 
+- u media je subjekt (podmět; nom.) původcem slovesného děje, který se k subjektu vztahuje zpátky jako k přímému nebo nepřímému předmětu: 
   - medium přímé (~ acc.): Ὁ φίλος __γυμνάζεται__. _Přítel __se cvičí__._
   - medium nepřímé n. prospěchové  (~ dat.): Ὁ δοῦλος __παρασκευάζεται__ σῖτον. _Otrok __si připravuje__ pokrm._
-- u pasiva je subjekt cílem děje, který má původ jinde; původce děje může být vyjádřen vazbou ὑπὸ + gen.
+- u pasiva je subjekt cílem děje, který má původ jinde; sémantická role subjektu je *patient*; původce děje, nějčastěji *agens*, může být vyjádřen předložkovou vazbou ὑπὸ + gen.
   - Ὁ ἵππος __ἄγεται__ ὑπὸ τοῦ δούλου. _Kůň __je veden__ otrokem._
 
 *\-αι v -εσθαι, -ομαι, -εται, -ονται je z hlediska přízvuku krátké, přízvuk je proto na třetí slabice od konce
@@ -52,7 +51,7 @@
 
 ### Vazba akuzativu s infinitivem po δεῖ
 
-Neosobní sloveso δεῖ _je třeba_ se váže s akuzativem a infinitivem (AccInf). Akuzativ plní funkci buď podmětu slovesa v infinitivu, nebo naopak přímého předmětu slovesa v infinitivu. V jedné větě můžou být zachyceny obě funkce pomocí dvou různých akuzativů.  
+Neosobní sloveso δεῖ _je třeba_ se váže s akuzativem a infinitivem (AccInf). Tvary akuzativu v takovýchto větách plní funkci buď podmětu slovesa v infinitivu, nebo naopak přímého předmětu slovesa v infinitivu. V jedné větě můžou být zachyceny obě syntaktické funkce pomocí dvou různých akuzativů.  
 
 - akuzativ jako podmět: v českém překladu se uplatní nominativ
   - aktivní infinitiv: Δεῖ __τὸν διδάσκαλον__ εὖ παιδεύειν. _Je třeba, aby __učitel__ dobře vychovával._
@@ -100,7 +99,7 @@ Neosobní sloveso δεῖ _je třeba_ se váže s akuzativem a infinitivem (AccI
 
 {{</ pure-expand >}}
 
-### Úkol
+### Procvičování
 
 1\. Εὖ παιδεύομαι, εὖ παιδευόμεϑα. 2. Κρύπτῃ· μὴ κρύπτου! 3. Οὐ παίῃ· μὴ παῖε! 4. Οὐ στέργεται. 5. Θαυμάζετε καὶ ϑαυμάζεσϑε. 6. Οὐ φϑείρονται, ἀλλὰ σῴζονται. 7. Ὁ ἵππος τῷ ἀνϑρώπῳ δουλεύει. 8. Ὁ ϑάνατος τὸν τοῦ ἀνϑρώπου βίον λύει. 9. Οἱ νόμοι τοὺς ἀνθρώπους παιδεύουσιν. 10. Ὁ δίκαιος ἄνϑρωπος ἀεὶ στέργεται καὶ ϑαυμάζεται. 11. Σῴζετε, ὦ ϑεοί, τὸν ἀδελφὸν ἐκ δεινοῦ κινδύνου! 12. Οἱ σοφοὶ τὸν ἄνϑρωπον μικρὸν κόσμον ἐν τῷ μακρῷ κόσμῳ λέγουσιν. 13. Καλὸν φέρουσι καρπὸν οἱ χρηστοὶ φίλοι. 
 
@@ -146,3 +145,5 @@ s. 10-12
 II. deklinace: maskulina (proparoxytona) § 72 (s. 35), Ind., impt., inf. praes. med. pass. § 186, 187 (s. 88-89)
 {{< /tab >}}
 {{< /tabs >}}
+
+{{< figure src="/data/krater1.png" width=250 caption="Krátér se závodem s pochodněmi, asi 410–400 p.n.l." link="/data/krater1.png" target=”_blank” >}}

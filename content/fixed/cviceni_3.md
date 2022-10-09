@@ -20,8 +20,8 @@
 
 {{< /bootstrap-table >}}
 
-- průtažný přízvuk se mění na ostrý, je-li poslední slabika dlouhá (= má diftong nebo dlouhý vokál) 
-- koncovka nom. pl -οι je krátká, ačkoliv jde o diftong  
+- průtažný přízvuk na předposlední slabice se mění na ostrý, je-li poslední slabika dlouhá (= má diftong nebo dlouhý vokál) 
+- koncovka nom. pl -οι je prozodicky krátká, ačkoliv jde o diftong  
   {{< pure-expand title="původ jevu" >}} sylabifikace -οι, když následovalo jiné slovo se začátečným vokálem, byla -ο.ιV-; nestejnoslabičné -ο.ι není prozodický dlouhé; chápaní nom. pl -οι jako krátké koncovky se pak rozšířilo bez ohledu na hláskový kontext {{</ pure-expand >}}
 
 ### Indikativ, imperativ, infinitiv prézentu aktiva παιδεύ-ω
