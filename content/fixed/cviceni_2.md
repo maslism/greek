@@ -1,5 +1,5 @@
 {
-"title": "2. cvičení – II. deklinace: maskulina (paroxytona, oxytona), člen",
+"title": "2. cvičení – II. deklinace: maskulina (paroxytona, oxytona); člen",
     "sidebar": true,
     "weight": "2"
 }

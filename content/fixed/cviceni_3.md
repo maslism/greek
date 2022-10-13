@@ -1,5 +1,5 @@
 {
-"title": "3. cvičení – II. deklinace: maskulina (properispómena), ind., impt., inf. praes. akt. παιδεύω",
+"title": "3. cvičení – II. deklinace: maskulina (properispómena); ind., impt., inf. praes. akt. παιδεύω",
     "sidebar": true,
     "weight": "3"
 }

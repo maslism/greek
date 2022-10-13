@@ -40,7 +40,7 @@
     </item>
     
     <item>
-      <title>2. cvičení – II. deklinace: maskulina (paroxytona, oxytona), člen</title>
+      <title>2. cvičení – II. deklinace: maskulina (paroxytona, oxytona); člen</title>
       <link>/fixed/cviceni_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -49,7 +49,7 @@
     </item>
     
     <item>
-      <title>3. cvičení – II. deklinace: maskulina (properispómena), ind., impt., inf. praes. akt. παιδεύω</title>
+      <title>3. cvičení – II. deklinace: maskulina (properispómena); ind., impt., inf. praes. akt. παιδεύω</title>
       <link>/fixed/cviceni_3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -58,12 +58,21 @@
     </item>
     
     <item>
-      <title>4. cvičení – II. deklinace: maskulina (proparoxytona), Ind., impt., inf. praes. med., pass.</title>
+      <title>4. cvičení – II. deklinace: maskulina (proparoxytona); ind., impt., inf. praes. med., pass.</title>
       <link>/fixed/cviceni_4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fixed/cviceni_4/</guid>
       <description>Maskulina II. deklinace (proparoxytona)  Pád Sg. Pl.     nom. ἄνθρωπ-ος &amp;lsquo;člověk&amp;rsquo; ἄνθρωπ-οι   gen. ἀνθρώπ-ου ἀνθρώπ-ων   dat. ἀνθρώπ-ῳ ἀνθρώπ-οις   acc. ἄνθρωπ-ον ἀνθρώπ-ους   voc. ἄνθρωπ-ε ἄνθρωπ-οι     ostrý přízvuk se z třetí slabiky od konce přesouvá na druhou, je-li poslední slabika dlouhá (má diftong nebo dlouhý vokál) koncovka nom. pl -οι je z hlediska přízvuku krátká  Indikativ, imperativ, infinitiv prézentu mediopasiva  Osoba indikativ imperativ infinitiv     1.</description>
+    </item>
+    
+    <item>
+      <title>5. cvičení – II. deklinace: neutra; deponentní slovesa</title>
+      <link>/fixed/cviceni_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fixed/cviceni_5/</guid>
+      <description>Neutra II. deklinace  Singulár Člen Proparoxytona Paroxytona Properispómena Oxytona     nom. τό δάκρυ-ον &amp;lsquo;slza&amp;rsquo; τέκν-ον &amp;lsquo;dítě&amp;rsquo; δῶρ-ον &amp;lsquo;dar&amp;rsquo; ζυγ-όν &amp;lsquo;jařmo&amp;rsquo;   gen. τοῦ δακρύ-ου τέκν-ου δώρ-ου ζυγ-οῦ   dat. τῷ δακρύ-ῳ τέκν-ῳ δώρ-ῳ ζυγ-ῷ   acc. τό δάκρυ-ον τέκν-ον δῶρ-ον ζυγ-όν   voc.  δάκρυ-ον τέκν-ον δῶρ-ον ζυγ-όν   Plurál        nom. τά δάκρυ-α τέκν-α δῶρ-α ζυγ-ά   gen.</description>
     </item>
     
   </channel>

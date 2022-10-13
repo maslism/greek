@@ -1,8 +1,7 @@
 {
-"title": "5. cvičení – II. deklinace: neutra, Deponentní slovesa",
+"title": "5. cvičení – II. deklinace: neutra; deponentní slovesa",
     "sidebar": true,
-    "weight": "5",
-"draft": true
+    "weight": "5"
 }
 
 ### Neutra II. deklinace
@@ -13,7 +12,7 @@
 
 | Singulár   | Člen | Proparoxytona       | Paroxytona         | Properispómena   | Oxytona            |
 | ---------- | ---- | ------------------- | ------------------ | ---------------- | ------------------ |
-| nom.       | τό   | δάκρυ-__ον__ "slza" | τέκν-__ον__ "dítě" | δῶρ-**ον** "dar" | ζυγ-**όν** "jařmo" |
+| nom.       | τό   | δάκρυ-__ον__ 'slza' | τέκν-__ον__ 'dítě' | δῶρ-**ον** 'dar' | ζυγ-**όν** 'jařmo' |
 | gen.       | τοῦ  | δακρύ-__ου__        | τέκν-**ου**        | δώρ-**ου**       | ζυγ-**οῦ**         |
 | dat.       | τῷ   | δακρύ-__ῳ__         | τέκν-__ῳ__         | δώρ-**ῳ**        | ζυγ-__ῷ__          |
 | acc.       | τό   | δάκρυ-__ον__        | τέκν-__ον__        | δῶρ-**ον**       | ζυγ-**όν**         |
@@ -21,24 +20,24 @@
 | **Plurál** |      |                     |                    |                  |                    |
 | nom.       | τά   | δάκρυ-**α**         | τέκν-**α**         | δῶρ-**α**        | ζυγ-**ά**          |
 | gen.       | τῶν  | δακρύ-**ων**        | τέκν-**ων**        | δώρ-**ων**       | ζυγ-**ῶν**         |
-| dat,       | τοῖς | δακρύ-**οις**       | τέκν-**οις**       | δώρ-**οις**      | ζυγ-**οῖς**        |
+| dat.       | τοῖς | δακρύ-**οις**       | τέκν-**οις**       | δώρ-**οις**      | ζυγ-**οῖς**        |
 | acc.       | τά   | δάκρυ-**α**         | τέκν-**α**         | δῶρ-**α**        | ζυγ-**ά**          |
 | voc.       |      | δάκρυ-**α**         | τέκν-**α**         | δῶρ-**α**        | ζυγ-**ά**          |
 
 {{< /bootstrap-table >}}
 
-- neutra II. deklinace se skloňují jako maskulina II. deklinace kromě koncovek nom/voc. sg., nom/voc/acc. pl. 
-- koncovky nom., acc. a voc. obou čísel jsou u neuter stejné 
+- neutra II. deklinace se skloňují jako maskulina II. deklinace kromě koncovek nom/voc. sg. a nom/voc/acc. pl. 
+- koncovky nom., acc. a voc. jsou u neuter v každém čísle stejné 
 
 ### Deponentní slovesa
 
-Deponentní slovesa mají v mediopasivních tvarech aktivní význam. Aktivními tvary nedisponují. 
+Deponentní slovesa mají v imperfektivním (= prézentním) kmeni mediopasivní morfologii, ale aktivní význam. Tvary s aktivní morfologii nedisponují. 
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
 | Osoba | indikativ              | imperativ      | infinitiv     |
 | ----- | ---------------------- | -------------- | ------------- |
-| 1.    | μάχ-**ο-μαι** "bojuji" |                | μάχ-**εσθαι** |
+| 1.    | μάχ-**ο-μαι** 'bojuji' |                | μάχ-**εσθαι** |
 | 2.    | μάχ-**ῃ**              | μάχ-**ου**     |               |
 | 3.    | μάχ-**ε-ται**          | μαχ-**έ-σθω**  |               |
 | 1.    | μαχ-**ό-μεθα**         |                |               |
@@ -47,9 +46,9 @@ Deponentní slovesa mají v mediopasivních tvarech aktivní význam. Aktivními
 
 {{< /bootstrap-table >}}
 
-### Slovesná kongruence neuter
+### Shoda neuter se slovesy
 
-> Neutra v plurálu mají sloveso v singuláru. Přívlastek nebo jmenná součást jmenného přísudku je v plurálu. 
+> **Neutra v plurálu** ve funkci podmětu mají **sloveso v singuláru**. **Přívlastek** nebo jmenná součást **jmenného přísudku** je **v plurálu**. 
 
 Τὸ τέκνον φεύγει. _Dítě utíká_.  
 Τὰ τέκνα φεύγει. _Děti utíkají._
@@ -82,11 +81,7 @@ Deponentní slovesa mají v mediopasivních tvarech aktivní význam. Aktivními
 
 {{</ pure-expand >}}
 
-### Úkol
-
-- časujte sloveso ἄγω _vedu_ v aktivu a mediopasivu i s překladem (mps. přeložte pasivně)
-- časujte sloveso πορεύομαι _pochoduji_ i s překladem
-- převeďte věty 1. až 6. do opačného čísla
+### 
 
 ### Křížové odkazy
 
@@ -99,3 +94,5 @@ s. 12-13
 II. deklinace: neutra § 72. Člen § 59. Deponentia § 186, § 354.
 {{< /tab >}}
 {{< /tabs >}}
+
+{{< figure src="/data/amazones.png" width=250 caption="Krátér s bojem Řeků proti Amazonkám, asi 460–450 p.n.l." link="/data/amazones.png" target=”_blank” >}}

@@ -1,5 +1,5 @@
 {
-"title": "4. cvičení – II. deklinace: maskulina (proparoxytona), Ind., impt., inf. praes. med., pass.",
+"title": "4. cvičení – II. deklinace: maskulina (proparoxytona); ind., impt., inf. praes. med., pass.",
     "sidebar": true,
     "weight": "4"
 }
@@ -65,7 +65,7 @@ Neosobní sloveso δεῖ _je třeba_ se váže s akuzativem a infinitivem (AccI
 ### Člen
 
 1. substantivizuje: νέοι _mladí_ → οἱ νέοι _mládež_;
-2. adjektivizuje; νῦν _nyní_ → οἱ νῦν ἄνϑρωποι _nynější lidé, dnešní generace_
+2. adjektivizuje: νῦν _nyní_ → οἱ νῦν ἄνϑρωποι _nynější lidé, dnešní generace_
 
 ### Věty
 
