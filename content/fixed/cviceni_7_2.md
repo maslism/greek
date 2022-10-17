@@ -30,7 +30,7 @@
 
 - do první deklinace patří i slova odvozená příponou `*-i̯a-/-i̯ā-` (> ř. *-i̯ᾰ-/-i̯ᾱ-). Oproti běžné příponě I. deklinace `*-ā-` (> ř. *-ᾱ-), která je v každém pádě sg. dlouhá, je vokál v `*-i̯a-` (> ř. *-i̯ᾰ-) krátký v nom. a acc. sg.; v gen. a dat. sg. je naopak dlouhý, `*-i̯ā-` (> ř. *-i̯ᾱ-) 
 
-- původní `*i̯` této přípony je zachováno jen zřídka; často se jeho podoba změnila kvůli palatalizačním procesům, takže v tvarech z klasického období není patrné
+- původní `*i̯` této přípony je zachováno jen zřídka; jeho podoba se často změnila kvůli palatalizačním procesům, takže v tvarech z klasického období někdy není patrné
 
 - možným výsledkem palatalizace jsou i skupiny -ειᾰ- (< `*-es-i̯a-` nebo `*-eu̯-i̯a-`) a -Vῖρᾰ- (< `*-Vr-i̯a-`) v nom. a acc. sg.; -ειᾱ- (< `*-es-i̯ā-` nebo `*-eu̯-i̯ā-`) a -Vίρᾱ- (< `*-Vr-i̯ā-`) v gen. a dat. sg.   
   

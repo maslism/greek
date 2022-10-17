@@ -28,8 +28,8 @@
 
 - oxytona v gen. a dat. obou čísel mění přízvuk na průtažný 
 - kmenotvorné -η pochází z dlouhého vokálu `*ā` (srov. č. fem. na -a), který prošel touto změnou v attickém a iónském dialektu (srov. dórské tvary μάχᾱ, τιμά)
-- původní -α (< `*ā` ) je viditelné v plurálu 
-- gen. pl. má vždy přízvuk na koncovém -ῶν (gen. pl. `*-āsōn` > `*āhōn` > `*āōn` > -ῶν)
+- původní -α (< `*ā` zkrácením) je viditelné v plurálu 
+- gen. pl. má vždy přízvuk na koncovém -ῶν (gen. pl. `*-āsōn` > `*-āhōn` > `*-āōn` > -ῶν)
 - koncovka nom. pl. -αι je pro přízvuk krátká 
 
 ### Imperfektum aktiva
@@ -75,9 +75,9 @@
 Ἐ-φέρ-ε-τε τὰ ὑμέτερα δῶρα. – Nesli/y jste své dary.  
 Ἔ-φερ-ο-ν τὰ **ἑαυτῶν** δῶρα. – Nesli/y své dary.  
 
-Řečtina neužívá speciální zvratné přivlastňovací zájmeno (srov. č. **sv**ůj, lat. **su**us) ve všech třech osobách jako čeština. U první a druhé osoby se pro vyjádření zvratného přivlastňovacího vztahu používá přivlastňovací zájmeno první, resp. druhé osoby (ἐμός, -ή,  -όν – můj / svůj; σός, ή, -όν – tvůj / svůj; ἡμέτερος, -η, -ον – náš / svůj; ὑμέτερος, -η, -ον – váš / svůj). Tyto tvary jsou v **gramatické shodě s přivlastňovanou věci nebo osobou**, a proto nám neříkají, jakého rodu (masc., fem., neut.) je osoba, které se něco přivlastňuje.    
+Řečtina neužívá speciální zvratné přivlastňovací zájmeno (srov. č. **sv**ůj, lat. **su**us) ve všech třech osobách jako čeština. U první a druhé osoby se pro vyjádření zvratného přivlastňovacího vztahu používá přivlastňovací zájmeno první, resp. druhé osoby (ἐμός, -ή,  -όν – můj / svůj; σός, ή, -όν – tvůj / svůj; ἡμέτερος, -η, -ον – náš / svůj; ὑμέτερος, -η, -ον – váš / svůj). Tyto tvary jsou v **gramatické shodě s přivlastňovanou věcí nebo osobou**, a proto nám neříkají, jakého rodu (masc., fem., neut.) je osoba, které se něco přivlastňuje.    
 
-Jenom třetí osoba sg. a pl. disponují speciálním nesklonným zvratným přivlastňovacím zájmenem, které obsahuje kmen `*su̯e-` (> ἑ-) v kombinaci se zájmenem třetí osoby ἀυτός, -ή, -ό 'on, ona, ono'. Finální tvar má **koncovku genitivu**, která **číslem a rodem odpovídá osobě, které se něco přivlastňuje**. Toto přivlastňovací zájmeno teda **není v gramatické shodě s přivlastňovanou věci nebo osobou**. České protějšky těchto tvarů si můžeme představit jako †svjeho (masc.), †svjejí (fem.), †svjejich (pl.).  
+Jenom třetí osoba sg. a pl. disponují speciálním nesklonným zvratným přivlastňovacím zájmenem, které obsahuje kmen `*su̯e-` (> ἑ-) v kombinaci se zájmenem třetí osoby ἀυτός, -ή, -ό 'on, ona, ono'. Finální tvar má **koncovku genitivu**, která **číslem a rodem odpovídá osobě, které se něco přivlastňuje**. Toto přivlastňovací zájmeno teda **není v gramatické shodě s přivlastňovanou věcí nebo osobou**. České protějšky těchto tvarů si můžeme představit jako †svjeho (masc.), †svjejí (fem.), †svjejich (pl.).  
 
 | Osoba      | Muž. a střed. rod         | Žen. rod                  |
 | ---------- | ------------------------- | ------------------------- |
