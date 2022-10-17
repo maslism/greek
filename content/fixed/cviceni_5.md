@@ -26,12 +26,14 @@
 
 {{< /bootstrap-table >}}
 
-- neutra II. deklinace se skloňují jako maskulina II. deklinace kromě koncovek nom/voc. sg. a nom/voc/acc. pl. 
+- neutra II. deklinace se skloňují jako maskulina II. deklinace kromě koncovek nom/voc/acc. sg. a nom/voc/acc. pl. 
 - koncovky nom., acc. a voc. jsou u neuter v každém čísle stejné 
 
 ### Deponentní slovesa
 
-Deponentní slovesa mají v imperfektivním (= prézentním) kmeni mediopasivní morfologii, ale aktivní význam. Tvary s aktivní morfologii nedisponují. 
+Deponentní slovesa mají v imperfektivním (= prézentním) kmeni **mediopasivní morfologii**, ale **aktivní význam**. Tvary s aktivní morfologii nedisponují. 
+
+Mediopasivní morfologie je u deponetních sloves podmíněna lexikálním významem. Popisovaný děj je možné konceptualizovat tak, že zasahuje subjekt. Mezi významové kategorie, které jsou obvykle vyjadřovány deponentními slovesy, patří spontánní procesy, mentální procesy, tělesný pohyb, hromadný pohyb, vzájemnost, smyslové vnímaní, mentální aktivity a řečové akty.  
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 

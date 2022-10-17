@@ -20,7 +20,7 @@
 
 {{< /bootstrap-table >}}
 
-- ostrý přízvuk se z třetí slabiky od konce přesouvá na druhou, je-li poslední slabika dlouhá (má diftong nebo dlouhý vokál) 
+- ostrý přízvuk se ze třetí slabiky od konce přesouvá na druhou, je-li poslední slabika dlouhá (má diftong nebo dlouhý vokál) 
 - koncovka nom. pl -οι je z hlediska přízvuku krátká
 
 ### Indikativ, imperativ, infinitiv prézentu mediopasiva

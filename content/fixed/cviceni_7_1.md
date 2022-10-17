@@ -1,8 +1,7 @@
 {
-"title": "6.2 cvičení – I. deklinace: ᾱ pūrum",
+"title": "7.1. cvičení – I. deklinace: ᾱ pūrum",
     "sidebar": true,
-    "weight": "8",
-"draft": true
+    "weight": "8"
 }
 
 ### I. deklinace: ᾱ pūrum
@@ -13,11 +12,11 @@
 
 | Singulár   | Člen |                  |                  |                   |
 | ---------- | ---- | ---------------- | ---------------- | ----------------- |
-| nom.       | ἡ    | οἰκί-__ᾱ__ "dům" | χώρ-**ᾱ** "země" | θε-**ά** "bohyně" |
+| nom.       | ἡ    | οἰκί-__ᾱ__ 'dům' | χώρ-**ᾱ** 'země' | θε-**ά** 'bohyně' |
 | gen.       | τῆς  | οἰκί-**ᾱς**      | χώρ-**ᾱς**       | θε-**ᾶς**         |
 | dat.       | τῇ   | οἰκί-__ᾳ__       | χώρ-**ᾳ**        | θε-**ᾷ**          |
 | acc.       | τήν  | οἰκί-__ᾱν__      | χώρ-**ᾱν**       | θε-**άν**         |
-| voc.       |      | οἰκί-__ᾱ__       | χώρ-**ᾱ**        | θε-**ά**          |
+| voc.       |      | = nom.           | = nom.           | = nom.            |
 | **Plurál** |      |                  |                  |                   |
 | nom.       | αἱ   | οἰκί-**αι**      | χῶρ-**αι**       | θε-**αί**         |
 | gen.       | τῶν  | οἰκι-**ῶν**      | χωρ-**ῶν**       | θε-**ῶν**         |
@@ -28,10 +27,10 @@
 {{< /bootstrap-table >}}
 
 - oxytona v gen. a dat. obou čísel mění přízvuk na průtažný 
-- znakem podtypu ᾱ *pūrum* je přítomnost kmenotvorného -α v pádech obou čísel oproti podtypu -η, -ης (νίκη, νίκης), u kterého se -α objevuje jen v pl.
+- znakem podtypu ᾱ *pūrum* je přítomnost kmenotvorného -α v pádech obou čísel v kontrastu s podtypem -η, -ης (νίκη, νίκης), u kterého se -α objevuje jen v pl.
   - ᾱ *pūrum* je vlastní attickému dialektu a týká se slov, ve kterých koncovce předchází **-ε-, -ι-**, nebo **-ρ-**
-  - příčinou vzniku tohoto podtypu je attická reverze: původní _*ā_ se v iónsko-attických dialektech měnilo na -η. Tento posun byl ale v attickém dialektu potlačen, předcházela-li před **ā* hláska -ε-, -ι-, nebo -ρ-. V iónštině proces proběhl bez výjimek, srovnej att. οἰκίᾱ oproti ión. οἰκίη 
-- gen. pl. má vždy přízvuk na koncovém -ῶν (gen. pl. *ā́sōm > *ā́hōn > *ā́ōn > -ῶν)
+  - příčinou vzniku tohoto podtypu je **attická reverze**: původní `*ā` se v iónsko-attických dialektech měnilo na -η. Tento posun byl ale v attickém dialektu potlačen, nacházela-li se před `*ā` hláska -ε-, -ι-, nebo -ρ-. V iónštině proces proběhl bez výjimek; srovnej att. οἰκίᾱ oproti ión. οἰκίη 
+- gen. pl. má vždy průtažný přízvuk na koncovém -ῶν 
 - koncovka nom. pl. -αι je pro přízvuk krátká 
 
 ### Věty
@@ -52,7 +51,7 @@
 
 {{</ pure-expand >}}
 
-### Úkol
+### Procvičování
 
 Ι.
 
@@ -135,8 +134,6 @@
 {{< /column >}} 
 {{< /row >}}
 
-{{< button href="/greek/data/cviceni_1.pdf" class="btn-outline-info">}}Cvičení.pdf{{< /button >}}
-
 ### Křížové odkazy
 
 {{< tabs tabTotal="2" tabID="1" tabName1="Hnátek" tabName2="Niederle" >}}
@@ -150,4 +147,4 @@ I. deklinace: ᾱ pūrum (§ 62, 64, 65)
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/dagger.gif" width=550 caption="Bronzová dýka z Pylu se zlatou a stříbrnou inkrustací znázorňující mořské hlavonožce, asi 1500 p. n. l." link="/data/dagger.gif" target=”_blank” >}}
+{{< figure src="/data/dagger.gif" width=550 caption="Bronzová dýka z Pylu se zlatou a stříbrnou inkrustací, znázorňující mořské hlavonožce, asi 1500 p.n.l." link="/data/dagger.gif" target=”_blank” >}}
