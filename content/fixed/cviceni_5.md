@@ -33,7 +33,7 @@
 
 Deponentní slovesa mají v imperfektivním (= prézentním) kmeni **mediopasivní morfologii**, ale **aktivní význam**. Tvary s aktivní morfologii nedisponují. 
 
-Mediopasivní morfologie je u deponetních sloves podmíněna lexikálním významem. Popisovaný děj je možné konceptualizovat tak, že zasahuje subjekt. Mezi významové kategorie, které jsou obvykle vyjadřovány deponentními slovesy, patří spontánní procesy, mentální procesy, tělesný pohyb, hromadný pohyb, vzájemnost, smyslové vnímaní, mentální aktivity a řečové akty.  
+Mediopasivní morfologie je u deponentních sloves podmíněna lexikálním významem. Popisovaný děj je možné konceptualizovat tak, že zasahuje subjekt. Mezi významové kategorie, které jsou obvykle vyjadřovány deponentními slovesy, patří spontánní procesy, mentální procesy, tělesný pohyb, hromadný pohyb, vzájemnost, smyslové vnímaní, mentální aktivity a řečové akty.  
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
