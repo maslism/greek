@@ -27,10 +27,10 @@
 {{< /bootstrap-table >}}
 
 - oxytona v gen. a dat. obou čísel mění přízvuk na průtažný 
-- znakem podtypu ᾱ *pūrum* je přítomnost kmenotvorného -α v pádech obou čísel v kontrastu s podtypem -η, -ης (νίκη, νίκης), u kterého se -α objevuje jen v pl.
+- znakem typu ᾱ *pūrum* je přítomnost kmenotvorného -α v pádech obou čísel v kontrastu s typem -η, -ης (νίκη, νίκης), u kterého se -α objevuje jen v pl.
   - ᾱ *pūrum* je vlastní attickému dialektu a týká se slov, ve kterých koncovce předchází **-ε-, -ι-**, nebo **-ρ-**
-  - příčinou vzniku tohoto podtypu je **attická reverze**: původní `*ā` se v iónsko-attických dialektech měnilo na -η. Tento posun byl ale v attickém dialektu potlačen, nacházela-li se před `*ā` hláska -ε-, -ι-, nebo -ρ-. V iónštině proces proběhl bez výjimek; srovnej att. οἰκίᾱ oproti ión. οἰκίη 
-- gen. pl. má vždy průtažný přízvuk na koncovém -ῶν 
+  - příčinou vzniku tohoto typu je **attická reverze**: původní dlouhé `*ā` se v iónsko-attických dialektech měnilo na -η. Tento posun byl ale v attickém dialektu potlačen, nacházela-li se před `*ā` hláska -ε-, -ι-, nebo -ρ-. V iónštině proces proběhl bez výjimek; srovnej att. οἰκίᾱ oproti ión. οἰκίη 
+- gen. pl. má vždy průtažný přízvuk na koncovce -ῶν 
 - koncovka nom. pl. -αι je pro přízvuk krátká 
 
 ### Věty
@@ -147,4 +147,4 @@ I. deklinace: ᾱ pūrum (§ 62, 64, 65)
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/dagger.gif" width=550 caption="Bronzová dýka z Pylu se zlatou a stříbrnou inkrustací, znázorňující mořské hlavonožce, asi 1500 p.n.l." link="/data/dagger.gif" target=”_blank” >}}
+{{< figure src="/data/dagger.gif" width=550 caption="Bronzová dýka z Pylu se zlatou a stříbrnou inkrustací, znázorňující mořské hlavonožce. Asi 1500 p. n. l." link="/data/dagger.gif" target=”_blank” >}}

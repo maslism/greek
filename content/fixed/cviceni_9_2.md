@@ -1,8 +1,7 @@
 {
-"title": "9.2 cvičení – Ind. fut. akt. sloves samohl. nestažených",
+"title": "9.2. cvičení – Ind. fut. akt. sloves samohl. nestažených",
     "sidebar": true,
-    "weight": "12",
-"draft": true
+    "weight": "12"
 }
 
 ### Ind. fut. akt. sloves samohláskových nestažených
@@ -13,20 +12,24 @@
 
 | Osoba | Futurum                      | Koncovky   |
 | ----- | ---------------------------- | ---------- |
-| 1.    | παιδεύ-σ-ω *budu vychovávat* | -σ-ω       |
+| 1.    | παιδεύ-σ-ω 'budu vychovávat' | -σ-ω       |
 | 2.    | παιδεύ-σ-εις                 | -σ-εις     |
 | 3.    | παιδεύ-σ-ει                  | -σ-ει      |
 | 1.    | παιδεύ-σ-ομεν                | -σ-ομεν    |
 | 2.    | παιδεύ-σ-ετε                 | -σ-ετε     |
 | 3.    | παιδεύ-σ-ουσι(ν)             | -σ-ουσι(ν) |
 
-- futurum se tvoří příponou -σ- a má stejné koncovky jako prézens
+- futurum aktiva se tvoří příponou -σ- a má stejné koncovky jako indikativ prézentu
+
+- základ futura aktiva je nutné vnímat jako samostatný kmen a ne jako derivaci prézentního kmene 
+
+- vidový význam futura aktiva není specifikován; tvar můžeme podle kontextu interpretovat buď dokonavě, nebo nedokonavě, παιδεύσω 'budu vychovávat' i 'vychovám' 
   
   {{< /bootstrap-table >}}
 
 ### Věty
 
-1\. Τῷ δικαίῳ ἀνθρώπῳ πιστεύω καὶ ἀεὶ πιστεύσω. 2. Εἰ καλῶς παιδεύῃ, καὶ καλῶς παιδεύσεις. 3. Ὁ φίλος ἔλεγεν, ὅτι εὖ παιδεύσει τοὺς νέους. 4.. Τῇ τοῦ ἀνδρείου στρατηγοῦ λαμπρᾷ δόξῃ πιστεύομεν καὶ πιστεύσομεν. 5. Παιδεύετε καὶ παιδεύσετε τοὺς νέους. 6. Οἱ διδάσκαλοι τοὺς ἡμετέρους νέους παιδεύσουσιν.
+1\. Τῷ δικαίῳ ἀνθρώπῳ πιστεύω καὶ ἀεὶ πιστεύσω. 2. Εἰ καλῶς παιδεύῃ, καὶ καλῶς παιδεύσεις. 3. Ὁ φίλος ἔλεγεν, ὅτι εὖ παιδεύσει τοὺς νέους. 4. Τῇ τοῦ ἀνδρείου στρατηγοῦ λαμπρᾷ δόξῃ πιστεύομεν καὶ πιστεύσομεν. 5. Παιδεύετε καὶ παιδεύσετε τοὺς νέους. 6. Οἱ διδάσκαλοι τοὺς ἡμετέρους νέους παιδεύσουσιν.
 
 {{< pure-expand title="Slovní zásoba" >}}      
 
@@ -72,7 +75,7 @@
 {{< /column >}} 
 {{< column >}}
 
-Παρνασσός, -οῦ, ὁ – hora Parnasos   
+Παρνασσός, -οῦ, ὁ – hora Parnas   
 θεραπεύω, -ειν – uctívat, pečovat  
 λέγω (dvojitý acc.) - nazývat  
 παιδεία, -ας, ἡ – vzdělání, výchova  
@@ -86,7 +89,7 @@
 
 #### ΠΕΡΙ ΤΗΣ ΘΑΛΑΤΤΗΣ
 
-Ἡ ϑάλαττα (Αἱ ϑάλατται) τοῖς Ἀϑηναίοις πολλὰ δῶρα ἔφερεν (ἔφερον). Τὴν ϑάλατταν (Τὰς ϑαλάττας) οἱ Ἀϑηναῖοι μάλα ἔστεργον. Τοὺς δὲ τῆς ϑαλάττης (τῶν ϑαλαττῶν) κινδύνους οὐκ ἔφευγον. Ἐν τῇ ϑαλάττῃ (ἐν ταῖς ϑαλάτταις) πολλὰ ζῷά ἐστιν.
+Ἡ ϑάλαττα (αἱ ϑάλατται) τοῖς Ἀϑηναίοις πολλὰ δῶρα ἔφερεν (ἔφερον). Τὴν ϑάλατταν (τὰς ϑαλάττας) οἱ Ἀϑηναῖοι μάλα ἔστεργον. Τοὺς δὲ τῆς ϑαλάττης (τῶν ϑαλαττῶν) κινδύνους οὐκ ἔφευγον. Ἐν τῇ ϑαλάττῃ (ἐν ταῖς ϑαλάτταις) πολλὰ ζῷά ἐστιν.
 
 {{< row >}}
 {{< column >}}
@@ -141,4 +144,4 @@ Ind. fut. akt. sloves samohláskových nestažených (§ 183, 1.2; 185.)
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/muse.png" width=230 caption="Amforiskos s Apollónem hrajícím na lyru před Úranii (Οὐρανία), Múzou astronomů. Asi 420 p. n. l., Attika" link="/data/muse.png" target=”_blank” >}}
+{{< figure src="/data/muse.png" width=210 caption="Amforiskos s Apollónem, hrajícím na lyru před Úranii (Οὐρανία), Múzou astronomů. Attika, asi 420 p. n. l." link="/data/muse.png" target=”_blank” >}}

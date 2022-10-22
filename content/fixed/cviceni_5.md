@@ -97,4 +97,4 @@ II. deklinace: neutra § 72. Člen § 59. Deponentia § 186, § 354.
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/amazones.png" width=250 caption="Krátér s bojem Řeků proti Amazonkám, asi 460–450 p.n.l." link="/data/amazones.png" target=”_blank” >}}
+{{< figure src="/data/amazones.png" width=250 caption="Krátér s bojem Řeků proti Amazonkám. Asi 460–450 p. n. l." link="/data/amazones.png" target=”_blank” >}}

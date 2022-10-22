@@ -146,4 +146,4 @@ II. deklinace: maskulina (proparoxytona) § 72 (s. 35), Ind., impt., inf. praes.
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/krater1.png" width=250 caption="Krátér se závodem s pochodněmi, asi 410–400 p.n.l." link="/data/krater1.png" target=”_blank” >}}
+{{< figure src="/data/krater1.png" width=250 caption="Krátér se závodem s pochodněmi. Asi 410–400 p. n. l." link="/data/krater1.png" target=”_blank” >}}

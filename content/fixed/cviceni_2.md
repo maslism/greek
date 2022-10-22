@@ -86,4 +86,4 @@ II. deklinace: maskulina (paroxytona, oxytona) § 72, 73.1-2 (s. 35-36), člen �
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/hippoi.png" width=170 caption="Amfora s koňským závodem, asi 510 p.n.l., Attika" link="/data/hippoi.png" target=”_blank” >}}
+{{< figure src="/data/hippoi.png" width=170 caption="Amfora s koňským závodem. Attika, asi 510 p. n. l." link="/data/hippoi.png" target=”_blank” >}}

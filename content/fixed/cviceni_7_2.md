@@ -43,9 +43,9 @@
   - βα.σί.λει.ᾰ, ἀ.λή.θει.ᾰ: ostrý na třetí slabice od konce (< *basíleu̯-i̯a, *alḗtʰes-i̯a)
   - σφαῖρᾰ, μοῖρᾰ: průtažný na druhé slabice od konce (< *spʰár-i̯a, *(s)mór-i̯a)
 
-- znakem podtypu α *pūrum* je přítomnost kmenotvorného -α v pádech obou čísel oproti podtypu -η, -ης (νίκη, νίκης), u kterého se -α objevuje jen v pl.
+- znakem typu α *pūrum* je přítomnost kmenotvorného -α v pádech obou čísel oproti typu -η, -ης (νίκη, νίκης), u kterého se -α objevuje jen v pl.
 
-- gen. pl. má vždy průtažný přízvuk na koncovém -ῶν
+- gen. pl. má průtažný přízvuk vždy na koncovce -ῶν
 
 - koncovka nom. pl. -αι je pro přízvuk krátká 
 
@@ -62,27 +62,27 @@
 
 ### Změny předpony v augmentovaných tvarech
 
-| Prézent                  | Imperfektum                         |
-| ------------------------ | ----------------------------------- |
-| **ἐμ**-βάλλω vhazuji     | **ἐν-έ**-βαλλον                     |
-| **ἐκ**-βάλλω vyhazuji    | **ἐξ**-**έ**-βαλλον                 |
-| **ἀπο**-βάλλω odhazuji   | **ἀπ-έ**-βαλλον                     |
-| **δια**-βάλλω osočuji    | **δι-έ**-βαλλον                     |
-| **περι**-βάλλω obhazuji  | **περι-έ**-βαλλον                   |
-| **προ**-βάλλω předhazuji | **προ-έ**-βαλλον n. **προὔ**βαλλον. |
-| **παρα**-βάλλω přihazuji | **παρ-έ**-βαλλον                    |
+| Prézent                    | Imperfektum                        |
+| -------------------------- | ---------------------------------- |
+| **ἐμ**-βάλλω 'vhazuji'     | **ἐν-έ**-βαλλον                    |
+| **ἐκ**-βάλλω 'vyhazuji'    | **ἐξ**-**έ**-βαλλον                |
+| **ἀπο**-βάλλω 'odhazuji'   | **ἀπ-έ**-βαλλον                    |
+| **δια**-βάλλω 'osočuji'    | **δι-έ**-βαλλον                    |
+| **περι**-βάλλω 'obhazuji'  | **περι-έ**-βαλλον                  |
+| **προ**-βάλλω 'předhazuji' | **προ-έ**-βαλλον n. **προὔ**βαλλον |
+| **παρα**-βάλλω 'přihazuji' | **παρ-έ**-βαλλον                   |
 
 ### Věty
 
-Ὑπὸ τοῦ ἐμοῦ διδασκάλου ἐ-παιδευ-ό-μην. - *Byl jsem vychováván svým učitelem.* 
+Ὑπὸ τοῦ ἐμοῦ διδασκάλου ἐ-παιδευ-ό-μην. - *Byl jsem vychováván svým učitelem.*   
 Ὑπὸ τοῦ σοῦ διδασκάλου ἐ-παιδεύ-ου.  
 Ὑπὸ τοῦ ἑαυτοῦ διδασκάλου ἐ-παιδεύ-ε-το.  
 Ὑπὸ τοῦ ἡμετέρου διδασκάλου ἐ-παιδευ-ό-μεθα.   
 Ὑπὸ τοῦ ὑμετέρου διδασκάλου ἐ-παιδεύ-ε-σθε.  
 Ὑπὸ τοῦ ἑαυτῶν διδασκάλου ἐ-παιδεύ-ο-ντο.     
 
-Οἱ νέοι ἐγυμνάζοντο. - *Mládež se cvičila (sebe).*  
-Ὁ δοῦλος σῖτον παρ-ε-σκευάζετο. - *Otrok si připravoval jídlo (pro sebe).*
+Οἱ νέοι ἐγυμνάζοντο. - *Mládež se cvičila (= sebe).*  
+Ὁ δοῦλος σῖτον παρ-ε-σκευάζετο. - *Otrok si připravoval jídlo (= pro sebe).*
 
 1\. Σελήνη σφαῖρά ἐστιν. 2. Σελήνη καὶ ἥλιος σφαῖραί εἰσιν. 3\. Στέργομεν τὴν φιλίαν καὶ ἐν τῇ φιλίᾳ τὴν ἀλήϑειαν. 4. Ἡ ϑεοσέβεια ἀρχὴ ἐστι τῆς σοφίας. 5. Ἐν οἴνῳ ἀλήϑεια.  
 
@@ -111,4 +111,4 @@ I. deklinace: ᾱ pūrum (§ 62, 64, 65), Imperfektum med. a pass. (§ 186)
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/vineleaf.png" width=300 caption="Keramický kantharos zdobený vinnými listy a bobulemi. Boiótie, 450-400 p.n.l." link="/data/vineleaf.png" target=”_blank” >}}
+{{< figure src="/data/vineleaf.png" width=300 caption="Keramický kantharos, zdobený vinnými listy a bobulemi. Bojótie, 450–400 p. n. l." link="/data/vineleaf.png" target=”_blank” >}}

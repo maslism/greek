@@ -1,5 +1,5 @@
 {
-"title": "6. cvičení – lmperfektum aktiva; I. deklinace: nom. -η, gen. -ης",
+"title": "6. cvičení – Imperfektum aktiva; I. deklinace: nom. -η, gen. -ης",
     "sidebar": true,
     "weight": "7"
 }
@@ -28,8 +28,9 @@
 
 - oxytona v gen. a dat. obou čísel mění přízvuk na průtažný 
 - kmenotvorné -η pochází z dlouhého vokálu `*ā` (srov. č. fem. na -a), který prošel touto změnou v attickém a iónském dialektu (srov. dórské tvary μάχᾱ, τιμά)
-- původní -α (< `*ā` zkrácením) je viditelné v plurálu 
-- gen. pl. má vždy přízvuk na koncovém -ῶν (gen. pl. `*-āsōn` > `*-āhōn` > `*-āōn` > -ῶν)
+- původní -α (< `*ā` zkrácením) je viditelné v plurálu, protožé krátké α nepodléha změně na η
+- v acc. pl. je sekundárně dlouhé -ᾱ, které vzniklo až po změně `*ā` > η
+- gen. pl. má přízvuk vždy na koncovce -ῶν (gen. pl. `*-āsōn` > `*-āhōn` > `*-āōn` > -ῶν)
 - koncovka nom. pl. -αι je pro přízvuk krátká 
 
 ### Imperfektum aktiva
@@ -55,7 +56,7 @@
     - ε → η: ἐλπίζω → ἤλπιζον 'doufal jsem'
     - ο → ω: ὀρύττω → ὤρυττον 'kopal jsem'
     - ι → ῑ: ἱππεύω → ἵππευον 'jezdil jsem na koni'
-    - υ → ῡ: ὑβρίζω → ὕβριζον 'ponížil jsem'
+    - υ → ῡ: ὑβρίζω → ὕβριζον 'ponižoval jsem'
     - **αι** → **ῃ**: αἰσθάνομαι → ᾐσθανόμην 'vnímal jsem'
     - **ᾳ** → **ῃ**: ᾄδω → ᾖδον 'zpíval jsem'
     - **αυ** → **ηυ**: αὐξάνω → ηὔξανον 'zvětšoval jsem'
@@ -120,4 +121,4 @@ Imperfektum aktiva § 185., I. deklinace: -η, -ης sg. § 63. Člen § 59
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/mask.png" width=270 caption="Posmrtná maska z šachtového hrobu v Mykénách, tradičně označována jako Agamemnónova maska, asi 1550-1500 p.n.l." link="/data/mask.png" target=”_blank” >}}
+{{< figure src="/data/mask.png" width=270 caption="Posmrtná maska z šachtového hrobu v Mykénách, tradičně označována jako Agamemnónova maska. Asi 1550–1500 p. n. l." link="/data/mask.png" target=”_blank” >}}

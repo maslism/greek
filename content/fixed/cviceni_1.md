@@ -105,4 +105,4 @@ Alfabeta § 1 (s. 7), výslovnost § 2 (s. 8), 5 (s. 9-10), přízvuk § 8-14 (s
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/ostrakon.png" width=250 caption="Ostrakon s prvními slovy Íliady, 580–640 n.l., egyptské Théby" link="/data/ostrakon.png" target=”_blank” >}}
+{{< figure src="/data/ostrakon.png" width=250 caption="Ostrakon s prvními slovy Íliady. Egyptské Théby, 580–640 n. l." link="/data/ostrakon.png" target=”_blank” >}}

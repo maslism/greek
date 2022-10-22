@@ -1,8 +1,7 @@
 {
-"title": "8. cvičení – Adjektiva -ος, -η (-ᾱ), -ον. Adverbia -ως ",
+"title": "8. cvičení – Adjektiva -ος, -η (-ᾱ), -ον; adverbia -ως ",
     "sidebar": true,
-    "weight": "10",
-"draft": true
+    "weight": "10"
 }
 
 ### Adjektiva -ος, -η (-ᾱ), -ον
@@ -19,11 +18,13 @@
 | IV.  | -ρος       | -**ρᾱ**    | -ρον        | μακρός, -ά, -όν ~  μακρός, 3    |
 
 - trojvýchodná adjektiva I. a II. deklinace se skloňují stejně jako příslušná substantiva
-- typy II. až IV. mají fem. na -εᾱ, -ιᾱ a -ρᾱ kvůli -ε-, -ι- a -ρ-, které předcházejí koncovce; jde tedy o α *pūrum*   
+- typy II. až IV. mají fem. na -εᾱ, -ιᾱ a -ρᾱ kvůli -ε-, -ι- a -ρ- před koncovkou; jedné se tedy o ᾱ *pūrum*   
 
 {{< /bootstrap-table >}}
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
+
+### Skloňování adjektiv
 
 | Pád        | Muž. rod  | Žen. rod       | Střed. rod | Muž. rod | Žen. rod | Střed. rod |
 | ---------- | --------- | -------------- | ---------- | -------- | -------- | ---------- |
@@ -121,4 +122,4 @@ Adjektiva -ος, -η (-ᾱ), -ον (§ 75.1.2). Adverbia -ως (§ 141)
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/Hera_vase.png" width=200 caption="Keramická amfora z Athén, autorství se připisuje malíři Diosfovi. Héra vysílá Iridu, poselkyni bohů v podobě duhy, společně s lvem, který bude zužovat peloponézskou Nemeu, dokud ho Héraklés nezabije. Asi 500 p. n. l." link="/data/Hera_vase.png" target=”_blank” >}}
+{{< figure src="/data/Hera_vase.png" width=200 caption="Keramická amfora z Athén. Héra vysílá Iridu, poselkyni bohů v podobě duhy, společně s lvem, který bude sužovat peloponéskou Nemeu, dokud ho Héraklés nezabije. Asi 500 p. n. l." link="/data/Hera_vase.png" target=”_blank” >}}
