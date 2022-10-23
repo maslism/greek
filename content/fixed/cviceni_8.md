@@ -10,7 +10,7 @@
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
-|      | Mužský rod | Ženský rod | Štřední rod | Ve slovníku                     |
+|      | Mužský rod | Ženský rod | Střední rod | Ve slovníku                     |
 | ---- | ---------- | ---------- | ----------- | ------------------------------- |
 | I.   | -ος        | -η         | -ον         | ἀγαθός, -ή, -όν ~ ἀγαθός, 3     |
 | II.  | -εος       | -**εᾱ**    | -εον        | νέος, -ᾱ, -ον ~ νέος, 3         |
