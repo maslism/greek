@@ -32,16 +32,16 @@
 
 - původní `*i̯` této přípony je zachováno jen zřídka; jeho podoba se často změnila kvůli palatalizačním procesům, takže v tvarech z klasického období někdy není patrné
 
-- možným výsledkem palatalizace jsou i skupiny -ειᾰ- (< `*-es-i̯a-` nebo `*-eu̯-i̯a-`) a -Vῖρᾰ- (< `*-Vr-i̯a-`) v nom. a acc. sg.; -ειᾱ- (< `*-es-i̯ā-` nebo `*-eu̯-i̯ā-`) a -Vίρᾱ- (< `*-Vr-i̯ā-`) v gen. a dat. sg.   
+- možným výsledkem palatalizace jsou i skupiny -ειᾰ- (< `*´-es-i̯a-` nebo `*´-eu̯-i̯a-`) a -Vιρᾰ- (< `*´-Vr-i̯a-`) v nom. a acc. sg.; -είᾱ- (< `*-es-i̯ā-` nebo `*-eu̯-i̯ā-`) a -Vίρᾱ- (< `*-Vr-i̯ā-`) v gen. a dat. sg.   
   
   {{</ pure-expand >}}
 
-- v -ειᾱ- a Vίρᾱ- předchází dlouhému -ᾱ- v gen. a dat. **-ι-**, resp. **-ρ-**, a proto se -ᾱ- v attičtině nemění na -η-; tato slova jsou kvůli tomu v kategorii **α _pūrum_** 
+- v -είᾱ- a Vίρᾱ- předchází dlouhému -ᾱ- v gen. a dat. **-ι-**, resp. **-ρ-**, a proto se -ᾱ- v attičtině nemění na -η-; tato slova jsou kvůli tomu v kategorii **α _pūrum_** 
 
 - poznávacím znakem této podkategorie je přízvuk v nom. sg., který odhaluje, že -ᾰ v nom. je krátké: 
   
-  - βα.σί.λει.ᾰ, ἀ.λή.θει.ᾰ: ostrý na třetí slabice od konce (< *basíleu̯-i̯a, *alḗtʰes-i̯a)
-  - σφαῖρᾰ, μοῖρᾰ: průtažný na druhé slabice od konce (< *spʰár-i̯a, *(s)mór-i̯a)
+  - βα.σί.λει.ᾰ, ἀ.λή.θει.ᾰ, μά.χαι.ρᾰ: ostrý na třetí slabice od konce (< *basíleu̯-i̯a, *alḗtʰes-i̯a, *mákʰar-i̯a)
+  - σφαῖρᾰ, μοῖρᾰ: průtažný na druhé slabice od konce (< *spʰár-i̯a, *smór-i̯a)
 
 - znakem typu α *pūrum* je přítomnost kmenotvorného -α v pádech obou čísel oproti typu -η, -ης (νίκη, νίκης), u kterého se -α objevuje jen v pl.
 

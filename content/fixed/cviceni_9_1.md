@@ -22,6 +22,8 @@
 
 - v gen. a dat. sg je přípona *-i̯ᾱ dlouhá; původní ***-ᾱ se mění na η**, jestli mu **nepředchází -ε-, -ι- nebo -ρ-** 
 
+- původní `*i̯` této přípony je zachováno jen zřídka; jeho podoba se často změnila kvůli palatalizačním procesům, takže v tvarech z klasického období někdy není patrné
+
 - tento typ feminin se dá identifikovat v nom. sg. podle toho, že má koncovku -α, ačkoliv jí nepředchází -ε-, -ι- nebo -ρ- 
   
   {{< /bootstrap-table >}}
