@@ -1,8 +1,7 @@
 {
 "title": "10. cvičení – I. deklinace: maskulina, II. deklinace: feminina, Ind. fut. med.",
     "sidebar": true,
-    "weight": "13",
-"draft": true
+    "weight": "13"
 }
 
 ### I. deklinace: maskulina
@@ -13,7 +12,7 @@
 
 | Pád     | Kmen s -α-              | Kmen s -η-                 | Přípona -της           |
 | ------- | ----------------------- | -------------------------- | ---------------------- |
-| nom.    | ὁ νεανί-**ᾱς** *mladík* | ὁ Ἀτρείδ-**ης** *Atreovec* | ὁ πολίτ-**ης** *občan* |
+| nom.    | ὁ νεανί-**ᾱς** 'mladík' | ὁ Ἀτρείδ-**ης** 'Atreovec' | ὁ πολίτ-**ης** 'občan' |
 | gen.    | τοῦ νεανί-**ου**        | τοῦ Ἀτρείδ-**ου**          | τοῦ πολίτ-**ου**       |
 | dat.    | τῷ νεανί-**ᾳ**          | τῷ Ἀτρείδ-**ῃ**            | τῷ πολίτ-**ῃ**         |
 | acc.    | τὸν νεανί-**ᾱν**        | τὸν Ἀτρείδ-**ην**          | τὸν πολίτ-**ην**       |
@@ -28,7 +27,7 @@
 
 - v sg. se skloňují jako feminina I. deklinace kromě nom. a gen. sg., kde je koncovka -ου (podle mask. II. dekl.)
 
-- po -ε-, -ι-, -ρ- je v každém pádě sg. -α- 
+- po -ε-, -ι-, -ρ- je v každém pádě singuláru kromě gen. -α- 
 
 - -α je ve voc. sg. u substantiv s α *pūrum* a u slov na -της/-τής; voc. sg. -η je pak u substantiv na -ης kromě -της
 
@@ -43,19 +42,19 @@ Některá podstatná jména II. deklinace jsou ženského rodu. Většinou se je
 {{< row >}}
 {{< column >}}
 
-ἡ ἔλαφος *laň*  
-ἡ ἄμπελος *réva*  
-ἡ Αἴγυπτος *Egypt*  
-ἡ παρθένος *panna*    
-ἡ βίβλος (*lýko*), *kniha*    
+ἡ ἔλαφος 'laň'  
+ἡ ἄμπελος 'réva'  
+ἡ Αἴγυπτος 'Egypt'  
+ἡ παρθένος 'panna'    
+ἡ βίβλος (*lýko*), 'kniha'    
 
 {{< /column >}} 
 {{< column >}}
 
-ἡ Δήλος (*ostrov*)  
-ἡ θεός *bohyně*  
-ἡ φηγός *dub*  
-ἡ Ἰσσός (*město*)  
+ἡ Δήλος (ostrov)  
+ἡ θεός 'bohyně'  
+ἡ φηγός 'dub'  
+ἡ Ἰσσός (město)  
 
 {{< /column >}} 
 {{< /row >}}
@@ -66,7 +65,7 @@ Některá podstatná jména II. deklinace jsou ženského rodu. Většinou se je
 
 | Osoba | Futurum                            | Koncovky |
 | ----- | ---------------------------------- | -------- |
-| 1.    | παιδεύ-σ-ομαι *budu si vychovávat* | -σ-ομαι  |
+| 1.    | παιδεύ-σ-ομαι 'budu si vychovávat' | -σ-ομαι  |
 | 2.    | παιδεύ-σ-ῃ                         | -σ-ῃ     |
 | 3.    | παιδεύ-σ-εται                      | -σ-εται  |
 | 1.    | παιδευ-σ-όμεθα                     | -σ-όμεθα |
@@ -75,13 +74,13 @@ Některá podstatná jména II. deklinace jsou ženského rodu. Většinou se je
 
 - futurum se tvoří příponou -σ- a má stejné koncovky jako prézens
 
-- fut. med. má jenom mediální význam, nikoliv pasivní 
+- futurum media má **jenom mediální význam**, nikoliv pasivní 
   
   {{< /bootstrap-table >}}
 
 ### Věty
 
-1\. Ὁ ἀγαϑὸς νεανίας στέργεται ὑπὸ τῶν φίλων. 2. Οἱ τοῦ ἀγαθοῦ νεανίου λόγοι δίκαιοί εἰσιν. 3. Τῷ νεανίᾳ, εἰ ἀγαϑός ἐστιν, ἀεὶ πιστεύομεν καὶ πιστεύσομεν. 4. Μὴ φεῦγε τὸν ἀγαϑὸν νεανίαν, ὦ φίλε! 5. Ὦ νεανία, ἀεὶ ἴσθι δίκαιος! 6. Ὁ Ἀτρείδης στρατηγὸς ἀνδρεῖος ἦν. 7. Ἡ Ἀτρείδου στρατιὰ ἀνδρεία ἦν. 8. Ἡ στρατιὰ τῷ Ἀτρείδῃ ἐπίστευεν. 9. Τὸν ἀνδρεῖον Ἀτρείδην Ὅμηρος ᾖδεν. 10. Λέγουσιν, ὅτι Ὅμηρὸς ὁ ποιητὴς τυφλὸς ἦν. 11. Αἱ Ὁμήρου τοῦ ποιητοῦ ᾠδαὶ καλαί εἰσιν. 12. Ὦ ποιητά, ἡ σὴ δόξα ϑνητὴ οὐκ ἦν! 13. Ἡ μὲν μακρὰ ὁδὸς πολλάκις οὐκ ἦν ῥᾳδία, ἀλλ᾽ ὀρθή, ἡ δὲ μικρὰ ἦν ῥᾳδία, ἀλλ᾽ οὐκ ὀρϑή. 14. Ἡ Αἴγυπτος ἦν πλουσία. 15. Αἱ τῶν Ἀτρειδῶν στρατιαὶ ἀνδρείως πορεύονται. 16. Αἱ τῶν νεανιῶν ᾠδαὶ καλαί εἰσιν. 17. Τῇ ἡμετέρᾳ στρατιᾷ πιστεύομεν· ἀνδρείως πορεύσεται.
+1\. Ὁ ἀγαθὸς νεανίας στέργεται ὑπὸ τῶν φίλων. 2. Οἱ τοῦ ἀγαθοῦ νεανίου λόγοι δίκαιοί εἰσιν. 3. Τῷ νεανίᾳ, εἰ ἀγαθός ἐστιν, ἀεὶ πιστεύομεν καὶ πιστεύσομεν. 4. Μὴ φεῦγε τὸν ἀγαθὸν νεανίαν, ὦ φίλε! 5. Ὦ νεανία, ἀεὶ ἴσθι δίκαιος! 6. Ὁ Ἀτρείδης στρατηγὸς ἀνδρεῖος ἦν. 7. Ἡ Ἀτρείδου στρατιὰ ἀνδρεία ἦν. 8. Ἡ στρατιὰ τῷ Ἀτρείδῃ ἐπίστευεν. 9. Τὸν ἀνδρεῖον Ἀτρείδην Ὅμηρος ᾖδεν. 10. Λέγουσιν, ὅτι Ὅμηρὸς ὁ ποιητὴς τυφλὸς ἦν. 11. Αἱ Ὁμήρου τοῦ ποιητοῦ ᾠδαὶ καλαί εἰσιν. 12. Ὦ ποιητά, ἡ σὴ δόξα θνητὴ οὐκ ἦν! 13. Ἡ μὲν μακρὰ ὁδὸς πολλάκις οὐκ ἦν ῥᾳδία, ἀλλ᾽ ὀρθή, ἡ δὲ μικρὰ ἦν ῥᾳδία, ἀλλ᾽ οὐκ ὀρθή. 14. Ἡ Αἴγυπτος ἦν πλουσία. 15. Αἱ τῶν Ἀτρειδῶν στρατιαὶ ἀνδρείως πορεύονται. 16. Αἱ τῶν νεανιῶν ᾠδαὶ καλαί εἰσιν. 17. Τῇ ἡμετέρᾳ στρατιᾷ πιστεύομεν· ἀνδρείως πορεύσεται.
 
 {{< pure-expand title="Slovní zásoba" >}}      
 νεανίας, -ου, ὁ – mladík  
@@ -99,10 +98,6 @@ Některá podstatná jména II. deklinace jsou ženského rodu. Většinou se je
 
 {{</ pure-expand >}}
 
-### Úkol
-
-{{< button href="/greek/data/cviceni_4.pdf" class="btn-outline-info">}}Cvičení.pdf{{< /button >}}
-
 ### Křížové odkazy
 
 {{< tabs tabTotal="2" tabID="1" tabName1="Hnátek" tabName2="Niederle" >}}
@@ -116,4 +111,4 @@ I. deklinace: maskulina (§ 66, 67), II. deklinace: feminina (§ 56.1; 74), Ind.
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/poet.png" width=340 caption="Kylix s básníkem a mladíkem. Attika, 490–480 p. n. l., malíř Dúris." link="/data/poet.png" target=”_blank” >}}
+{{< figure src="/data/poet.png" width=340 caption="Kylix s básníkem a mladíkem. Attika, 490–480 p. n. l." link="/data/poet.png" target=”_blank” >}}

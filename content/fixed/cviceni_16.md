@@ -1,15 +1,14 @@
 {
 "title": "16. cvičení – III. dekl.: kmeny velární a labiální; fut. kmenů velár. a labiál.",
     "sidebar": true,
-    "weight": "20",
-"draft": true
+    "weight": "20"
 }
 
 ### Třetí deklinace
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Koncovky v třetí deklinaci" >}}
 
-| Pád  | Masc. + Fem.          | Neut. | Pl. | Masc. + Fem. | Neut.  |
+| Pád  | Masc. & Fem.          | Neut. | Pl. | Masc. & Fem. | Neut.  |
 | ---- | --------------------- | ----- | --- | ------------ | ------ |
 | nom. | -ς nebo kmen (-ρ, -ν) | ∅     |     | -ες          | -ᾰ     |
 | gen. | -ος                   | -ος   |     | -ων          | -ων    |
@@ -25,61 +24,61 @@ Substantiva III. deklinace členíme podle hlásek, které stojí na konci jmenn
 
 #### Velární kmeny
 
-Veláry jsou souhlásky, které se artikulují pomocí styku hřbetu jazyka s měkkým podnebím (*velum*). Řecký fonologický inventář rozlišuje pro každé artikulační místu tři typy ražených souhlásek: znělé, neznělé, neznělé aspirované.
+Veláry jsou souhlásky, které se artikulují pomocí styku hřbetu jazyka s měkkým podnebím (lat. *velum*). Řecký fonologický inventář rozlišuje pro každé artikulační místu tři typy ražených souhlásek: znělé, neznělé, neznělé aspirované.
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Veláry v řečtině" >}}
 
 | Artikulační místo | Znělá   | Neznělá | Neznělá aspirovaná |
 | ----------------- | ------- | ------- | ------------------ |
-| měkké podnebí     | γ ~ /g/ | κ ~ /k/ | χ ~ /kh/           |
+| měkké podnebí     | γ ~ /g/ | κ ~ /k/ | χ ~ /kʰ/           |
 
  {{< /bootstrap-table >}}
 
-> V nominativu sg. a v dativu pl. koncovky připojují za kmen hlásku -ς/-σ-. Tato -ς/-σ- způsobuje u veláry ztrátu znělosti a aspirace, takže vzniká řetězec [ks], zapsaný pomocí písmena **ξ**.  
+> Koncovky **nominativu sg.** a **dativu pl.** obsahují hlásku -ς/-σ-. Tato -ς/-σ- způsobuje u veláry strátu znělosti a aspirace, takže vždy vzniká řetězec [ks], zapsaný pomocí písmena **ξ**.  
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
 | Pád  | Sg.                   | Pl.           | Sg.                | Pl.            |
 | ---- | --------------------- | ------------- | ------------------ | -------------- |
-| nom. | ὁ φύλα**ξ** "strážce" | φύλακ-**ες**  | ἡ φάλαγ**ξ** "šik" | φάλαγγ-**ες**  |
+| nom. | ὁ φύλα**ξ** 'strážce' | φύλακ-**ες**  | ἡ φάλαγ**ξ** 'šik' | φάλαγγ-**ες**  |
 | gen. | φύλακ-**ος**          | φυλάκ-__ων__  | φάλαγγ-**ος**      | φαλάγγ-**ων**  |
 | dat. | φύλακ-**ῐ**           | φύλα**ξῐ(ν)** | φάλαγγ-**ῐ**       | φάλαγ**ξῐ(ν)** |
 | acc. | φύλακ-**ᾰ**           | φύλακ-__ᾰς__  | φάλαγγ-**ᾰ**       | φάλαγγ-**ᾰς**  |
 | voc. | φύλα**ξ**             | φύλακ-__ες__  | φάλαγ**ξ**         | φάλαγγ-**ες**  |
 
-- kmeny slov φύλαξ a φάλαγξ jsou φύλα**κ**-, resp. φαλάγ**γ**- 
+- kmeny slov φύλαξ a φάλαγξ jsou φύλα**κ**-, resp. φαλάγ**γ**-; kmenový konsonant je patrný z tvaru gen. sg. 
 
 - Zvláštní skloňování mají:  
   
-  1. ἡ γυνή "žena", γυναικός, γυναικί, γυναῖκα, γύναι  
-     γυναῖκες, γυναικών, γυναιξί(ν), γυναῖκας, γυναῖκες  
+  1. sg. ἡ γυνή 'žena', γυναικός, γυναικί, γυναῖκα, γύναι  
+     pl. γυναῖκες, γυναικών, γυναιξί(ν), γυναῖκας, γυναῖκες  
   
-  2. ἡ θρίξ "vlas", τριχός, τριχί, τρίχα atd., ale dat. pl. θριξί(ν)  
+  2. ἡ θρίξ 'vlas', τριχός, τριχί, τρίχα atd., ale dat. pl. θριξί(ν)  
   
-  3. ἡ Πνύξ "Pnyx", Πυκνός, Πυκνί, Πύκνα (sněmoviště v Athénách)  
+  3. ἡ Πνύξ 'Pnyx (sněmoviště v Athénách)', Πυκνός, Πυκνί, Πύκνα   
   - zvláštností těchto slov je i přízvuk, který respektuje rozdělení pádů na silné (nom., acc.) a slabé (gen., dat.): v nom. a acc. (+ voc.) obou čísel je přízvuk na stejné slabice jako v nom. sg.; v gen. a dat. obou čísel je na poslední slabice
 
 {{< /bootstrap-table >}}
 
 #### Labiální kmeny
 
-Labiály jsou souhlásky, které se artikulují spojením rtů (*labia*). 
+Labiály jsou souhlásky, které se artikulují spojením rtů (lat. *labia*). 
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Labiály v řečtině" >}}
 
 | Artikulační místo | Znělá   | Neznělá | Neznělá aspirovaná |
 | ----------------- | ------- | ------- | ------------------ |
-| rty               | β ~ /b/ | π ~ /p/ | φ ~ /ph/           |
+| rty               | β ~ /b/ | π ~ /p/ | φ ~ /pʰ/           |
 
  {{< /bootstrap-table >}}
 
-> V nominativu sg. a v dativu pl. koncovky připojují za kmen hlásku -ς/-σ-. Tato -ς/-σ- způsobuje u labiály ztrátu znělosti a aspirace, takže vzniká řetězec [ps], zapsaný pomocí písmena **ψ**.  
+> Koncovky **nominativu sg.** a **dativu pl.** obsahují hlásku -ς/-σ-. Tato -ς/-σ- způsobuje u labiály ztrátu znělosti a aspirace, takže vždy vzniká řetězec [ps], zapsaný pomocí písmena **ψ**.  
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
 | Pád  | Sg.             | Pl.           |
 | ---- | --------------- | ------------- |
-| nom. | ὁ γύ**ψ** "sup" | γύπ-**ες**    |
+| nom. | ὁ γύ**ψ** 'sup' | γύπ-**ες**    |
 | gen. | γῡπ-**ός** †    | γῡπ-__ῶν__ †  |
 | dat. | γῡπ-**ί** †     | γῡ**ψί(ν)** † |
 | acc. | γύπ-**ᾰ**       | γύπ-__ᾰς__    |
@@ -94,47 +93,47 @@ Labiály jsou souhlásky, které se artikulují spojením rtů (*labia*).
 
 Slovesa, kterých kmen je zakončen na veláru (κ, γ, χ) nebo labiálu (β, π, φ), tvoří sigmatické futurum na -ξω, resp. -ψω. 
 
-U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -κω, -γω, -χω, -ττω/-σσω (< `*-Kyō`), někdy -ζω (< `*gyō`).
+U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -κω, -γω, -χω, -ττω/-σσω (< `*-Ki̯ō`), někdy -ζω (< `*gi̯ō`).
 
 Některá slovesa mají deponentní futurum (mps. morfologii). Příčinou tohoto jevu je původ řeckého futura v desiderativním sufixu `*-s-`. Sémantika desiderativu má přirozeně blízko k mediu, vyjadřujícímu osobní prospěch. 
 
 {{< row >}}
 {{< column >}}
 
-λέγω > λέξω  
-φυλάττω > φυλάξω
+praes. λέ**γ**ω > fut. λέ**ξ**ω  
+praes. φυλά**ττ**ω > fut. φυλά**ξ**ω
 
 {{< /column >}} 
 {{< column >}}
 
-σφάζω > σφάξω  
-διώκω > διώξομαι
+praes. σφά**ζ**ω > fut. σφά**ξ**ω  
+praes. διώ**κ**ω > fut. διώ**ξ**ομαι
 
 {{< /column >}} 
 {{< /row >}}
 
 &nbsp;
 
-U labiálních kmenů může mít kmen prézentu tyto synchronní podoby: -πω, -βω, -φω, -πτω (< `*-Pyō`).
+U labiálních kmenů může mít kmen prézentu tyto synchronní podoby: -πω, -βω, -φω, -πτω (< `*-Pi̯ō`).
 
 {{< row >}}
 {{< column >}}
 
-λείπω > λείψω  
-ἀμείβω > ἀμείψω
+praes. λεί**π**ω > fut. λεί**ψ**ω  
+praes. ἀμεί**β**ω > fut. ἀμεί**ψ**ω
 
 {{< /column >}} 
 {{< column >}}
 
-βλάπτω > βλάψω  
-γράφω > γράψω
+praes. βλά**πτ**ω > fut. βλά**ψ**ω  
+praes. γρά**φ**ω > fut. γρά**ψ**ω
 
 {{< /column >}} 
 {{< /row >}}
 
 ### Věty
 
-1\. Οἱ ἀγαϑοὶ πολῖται τῶν νόμων φύλακες πιστοί εἰσιν. 2. Οἱ Ἀϑηναῖοι ἀνδρείως ἐμάχοντο ταῖς τῶν βαρβάρων φάλαγξιν. 3. Κόλαξ κόλακι φίλος, γὺψ γυπί. 4. Τοῖς νεανίαις πολλάκις μακραὶ τρίχες εἰσίν. 5. Ὁ νόμος ἀεὶ ἄρξει τῶν πολιτῶν καὶ φυλάξει τὸν δῆμον. 6. Οὐκ ἀπολείψω τὴν φάλαγγα οὐδ᾽ ἐκ μάχης φεύξομαι. 7. Οἱ τῶν κολάκων λόγοι τοὺς ἀνθρώπους πολλάκις βλάψουσιν. 8. Ὁ φρόνιμος στρατηγὸς πρώτους τάξει τοὺς ἀνδρείους. 9. Γύναι, γυναιξὶ κόσμον ἡ σιγὴ φέρει. 10. Μετὰ τὴν μάχην οἱ στρατιῶται τὸν πολέμιον διώξονται.
+1\. Οἱ ἀγαθοὶ πολῖται τῶν νόμων φύλακες πιστοί εἰσιν. 2. Οἱ Ἀθηναῖοι ἀνδρείως ἐμάχοντο ταῖς τῶν βαρβάρων φάλαγξιν. 3. Κόλαξ κόλακι φίλος, γὺψ γυπί. 4. Τοῖς νεανίαις πολλάκις μακραὶ τρίχες εἰσίν. 5. Ὁ νόμος ἀεὶ ἄρξει τῶν πολιτῶν καὶ φυλάξει τὸν δῆμον. 6. Οὐκ ἀπολείψω τὴν φάλαγγα οὐδ᾽ ἐκ μάχης φεύξομαι. 7. Οἱ τῶν κολάκων λόγοι τοὺς ἀνθρώπους πολλάκις βλάψουσιν. 8. Ὁ φρόνιμος στρατηγὸς πρώτους τάξει τοὺς ἀνδρείους. 9. Γύναι, γυναιξὶ κόσμον ἡ σιγὴ φέρει. 10. Μετὰ τὴν μάχην οἱ στρατιῶται τὸν πολέμιον διώξονται.
 
 {{< pure-expand title="Slovní zásoba" >}}      
 φύλαξ, -κος, ὁ – strážce  
@@ -169,4 +168,4 @@ III. dekl.: kmeny hrdelné a retné (§ 90-91); fut. kmenů hrdel. a retných
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/lekythos.png" width=230 caption="Lékythos. Prostřední pás s Néreovnami přinášejícími novou zbroj pro Achilla, spodní pás s amazonomachií - bojem Thésea a Hippolýta proti Amazonkám. Asi 420 p. n. l., Eretria Painter." link="/data/lekythos.png" target=”_blank” >}}
+{{< figure src="/data/lekythos.png" width=230 caption="Lékythos. Prostřední pás s Néreovnami, přinášejícími novou zbroj pro Achilla, spodní pás s amazonomachii – bojem Thésea a Hippolýta proti Amazonkám. Asi 420 p. n. l." link="/data/lekythos.png" target=”_blank” >}}

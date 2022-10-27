@@ -1,24 +1,23 @@
 {
 "title": "22. cvičení – III. dekl.: dokončení kmenů s -ρ",
     "sidebar": true,
-    "weight": "26",
-"draft": true
+    "weight": "26"
 }
 
 ### III. dekl.: kmeny na -ρ s ablautem
 
-V některých slovech s kmenem -ρ se ablaut projevuje víc, než je to v běžné v zbytku řecké lexiky. Kmenotvorná přípona se realizuje ve všech třech stupních v závislosti od pádu a čísla. Nejpestřejší konfigurace je znázorněná v následující tabulce.
+V některých slovech s kmenem končícím se na -ρ se ablaut projevuje víc, než je to v běžné v zbytku řecké lexiky. Kmenotvorná přípona se realizuje ve všech třech stupních v závislosti od pádu a čísla. Nejpestřejší konfigurace je znázorněná v následující tabulce.
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
-| Stupeň             | Podoba          | Pády                                                           |
-| ------------------ | --------------- | -------------------------------------------------------------- |
-| dlouhý             | -τηρ            | nom. sg.                                                       |
-| plný               | -τέρ-           | acc. sg., voc. sg. (†), nom. pl., gen. pl., acc. pl., voc. pl. |
-| nulový n. zánikový | -τρ-V´-, -τρά-C | gen. sg., dat. sg., dat. pl.                                   |
+| Stupeň | Podoba          | Pády                                                                          |
+| ------ | --------------- | ----------------------------------------------------------------------------- |
+| dlouhý | -τηρ            | nom. sg.                                                                      |
+| plný   | -τέρ-           | acc. sg., voc. sg. (†), nom. pl., gen. pl., acc. pl., voc. pl. (= silné pády) |
+| nulový | -τρ-V´-, -τρά-C | gen. sg., dat. sg., dat. pl. (= slabé pády)                                   |
 
-- nom. sg. v dlouhém stupni má přízvuk buď na kořeni, nebo na příponě -τήρ
-- pády s plným stupněm mají přízvuk na příponě -τέρ kromě voc. sg., který má přízvuk zvratný
+- nom. sg. v dlouhém stupni má přízvuk buď na kořeni, nebo na příponě -τήρ (< `*-ter-s`)
+- pády s plným stupněm mají přízvuk na příponě -τέρ kromě voc. sg., ve kterém je zvratný přízvuk
 - pády s nulovým stupněm mají přízvuk na koncovce, nebo na -τρά-
 
 {{< /bootstrap-table >}}
@@ -29,7 +28,7 @@ Tuto distribuci respektují tato slova:
 
 | Pád     |                |                 |                   |                   |
 | ------- | -------------- | --------------- | ----------------- | ----------------- |
-| nom.    | ὁ πατήρ *otec* | ἡ μήτηρ *matka* | ἡ θυγάτηρ *dcera* | ἡ γαστήρ *břicho* |
+| nom.    | ὁ πατήρ 'otec' | ἡ μήτηρ 'matka' | ἡ θυγάτηρ 'dcera' | ἡ γαστήρ 'břicho' |
 | gen.    | πατρ-ός        | μητρ-ός         | θυγατρ-ός         | γαστρ-ός          |
 | dat.    | πατρ-ί         | μητρ-ί          | θυγατρ-ί          | γαστρ-ί           |
 | acc.    | πατέρ-α        | μητέρ-α         | θυγατέρ-α         | γαστέρ-α          |
@@ -49,7 +48,7 @@ Některá slova ablaut ve svých paradigmatech potlačila, takže u nich převl�
 
 | Pád     |              |           |               |
 | ------- | ------------ | --------- | ------------- |
-| nom.    | ὁ ἀνήρ *muž* | ἡ Δημήτηρ | ἡ χείρ *ruka* |
+| nom.    | ὁ ἀνήρ 'muž' | ἡ Δημήτηρ | ἡ χείρ 'ruka' |
 | gen.    | ἀνδρ-ός      | Δήμητρ-ος | χειρ-ός       |
 | dat.    | ἀνδρ-ί       | Δήμητρ-ι  | χειρ-ί        |
 | acc.    | ἄνδρ-α       | Δήμητρ-α  | χεῖρ-α        |
@@ -65,35 +64,35 @@ Některá slova ablaut ve svých paradigmatech potlačila, takže u nich převl�
 
 ### Věty rozkazovací
 
-1. Rozkaz vyjadřujeme imperativem:   
-   λεῖπε! opouštěj!   
-   λείπετε! opouštějtel  
-   λίπε! opusťi!   
-   λίπετε! opusťte!
+1. **Rozkaz** vyjadřujeme imperativem:   
+   λεῖπε! *opouštěj!*   
+   λείπετε! *opouštějtel*  
+   λίπε! *opusti!*   
+   λίπετε! *opusťte!*
 
-2. Zákaz:   
-    v praesentu μή + imperativ (děj nedokonavý).  
+2. **Zákaz**:   
+    v praes. μή + imperativ (děj nedokonavý).  
     v aoristu μή + konj. zabraňovací (děj dokonavý).  
-    μὴ λεῖπε! neopouštějl   
-    μὴ λείπετε! neopouštějtel  
-    μὴ λίπῃς! neopusťi   
-    μὴ λίπητε! neopusťtel
+    μὴ λεῖπε! *neopouštějl*   
+    μὴ λείπετε! *neopouštějtel*  
+    μὴ λίπῃς! *neopusti!*   
+    μὴ λίπητε! *neopusťtel*
 
 ### Věty
 
 Ὁ πατὴρ ὑπὸ τῶν παίδων στέργεται.  
-Τοῦ πατρὸς βουλὴ ἀγαϑή ἐστιν.  
-Τῷ πατρὶ πείϑεσϑε, ὦ παῖδες !  
+Τοῦ πατρὸς βουλὴ ἀγαθή ἐστιν.  
+Τῷ πατρὶ πείθεσθε, ὦ παῖδες !  
 Τὸν πατέρα ἀεὶ στέργομεν.  
 Ὦ πάτερ, σῷζε τοὺς παῖδας!  
 
 Οἱ πατέρες τοὺς παῖδας παιδεύουσιν.  
-Ταῖς τῶν πατέρων βουλαῖς πειϑόμεϑα.  
+Ταῖς τῶν πατέρων βουλαῖς πειθόμεθα.  
 Τοῖς πατράσι πιστεύομεν.  
-Τοὺς πατέρας δεῖ στέργεσϑαι ὑπὸ τῶν παίδων.  
+Τοὺς πατέρας δεῖ στέργεσθαι ὑπὸ τῶν παίδων.  
 Ὦ πατέρες, δεῖ συμβουλεύειν τοῖς νέοις!
 
-1\. Πόνος ἐστίν, ὡς λέγουσιν, εὐκλείας πατήρ. 2. Οἱ ἀγαϑοὶ παῖδες ἀεὶ χάριν ἔχουσι τοῖς πατράσι καὶ ταῖς μητράσιν. 3. Περσεφόνη ἦν Δήμητρος ϑυγάτηρ. 4. Ὦ ϑύγατερ, πείϑου τῇ μητρί! 5. Τὴν πατρίδα πάντων τῶν πολιτῶν μητέρα ὀνομάζομεν. 6. Χείρ χεῖρα νίζει. 7. Αἱ μὲν χεῖρες τὴν γαστέρα τρέφουσιν, ἡ δὲ γαστὴρ πᾶν τὸ σῶμα. 8. Τῇ γαστρὶ μὴ δούλευε! 9. Ἀγαϑῶν ἀνδρῶν καὶ ἔργα ἀγαϑά. 10. Ἦν ποτε
+1\. Πόνος ἐστίν, ὡς λέγουσιν, εὐκλείας πατήρ. 2. Οἱ ἀγαθοὶ παῖδες ἀεὶ χάριν ἔχουσι τοῖς πατράσι καὶ ταῖς μητράσιν. 3. Περσεφόνη ἦν Δήμητρος θυγάτηρ. 4. Ὦ θύγατερ, πείθου τῇ μητρί! 5. Τὴν πατρίδα πάντων τῶν πολιτῶν μητέρα ὀνομάζομεν. 6. Χείρ χεῖρα νίζει. 7. Αἱ μὲν χεῖρες τὴν γαστέρα τρέφουσιν, ἡ δὲ γαστὴρ πᾶν τὸ σῶμα. 8. Τῇ γαστρὶ μὴ δούλευε! 9. Ἀγαθῶν ἀνδρῶν καὶ ἔργα ἀγαθά. 10. Ἦν ποτε
 πόλεμος ταῖς γυναιξὶ πρὸς τοὺς ἄνδρας. 11. Ὦ ἄνδρες, τοὺς συμμάχους ἐν μάχῃ μὴ καταλίπητε! 
 
 {{< pure-expand title="Slovní zásoba" >}}      

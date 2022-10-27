@@ -83,13 +83,13 @@ Starořecký přízvuk byl tonální a realizoval se změnou výšky hlasu. Trad
 Přízvuk se může vyskytnout jen na jedné z posledních třech slabik slova:
 
 - **ostrý přízvuk** může být na poslední (*oxytonon*), předposlední (*par-oxytonon*) i třetí slabice od konce (*pro-par-oxytonon*)
-  - podmínka: je-li je poslední slabika dlouhá (má dlouhý vokál nebo diftong), nemůže být ostrý přízvuk na třetí slabice od konce, ale posune se na předposlední slabiku (nom. <u>ἄν</u>-θρω-πος "člověk" ale gen. ἀν-<u>θρώ</u>-που "člověka")
+  - podmínka: je-li je poslední slabika dlouhá (má dlouhý vokál nebo diftong), nemůže být ostrý přízvuk na třetí slabice od konce, ale posune se na předposlední slabiku (nom. <u>ἄν</u>-θρω-πος 'člověk' ale gen. ἀν-<u>θρώ</u>-που 'člověka')
 - **průtažný přízvuk** může být jenom na poslední (*perispómenon*) nebo předposlední slabice (*pro-perispómenon*)
   - podmínka 1: slabika musí mít dlouhý vokál nebo libovolný diftong
-  - podmínka 2: je-li poslední slabika dlouhá (má dlouhý vokál nebo libovolný diftong), nemůže být průtažný přízvuk na předposlední slabice, ale mění se na ostrý (nom. σφ<u>αῖ</u>-ρα "sféra" ale gen. σφ<u>αί</u>-ρᾱς "sféry"
-  - podmínka 3: je-li poslední slabika krátká a přízvuk je na předposlední slabice, která je dlouhá, je tento přízvuk automaticky průtažný (nom. σω-<u>τήρ</u> "zachránce" ale acc. σω-<u>τῆ</u>-ρα)
+  - podmínka 2: je-li poslední slabika dlouhá (má dlouhý vokál nebo libovolný diftong), nemůže být průtažný přízvuk na předposlední slabice, ale mění se na ostrý (nom. σφ<u>αῖ</u>-ρα 'sféra' ale gen. σφ<u>αί</u>-ρᾱς 'sféry'
+  - podmínka 3: je-li poslední slabika krátká a přízvuk je na předposlední slabice, která je dlouhá, je tento přízvuk automaticky průtažný (nom. σω-<u>τήρ</u> 'zachránce' ale acc. σω-<u>τῆ</u>-ρα)
 - **těžký přízvuk** může být jenom na poslední slabice slova
-  - podmínka: tento přízvuk nahrazuje ostrý přízvuk na konci slova, následuje-li jiné slovo bez intonační pauzy (ἀγαθός "dobrý" ale ὁ ἀγαθὸς ἄνθρωπος "dobrý člověk")
+  - podmínka: tento přízvuk nahrazuje ostrý přízvuk na konci slova, následuje-li jiné slovo bez intonační pauzy (ἀγαθός 'dobrý' ale ὁ ἀγαθὸς ἄνθρωπος 'dobrý člověk')
 
 {{< button href="/greek/data/alfabeta.pdf" class="btn-outline-info">}}Vzory pro psaní rukou.pdf{{< /button >}}
 

@@ -28,3 +28,13 @@ Průvodní web k základní výuce starořeckého jazyka na Ústavu řeckých a 
 ᾱ (makron) dlouhý vokál
 
 ᾰ (breve) krátký vokál
+
+V libovolný vokál
+
+C libovolný konsonant
+
+K libovolná velára
+
+P libovolná labiála
+
+† neobvyklý přízvuk 

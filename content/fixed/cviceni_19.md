@@ -1,8 +1,7 @@
 {
 "title": "19. cvičení – III. dekl.: -ντ- kmeny",
     "sidebar": true,
-    "weight": "23",
-"draft": true
+    "weight": "23"
 }
 
 ### III. dekl.: -ντ- kmeny
@@ -12,7 +11,8 @@ Slova s kmenem na  -ντ- (`*-nt-`)mají specifickou podobu v nom. sg., voc. sg.
 - nom. sg.:
   - příznakem pádu (v masc.) je -ς
   - skupina `*-nt-s` se zjednodušuje na `*-ns`
-  - skupina `*-ns` se rovněž zjednodušuje na **-ς** nebo **-ν**, se současným **prodloužením** předcházejícího vokálu; neobsahuje-li nom. sigmu, má podobu **-ων** 
+  - skupina `*-ns` se rovněž zjednodušuje na **-ς** nebo **-ν**, se současným **prodloužením** předcházejícího vokálu
+  - neobsahuje-li nom. sigmu, má podobu **-ων** 
 - voc. sg.:
   - pouhý kmen, který podléha fonotaktickému zjednodušení `*-nt` > **-ν**
   - vokál před koncovým konsonantem je krátký 
@@ -26,12 +26,12 @@ Hlásková změna, při které se zjednodušuje souhlásková skupina za součas
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
-| Skupina  | Výsledek |
-| -------- | -------- |
-| `*-ons-` | -ουσ-    |
-| `*-ans-` | -ᾱσ-     |
-| `*-ens-` | -εισ-    |
-| `*-uns-` | -ῡσ-     |
+| Skupina     | Výsledek |
+| ----------- | -------- |
+| `*-on(t)s-` | -ουσ-    |
+| `*-an(t)s-` | -ᾱσ-     |
+| `*-en(t)s-` | -εισ-    |
+| `*-un(t)s-` | -ῡσ-     |
 
 {{< /bootstrap-table >}}
 
@@ -39,19 +39,19 @@ Hlásková změna, při které se zjednodušuje souhlásková skupina za součas
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
-| Pád     | Sg.           | Sg.              |
-| ------- | ------------- | ---------------- |
-| nom.    | ὁ γίγᾱς "obr" | ὁ γέρων "stařec" |
-| gen.    | γίγαντ-ος     | γέροντ-ος        |
-| dat.    | γίγαντ-ι      | γέροντ-ι         |
-| acc.    | γίγαντ-α      | γέροντ-α         |
-| voc.    | **γίγᾰν**     | **γέρον**        |
-| **Pl.** |               |                  |
-| nom.    | γίγαντ-ες     | γέροντ-ες        |
-| gen.    | γιγάντ-ων     | γερόντ-ων        |
-| dat.    | γίγ**ᾱ-σιν**  | γέρ**ου-σιν**    |
-| acc.    | γίγαντ-ας     | γέροντ-ας        |
-| voc.    | γίγαντ-ες     | γέροντ-ες        |
+| Pád     | Sg.               | Sg.                  |
+| ------- | ----------------- | -------------------- |
+| nom.    | ὁ γίγ**ᾱς** 'obr' | ὁ γέρ**ων** 'stařec' |
+| gen.    | γίγαντ-ος         | γέροντ-ος            |
+| dat.    | γίγαντ-ι          | γέροντ-ι             |
+| acc.    | γίγαντ-α          | γέροντ-α             |
+| voc.    | γίγ**ᾰν**         | γέρ**ον**            |
+| **Pl.** |                   |                      |
+| nom.    | γίγαντ-ες         | γέροντ-ες            |
+| gen.    | γιγάντ-ων         | γερόντ-ων            |
+| dat.    | γίγ**ᾱ**-σιν      | γέρ**ου**-σιν        |
+| acc.    | γίγαντ-ας         | γέροντ-ας            |
+| voc.    | γίγαντ-ες         | γέροντ-ες            |
 
 {{< /bootstrap-table >}}
 
@@ -61,28 +61,28 @@ Maskulina a neutra některých adjektiv se skloňují jako -ντ- kmeny III. dek
 
 {{< pure-expand title="K skloňování feminin" >}}      
 
-Feminina vznikla příponou `*-ya` / `*-yā-` k původnímu kmeni na -ντ-: nom. `*pant-ya` > `*pansa` > πᾶσα; gen. `*pant-yā-s` > `*pansās` > πάσης.
+Feminina vznikla příponou `*-i̯a` / `*-i̯ā-` k původnímu kmeni na -ντ-: nom. `*pant-i̯a` (palatalizace) > `*pansa` (náhradní dloužení) > πᾶσα; gen. `*pant-i̯ā-s` (palatalizace) > `*pansās` (náhradní dloužení) > πάσης.
 
 {{</ pure-expand >}}
 
-Adjektiva na -εις, g. -εντ-ος (`*-went-s` / `*-went-os`), fem. -εσσᾰ, g. -έσσης, neut. -εν, g. -εντ-ος  představují typ posesivních adjektiv, vyjadřujících to, že se popisovaný objekt nebo osoba vyznačuje zdrojovým konceptem adjektiva:
+Adjektiva na -εις, g. -εντ-ος (`*-u̯ent-s` / `*-u̯ent-os`), fem. -εσσᾰ, g. -έσσης, neut. -εν, g. -εντ-ος  představují typ posesivních adjektiv, vyjadřujících to, že se popisovaný objekt nebo osoba vyznačuje zdrojovým konceptem adjektiva:
 
-- χάρις "radost, libost" → χαρί-εις, g. χαρί-εντος "líbezný"
-- πτερόν "křídlo" → πτερό-εις, g. πτερό-εντος "okřídlený"
+- χάρις 'radost, libost' → χαρί-εις, g. χαρί-εντος 'líbezný'
+- πτερόν 'křídlo' → πτερό-εις, g. πτερό-εντος 'okřídlený'
 
 {{< pure-expand title="K skloňování feminin -εσσα a k dat. pl. masc. a neut. -εσι" >}}      
 
-Dat. pl. masc. a neut. má krátké ε kvůli nulovému stupni přípony: `*-wn̩t-si` > `*-wat-si` > `*-was-si` > `*-wes-(s)i` > -εσι. Odvození feminina: nom. `*-wn̩t-ya` > `*-wat-ya` > `*-wet-ya` > `*-wessa` > -εσσα 
+Dat. pl. masc. a neut. má krátké ε kvůli nulovému stupni přípony: `*-u̯n̩t-si` > `*-u̯at-si` > `*-u̯as-si` (analogie) > `*-u̯es-(s)i` > -εσι. Odvození feminina: nom. `*-u̯n̩t-i̯a` > `*-u̯at-i̯a`(analogie) > `*-u̯et-i̯a` (palatalizace) > `*-u̯essa` > -εσσα 
 
 {{</ pure-expand >}} 
 
-1\. πᾶς, πᾶσα, πᾶν "všechen" (km. παντ-) a jeho složeniny  
-ἅπας, ἅπασα, ἅπαν a σύμπας, σύμπασα, σύμπαν "veškerý"
+1\. πᾶς, πᾶσα, πᾶν 'všechen' (km. παντ-) a jeho složeniny  
+ἅπας, ἅπασα, ἅπαν a σύμπας, σύμπασα, σύμπαν 'veškerý'
 
-2\. ἑκών, ἑκοῦσα, ἑκόν "rád" (km. ἑκοντ-) a  
-ἄκων, ἄκουσα, ἆκον "nerad" (km. ἀκοντ-)
+2\. ἑκών, ἑκοῦσα, ἑκόν 'rád' (km. ἑκοντ-) a  
+ἄκων, ἄκουσα, ἆκον 'nerad' (km. ἀκοντ-)
 
-3\. χαρίεις, χαρίεσσα, χαρίεν "libý" (km. χαριεντ-) a podobná
+3\. χαρίεις, χαρίεσσα, χαρίεν 'libezný' (km. χαριεντ-) a podobná
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
@@ -107,7 +107,7 @@ Dat. pl. masc. a neut. má krátké ε kvůli nulovému stupni přípony: `*-wn�
 Τοῖς γίγᾱσιν ἦν ἰσχυρὰ σώματα.  
 Πιστεύομεν τοῖς σοφοῖς γέρουσιν.
 
-1\. Οἱ γέροντες καὶ τοὺς τῶν παίδων παῖδας στέργουσιν. 2. Οἱ τῶν σοφῶν γερόντων λόγοι φρόνιμοί εἰσιν. 3. Οἱ θεοὶ τοῖς Γίγᾱσιν ἐμάχοντο. 4. Παροιμία ἐστίν· "Ἐργα νέων, βουλαὶ δὲ γερόντων.“ 5. Τοῖς λέουσιν ἰσχυροὶ ὀδόντες εἰσίν. 6. Παντὸς ἔργου ἀρχὴ χαλεπή (ἐστι). 7. Πάσης γυναικός ἐστι τὴν οἰκίαν σῴζειν. 8. Μὴ πίστευε πᾶσιν! 9. Πάντων τῶν ἀγαϑῶν ὁ πόνος τοῖς ἀνθρώποις αἴτιός ἐστιν. 10. Τὰ τοῦ Ὁμήρου ποιήματα ὑπὸ πάντων τῶν ἀνθρώπων ϑαυμάζεται. 11. Πάντα πᾶσιν
+1\. Οἱ γέροντες καὶ τοὺς τῶν παίδων παῖδας στέργουσιν. 2. Οἱ τῶν σοφῶν γερόντων λόγοι φρόνιμοί εἰσιν. 3. Οἱ θεοὶ τοῖς Γίγᾱσιν ἐμάχοντο. 4. Παροιμία ἐστίν· "Ἐργα νέων, βουλαὶ δὲ γερόντων.“ 5. Τοῖς λέουσιν ἰσχυροὶ ὀδόντες εἰσίν. 6. Παντὸς ἔργου ἀρχὴ χαλεπή (ἐστι). 7. Πάσης γυναικός ἐστι τὴν οἰκίαν σῴζειν. 8. Μὴ πίστευε πᾶσιν! 9. Πάντων τῶν ἀγαθῶν ὁ πόνος τοῖς ἀνθρώποις αἴτιός ἐστιν. 10. Τὰ τοῦ Ὁμήρου ποιήματα ὑπὸ πάντων τῶν ἀνθρώπων θαυμάζεται. 11. Πάντα πᾶσιν
 οὐ χρήσιμά ἐστιν.
 
 {{< pure-expand title="Slovní zásoba" >}}      
@@ -141,4 +141,4 @@ III. dekl.: kmeny zubné -ντ- (§ 96-95)
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/lion.png" width=250 caption=" Aryballos z Korinta se lvem - λέων, λέοντος. 620-590 p. n. l." link="/data/lion.png" target=”_blank” >}}
+{{< figure src="/data/lion.png" width=250 caption="Aryballos z Korinta se lvem - λέων, λέοντος. 620–590 p. n. l." link="/data/lion.png" target=”_blank” >}}
