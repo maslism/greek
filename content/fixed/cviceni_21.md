@@ -67,10 +67,10 @@ Aoristový kmen vyjadřuje dokonavý vid (=perfektivní aspekt). Některá slove
 Následující tvary nemají přízvuk v silném aoristu na kořeni ale na příponě:
 
 - inf. aor. act. - př. **λιπ**εῖν 'opustit' (vs. praes. **λείπ**ειν 'opouštět')
-- inf. aor. med. - př. **λιπ**έσθαι 'opustiť si' (vs. praes. **λείπ**εσθαι 'opuštět si')
+- inf. aor. med. - př. **λιπ**έσθαι 'opustit si' (vs. praes. **λείπ**εσθαι 'opouštět si')
 - někdy 2\. os. sg. imper. aor. act. - př. εἰπέ 'řekni' (vs. praes. **λεῖπ**ε 'opouštěj')
-- 2\. os. sg. imper. aor. med. - př. **λιπ**οῦ 'opusť si' (vs. praes. **λείπ**ου 'opuštěj si')
-- ptc. aor. act. - př. **λιπ**ών, -όντος 'opouštěje' (vs. praes. **λείπ**ων, -οντος 'opustiv')
+- 2\. os. sg. imper. aor. med. - př. **λιπ**οῦ 'opusť si' (vs. praes. **λείπ**ου 'opouštěj si')
+- ptc. aor. act. - př. **λιπ**ών, -όντος 'opustiv' (vs. praes. **λείπ**ων, -οντος 'opouštěje')
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Ekvivalence prézentního kmene a silného aoristu v aktivu" >}}
 

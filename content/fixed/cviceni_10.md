@@ -51,7 +51,7 @@ Některá podstatná jména II. deklinace jsou ženského rodu. Většinou se je
 {{< /column >}} 
 {{< column >}}
 
-ἡ Δήλος (ostrov)  
+ἡ Δῆλος (ostrov)  
 ἡ θεός 'bohyně'  
 ἡ φηγός 'dub'  
 ἡ Ἰσσός (město)  
@@ -75,6 +75,8 @@ Některá podstatná jména II. deklinace jsou ženského rodu. Většinou se je
 - futurum se tvoří příponou -σ- a má stejné koncovky jako prézens
 
 - futurum media má **jenom mediální význam**, nikoliv pasivní 
+
+- futurum media je rovněž **futurem pro deponentní slovesa**
   
   {{< /bootstrap-table >}}
 

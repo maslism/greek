@@ -28,7 +28,7 @@
 
 ​    {{< pure-expand title="Přípona *-i̯a-/-i̯ā-" >}} 
 
-- do první deklinace patří i slova odvozená příponou `*-i̯a-/-i̯ā-` (> ř. *-i̯ᾰ-/-i̯ᾱ-). Oproti běžné příponě I. deklinace `*-ā-` (> ř. *-ᾱ-), která je v každém pádě sg. dlouhá, je vokál v `*-i̯a-` (> ř. *-i̯ᾰ-) krátký v nom. a acc. sg.; v gen. a dat. sg. je naopak dlouhý, `*-i̯ā-` (> ř. *-i̯ᾱ-) 
+- do první deklinace patří i slova odvozena příponou `*-i̯a-/-i̯ā-` (> ř. *-i̯ᾰ-/-i̯ᾱ-). Oproti běžné příponě I. deklinace `*-ā-` (> ř. *-ᾱ-), která je v každém pádě sg. dlouhá, je vokál v `*-i̯a-` (> ř. *-i̯ᾰ-) krátký v nom. a acc. sg.; v gen. a dat. sg. je naopak dlouhý, `*-i̯ā-` (> ř. *-i̯ᾱ-) 
 
 - původní `*i̯` této přípony je zachováno jen zřídka; jeho podoba se často změnila kvůli palatalizačním procesům, takže v tvarech z klasického období někdy není patrné
 
