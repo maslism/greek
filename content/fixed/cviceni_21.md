@@ -74,15 +74,15 @@ Následující tvary nemají přízvuk v silném aoristu na kořeni ale na pří
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Ekvivalence prézentního kmene a silného aoristu v aktivu" >}}
 
-| Časování       | Prézentní kmen                   | Silný aorist                        |
-| -------------- | -------------------------------- |:----------------------------------- |
-| primární čas   | praes. **λείπ**ω 'opouštím'      | –                                   |
-| sekundární čas | impf. ἔ**λειπ**ον 'opuštěl jsem' | ind. aor. ἔ**λιπ**ον 'opustil jsem' |
-| konjunktiv     | **λείπ**ω, -ῃς 'ať opouštím'     | **λίπ**ω, -ῃς 'ať opustím'          |
-| optativ        | **λείπ**οιμι 'kéž opouštím'      | **λίπ**οιμι 'kéž opustím'           |
-| imperativ      | **λεῖπ**ε 'opouštěj'             | **λίπ**ε (†) 'opusť'                |
-| participium    | **λείπ**ων 'opouštěje'           | **λιπ**ών † 'opustiv'               |
-| infinitiv      | **λείπ**ειν 'opouštět'           | **λιπ**εῖν † 'opustit'              |
+| Časování       | Prézentní kmen                    | Silný aorist                        |
+| -------------- | --------------------------------- |:----------------------------------- |
+| primární čas   | praes. **λείπ**ω 'opouštím'       | –                                   |
+| sekundární čas | impf. ἔ**λειπ**ον 'opouštěl jsem' | ind. aor. ἔ**λιπ**ον 'opustil jsem' |
+| konjunktiv     | **λείπ**ω, -ῃς 'ať opouštím'      | **λίπ**ω, -ῃς 'ať opustím'          |
+| optativ        | **λείπ**οιμι 'kéž opouštím'       | **λίπ**οιμι 'kéž opustím'           |
+| imperativ      | **λεῖπ**ε 'opouštěj'              | **λίπ**ε (†) 'opusť'                |
+| participium    | **λείπ**ων 'opouštěje'            | **λιπ**ών † 'opustiv'               |
+| infinitiv      | **λείπ**ειν 'opouštět'            | **λιπ**εῖν † 'opustit'              |
 
 {{< /bootstrap-table >}}
 
