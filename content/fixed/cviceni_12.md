@@ -65,9 +65,9 @@
 Některá adjektiva formálně nerozlišují všechny tři rody, ale zachycují jenom opozici **maskulinum a femininum** oproti **neutru**.  Ženský rod je vyjádřen tvary II. deklinace, tedy  -ος, -ου, -ῳ atd. 
 Většinou se jedná o složená adjektiva. Některá adjektiva navíc kolísají mezi dvoj- a trojvýchodností. 
 
-ἄ-θεος, -ον (2) - bezbožný  
-βάρβαρος, -ον (2) - barbarský, cizí  
-βέβαιος, -α, -ον a βέβαιος, -ον (3, 2) - jistý 
+ἄ-θεος, -ον (2) – bezbožný  
+βάρβαρος, -ον (2) – barbarský, cizí  
+βέβαιος, -α, -ον a βέβαιος, -ον (3, 2) – jistý 
 
 ### Věty
 

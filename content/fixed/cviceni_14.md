@@ -18,7 +18,6 @@ Je-li subjekt řídícího slovesa a infinitivu shodný, stojí infinitiv bez ex
 > Δεῖ **φυλάττεσθαι** **τὴν ἐλευθερίαν**. (podmět v acc.)  
 > *Je třeba, aby byla svoboda střežena*  
 > 
-> 
 > Συμβουλεύω **τῷ στρατηγῷ** **μὴ** **πιστεύειν** τῷ πολεμίῳ (podmět v dat.)  
 > *Radím stratégovi, aby nevěřil nepříteli* 
 > 
@@ -71,7 +70,7 @@ V souladu s významem řídících predikátu, které často vyjadřují vůli, 
 
 #### Expletivní μή
 
-Řídící slovesa s lexikálními významy jako *zakazování*, *bránění*, *zdržení* a pod. vyjadřují to, že děj zachycený dynamickým infinitivem se nemá stát nebo je oddálen. Takovéto řídící predikáty jsou automaticky doplněny záporkou μή pro zdůraznění nerealizace děje vyjádřeného dynamickým infinitivem. Toto expletivní μή (srov. fr. *empêcher que ne* 'bránit') se neprojeví v překladu do češtiny. Je-li řídící predikát negován, díky čemu nabývá jako celek kladný význam, je expletivní μή taky negováno na výsledné μὴ οὐ; celá konstrukce má pak kladný význam.    
+Řídící slovesa s lexikálními významy jako *zakazování*, *bránění*, *zdržení* a pod. vyjadřují to, že děj zachycený dynamickým infinitivem se nemá stát nebo je oddálen. Takovéto řídící predikáty jsou automaticky doplněny záporkou μή pro zdůraznění nerealizace děje vyjádřeného dynamickým infinitivem. Toto expletivní μή (srov. fr. *empêcher que ne* 'bránit') se neprojeví v překladu do češtiny. Je-li řídící predikát negován, díky čemu nabývá jako celek kladný význam, je expletivní μή také negováno na výsledné μὴ οὐ; celá konstrukce má pak kladný význam.    
 
 Ἁπαγορεύω τῷ δούλῳ **μὴ λέγειν** - *Zakazuji otrokovi **mluvit**.*  
 **Οὐκ** ἀναβάλλομαι **μὴ οὐ μάχεσθαι**. - *Spěchám **bojovat**.* 

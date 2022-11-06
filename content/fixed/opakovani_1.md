@@ -1,5 +1,5 @@
 {
-"title": "11. cvičení – opakování",
+"title": "11. cvičení – Opakování",
     "sidebar": true,
     "weight": "14"
 }
@@ -10,7 +10,34 @@
 
 Μετὰ τὴν ἐν Θερμοπύλαις μάχην ἤγοντο πρὸς Ξέρξην ἄνθρωποι ἀπ᾿ Ἀρκαδίας καὶ ἔλεγον, ὅτι οἱ τῶν Περσῶν πολέμιοι Ὀλύμπια μὲν ἄγουσιν, μισθὸς δέ, περὶ οὗ μάχονται, ἐλαίας στέφανός ἐστιν. Τοὺς οὖν πολεμίους, οἱ οὐ περὶ χρυσοῦ, ἀλλὰ περὶ δόξης ἐμάχοντο, ἔθαύμαζον οἱ ἀμφὶ Ξέρξην ἐπ᾽ ἀρετῇ.
 
-### 1.
+{{< pure-expand title="Slovní zásoba" >}}
+
+ἐλαία, -ας, ἡ – oliva  
+στέφανος, στεφάνου, ὁ – věnec  
+ἐλαίας στέφανος – olivový věnec  
+μετά (s ak.) – po  
+ἐν (s dat.) – u, v  
+Θερμοπύλαι, -ῶν, αἱ – Thermopyly, průsmyk v stř. Řecku  
+πρός (s ak.) – k  
+Ξέρξης, -oυ, ὁ – Xerxes, perský král  
+ἀπό (s gen.) – od, z  
+Ἀρκαδία, -ας, ἡ – Arkádie, krajina na Peloponnesu  
+οἱ Πέρσαι, -ῶν – Peršané (sg. ὁ Πέρσης, ὦ Πέρσα)  
+Ὀλύμπια, Ὀλυμπίων, τά – olympijské hry  
+Ὀλύμπια ἄγειν – konat olympijské hry  
+μισθός, -οῦ, ὁ – mzda, odměna     
+ἀμφί (s ak.) – okolο  
+περὶ οὗ (vzt. zájm.) – o kterou (t. odměnu)  
+οἱ ἀμφὶ Ξέρξην – družina Xerxova  
+ἐπί (s dat.) – za, pro  
+οὖν – tedy, proto   
+ἀρετή, ῆς, ἡ – statečnost, ctnost, ušlechtilost  
+οἵ (vzt. zájm.) – kteří   
+χροῦσός, -οῦ, ὁ – zlato
+
+{{</ pure-expand >}}
+
+### Věty na procvičování
 
 1\. Ὁ δοῦλος τῷ ἀδελφῷ δῶρον παρὰ τοῦ φίλου φέρει. 2.a) Τὸ δένδρον γιγνώσκεται ἐκ τῶν καρπῶν. 2.b) Τὰ δένδρα γιγνώσκεται ἐκ τῶν καρπῶν. 3.a) Τὰ φάρμακα ὑπὸ τοῦ ἰατροῦ παρασκευάζεται. 3.b) Ὁ ἰατρὸς τὰ φάρμακα παρασκευάζεται. 4. Πολλάκις καὶ τὰ τῶν τέκνων ἔργα θαυμάζομεν. 5. Τὸ
 μὲν ἀγαθὸν δένδρον ἀγαθοὺς φέρει καρπούς, τὸ δὲ πονηρὸν πονηρούς. 6. Πιστεύομεν τῷ στρατηγῷ· τὰ γὰρ ἱερὰ καλά ἐστιν. 7. Ὅσιοι λόγοι ἄνευ ὁσίων ἔργων τοῖς θεοῖς οὐ φίλοι εἰσίν. 8. Χαλεπὰ τὰ καλά. 9. Κοινὰ τὰ τῶν φίλων.
@@ -50,6 +77,13 @@
 {{< /column >}} 
 {{< /row >}}
 
-
-
 &nbsp;
+
+Křížové odkazy
+
+{{< tabs tabTotal="1" tabID="1" tabName1="Hnátek" >}}
+{{< tab tabNum="1" >}}
+s. 20–21
+{{< /tab >}}
+
+{{< figure src="/data/olympia.png" width=250 caption="Metopa z Diova chrámu v Olympii. Athéna, Héraklés a Atlás. Asi 470–457 p. n. l." link="/data/olympia.png" target=”_blank” >}}
