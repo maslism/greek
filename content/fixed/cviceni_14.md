@@ -11,20 +11,20 @@ Infinitiv v řečtině často doplňuje řídící predikát, který má obyčej
 1. **dynamický infinitiv**
 2. deklarativní infinitiv
 
-Dynamický infinitiv se vyskytuje po slovesech *vůle, (ne)chtění*, *(ne)schopnosti* a *(ne)možnosti* a po adjektivech *kvality, (ne)schopnosti* a *(ne)možnosti*. Po slovesech *dávání* a *přijímání* někdy stojí tento infinitiv a vyjadřuje cíl, který sleduje agens řídícího slovesa (č. *Pošlu dceru **studovat** do Anglie*)  Doplnění dynamickým infinitivem teda zachycuje potenciální děje (ἐν δυνάμει), které jsou buď cílem vůle nějakého aktéra, nebo vyplývají z nespecifikované povinnosti, či z (ne)schopnosti vůbec tyto potenciální děje realizovat (č. *Schopen **psát** všemi deseti*). 
+Dynamický infinitiv se vyskytuje po slovesech *vůle, (ne)chtění*, *(ne)schopnosti* a *(ne)možnosti* a po adjektivech *kvality, (ne)schopnosti* a *(ne)možnosti*. Tento infinitiv někdy stojí také po slovesech *dávání* a *přijímání*, kde vyjadřuje cíl, který sleduje agens (= vykonavatel děje) řídícího slovesa (č. *Pošlu dceru **studovat** do Anglie*).  Doplnění dynamickým infinitivem zachycuje potenciální děje (ἐν δυνάμει), které jsou buď cílem vůle nějakého aktéra, nebo vyplývají z nespecifikované povinnosti či z (ne)schopnosti vůbec tyto potenciální děje realizovat (č. *Schopen **psát** všemi deseti*). 
 
-Je-li subjekt řídícího slovesa a infinitivu shodný, stojí infinitiv bez explicitního vyjádření subjektu (ang. *I want **to leave**.*). V případě neshody mezi subjekty musí být podmět infinitivu vyjádřen (ang. *I want __you to leave__*; *I want __him to be removed__*). Pád, ve kterém stojí vyjádřený podmět infinitivu, odpovídá vazbě řídícího slovesa; dynamický infinitiv může mít podmět v genitivu, dativu (č. *Radím __ti odejít__*) nebo akuzativu (č. *Donutím __tě odejít__*). Je-li přechodné řídící sloveso v pasivu, podmět infinitivu je v nominativu (ang. *__He__ was ordered to __leave__*)  
+Je-li subjekt řídícího slovesa a infinitivu shodný, stojí infinitiv bez explicitního vyjádření subjektu (ang. *I want __to leave__*). V případě neshody mezi subjekty musí být podmět infinitivu vyjádřen (ang. *I want __you to leave__*; *I want __him to be removed__*). Pád, ve kterém stojí vyjádřený podmět infinitivu, odpovídá vazbě řídícího slovesa; dynamický infinitiv závislý na významově aktivním či neosobním řídícím slovese může mít podmět v genitivu, dativu (č. *Radím __ti odejít__*), nebo akuzativu (č. *Donutím __tě odejít__*). Je-li řídící sloveso v osobním pasivu, podmět infinitivu je v nominativu (č. *__On__ byl donucen __odejít__*). Řídící sloveso v osobním pasivu je vždy variantem aktivního přechodného slovesa s přímým předmětem v akuzativu (č. act. *donutil jsem ho* vs. pass. *on byl donucen*).   
 
-> Δεῖ **φυλάττεσθαι** **τὴν ἐλευθερίαν**. (podmět v acc.)  
+> Δεῖ **φυλάττεσθαι** **τὴν ἐλευθερίαν**. (podmět v acc., δεῖ + acc.)  
 > *Je třeba, aby byla svoboda střežena*  
 > 
-> Συμβουλεύω **τῷ στρατηγῷ** **μὴ** **πιστεύειν** τῷ πολεμίῳ (podmět v dat.)  
+> Συμβουλεύω **τῷ στρατηγῷ** **μὴ** **πιστεύειν** τῷ πολεμίῳ (podmět v dat.; συμβουλεύω + dat.)  
 > *Radím stratégovi, aby nevěřil nepříteli* 
 > 
-> Δέομαι **τοῦ στρατηγοῦ** **μὴ** **πιστεύειν** τῷ πολεμίῳ (podmět v gen.)  
+> Δέομαι **τοῦ στρατηγοῦ** **μὴ** **πιστεύειν** τῷ πολεμίῳ (podmět v gen.; δέομαι + gen.)  
 > *Prosím stratéga, aby nevěřil nepříteli*
 > 
-> **Ὁ στρατηγὸς** ἠναγκάζετο **μάχεσθαι** τοῖς πολεμίοις (podmět v nom.)   
+> **Ὁ στρατηγὸς** ἠναγκάζετο **μάχεσθαι** τοῖς πολεμίοις (podmět v nom., řídící sloveso v osobním pasivu)   
 > *Stratég byl nucen bojovat proti nepřátelům* 
 
 {{< row >}}
@@ -45,13 +45,14 @@ Je-li subjekt řídícího slovesa a infinitivu shodný, stojí infinitiv bez ex
 {{< /column >}} 
 {{< column >}}
 
- **Schopnost a možnost**
+ **Schopnost, možnost a kvalita**
 
 - ἀγαθός 'dobrý'  
+- δεινός 'výtečný' (srov. ang. *terrific*)
 - ἱκανός 'dostatečný'  
 - ἐπιτήδειος 'vhodný' 
 
-**Inf. jako podmět - neosobní slovesa**
+**Neosobní slovesa**
 
 - δεῖ 'je třeba'  
 - χρή 'je nutné'  
@@ -70,9 +71,16 @@ V souladu s významem řídících predikátu, které často vyjadřují vůli, 
 
 #### Expletivní μή
 
-Řídící slovesa s lexikálními významy jako *zakazování*, *bránění*, *zdržení* a pod. vyjadřují to, že děj zachycený dynamickým infinitivem se nemá stát nebo je oddálen. Takovéto řídící predikáty jsou automaticky doplněny záporkou μή pro zdůraznění nerealizace děje vyjádřeného dynamickým infinitivem. Toto expletivní μή (srov. fr. *empêcher que ne* 'bránit') se neprojeví v překladu do češtiny. Je-li řídící predikát negován, díky čemu nabývá jako celek kladný význam, je expletivní μή také negováno na výsledné μὴ οὐ; celá konstrukce má pak kladný význam.    
+Kladná řídící slovesa s lexikálními významy jako *zakazování*, *bránění*, *zdržení* a pod. vyjadřují to, že děj zachycený dynamickým infinitivem se nemá stát nebo je oddálen. Dynamický infinitiv po těchto predikátech je automaticky doplněn záporkou μή pro zdůraznění nerealizace děje vyjádřeného infinitivem. Toto expletivní μή (srov. fr. *empêcher que ne* 'bránit') se **neprojeví** v překladu do češtiny. Je-li řídící predikát negován, díky čemu nabývá jako celek kladný význam, je expletivní μή také negováno na výsledné μὴ οὐ; celá konstrukce má pak kladný význam.    
 
-Ἁπαγορεύω τῷ δούλῳ **μὴ λέγειν** - *Zakazuji otrokovi **mluvit**.*  
+Ἀπαγορεύω τῷ δούλῳ **μὴ λέγειν** - *Zakazuji otrokovi __mluvit__*       
+**Οὐκ** ἀπαγορεύω τῷ δούλῳ **μὴ οὐ λέγειν** - Dovoluji otrokovi **mluvit**  
+
+- ἀπαγορεύω μή + inf. - *zakazuji*...
+
+- οὐκ ἀπαγορεύω μὴ οὐ - *nezakazuji...* = *dovoluji...*
+
+Ἀναβάλλομαι **μὴ μάχεσθαι** - Odkládám **bojování**   
 **Οὐκ** ἀναβάλλομαι **μὴ οὐ μάχεσθαι**. - *Spěchám **bojovat**.* 
 
 - ἀναβάλλομαι μή + inf. - *odkládám (na jindy)*...
