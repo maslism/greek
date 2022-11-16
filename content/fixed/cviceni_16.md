@@ -93,21 +93,21 @@ Labiály jsou souhlásky, které se artikulují spojením rtů (lat. *labia*).
 
 Slovesa, kterých kmen je zakončen na veláru (κ, γ, χ) nebo labiálu (β, π, φ), tvoří sigmatické futurum na -ξω, resp. -ψω. 
 
-U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -κω, -γω, -χω, -ττω/-σσω (< `*-Ki̯ō`), někdy -ζω (< `*gi̯ō`).
+U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -κω, -γω, -χω, -ττω/-σσω (< `*-Ki̯ō`), někdy -ζω (< `*-gi̯ō`).
 
-Některá slovesa mají deponentní futurum (mps. morfologii). Příčinou tohoto jevu je původ řeckého futura v desiderativním sufixu `*-s-`. Sémantika desiderativu má přirozeně blízko k mediu, vyjadřujícímu osobní prospěch. 
+Některá slovesa mají deponentní futurum (mps. morfologii). Příčinou tohoto jevu je původ řeckého futura v desiderativním sufixu `*-s-` 'chci dělat *x*' > 'budu dělat *x*'. Sémantika desiderativu má přirozeně blízko k mediu, vyjadřujícímu osobní prospěch. 
 
 {{< row >}}
 {{< column >}}
 
-praes. λέ**γ**ω > fut. λέ**ξ**ω  
-praes. φυλά**ττ**ω > fut. φυλά**ξ**ω
+praes. λέ**γ**ω → fut. λέ**ξ**ω  
+praes. φυλά**ττ**ω (< `*-ki̯ō`) → fut. φυλά**ξ**ω
 
 {{< /column >}} 
 {{< column >}}
 
-praes. σφά**ζ**ω > fut. σφά**ξ**ω  
-praes. διώ**κ**ω > fut. διώ**ξ**ομαι
+praes. σφά**ζ**ω (< `*-gi̯ō`) → fut. σφά**ξ**ω  
+praes. διώ**κ**ω → fut. διώ**ξ**ομαι
 
 {{< /column >}} 
 {{< /row >}}
@@ -119,14 +119,14 @@ U labiálních kmenů může mít kmen prézentu tyto synchronní podoby: -πω,
 {{< row >}}
 {{< column >}}
 
-praes. λεί**π**ω > fut. λεί**ψ**ω  
-praes. ἀμεί**β**ω > fut. ἀμεί**ψ**ω
+praes. λεί**π**ω → fut. λεί**ψ**ω  
+praes. ἀμεί**β**ω → fut. ἀμεί**ψ**ω
 
 {{< /column >}} 
 {{< column >}}
 
-praes. βλά**πτ**ω > fut. βλά**ψ**ω  
-praes. γρά**φ**ω > fut. γρά**ψ**ω
+praes. βλά**πτ**ω (< `*-bi̯ō`)→ fut. βλά**ψ**ω  
+praes. γρά**φ**ω → fut. γρά**ψ**ω
 
 {{< /column >}} 
 {{< /row >}}
