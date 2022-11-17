@@ -10,7 +10,7 @@ Deklarativní infinitiv doplňuje řídící predikáty (= mj. slovesa) s význa
 > Λέγω **τὸν ἀγαθὸν πολίτην** **πείθεσθαι** τοῖς νόμοις  
 > *Říkám, že dobrý občan poslouchá zákony.* 
 
-Je-li subjekt řídícího slovesa a infinitivu totožný, nemusí být subjekt u inf. explicitně vyjádřen. Při neshodě podmětů je ale podmět infinitivu vyjádřen, a to vždy **akuzativem**. Deklarativní infinitiv je teda velmi často součástí vazby **akuzativu s infinitivem.** 
+Je-li subjekt řídícího slovesa a infinitivu totožný, nemusí být subjekt u inf. explicitně vyjádřen. Při neshodě podmětů je ale podmět infinitivu vyjádřen, a to vždy **akuzativem**. Deklarativní infinitiv je tedy velmi často součástí vazby **akuzativu s infinitivem.** 
 
 > Λέγομεν **τοὺς πολίτας** τοῖς νόμοις εὖ **παιδεύεσθαι**  
 > *Říkáme, že občané jsou zákony dobře vychováváni*   

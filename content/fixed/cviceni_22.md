@@ -6,7 +6,7 @@
 
 ### III. dekl.: kmeny na -ρ s ablautem
 
-V některých slovech s kmenem končícím se na -ρ se ablaut projevuje víc, než je to v běžné v zbytku řecké lexiky. Kmenotvorná přípona se realizuje ve všech třech stupních v závislosti od pádu a čísla. Nejpestřejší konfigurace je znázorněná v následující tabulce.
+V některých slovech s kmenem končícím se na -ρ se ablaut projevuje víc, než je to běžné v zbytku řecké lexiky. Kmenotvorná přípona se realizuje ve všech třech stupních v závislosti od pádu a čísla. Nejpestřejší konfigurace je znázorněná v následující tabulce.
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 

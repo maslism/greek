@@ -62,7 +62,7 @@ Ablaut (také střída) v řečtině je střídání různých podob jednoho vok
 
 ### Silný aorist
 
-Aoristový kmen vyjadřuje dokonavý vid (=perfektivní aspekt). Některá slovesa tvoří aoristový kmen jenom **změnou stupně kořene na nulový** nebo pomocí reduplikace, aniž by přibírali speciální příponu. Takovéto aoristy se nazývají silné a **jejich morfologie (u koncovek a modálních přípon) se shoduje s časováním prézentního kmene**; formální rozdíl mezi prézentním kmenem a aoristem je teda jenom v kořeni. Tento způsob tvoření aoristového kmene nebyl v historii řečtiny produktivní. Slabé aoristy, které byly produktivní, obsahují speciální kmenotvornou příponu -σ- a mají také speciální sady koncovek.  
+Aoristový kmen vyjadřuje dokonavý vid (=perfektivní aspekt). Některá slovesa tvoří aoristový kmen jenom **změnou stupně kořene na nulový** nebo pomocí reduplikace, aniž by přibíraly speciální příponu. Takovéto aoristy se nazývají silné a **jejich morfologie (u koncovek a modálních přípon) se shoduje s časováním prézentního kmene**; formální rozdíl mezi prézentním kmenem a aoristem je teda jenom v kořeni. Tento způsob tvoření aoristového kmene nebyl v historii řečtiny produktivní. Slabé aoristy, které byly produktivní, obsahují speciální kmenotvornou příponu -σ- a mají také speciální sady koncovek.  
 
 Následující tvary nemají přízvuk v silném aoristu na kořeni ale na příponě:
 
