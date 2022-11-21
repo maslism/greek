@@ -24,13 +24,13 @@ Substantiva III. deklinace členíme podle hlásek, které stojí na konci jmenn
 
 #### Velární kmeny
 
-Veláry jsou souhlásky, které se artikulují pomocí styku hřbetu jazyka s měkkým podnebím (lat. *velum*). Řecký fonologický inventář rozlišuje pro každé artikulační místu tři typy ražených souhlásek: znělé, neznělé, neznělé aspirované.
+Veláry jsou souhlásky, které se artikulují pomocí styku hřbetu jazyka s měkkým patrem (lat. *velum*). Řecký fonologický inventář rozlišuje pro každé artikulační místu tři typy ražených souhlásek (= plozív): znělé, neznělé, neznělé aspirované.
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Veláry v řečtině" >}}
 
 | Artikulační místo | Znělá   | Neznělá | Neznělá aspirovaná |
 | ----------------- | ------- | ------- | ------------------ |
-| měkké podnebí     | γ ~ /g/ | κ ~ /k/ | χ ~ /kʰ/           |
+| měkké patro       | γ ~ /g/ | κ ~ /k/ | χ ~ /kʰ/           |
 
  {{< /bootstrap-table >}}
 
