@@ -1,10 +1,10 @@
 {
-"title": "19. cvičení – III. dekl.: -ντ- kmeny",
+"title": "19. cvičení – III. deklinace: -ντ- kmeny",
     "sidebar": true,
     "weight": "23"
 }
 
-### III. dekl.: -ντ- kmeny
+### III. deklinace: -ντ- kmeny
 
 Slova s kmenem na  -ντ- (`*-nt-`)mají specifickou podobu v nom. sg., voc. sg. a v dat. pl. 
 

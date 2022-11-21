@@ -1,5 +1,5 @@
 {
-"title": "18. cvičení – III. dekl.: kmeny alveolární pokračování; paroxytona -ις, -υς",
+"title": "18. cvičení – III. deklinace: kmeny alveolární pokračování; paroxytona -ις, -υς",
     "sidebar": true,
     "weight": "22"
 }
@@ -18,7 +18,7 @@
 
  {{< /bootstrap-table >}}
 
-### III. dekl.: kmeny alveolární pokračování
+### III. deklinace: kmeny alveolární pokračování
 
 Některé alveolární kmeny mají synchronně odchylný nominativ nebo vokativ. 
 

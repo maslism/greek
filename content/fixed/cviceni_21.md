@@ -1,10 +1,10 @@
 {
-"title": "21. cvičení – III. dekl.: kmeny s likvidami -λ, -ρ; silný aorist",
+"title": "21. cvičení – III. deklinace: kmeny s likvidami -λ, -ρ; silný aorist",
     "sidebar": true,
     "weight": "25"
 }
 
-### III. dekl.: kmeny s likvidami -λ, -ρ
+### III. deklinace: kmeny s likvidami -λ, -ρ
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 

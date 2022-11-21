@@ -1,5 +1,5 @@
 {
-"title": "17. cvičení – III. dekl.: kmeny alveolární; fut. kmenů alveolár.",
+"title": "17. cvičení – III. deklinace: kmeny alveolární; fut. kmenů alveolár.",
     "sidebar": true,
     "weight": "21"
 }
@@ -18,7 +18,7 @@
 
  {{< /bootstrap-table >}}
 
-### III. dekl.: kmeny alveolární
+### III. deklinace: kmeny alveolární
 
 Alveoláry jsou souhlásky, které se artikulují pomocí styku špičky jazyka s alveolárním pruhem dásní (lat. *alveoli*) blízko předních zubů. Řecký fonologický inventář rozlišuje pro každé artikulační místu tři typy ražených souhlásek: znělé, neznělé, neznělé aspirované.
 
@@ -57,7 +57,7 @@ Alveoláry jsou souhlásky, které se artikulují pomocí styku špičky jazyka 
 
 Slovesa, kterých kmen je zakončen na alveoláru (τ, δ, θ), tvoří sigmatické futurum na -σω kvůli ztrátě kmenového konsonantu. 
 
-U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -θω, -δω, -ζω (< `*-di̯ō`). Kmeny s etymologickým -τ- se nevyskytují. -τ- v -πτ- (< `*-Bi̯ō`) a -ττ- (< `*-Ki̯ō`) je nepůvodní. 
+U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -θω, -δω, -ζω (< `*-di̯ō`). Kmeny s etymologickým -τ- se nevyskytují. -τ- v -πτ- (< `*-Pi̯ō`) a -ττ- (< `*-Ki̯ō`) je nepůvodní. 
 
 {{< row >}}
 {{< column >}}

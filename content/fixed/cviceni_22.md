@@ -1,10 +1,10 @@
 {
-"title": "22. cvičení – III. dekl.: dokončení kmenů s -ρ",
+"title": "22. cvičení – III. deklinace: dokončení kmenů s -ρ",
     "sidebar": true,
     "weight": "26"
 }
 
-### III. dekl.: kmeny na -ρ s ablautem
+### III. deklinace: kmeny na -ρ s ablautem
 
 V některých slovech s kmenem končícím se na -ρ se ablaut projevuje víc, než je to běžné v zbytku řecké lexiky. Kmenotvorná přípona se realizuje ve všech třech stupních v závislosti od pádu a čísla. Nejpestřejší konfigurace je znázorněná v následující tabulce.
 
