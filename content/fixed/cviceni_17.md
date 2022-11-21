@@ -57,7 +57,7 @@ Alveoláry jsou souhlásky, které se artikulují pomocí styku špičky jazyka 
 
 Slovesa, kterých kmen je zakončen na alveoláru (τ, δ, θ), tvoří sigmatické futurum na -σω kvůli ztrátě kmenového konsonantu. 
 
-U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -θω, -ζω (< `*-di̯ō`)
+U velárních kmenů může mít kmen prézentu tyto synchronní podoby: -θω, -δω, -ζω (< `*-di̯ō`). Kmeny s etymologickým -τ- se nevyskytují. -τ- v -πτ- (< `*-Bi̯ō`) a -ττ- (< `*-Ki̯ō`) je nepůvodní. 
 
 {{< row >}}
 {{< column >}}

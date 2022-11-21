@@ -1,5 +1,5 @@
 {
-"title": "16. cvičení – III. dekl.: kmeny velární a labiální; fut. kmenů velár. a labiál.",
+"title": "16. cvičení – III. deklinace: kmeny velární a labiální; fut. kmenů velár. a labiál.",
     "sidebar": true,
     "weight": "20"
 }
@@ -18,7 +18,7 @@
 
  {{< /bootstrap-table >}}
 
-### III. dekl.: kmeny velární a labiální
+### III. deklinace: kmeny velární a labiální
 
 Substantiva III. deklinace členíme podle hlásek, které stojí na konci jmenného kmene. Tyto kmenové hlásky interagují s některými koncovkami. 
 
@@ -148,7 +148,8 @@ praes. γρά**φ**ω → fut. γρά**ψ**ω
 πρῶτος 3 – první  
 τάττω, -ειν – řadím  
 γυνή, γυναικός, ἡ – žena  
-σιγή, -ῆς, ἡ – mlčení  
+σιγή, -ῆς, ἡ – mlčení    
+ἀρετή, ῆς, ἡ - ctnost  
 κόσμος, -ου, ὁ – ozdoba   
 διώκω, -ειν – pronásleduji
 
