@@ -51,7 +51,7 @@ Veláry jsou souhlásky, které se artikulují pomocí styku hřbetu jazyka s m�
 - Zvláštní skloňování mají:  
   
   1. sg. ἡ γυνή 'žena', γυναικός, γυναικί, γυναῖκα, γύναι  
-     pl. γυναῖκες, γυναικών, γυναιξί(ν), γυναῖκας, γυναῖκες  
+     pl. γυναῖκες, γυναικῶν, γυναιξί(ν), γυναῖκας, γυναῖκες  
   
   2. ἡ θρίξ 'vlas', τριχός, τριχί, τρίχα atd., ale dat. pl. θριξί(ν)  
   
