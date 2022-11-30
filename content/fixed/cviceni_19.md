@@ -6,13 +6,13 @@
 
 ### III. deklinace: -ντ- kmeny
 
-Slova s kmenem na  -ντ- (`*-nt-`)mají specifickou podobu v nom. sg., voc. sg. a v dat. pl. 
+Slova s kmenem na  -ντ- (`*-nt-`) mají specifickou podobu v nom. sg., voc. sg. a v dat. pl. 
 
 - nom. sg.:
   - příznakem pádu (v masc.) je -ς
   - skupina `*-nt-s` se zjednodušuje na `*-ns`
-  - skupina `*-ns` se rovněž zjednodušuje na **-ς** nebo **-ν**, se současným **prodloužením** předcházejícího vokálu
-  - neobsahuje-li nom. sigmu, má podobu **-ων** 
+  - skupina `*-ns` se rovněž zjednodušuje na **-ς** nebo **-ν**, se současným **náhradním dloužením** předcházejícího vokálu, končí-li se tvar na **-ς**
+  - končí-li se nom. na **-ν**, má podobu **-ων** 
 - voc. sg.:
   - pouhý kmen, který podléha fonotaktickému zjednodušení `*-nt` > **-ν**
   - vokál před koncovým konsonantem je krátký 
@@ -57,32 +57,34 @@ Hlásková změna, při které se zjednodušuje souhlásková skupina za součas
 
 ### Adjektiva s kmenem -ντ-
 
-Maskulina a neutra některých adjektiv se skloňují jako -ντ- kmeny III. deklinace. Feminina se skloňují jako typ θάλασσα, -ης. 
+Maskulina a neutra některých adjektiv se skloňují jako -ντ- kmeny III. deklinace. Feminina se skloňují jako typ θάλαττα, -ης. 
 
-{{< pure-expand title="K skloňování feminin" >}}      
+{{< pure-expand title="Skloňování feminina πᾶσα" >}}      
 
-Feminina vznikla příponou `*-i̯a` / `*-i̯ā-` k původnímu kmeni na -ντ-: nom. `*pant-i̯a` (palatalizace) > `*pansa` (náhradní dloužení) > πᾶσα; gen. `*pant-i̯ā-s` (palatalizace) > `*pansās` (náhradní dloužení) > πάσης.
+Femininum je odvozeno příponou `*-i̯a` / `*-i̯ā-`, připojenou k původnímu kmeni na -ντ-: nom. `*pant-i̯a` (palatalizace) > `*pansa` (náhradní dloužení) > πᾶσα; gen. `*pant-i̯ā-s` (palatalizace) > `*pansās` (náhradní dloužení) > πάσης.
 
 {{</ pure-expand >}}
+
+1. πᾶς, πᾶσα, πᾶν 'všechen' (km. παντ-) a jeho složeniny  
+   ἅπας, ἅπασα, ἅπαν a σύμπας, σύμπασα, σύμπαν 'veškerý'
+
+2. ἑκών, ἑκοῦσα, ἑκόν 'rád' (km. ἑκοντ-) a  
+   ἄκων, ἄκουσα, ἆκον 'nerad' (km. ἀκοντ-)
+
+#### Typ adjektiv -(ϝ)εις, -(ϝ)εσσα, -(ϝ)εν
 
 Adjektiva na -εις, g. -εντ-ος (`*-u̯ent-s` / `*-u̯ent-os`), fem. -εσσᾰ, g. -έσσης, neut. -εν, g. -εντ-ος  představují typ posesivních adjektiv, vyjadřujících to, že se popisovaný objekt nebo osoba vyznačuje zdrojovým konceptem adjektiva:
 
 - χάρις 'radost, libost' → χαρί-εις, g. χαρί-εντος 'líbezný'
 - πτερόν 'křídlo' → πτερό-εις, g. πτερό-εντος 'okřídlený'
 
-{{< pure-expand title="K skloňování feminin -εσσα a k dat. pl. masc. a neut. -εσι" >}}      
+{{< pure-expand title="Skloňování feminin -εσσα a dat. pl. masc. a neut. -εσι" >}}      
 
-Dat. pl. masc. a neut. má krátké ε kvůli nulovému stupni přípony: `*-u̯n̩t-si` > `*-u̯at-si` > `*-u̯as-si` (analogie) > `*-u̯es-(s)i` > -εσι. Odvození feminina: nom. `*-u̯n̩t-i̯a` > `*-u̯at-i̯a`(analogie) > `*-u̯et-i̯a` (palatalizace) > `*-u̯essa` > -εσσα 
+Dat. pl. masc. a neut. má krátké ε kvůli nulovému stupni přípony: `*-u̯n̩t-si` > `*-u̯at-si` > `*-u̯as-si` (analogie) > `*-u̯es-(s)i` > -εσι. Derivace feminina: nom. `*-u̯n̩t-i̯a` > `*-u̯at-i̯a`(analogie) > `*-u̯et-i̯a` (palatalizace) > `*-u̯essa` > -εσσα 
 
 {{</ pure-expand >}} 
 
-1\. πᾶς, πᾶσα, πᾶν 'všechen' (km. παντ-) a jeho složeniny  
-ἅπας, ἅπασα, ἅπαν a σύμπας, σύμπασα, σύμπαν 'veškerý'
-
-2\. ἑκών, ἑκοῦσα, ἑκόν 'rád' (km. ἑκοντ-) a  
-ἄκων, ἄκουσα, ἆκον 'nerad' (km. ἀκοντ-)
-
-3\. χαρίεις, χαρίεσσα, χαρίεν 'libezný' (km. χαριεντ-) a podobná
+χαρίεις, χαρίεσσα, χαρίεν 'libezný' (km. χαριεντ-) a podobná
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
@@ -107,7 +109,7 @@ Dat. pl. masc. a neut. má krátké ε kvůli nulovému stupni přípony: `*-u̯
 Τοῖς γίγᾱσιν ἦν ἰσχυρὰ σώματα.  
 Πιστεύομεν τοῖς σοφοῖς γέρουσιν.
 
-1\. Οἱ γέροντες καὶ τοὺς τῶν παίδων παῖδας στέργουσιν. 2. Οἱ τῶν σοφῶν γερόντων λόγοι φρόνιμοί εἰσιν. 3. Οἱ θεοὶ τοῖς Γίγᾱσιν ἐμάχοντο. 4. Παροιμία ἐστίν· "Ἐργα νέων, βουλαὶ δὲ γερόντων.“ 5. Τοῖς λέουσιν ἰσχυροὶ ὀδόντες εἰσίν. 6. Παντὸς ἔργου ἀρχὴ χαλεπή (ἐστι). 7. Πάσης γυναικός ἐστι τὴν οἰκίαν σῴζειν. 8. Μὴ πίστευε πᾶσιν! 9. Πάντων τῶν ἀγαθῶν ὁ πόνος τοῖς ἀνθρώποις αἴτιός ἐστιν. 10. Τὰ τοῦ Ὁμήρου ποιήματα ὑπὸ πάντων τῶν ἀνθρώπων θαυμάζεται. 11. Πάντα πᾶσιν
+1\. Οἱ γέροντες καὶ τοὺς τῶν παίδων παῖδας στέργουσιν. 2. Οἱ τῶν σοφῶν γερόντων λόγοι φρόνιμοί εἰσιν. 3. Οἱ θεοὶ τοῖς Γίγᾱσιν ἐμάχοντο. 4. Παροιμία ἐστίν· "Ἔργα νέων, βουλαὶ δὲ γερόντων.“ 5. Τοῖς λέουσιν ἰσχυροὶ ὀδόντες εἰσίν. 6. Παντὸς ἔργου ἀρχὴ χαλεπή (ἐστι). 7. Πάσης γυναικός ἐστι τὰ ἑαυτῆς σῴζειν. 8. Μὴ πίστευε πᾶσιν! 9. Πάντων τῶν ἀγαθῶν ὁ πόνος τοῖς ἀνθρώποις αἴτιός ἐστιν. 10. Τὰ τοῦ Ὁμήρου ποιήματα ὑπὸ πάντων τῶν ἀνθρώπων θαυμάζεται. 11. Πάντα πᾶσιν
 οὐ χρήσιμά ἐστιν.
 
 {{< pure-expand title="Slovní zásoba" >}}      
