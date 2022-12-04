@@ -8,7 +8,7 @@
 
 Participium prézentu aktiva je tvořeno zděděnou příponou `*-nt-` (srov. lat. laudantēs, něm. arbeitend); přípona -ντ- se připojuje za imperfektivní (= prézentní) kmen s tematickým vokálem -ο- > -ο-ντ-. V masc. a neut. se tedy jedná o slovesné adjektivum III. deklinace, femininum je typ θάλαττα, -ης:
 
-masc. παιδεύ-ων (< `*-ont-s`), g. -οντος; fem. παιδεύ-ουσᾰ, g. -ουσης; neut. παιδεῦ-ον, g. -οντος – 'vychovávaje', atributivně 'vychovávající'
+masc. παιδεύ-ων (< `*-ont-s`), g. -οντος; fem. παιδεύ-ουσᾰ, g. -ούσης; neut. παιδεῦ-ον, g. -οντος – 'vychovávaje', atributivně 'vychovávající'
 
 {{< pure-expand title="Původ feminina" >}}      
 
@@ -23,7 +23,7 @@ Gen. `*-ont-i̯ā-s` (palatalizace) > `*-onsās` (náhradní dloužení) > -ού
 
 Participium futura aktiva se svou příponou -ο-ντ- shoduje s ptc. praes. akt., je ale tvořeno od kmene futura:
 
-masc. παιδεύσ-ων, g. -σοντος; fem. παιδεύσ-ουσα, g. -σουσης; neut. παιδεῦσ-ον, g. -σοντος – 'maje / chtěje vychovávat (vychovat)'
+masc. παιδεύσ-ων, g. -σοντος; fem. παιδεύσ-ουσᾰ, g. -σούσης; neut. παιδεῦσ-ον, g. -σοντος – 'maje / chtěje vychovávat (vychovat)'
 
 > **Časová platnost** *participia futura aktiva* je vždy **následná** vzhledem na časovou platnost určitého slovesného tvaru ve větě. 
 
