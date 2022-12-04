@@ -33,7 +33,7 @@
 
 ### Ablaut v řečtině
 
-Ablaut (také střída) v řečtině je střídání různých podob jednoho vokálu v závislosti od gramatické či derivační kategorie nebo polohy v paradigmatu. Někdy bývá spojen s posunem přízvuku, který se historicky v PIE nevyskytoval na slabice v nulovém stupni. Ablaut se týká kořene nebo derivační přípony. Tento systém byl zděděn z protoindoevropštiny a v řečtině byl časem marginalizován kvůli analogického vyrovnávání paradigmat.  
+Ablaut (také střída) v řečtině je střídání různých podob jednoho vokálu v závislosti od gramatické či derivační kategorie nebo polohy v paradigmatu. Někdy bývá spojen s posunem přízvuku, který se historicky v PIE nevyskytoval na slabice v nulovém stupni. Ablaut se týká kořene nebo derivační přípony. Tento systém byl zděděn z protoindoevropštiny a v řečtině byl časem marginalizován v prospěch kolumnárního ablautu na základě analogického vyrovnávání paradigmat.  
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Ablaut v řečtine" >}}
 
@@ -53,16 +53,17 @@ Ablaut (také střída) v řečtině je střídání různých podob jednoho vok
 
 | Kořen n. přípona | Dlouhý stupeň | Plný stupeň  | Nulový stupeň             |
 | ---------------- | ------------- | ------------ | ------------------------- |
-| λειπ-            | –             | λειπ-, λοιπ- | λιπ-                      |
-| φευγ-            | –             | φευγ-        | φυγ-                      |
-| τρεπ-            | –             | τρεπ-, τροπ- | τραπ- < `*tr̩p-`          |
+| λειπ-            | ∅             | λειπ-, λοιπ- | λιπ-                      |
+| φευγ-            | ∅             | φευγ-        | φυγ-                      |
+| τρεπ-            | ∅             | τρεπ-, τροπ- | τραπ- < `*tr̩p-`          |
 | -τερ             | -τηρ          | -τερ-        | -τρ-V; -τρα-C < `*-tr̩-C` |
+| -τωρ             | -τωρ          | -τορ-        | ∅                         |
 
 {{< /bootstrap-table >}}
 
 ### Silný aorist
 
-Aoristový kmen vyjadřuje dokonavý vid (=perfektivní aspekt). Některá slovesa tvoří aoristový kmen jenom **změnou stupně kořene na nulový** nebo pomocí reduplikace, aniž by přibíraly speciální příponu. Takovéto aoristy se nazývají silné a **jejich morfologie (u koncovek a modálních přípon) se shoduje s časováním prézentního kmene**; formální rozdíl mezi prézentním kmenem a aoristem je teda jenom v kořeni. Tento způsob tvoření aoristového kmene nebyl v historii řečtiny produktivní. Slabé aoristy, které byly produktivní, obsahují speciální kmenotvornou příponu -σ- a mají také speciální sady koncovek.  
+Aoristový kmen vyjadřuje dokonavý vid (= perfektivní aspekt). Některá slovesa tvoří aoristový kmen jenom **změnou stupně kořene na nulový** nebo pomocí reduplikace, aniž by přibíraly speciální příponu. Takovéto aoristy se nazývají silné a **jejich morfologie (u koncovek a modálních přípon) se shoduje s časováním prézentního kmene**; formální rozdíl mezi prézentním kmenem a aoristem je teda jenom v kořeni. Tento způsob tvoření aoristového kmene nebyl v historii řečtiny produktivní. Slabé aoristy, které byly produktivní, obsahují speciální kmenotvornou příponu -σ- a mají také speciální sady koncovek.  
 
 Následující tvary nemají přízvuk v silném aoristu na kořeni ale na příponě:
 

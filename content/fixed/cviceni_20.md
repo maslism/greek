@@ -6,9 +6,9 @@
 
 ### Participium prézentu a futura aktiva
 
-Participium prézentu aktiva je tvořeno zděděnou příponou `*-nt-` (srov. lat. laudantēs, nem. arbeitend); přípona -ντ- se připojuje za imperfektivní kmen s tematickým vokálem -ο- > -ο-ντ-. V masc. a neut. se teda jedná o slovesné adjektivum III. deklinace, femininum je typ θάλασσα, -ης:
+Participium prézentu aktiva je tvořeno zděděnou příponou `*-nt-` (srov. lat. laudantēs, něm. arbeitend); přípona -ντ- se připojuje za imperfektivní (= prézentní) kmen s tematickým vokálem -ο- > -ο-ντ-. V masc. a neut. se tedy jedná o slovesné adjektivum III. deklinace, femininum je typ θάλαττα, -ης:
 
-παιδεύ-ων, g. -οντος; παιδεύ-ουσᾰ, g. -ουσης; παιδεῦ-ον, g. -οντος 1. 'vychovávaje', 2. 'vychovávající'
+masc. παιδεύ-ων (< `*-ont-s`), g. -οντος; fem. παιδεύ-ουσᾰ, g. -ουσης; neut. παιδεῦ-ον, g. -οντος – 'vychovávaje', atributivně 'vychovávající'
 
 {{< pure-expand title="Původ feminina" >}}      
 
@@ -17,13 +17,15 @@ Gen. `*-ont-i̯ā-s` (palatalizace) > `*-onsās` (náhradní dloužení) > -ού
 
 {{</ pure-expand >}}
 
-> **Časová reference** *participia prézentu aktiva* je vždy **současná** s časovou referencí určitého slovesného tvaru ve větě. 
+> **Časová platnost** *participia prézentu aktiva* je vždy **současná** s časovou platností určitého slovesného tvaru ve větě. 
 
-Participium futura aktiva se svou příponou -ο-ντ- shoduje s ptc. praes. akt., no je tvořeno od kmene futura:
+#### Participium futura aktiva
 
-παιδεύσ-ων, g. -σοντος; παιδεύσ-ουσα, g. -σουσης; παιδεῦσ-ον, g. -σοντος 'maje (chtěje) vychovávat (vychovat)'
+Participium futura aktiva se svou příponou -ο-ντ- shoduje s ptc. praes. akt., je ale tvořeno od kmene futura:
 
-> **Časová reference** *participia futura aktiva* je vždy **následná** vzhledem na časovou referencí určitého slovesného tvaru ve větě. 
+masc. παιδεύσ-ων, g. -σοντος; fem. παιδεύσ-ουσα, g. -σουσης; neut. παιδεῦσ-ον, g. -σοντος – 'maje / chtěje vychovávat (vychovat)'
+
+> **Časová platnost** *participia futura aktiva* je vždy **následná** vzhledem na časovou platnost určitého slovesného tvaru ve větě. 
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
@@ -47,15 +49,17 @@ Participium futura aktiva se svou příponou -ο-ντ- shoduje s ptc. praes. akt
 
 Participium prézentu media a pasiva je trojvýchodné slovesné adjektivum I. a II. deklinace, tvořené příponou -μενος, -μένη, -μενον. Základem je prézentní kmen s tematickým vokálem -ο-:
 
-παιδευ-ό-μενος, παιδευ-ο-μένη, παιδευ-ό-μενον 1. 'vychovávaje si, se'; 2. 'jsa vychováván'; 3. 'vychovávaný'
+masc. παιδευ-ό-μενος; fem. παιδευ-ο-μένη; neut. παιδευ-ό-μενον – med. 'vychovávaje si, se', pass. 'jsa vychováván', atributivně 'vychovávaný'
 
-> **Časová reference** *participia prézentu mediopasiva* je vždy **současná** s časovou referencí určitého slovesného tvaru ve větě. Participium může mít mediální nebo pasivní význam.
+> **Časová platnost** *participia prézentu mediopasiva* je vždy **současná** s časovou platností určitého slovesného tvaru ve větě. Participium může mít **mediální nebo pasivní význam**.
+
+#### Participium futura media
 
 Participium futura media se příponou shoduje s ptc. praes. mps., no je tvořeno od kmene futura s tematickým vokálem -ο-:
 
-παιδευσ-ό-μενος, παιδευσ-ο-μένη, παιδευσ-ό-μενον 'maje (chtěje) si (se) vychovávat (vychovat)'
+masc. παιδευσ-ό-μενος; fem. παιδευσ-ο-μένη; neut. παιδευσ-ό-μενον – 'maje / chtěje si (se) vychovávat (vychovat)'
 
-> **Časová reference** *participia futura mediopasiva* je vždy **následná** vzhledem na časovou referencí určitého slovesného tvaru ve větě. Participium může mít **jenom mediální význam**, nikoliv pasivní.
+> **Časová platnost** *participia futura mediopasiva* je vždy **následná** vzhledem na časovou platnost určitého slovesného tvaru ve větě. Participium může mít **jenom mediální význam**, nikoliv pasivní.
 
 ### Genitiv absolutní
 
@@ -64,7 +68,7 @@ Participium futura media se příponou shoduje s ptc. praes. mps., no je tvořen
 
 Má-li participium v gen. svůj podmět rovněž v gen. (jiný než podmět věty
 řídicí), tvoří s ním tzv. genitiv absolutní. Překládáme jej nejčastěji
-větou časovou, důvodovou, podmínkovou, přípustkovou anebo předložkovým pádem. Participium může být doplněno přímým či nepřímým předmětem nebo rozvito adverbiem. Ptc. praes. vyjadřuje děj současný. 
+větou časovou, důvodovou, podmínkovou, přípustkovou anebo předložkovým pádem. Participium může být doplněno přímým či nepřímým předmětem nebo rozvito adverbiem. Ptc. praes. vyjadřuje děj současný s dějem určitého slovesného tvaru ve větě. 
 
 ### Věty
 
