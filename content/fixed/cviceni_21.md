@@ -45,19 +45,19 @@ Ablaut (také střída) v řečtině je střídání různých podob jednoho vok
 
 {{< /bootstrap-table >}}
 
-Vokál podléhající ablatu může být i součastí diftongu, v nulovém stupni se pak ofglajd diftongu (/i̯/, /u̯/) stává plnohodnotým vokálem (/i/, /y/). Dlouhý stupeň se v řečtině historicky vyskytoval jenom v nom. sg. některých substantiv III. deklinace, odkud se někdy rozšířil do celého paradigmatu (např. σωτήρ, ῆρος). Nulový stupeň se nejčastěji vyskytuje v aoristu silném, v plurálu a mediopasivu atematických sloves a v slabých pádech (gen., dat.) některých substantiv. V rámci **paradigmatických vztahů**, tedy mimo demény derivace, **se ablaut omezuje na změnu stupně kořene**, ke změnám vokalizmu mezi /e/ a /o/ spíše nedochází. Výjimkou je kmen perfekta, který historicky obsahoval /o/ vokalizmus v kořeni (např. perf. λέ-λοιπ-α 'zanechal jsem' oproti praes. λείπω), avšak perfektum je méně pevnou součastí slovesného paradigmatu ve srovnání s aoristem nebo futurem, čím se blíži derivaci. V rámci **derivace**, t.j. tvorby nových lexémů, **je změna vokalizmu častější** (sloveso τρέπω 'otáčím' oproti subst. τροπή 'otočení').  
+Vokál podléhající ablatu může být i součastí diftongu, v nulovém stupni se pak ofglajd diftongu (/i̯/, /u̯/) stává plnohodnotým vokálem (/i/, /y/). Dlouhý stupeň se v řečtině historicky vyskytoval jenom v nom. sg. některých substantiv III. deklinace, odkud se někdy rozšířil do celého paradigmatu (např. σωτήρ, ῆρος). Nulový stupeň se nejčastěji vyskytuje v aoristu silném, v plurálu a mediopasivu atematických sloves a v slabých pádech (gen., dat.) některých substantiv. V rámci **paradigmatických vztahů**, tedy mimo domény derivace, **se ablaut omezuje na změnu stupně kořene**, ke změnám vokalizmu mezi /e/ a /o/ spíše nedochází. Výjimkou je kmen perfekta, který historicky obsahoval /o/ vokalizmus v kořeni (např. perf. λέ-λοιπ-α 'zanechal jsem' oproti praes. λείπω), avšak perfektum je méně pevnou součastí slovesného paradigmatu ve srovnání s aoristem nebo futurem, čím se blíži derivaci. V rámci **derivace**, t.j. tvorby nových lexémů, **je změna vokalizmu častější** (sloveso τρέπω 'otáčím' oproti subst. τροπή 'otočení').  
 
 #### Příklady ablautu
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
-| Kořen n. přípona | Dlouhý stupeň | Plný stupeň       | Nulový stupeň          |
-| ---------------- | ------------- | ----------------- | ---------------------- |
-| λειπ-            | ∅             | λείπ-ω, λέ-λοιπ-α | ἔ-λιπ-ον               |
-| φευγ-            | ∅             | φεύγ-ω            | ἔ-φυγ-ον               |
-| τρεπ-            | ∅             | τρέπ-ομαι, τροπ-ή | ἐ-τραπ-όμην < `*tr̩p-` |
-| -τερ             | πα-τήρ        | πα-τέρ-α          | πατράσι < `*-tr̩-C`    |
-| -τωρ             | εὐπά-τωρ      | εὐπά-τορ-α        | ∅                      |
+| Kořen n. přípona | Dlouhý stupeň | Plný stupeň       | Nulový stupeň                   |
+| ---------------- | ------------- | ----------------- | ------------------------------- |
+| λειπ-            | ∅             | λείπ-ω, λέ-λοιπ-α | ἔ-λιπ-ον                        |
+| φευγ-            | ∅             | φεύγ-ω            | ἔ-φυγ-ον                        |
+| τρεπ-            | ∅             | τρέπ-ομαι, τροπ-ή | ἐ-τραπ-όμην < `*tr̩p-`          |
+| -τερ             | πα-τήρ        | πα-τέρ-α          | πα-τρ-ός, πα-τρά-σι < `*-tr̩-C` |
+| -τωρ             | εὐπά-τωρ      | εὐπά-τορ-α        | ∅                               |
 
 {{< /bootstrap-table >}}
 
