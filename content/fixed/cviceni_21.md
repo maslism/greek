@@ -33,37 +33,37 @@
 
 ### Ablaut v řečtině
 
-Ablaut (také střída) v řečtině je střídání různých podob jednoho vokálu v závislosti od gramatické či derivační kategorie nebo polohy v paradigmatu. Někdy bývá spojen s posunem přízvuku, který se historicky v PIE nevyskytoval na slabice v nulovém stupni. Ablaut se týká kořene nebo derivační přípony. Tento systém byl zděděn z protoindoevropštiny a v řečtině byl časem marginalizován v prospěch kolumnárního ablautu na základě analogického vyrovnávání paradigmat.  
+Ablaut (také střída) v řečtině je střídání různých podob jednoho vokálu v závislosti od gramatické či derivační kategorie nebo polohy v paradigmatu. Někdy bývá spojen s posunem přízvuku, který se historicky v protoindoevropštině (PIE) nevyskytoval na morfémě v nulovém stupni. Ablaut se týká kořene nebo derivační přípony. Tento systém byl zděděn z PIE  a v řečtině byl časem marginalizován v prospěch kolumnárního ablautu, t.j. stejného ablautu napříč paradigmatem, na základě analogického vyrovnávání.  
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Ablaut v řečtine" >}}
 
-| Stupeň             | Vokál /e/ | Vokál /o/ |
-| ------------------ | --------- | --------- |
-| dlouhý             | η         | ω         |
-| plný               | ε, ει, ευ | ο, οι, ου |
-| nulový n. zánikový | ∅, ι, υ   | ∅, ι, υ   |
+| Stupeň             | Vokalizmus /e/  | Vokalizmus /o/  |
+| ------------------ | --------------- | --------------- |
+| dlouhý             | -η-             | -ω-             |
+| plný               | -ε-, -ει-, -ευ- | -ο-, -οι-, -ου- |
+| nulový n. zánikový | ∅, -ι-, -υ-     | ∅, -ι-, -υ-     |
 
 {{< /bootstrap-table >}}
 
-&nbsp;
+Vokál podléhající ablatu může být i součastí diftongu, v nulovém stupni se pak ofglajd diftongu (/i̯/, /u̯/) stáva plnohodnotým vokálem (/i/, /y/). Dlouhý stupeň se v řečtině historicky vyskytoval jenom v derivační příponě nom. sg. některých substantiv III. deklinace, odkud se někdy rozšířil do celého paradigmatu (např. σωτήρ, ῆρος). Nulový stupeň se nejčastěji vyskytuje v aoristu silném, v plurálu a mediopasivu atematických sloves a v slabých pádech (gen., dat.) některých substantiv. V rámci **paradigmatických vztahů**, tedy mimo demény derivace, **se ablaut omezuje na změnu stupně kořene**, ke změnám vokalizmu mezi /e/ a /o/ spíše nedochází. Výjimkou je kmen perfekta, který historicky obsahoval /o/ vokalizmus v kořeni (např. λέλοιπα 'zanechal jsem' oproti praes. λείπω), avšak perfektum je méně pevnou součastí slovesného paradigmatu ve srovnání s aoristem nebo futurem, čím se blíži derivaci. V rámci **derivace**, t.j. tvorby nových lexémů, **je změna vokalizmu častější** (sloveso τρέπω 'otáčím' oproti subst. τροπή 'otočení').  
 
 #### Příklady ablautu
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" >}}
 
-| Kořen n. přípona | Dlouhý stupeň | Plný stupeň  | Nulový stupeň             |
-| ---------------- | ------------- | ------------ | ------------------------- |
-| λειπ-            | ∅             | λειπ-, λοιπ- | λιπ-                      |
-| φευγ-            | ∅             | φευγ-        | φυγ-                      |
-| τρεπ-            | ∅             | τρεπ-, τροπ- | τραπ- < `*tr̩p-`          |
-| -τερ             | -τηρ          | -τερ-        | -τρ-V; -τρα-C < `*-tr̩-C` |
-| -τωρ             | -τωρ          | -τορ-        | ∅                         |
+| Kořen n. přípona | Dlouhý stupeň | Plný stupeň       | Nulový stupeň          |
+| ---------------- | ------------- | ----------------- | ---------------------- |
+| λειπ-            | ∅             | λείπ-ω, λέ-λοιπ-α | ἔ-λιπ-ον               |
+| φευγ-            | ∅             | φεύγ-ω            | ἔ-φυγ-ον               |
+| τρεπ-            | ∅             | τρέπ-ομαι, τροπ-ή | ἐ-τραπ-όμην < `*tr̩p-` |
+| -τερ             | πα-τήρ        | πα-τέρ-α          | πατράσι < `*-tr̩-C`    |
+| -τωρ             | εὐπά-τωρ      | εὐπά-τορ-α        | ∅                      |
 
 {{< /bootstrap-table >}}
 
 ### Silný aorist
 
-Aoristový kmen vyjadřuje dokonavý vid (= perfektivní aspekt). Některá slovesa tvoří aoristový kmen jenom **změnou stupně kořene na nulový** nebo pomocí reduplikace, aniž by přibíraly speciální příponu. Takovéto aoristy se nazývají silné a **jejich morfologie (u koncovek a modálních přípon) se shoduje s časováním prézentního kmene**; formální rozdíl mezi prézentním kmenem a aoristem je teda jenom v kořeni. Tento způsob tvoření aoristového kmene nebyl v historii řečtiny produktivní. Slabé aoristy, které byly produktivní, obsahují speciální kmenotvornou příponu -σ- a mají také speciální sady koncovek.  
+Aoristový kmen vyjadřuje dokonavý vid (= perfektivní aspekt). Některá slovesa tvoří aoristový kmen jenom **změnou stupně kořene na nulový** nebo pomocí reduplikace, aniž by přibíraly speciální příponu. Takovéto aoristy se nazývají silné a **jejich morfologie (u koncovek a modálních přípon) se shoduje s časováním prézentního kmene**; formální rozdíl mezi prézentním kmenem a aoristem je tedy jenom v kořeni. Tento způsob tvoření aoristového kmene nebyl v historii řečtiny produktivní. Slabé aoristy, které byly produktivní, obsahují speciální kmenotvornou příponu -σ- a mají také speciální sady koncovek.  
 
 Následující tvary nemají přízvuk v silném aoristu na kořeni ale na příponě:
 
