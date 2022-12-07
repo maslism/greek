@@ -67,9 +67,9 @@ Přivlastnění genitivem osobního či zvratného zájmena je možné i pro 1. 
 | 2.  | ὁ πατήρ ὑμῶν  | ὁ ὑμέτερος πατήρ |
 | 3.  | ὁ πατήρ αὐτῶν | ὁ τούτων πατήρ   |
 
-- zvratné přivlastnění bez důrazu: pokud možno příklonný tvar genitivu osobního zájmena mimo člen
+- nezvratné přivlastnění bez důrazu: pokud možno příklonný tvar genitivu osobního zájmena mimo člen
 
-- zvratné přivlastnění s důrazem: přivlastňovací zájmeno za členem
+- nezvratné přivlastnění s důrazem: přivlastňovací zájmeno za členem
 
 ##### Zvratné přivlastnění
 
@@ -124,8 +124,6 @@ Přivlastnění genitivem osobního či zvratného zájmena je možné i pro 1. 
 Ἐπιμελώμεθα **ἀλλήλων**! – Starejme se **o sebe navzájem**!  
 Πιστεύετε **ἀλλήλοις**! – Důvěřujte **si navzájem**!  
 Οἱ φίλοι στέργουσιν **ἀλλήλους**. – Přátelé **se navzájém** mají rádi.
-
-
 
 1\. Ἐγὼ μὲν ὑμᾶς διδάσκω, ὑμεῖς δὲ σπουδαίως μοι πείθεσθε! 2. Δεῖ ἡμᾶς μήποτε τοῦ ἡμετέρου αὐτῶν ἀγαθοῦ, ἀλλὰ τοῦ τῆς πατρίδος ἐπιμέλεσθαι. 3. Οὐ μόνον ὑμῖν αὐτοῖς, ἀλλὰ τῇ ὑμετέρᾳ πατρίδι μανθάνετε. 4. Μὴ ἄγαν πιστεύετε ὑμῖν αὐτοῖς, oἱ γὰρ ἑαυτοῖς (σφίσιν αὐτοῖς) πιστεύovτες πολλάκις σφάλλονται. 5. Μὴ βλάπτωμεν ἀλλήλους, βλάπτοντες γὰρ τοὺς ἡμετέρους φίλους βλάπτομεν ἡμᾶς αὐτούς. 6. Ἡ μήτηρ πρὸς
 τὴν θυγατέρα, „Θύγατερ, ὡς μετριώτατα περὶ σεαυτῆς (σαυτῆς) λέγε, μὴ ἄλλοι σε κακὴν νομίζωσιν.“ 7. Αἱ μέλιτται ἐνίοτε ἀλλήλαις μάχονται καὶ τοῖς κέντροις ἀλλήλας τιτρώσκουσιν. 8. Τῶν μαχῶν αὕτη πικροτάτη ἐστίν, ἐν ᾗ oἱ τῆς αὐτῆς πατρίδος παῖδες ἀλλήλοις μάχονται.

@@ -90,6 +90,8 @@ větou časovou, důvodovou, podmínkovou, přípustkovou anebo předložkovým 
 
 {{</ pure-expand >}}
 
+{{< button href="/data/Participia - handout.pdf" class="btn-outline-info" >}}Syntax a použití participií{{< /button >}}
+
 ### Křížové odkazy
 
 {{< tabs tabTotal="2" tabID="1" tabName1="Hnátek" tabName2="Niederle" >}}
