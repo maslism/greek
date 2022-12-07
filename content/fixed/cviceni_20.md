@@ -90,7 +90,7 @@ větou časovou, důvodovou, podmínkovou, přípustkovou anebo předložkovým 
 
 {{</ pure-expand >}}
 
-{{< button href="/data/Participia - handout.pdf" class="btn-outline-info" >}}Syntax a použití participií{{< /button >}}
+{{< button href="greek/data/Participia - handout.pdf" class="btn-outline-info" >}}Syntax a použití participií{{< /button >}}
 
 ### Křížové odkazy
 
