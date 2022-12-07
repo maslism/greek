@@ -33,7 +33,7 @@
 
 ### Ablaut v řečtině
 
-Ablaut (také střída) v řečtině je střídání různých podob jednoho vokálu v závislosti od gramatické či derivační kategorie nebo polohy v paradigmatu. Někdy bývá spojen s posunem přízvuku, který se historicky v protoindoevropštině (PIE) nevyskytoval na morfémě v nulovém stupni. Ablaut se týká kořene nebo derivační přípony. Tento systém byl zděděn z PIE  a v řečtině byl časem marginalizován v prospěch kolumnárního ablautu, t.j. stejného ablautu napříč paradigmatem, na základě analogického vyrovnávání.  
+Ablaut (také střída) v řečtině je střídání různých podob jednoho vokálu v závislosti na gramatické či derivační kategorii nebo poloze v paradigmatu. Někdy bývá spojen s posunem přízvuku, který se historicky v protoindoevropštině (PIE) nevyskytoval na morfému v nulovém stupni. Ablaut se týká kořene nebo derivační přípony. Tento systém byl zděděn z PIE  a v řečtině byl časem marginalizován v prospěch kolumnárního ablautu, t.j. stejného ablautu napříč paradigmatem, na základě analogického vyrovnávání.  
 
 {{< bootstrap-table table_class="table table-hover table-sm" thead_class="light" caption="Ablaut v řečtine" >}}
 
@@ -45,7 +45,7 @@ Ablaut (také střída) v řečtině je střídání různých podob jednoho vok
 
 {{< /bootstrap-table >}}
 
-Vokál podléhající ablatu může být i součastí diftongu, v nulovém stupni se pak ofglajd diftongu (/i̯/, /u̯/) stává plnohodnotým vokálem (/i/, /y/). Dlouhý stupeň se v řečtině historicky vyskytoval jenom v nom. sg. některých substantiv III. deklinace, odkud se někdy rozšířil do celého paradigmatu (např. σωτήρ, ῆρος). Nulový stupeň se nejčastěji vyskytuje v aoristu silném, v plurálu a mediopasivu atematických sloves a v slabých pádech (gen., dat.) některých substantiv. V rámci **paradigmatických vztahů**, tedy mimo domény derivace, **se ablaut omezuje na změnu stupně kořene či přípony**, ke změnám vokalizmu mezi /e/ a /o/ spíše nedochází. Výjimkou je kmen perfekta, který historicky obsahoval /o/ vokalizmus v kořeni (např. perf. λέ-λοιπ-α 'zanechal jsem' oproti praes. λείπω), avšak perfektum je méně pevnou součastí slovesného paradigmatu ve srovnání s aoristem nebo futurem, čím se blíži derivaci. V rámci **derivace**, t.j. tvorby nových lexémů, **je změna vokalizmu častější** (sloveso τρέπω 'otáčím' oproti subst. τροπή 'otočení').  
+Vokál podléhající ablautu může být i součástí diftongu, v nulovém stupni se pak ofglajd diftongu (/i̯/, /u̯/) stává plnohodnotným vokálem (/i/, /y/). Dlouhý stupeň se v řečtině historicky vyskytoval jenom v nom. sg. některých substantiv III. deklinace, odkud se někdy rozšířil do celého paradigmatu (např. σωτήρ, ῆρος). Nulový stupeň se nejčastěji vyskytuje v aoristu silném, v plurálu a mediopasivu atematických sloves a v slabých pádech (gen., dat.) některých substantiv. V rámci **paradigmatických vztahů**, tedy mimo domény derivace, **se ablaut omezuje na změnu stupně kořene či přípony**, ke změnám vokalizmu mezi /e/ a /o/ spíše nedochází. Výjimkou je kmen perfekta, který historicky obsahoval /o/ vokalizmus v kořeni (např. perf. λέ-λοιπ-α 'zanechal jsem' oproti praes. λείπω), avšak perfektum je méně pevnou součástí slovesného paradigmatu ve srovnání s aoristem nebo futurem, čím se blíží derivaci. V rámci **derivace**, t.j. tvorby nových lexémů, **je změna vokalizmu častější** (sloveso τρέπω 'otáčím' oproti subst. τροπή 'otočení').  
 
 #### Příklady ablautu
 
