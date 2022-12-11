@@ -14,6 +14,8 @@
 
 - předchází-li před tematickým vokálem v pozitivu prozodicky krátká slabika, je tematický vokál prodloužen na -ω-, např. νεώτερος 'novější'
 
+- prozodicky dlouhá slabika má buď dlouhý vokál, diftong, nebo vokál, za kterým následují dvě a víc souhlásek
+
 - u některých adjektiv původní tematický vokál v komparativu a superlativu mizí, např. φίλτερος 'milejší'
 
 #### Stupňování adverbií
@@ -30,11 +32,11 @@
 
 Ὁ ἀνὴρ ἐμπειρότερός ἐστι **τοῦ νεανίου** / **ἢ ὁ νεανίας** – ... zkušenější mladíka (gen. srovnávací) / zkušenější než mladik  
 
-Ὁ ἀνὴρ ἐμπειρότερός ἐστιν – 1. ...je zkušenější; 2. ...je-přiliš, dosti, nadmíru zkušený
+Ὁ ἀνὴρ ἐμπειρότερός ἐστιν – 1. ... je zkušenější; 2. ... je přiliš, dosti, nadmíru zkušený
 
-Ἀρετὴ τιμιωτάτη ἐστὶ **πάντων τῶν χρημάτων** – ...je nejvzácnější ze všech statků, nad všechny statky (gen. celkový)
+Ἀρετὴ τιμιωτάτη ἐστὶ **πάντων τῶν χρημάτων** – ... je nejvzácnější ze všech statků, nad všechny statky (gen. celkový)
 
-Ἀρετὴ τιμιωτάτη ἐστίν – 1. ...je nejvzácnější; 2 ...je velmi (velice) vzácná, převzácná
+Ἀρετὴ τιμιωτάτη ἐστίν – 1. ... je nejvzácnější; 2 ... je velmi (velice) vzácná, převzácná
 
 ### Některá zájmena
 
@@ -42,7 +44,7 @@
 
 - ukazovací zájmeno stojí mimo člen, např. ἥδε ἡ γυνή 'tato žena'
 
-- v postavení se členem (přívlastkově) stojí jenom tvary přivlastňovacího genitivu, např. ὁ τούτου (ἐκείνου) πατήρ 'jeho otec'
+- v postavení za členem (přívlastkově) stojí jenom tvary přivlastňovacího genitivu, např. ὁ τούτου (ἐκείνου) πατήρ 'jeho otec'
 
 |      | tento    | tato     | toto     | ten     | ta      | to      |
 | ---- | -------- | -------- | -------- | ------- | ------- | ------- |
@@ -56,11 +58,11 @@
 | dat. | τοῖσδε   | ταῖσδε   | τοῖσδε   | τούτοις | ταύταις | τούτοις |
 | acc. | τούσδε   | τάσδε    | τάδε     | τούτους | ταύτας  | ταῦτα   |
 
-- ὅδε, ἥδε, τόδε – tento (*hic*), o přítomném nebo následujícím
+- ὅδε, ἥδε, τόδε – tento (*hic*); o přítomném nebo následujícím
   
   - člen + δε
 
-- οὗτος, αὕτη, τοῦτο – ten (*hic, iste*) o předešlém, již řečeném
+- οὗτος, αὕτη, τοῦτο – ten (*hic, iste*); o předešlém, již řečeném
   
   - tam, kde obsahuje člen τ-, má ukazovací zájmeno τ-
   
@@ -68,7 +70,7 @@
   
   - tam, kde obsahuje člen α nebo η, má ukazovací zájmeno αὑ, resp. ταυ-
 
-- ἐκεῖνος, ἐκείνη, ἐκεῖνο – onen (*ille*) o vzdáleném
+- ἐκεῖνος, ἐκείνη, ἐκεῖνο – onen (*ille*); o vzdáleném
   
   - skloňuje se jako αὐτός, αὐτή, αὐτό
 
@@ -99,18 +101,18 @@
   
   - **vytýkaci**: sám (*ipse*); mimo člen, např. αὐτὸς ὁ πατήρ = ὁ πατὴρ αὐτός 'otec sám'
   
-  - **ztotožňovací**: týž (*īdem*); se členem, např. ὁ αὐτὸς ἀνήο  'týž muž'
+  - **ztotožňovací**: týž (*īdem*); se členem, např. ὁ αὐτὸς ἀνήρ  'týž muž'
 
 ### Věty
 
-**Ὅδε ὁ νεανίας** σπουδαιότατός ἔστιν. **οὗτος (ὁ νεανίας)** ἐπαίνου
+**Ὅδε ὁ νεανίας** σπουδαιότατός ἐστιν. **Οὗτος (ὁ νεανίας)** ἐπαίνου
 ἄξιός ἐστιν.  Ὁ **τούτου** πατὴρ χαίρει.  
-**Ἥδε ἡ ὁδὸς** καλή ἐστιν. **ταύτην (τὴν ὁδὸν)** πορευώμεθα, μηδ᾽ ἄλλην.  
-**Tóδε τὸ φάρμακον** ὠφελιμώτερόν ἐστιν. **τοῦτο (τὸ φάρμακον)** πίνειν ἐθέλομεν, οὐκ **ἐκεῖνο (τὸ φάρμακον)**.
+**Ἥδε ἡ ὁδὸς** καλή ἐστιν. **Ταύτην (τὴν ὁδὸν)** πορευώμεθα, μηδ᾽ ἄλλην.  
+**Tóδε τὸ φάρμακον** ὠφελιμώτερόν ἐστιν. **Τοῦτο (τὸ φάρμακον)** πίνειν ἐθέλομεν, οὐκ **ἐκεῖνο (τὸ φάρμακον)**.
 
 **Ἄλλος ἄλλα** λέγει. – Každý mluví jiné (věci).  
-**Οἵδε oἱ ἄνδρες** καλῶς ἐργάζονται, τὰ ἔργα **αὐτῶν** βέβαιά ἔστιν, πάντες θαυμάζουσιν **αὐτά**.  
-**Αὐτὸς ὁ πόλεμος** (**ὁ πόλεμος αὐτός**) φοβερώτατός ἐστιν, **αὐτοὶ** σὺν τοῖς ἄλλοις ἀποτρέπωμεν αὐτόν.  
+**Οἵδε oἱ ἄνδρες** καλῶς ἐργάζονται, τὰ ἔργα **αὐτῶν** βέβαιά ἐστιν, πάντες θαυμάζουσιν **αὐτά**.  
+**Αὐτὸς ὁ πόλεμος** (**ὁ πόλεμος αὐτός**) φοβερώτατός ἐστιν, **αὐτοὶ** σὺν τοῖς ἄλλοις ἀποτρέπωμεν **αὐτόν**.  
 Οὐ πᾶσιν **ὁ αὐτὸς μισθός** ἔστιν, **ἄλλος ἄλλον** λαμβάνει. Ἕκαστος **τοσόνδε, ὅσου** ἄξιός ἐστιν.  
 
 1\. Οὐκ ἔστιν σοφίας κτῆμα τιμιώτερον. 2. Πασῶν τῶν γυναικῶν ἡ
@@ -141,7 +143,7 @@
 φοβερός 3 – hrozný, strašný  
 λαμβάνω, ειν – dostávám  
 ἕκαστος 3 – každý  
-ἡ σοφία, ας – moudrest  
+ἡ σοφία, ας – moudrost  
 τὸ κτῆμα, ατος – statek   
 ὁ ὀφθαλμός, οῦ – oko  
 ἄπιστος 2 – nespolehlivý  
@@ -177,5 +179,3 @@ Zájmena ukazovací, zájmeno 3. osoby, ἄλλος § 153, 154, 155, 145, 148 p
 
 {{< /tab >}}
 {{< /tabs >}}
-
-{{< figure src="/data/tetradrachm.png" width=250 caption="Stříbrná makedonská tetradrachma s hlavou Hérakla z období těsně po vládě Alexandra Velkého. 318–305 p. n. l." link="/data/tetradrachm.png" target=”_blank” >}}
