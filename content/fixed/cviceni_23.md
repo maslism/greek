@@ -42,4 +42,4 @@ s. 35-36
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< figure src="/data/tetradrachm.png" width=250 caption="Stříbrná makedonská tetradrachma s hlavou Hérakla z období těsně po vládě Alexandra Velkého. 318–305 p. n. l." link="/data/tetradrachm.png" target=”_blank” >}}
+{{< figure src="/data/alex_stater.png" width=200 caption="Zlatý statér z období vlády Alexandra Velkého. 330–320 p. n. l." link="/data/alex_stater.png" target=”_blank” >}}

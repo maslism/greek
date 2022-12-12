@@ -125,3 +125,5 @@ III. dekl.: dokončení kmenů plynných -λ, -ρ (§ 108.5.)
 
 {{< /tab >}}
 {{< /tabs >}}
+
+{{< figure src="/data/demeter.jpg" width=200 caption="Démétér, Triptolemos a Persefoné. Římská kopie části reliéfu ze svatyně Démétér v Eleuzíně, 27 p. n. l. – 14 n. l." link="/data/demeter.jpg" target=”_blank” >}}
