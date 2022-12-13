@@ -66,9 +66,9 @@
   
   - tam, kde obsahuje člen τ-, má ukazovací zájmeno τ-
   
-  - tam, kde obsahuje člen ο nebo ω, má ukazovací zájmeno οὑ-, resp. του-
+  - tam, kde obsahuje člen ο nebo ω, má ukazovací zájmeno οὑτ-, resp. τουτ-
   
-  - tam, kde obsahuje člen α nebo η, má ukazovací zájmeno αὑ, resp. ταυ-
+  - tam, kde obsahuje člen α nebo η, má ukazovací zájmeno αὑτ-, resp. ταυτ-
 
 - ἐκεῖνος, ἐκείνη, ἐκεῖνο – onen (*ille*); o vzdáleném
   
