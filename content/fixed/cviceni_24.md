@@ -14,7 +14,7 @@
 
 - předchází-li před tematickým vokálem v pozitivu prozodicky krátká slabika, je tematický vokál prodloužen na -ω-, např. νεώτερος 'novější'
 
-- prozodicky dlouhá slabika má buď dlouhý vokál, diftong, nebo vokál, za kterým následují dvě a víc souhlásek
+- prozodicky dlouhá slabika má buď dlouhý vokál, diftong, nebo vokál, za kterým následují dvě a víc souhlásek (= dlouhá polohou)
 
 - u některých adjektiv původní tematický vokál v komparativu a superlativu mizí, např. φίλτερος 'milejší'
 
