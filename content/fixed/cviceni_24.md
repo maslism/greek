@@ -99,7 +99,7 @@
 
 - zájmeno αὐτός, αὐτή, αὐτό má v nominativu a ve funkci zájmenného adjektiva bez ohledu na pád dva významy
   
-  - **vytýkaci**: sám (*ipse*); mimo člen, např. αὐτὸς ὁ πατήρ = ὁ πατὴρ αὐτός 'otec sám'
+  - **vytýkací**: sám (*ipse*); mimo člen, např. αὐτὸς ὁ πατήρ = ὁ πατὴρ αὐτός 'otec sám'
   
   - **ztotožňovací**: týž (*īdem*); se členem, např. ὁ αὐτὸς ἀνήρ  'týž muž'
 

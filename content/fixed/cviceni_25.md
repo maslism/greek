@@ -48,7 +48,7 @@ Tato zájmena se skloňují jako adjektiva I. a II. deklinace. Můžou mít i pl
 
 Přivlastnění třetí osobě:
 
-- **nezvrané přivlastnění**: genitiv αὐτοῦ, -ῆς, -οῦ v postavení **mimo člen**, např. ὁ πατὴρ αὐτοῦ = αὐτοῦ ὁ πατήρ 'jeho otec' 
+- **nezvratné přivlastnění**: genitiv αὐτοῦ, -ῆς, -οῦ v postavení **mimo člen**, např. ὁ πατὴρ αὐτοῦ = αὐτοῦ ὁ πατήρ 'jeho otec' 
 
 - **zvratné přivlastnění**: genitiv ἑαυτοῦ, -ῆς, -οῦ v postavení **za členem**, např. βλέπει τὸν ἑαυτοῦ πατέρα = βλέπει τὸν πατέρα τὸν ἑαυτοῦ 'vidí svého otce'
 
@@ -159,5 +159,3 @@ Zájmena osobní, zvratná, přivlastňovací, vespolné § 143, 144, 146, 147, 
 
 {{< /tab >}}
 {{< /tabs >}}
-
-{{< figure src="/data/tetradrachm.png" width=250 caption="Stříbrná makedonská tetradrachma s hlavou Hérakla z období těsně po vládě Alexandra Velkého. 318–305 p. n. l." link="/data/tetradrachm.png" target=”_blank” >}}
