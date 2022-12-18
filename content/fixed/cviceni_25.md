@@ -20,14 +20,14 @@
 
 - v sg. kromě nominativu jsou k dispozici tvary **důrazné** i **nedůrazné** (příklonné)
 
-- tvary zvratných zájmen jsou zřídkavé
+- archaické krátké tvary zvratných zájmen jsou zřídkavé
 
 ### Zvratná zájmena
 
 |      | ~ já              | ~ ty              | ~ on, ona, ono                      |
 | ---- | ----------------- | ----------------- | ----------------------------------- |
 | gen. | ἐμαυτοῦ, -ῆς      | σεαυτοῦ, -ῆς      | ἑαυτοῦ, -ῆς                         |
-| dat. | ἑμαυτῷ, -ῇ        | σεαυτῷ, -ῇ        | ἑαυτῷ, -ῆς                          |
+| dat. | ἐμαυτῷ, -ῇ        | σεαυτῷ, -ῇ        | ἑαυτῷ, -ῇ                           |
 | acc  | ἐμαυτόν, -ήν      | σεαυτόν, -ήν      | ἑαυτόν, -ην                         |
 |      | **~ my**          | **~ vy**          | **~ oni, ony, ona**                 |
 | gen. | ἡμῶν αὐτῶν        | ὑμῶν αὐτῶν        | ἑαυτῶν (σφῶν αὐτῶν)                 |
