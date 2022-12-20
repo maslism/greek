@@ -24,15 +24,15 @@
 
 ### Zvratná zájmena
 
-|      | ~ já              | ~ ty              | ~ on, ona, ono                      |
-| ---- | ----------------- | ----------------- | ----------------------------------- |
-| gen. | ἐμαυτοῦ, -ῆς      | σεαυτοῦ, -ῆς      | ἑαυτοῦ, -ῆς                         |
-| dat. | ἐμαυτῷ, -ῇ        | σεαυτῷ, -ῇ        | ἑαυτῷ, -ῇ                           |
-| acc  | ἐμαυτόν, -ήν      | σεαυτόν, -ήν      | ἑαυτόν, -ην                         |
-|      | **~ my**          | **~ vy**          | **~ oni, ony, ona**                 |
-| gen. | ἡμῶν αὐτῶν        | ὑμῶν αὐτῶν        | ἑαυτῶν (σφῶν αὐτῶν)                 |
-| dat. | ἡμῖν αὐτοῖς, -αῖς | ὑμῖν αὐτοῖς, -αῖς | ἑαυτοῖς, -αῖς (σφίσιν αὐτοῖς, -αῖς) |
-| acc. | ἡμᾶς αὐτούς, -άς  | ὑμᾶς αὐτούς, -άς  | ἑαυτούς, -άς (σφᾶς αὐτούς, -άς)     |
+|      | ~ já              | ~ ty              | ~ on, ona, ono                                  |
+| ---- | ----------------- | ----------------- | ----------------------------------------------- |
+| gen. | ἐμαυτοῦ, -ῆς      | σεαυτοῦ, -ῆς      | ἑαυτοῦ, -ῆς, -οῦ                                |
+| dat. | ἐμαυτῷ, -ῇ        | σεαυτῷ, -ῇ        | ἑαυτῷ, -ῇ, -ῷ                                   |
+| acc  | ἐμαυτόν, -ήν      | σεαυτόν, -ήν      | ἑαυτόν, -ήν, -ό                                 |
+|      | **~ my**          | **~ vy**          | **~ oni, ony, ona**                             |
+| gen. | ἡμῶν αὐτῶν        | ὑμῶν αὐτῶν        | ἑαυτῶν (σφῶν αὐτῶν)                             |
+| dat. | ἡμῖν αὐτοῖς, -αῖς | ὑμῖν αὐτοῖς, -αῖς | ἑαυτοῖς, -αῖς, -οῖς (σφίσιν αὐτοῖς, -αῖς, -οῖς) |
+| acc. | ἡμᾶς αὐτούς, -άς  | ὑμᾶς αὐτούς, -άς  | ἑαυτούς, -άς, -ά (σφᾶς αὐτούς, -άς, -ά)         |
 
 - zvratné zájmeno nemá nominativ
 
@@ -56,9 +56,9 @@ Přivlastnění třetí osobě:
 
 - **nezvratné přivlastnění**: 
   
-  - genitiv αὐτοῦ, -ῆς, pl. -οῦ v postavení **mimo člen**, např. ὁ πατὴρ αὐτοῦ = αὐτοῦ ὁ πατήρ 'jeho otec' 
+  - genitiv αὐτοῦ, -ῆς, pl. -ῶν v postavení **mimo člen**, např. ὁ πατὴρ αὐτοῦ = αὐτοῦ ὁ πατήρ 'jeho otec' 
   
-  - genitiv τούτου, -ης, pl. -ων nebo ἐκείνου (-ης, -ων) **za členem**, např. ὁ τούτου πατήρ 'jeho otec'
+  - genitiv τούτου, -ης, pl. -ων nebo ἐκείνου, -ης, pl. -ων **za členem**, např. ὁ τούτου πατήρ 'jeho otec'
 
 - **zvratné přivlastnění**: 
   
@@ -79,11 +79,11 @@ Přivlastnění genitivem osobního či zvratného zájmena je možné i pro 1. 
 | 2.  | ὁ πατήρ ὑμῶν  | ὁ ὑμέτερος πατήρ |
 | 3.  | ὁ πατήρ αὐτῶν | ὁ τούτων πατήρ   |
 
-- nezvratné přivlastnění se uplatní v kontextu, kde se **přivlastňuje osobě jiné než podmětu** určitého slovesného tvaru ve věte (*Vidím tvou dceru* – podmět věty ~ 1. os. sg., přivlastnění ~ 2. os. sg.)
+- nezvratné přivlastnění se uplatní v kontextu, kde se **přivlastňuje osobě jiné než podmětu** určitého slovesného tvaru ve větě (*Vidím tvou dceru* – podmět věty ~ 1. os. sg., přivlastnění ~ 2. os. sg.)
 
 - nezvratné přivlastnění bez důrazu: pokud možno příklonný tvar genitivu osobního zájmena mimo člen
 
-- nezvratné přivlastnění s důrazem: přivlastňovací zájmeno za členem
+- nezvratné přivlastnění s důrazem: přivlastňovací zájmeno za členem; v 3. os. genitiv ukazovacího zájmena za členem
 
 ##### Zvratné přivlastnění
 
@@ -96,11 +96,11 @@ Přivlastnění genitivem osobního či zvratného zájmena je možné i pro 1. 
 | 2.  | στέργετε τὸν ὑμέτερον πατέρα    | στέργετε τὸν ὑμέτερον αὐτῶν πατέρα  |
 | 3.  | στέργουσι τὸν ἑαυτῶν πατέρα     | στέργουσι τὸν ἑαυτῶν πατέρα         |
 
-- zvratné přivlastnění se uplatní v kontextu, kde se **přivlastňuje podmětu** určitého slovesného tvaru ve věte (*Vidíš svou dceru* – podmět věty ~ 2. os. sg., přivlastnění ~ 2. os. sg.)
+- zvratné přivlastnění se uplatní v kontextu, kde se **přivlastňuje podmětu** určitého slovesného tvaru ve větě (*Vidíš svou dceru* – podmět věty ~ 2. os. sg., přivlastnění ~ 2. os. sg.)
 
-- zvratné přivlastnění bez důrazu: přivlastňovací zájmeno nebo genitiv zvratného zájmena (3. os.) za členem
+- zvratné přivlastnění bez důrazu: přivlastňovací zájmeno za členem; v 3. os. genitiv zvratného zájmena za členem
 
-- zvratné přivlastnění s důrazem: v sg. a 3. os. pl. genitiv zvratného zájmena za členem; v pl. genitiv zvratného zájmena za přivlastňovacím zájmenem (1. a 2. os. pl.)
+- zvratné přivlastnění s důrazem: v sg. a 3. os. pl. genitiv zvratného zájmena za členem; v pl. genitiv αὐτῶν za přivlastňovacím zájmenem (1. a 2. os. pl.)
 
 ### Vzájemné zájmeno
 
