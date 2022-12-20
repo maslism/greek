@@ -111,7 +111,7 @@
 ἡ ἀγέλη, ης – stádo  
 ὁ ἀγών, ῶνος – zápas  
 μέλᾱς, μέλαινα, μέλαν – černý  
-ὁ Ἄιδης, ου – Hádes, bůh podsvětí  
+ὁ Ἅιδης, ου – Hádes, bůh podsvětí  
 ἡ τελευτή, ῆς – konec, smrt  
 
 {{</ pure-expand >}}

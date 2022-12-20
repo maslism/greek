@@ -11,7 +11,7 @@
 | nom. | ἐγώ       | σύ       |               |
 | gen. | ἐμοῦ, μου | σοῦ, σου | οὗ, οὑ        |
 | dat. | ἐμοί, μοι | σοί, σοι | οἷ, οἱ        |
-| acc  | ἐμέ, με   | σέ. σε   | ἕ, ἑ          |
+| acc. | ἐμέ, με   | σέ, σε   | ἕ, ἑ          |
 |      | **my**    | **vy**   | **~ zvratné** |
 | nom. | ἡμεῖς     | ὑμεῖς    | σφεῖς *ipsī*  |
 | gen. | ἡμῶν      | ὑμῶν     | σφῶν          |
@@ -32,7 +32,13 @@
 |      | **~ my**          | **~ vy**          | **~ oni, ony, ona**                 |
 | gen. | ἡμῶν αὐτῶν        | ὑμῶν αὐτῶν        | ἑαυτῶν (σφῶν αὐτῶν)                 |
 | dat. | ἡμῖν αὐτοῖς, -αῖς | ὑμῖν αὐτοῖς, -αῖς | ἑαυτοῖς, -αῖς (σφίσιν αὐτοῖς, -αῖς) |
-| acc. | ἡμᾶς αὐτούς, -άς  | ὑμᾶς αὐτούς, -άς  | ἑαυτύς, -άς (σφᾶς αὐτούς, -άς)      |
+| acc. | ἡμᾶς αὐτούς, -άς  | ὑμᾶς αὐτούς, -άς  | ἑαυτούς, -άς (σφᾶς αὐτούς, -άς)     |
+
+- zvratné zájmeno nemá nominativ
+
+- kromě 1. a 2. osoby plurálu je zvratné osobní zájmeno tvořeno spojením tvaru osobního zájmena v akuzativu (ἐμ-, σε-, ἑ-) se zájmenem αὐτός, -ή, -όν v příslušném čísle, pádu a rodě
+
+- v 1. a 2. osobě plurálu je zvratné zájmeno vyjádřeno opisem pomocí osobního zájmena ἡμεῖς, resp. ὑμεῖς ve spojení s αὐτός, -ή, -όν
 
 ### Přivlastňovací zájmena
 
@@ -48,9 +54,15 @@ Tato zájmena se skloňují jako adjektiva I. a II. deklinace. Můžou mít i pl
 
 Přivlastnění třetí osobě:
 
-- **nezvratné přivlastnění**: genitiv αὐτοῦ, -ῆς, -οῦ v postavení **mimo člen**, např. ὁ πατὴρ αὐτοῦ = αὐτοῦ ὁ πατήρ 'jeho otec' 
+- **nezvratné přivlastnění**: 
+  
+  - genitiv αὐτοῦ, -ῆς, pl. -οῦ v postavení **mimo člen**, např. ὁ πατὴρ αὐτοῦ = αὐτοῦ ὁ πατήρ 'jeho otec' 
+  
+  - genitiv τούτου, -ης, pl. -ων nebo ἐκείνου (-ης, -ων) **za členem**, např. ὁ τούτου πατήρ 'jeho otec'
 
-- **zvratné přivlastnění**: genitiv ἑαυτοῦ, -ῆς, -οῦ v postavení **za členem**, např. βλέπει τὸν ἑαυτοῦ πατέρα = βλέπει τὸν πατέρα τὸν ἑαυτοῦ 'vidí svého otce'
+- **zvratné přivlastnění**: 
+  
+  - genitiv ἑαυτοῦ, -ῆς, pl. -ῶν v postavení **za členem**, např. βλέπει τὸν ἑαυτοῦ πατέρα = βλέπει τὸν πατέρα τὸν ἑαυτοῦ 'vidí svého otce'
 
 #### Konfigurace přivlastňovacích zájmen
 
@@ -67,6 +79,8 @@ Přivlastnění genitivem osobního či zvratného zájmena je možné i pro 1. 
 | 2.  | ὁ πατήρ ὑμῶν  | ὁ ὑμέτερος πατήρ |
 | 3.  | ὁ πατήρ αὐτῶν | ὁ τούτων πατήρ   |
 
+- nezvratné přivlastnění se uplatní v kontextu, kde se **přivlastňuje osobě jiné než podmětu** určitého slovesného tvaru ve věte (*Vidím tvou dceru* – podmět věty ~ 1. os. sg., přivlastnění ~ 2. os. sg.)
+
 - nezvratné přivlastnění bez důrazu: pokud možno příklonný tvar genitivu osobního zájmena mimo člen
 
 - nezvratné přivlastnění s důrazem: přivlastňovací zájmeno za členem
@@ -82,9 +96,11 @@ Přivlastnění genitivem osobního či zvratného zájmena je možné i pro 1. 
 | 2.  | στέργετε τὸν ὑμέτερον πατέρα    | στέργετε τὸν ὑμέτερον αὐτῶν πατέρα  |
 | 3.  | στέργουσι τὸν ἑαυτῶν πατέρα     | στέργουσι τὸν ἑαυτῶν πατέρα         |
 
+- zvratné přivlastnění se uplatní v kontextu, kde se **přivlastňuje podmětu** určitého slovesného tvaru ve věte (*Vidíš svou dceru* – podmět věty ~ 2. os. sg., přivlastnění ~ 2. os. sg.)
+
 - zvratné přivlastnění bez důrazu: přivlastňovací zájmeno nebo genitiv zvratného zájmena (3. os.) za členem
 
-- zvratné přivlastnění s důrazem: genitiv zvratného zájmena (3. os.) za členem; v pl. genitiv zvratného zájmena za přivlastňovacím zájmenem (1. 2. os.)
+- zvratné přivlastnění s důrazem: v sg. a 3. os. pl. genitiv zvratného zájmena za členem; v pl. genitiv zvratného zájmena za přivlastňovacím zájmenem (1. a 2. os. pl.)
 
 ### Vzájemné zájmeno
 
