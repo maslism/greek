@@ -8,10 +8,10 @@
 
 | Třída      | Hlásky             | Vzor     | Aoristový kmen |
 | ---------- | ------------------ | -------- | -------------- |
-| samohláska | ευ, υ              | παιδεύ-ω | παιδευσ(α)-    |
-| velára     | κ, γ, χ, ττ, σσ, ζ | φυλάττ-ω | φυλαξ(α)-      |
-| alveolára  | τ, δ, θ, ζ         | πείθ-ω   | πεισ(α)-       |
-| labiála    | π, β, φ, πτ        | γράφ-ω   | γραψ(α)-       |
+| samohláska | ευ, υ              | παιδεύ-ω | παιδευ-σ(α)-   |
+| velára     | κ, γ, χ, ττ, σσ, ζ | φυλάττ-ω | φυλα-ξ(α)-     |
+| alveolára  | τ, δ, θ, ζ         | πείθ-ω   | πει-σ(α)-      |
+| labiála    | π, β, φ, πτ        | γράφ-ω   | γρα-ψ(α)-      |
 
 Aoristový kmen slabý se tvoří přidáním -σ(α)- k základu, který získámé odstraněním -ω z indikativu prézentu aktiva. Koncový konsonant základu splývá se sigmou nebo vypadává (v případě alveolár) stejně jako v kmenu futura. Sigmatický aorist se také nazývá α-tematický, protože většina jeho tvarů obsahuje řetězec -σα-.
 
@@ -19,14 +19,14 @@ Aorist od futura odlišíme na základě toho, že za aoristovou sigmou následu
 
 ### Určité tvary mediálního aoristu
 
-|     | Indikativ       | Konjunktiv    | Optativ        | Imperativ     |
-| --- | --------------- | ------------- | -------------- | ------------- |
-| 1.  | ἐ-παιδευσ-άμην  | παιδεύσ-ωμαι  | παιδευσ-αίμην  |               |
-| 2.  | ἐ-παίδεύσ-ω     | παιδεύσ-ῃ     | παιδεύσ-αιο    | παίδευσ-αι    |
-| 3.  | ἐ-παιδεύσ-ατο   | παιδεύσ-ηται  | παιδεύσ-αιτο   | παιδευσ-άσθω  |
-| 1.  | ἐ-παιδευσ-άμεθα | παιδευσ-ώμεθα | παιδευσ-αίμεθα |               |
-| 2.  | ἐ-παιδεύσ-ασθε  | παιδεύσ-ησθε  | παιδεύσ-αισθε  | παιδεύσ-ασθε  |
-| 3.  | ἐ-παιδεύσ-αντο  | παιδεύσ-ωνται | παιδεύσ-αιντο  | παιδευσ-άσθων |
+|     | Indikativ        | Konjunktiv     | Optativ          | Imperativ      |
+| --- | ---------------- | -------------- | ---------------- | -------------- |
+| 1.  | ἐ-παιδευ-σά-μην  | παιδεύ-σ-ωμαι  | παιδευ-σ-αί-μην  |                |
+| 2.  | ἐ-παίδεύ-σ-ω     | παιδεύ-σ-ῃ     | παιδεύ-σ-αι-ο    | παίδευ-σ-αι    |
+| 3.  | ἐ-παιδεύ-σα-το   | παιδεύ-σ-ηται  | παιδεύ-σ-αι-το   | παιδευ-σά-σθω  |
+| 1.  | ἐ-παιδευ-σά-μεθα | παιδευ-σ-ώμεθα | παιδευ-σ-αί-μεθα |                |
+| 2.  | ἐ-παιδεύ-σα-σθε  | παιδεύ-σ-ησθε  | παιδεύ-σ-αι-σθε  | παιδεύ-σα-σθε  |
+| 3.  | ἐ-παιδεύ-σα-ντο  | παιδεύ-σ-ωνται | παιδεύ-σ-αι-ντο  | παιδευ-σά-σθων |
 
 Aoristový kmen se pojí se všemi čtyřmi slovesnými způsoby. Indikativ aoristu je minulý čas, poněvadž aorist se v řečtině nepojí s prézentem. Aoristový kmen dodává výslednému tvaru sémantický komponent dokonavosti (= perfektivní aspekt). **Aoristový kmen má** vyjma indikativu pouze **vidovou platnost**, nikoliv časovou.
 
@@ -34,9 +34,9 @@ Tvary mediálního aoristu v sobě nezlučují medium a pasivum. Mediální aori
 
 ### Neurčité tvary aktivního aoristu
 
-| Participium                                   | Infinitiv     |
-| --------------------------------------------- | ------------- |
-| παιδευσ-άμενος, παιδευσ-αμένη, παιδευσ-άμενον | παιδεύσ-ασθαι |
+| Participium                                      | Infinitiv      |
+| ------------------------------------------------ | -------------- |
+| παιδευ-σά-μενος, παιδευ-σα-μένη, παιδευ-σά-μενον | παιδεύ-σα-σθαι |
 
 Neurčité tvary od aoristového kmene mají relativní časovou platnost a označují předčasnost. Absolutní čas jako referenční rovina je ve výpovědi určen určitým slovesným tvarem.
 
@@ -54,17 +54,17 @@ Participium aoristu media je v mužském a středním rodu ο-kmenové adjektivu
 
 ### Zájmeno tázací
 
-|      | Kdo?         | Co?          |
-| ---- | ------------ | ------------ |
-| Nom. | τίς;         | τί;          |
-| Gen. | τίνος (τοῦ); | τίνος (τοῦ); |
-| Dat. | τίνι (τῷ);   | τίνι (τῷ);   |
-| Acc. | τίνα;        | τί;          |
-| Pl.  |              |              |
-| Nom. | τίνες;       | τίνα;        |
-| Gen. | τίνων;       | τίνων;       |
-| Dat. | τίσι(ν);     | τίσι(ν);     |
-| Acc. | τίνας;       | τίνα;        |
+|         | Kdo?         | Co?          |
+| ------- | ------------ | ------------ |
+| Nom.    | τίς;         | τί;          |
+| Gen.    | τίνος (τοῦ); | τίνος (τοῦ); |
+| Dat.    | τίνι (τῷ);   | τίνι (τῷ);   |
+| Acc.    | τίνα;        | τί;          |
+| **Pl.** |              |              |
+| Nom.    | τίνες;       | τίνα;        |
+| Gen.    | τίνων;       | τίνων;       |
+| Dat.    | τίσι(ν);     | τίσι(ν);     |
+| Acc.    | τίνας;       | τίνα;        |
 
 Tázací zájmeno se vyskytuje v přímých i nepřímých otázkách:
 

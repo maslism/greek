@@ -8,10 +8,10 @@
 
 | Třída      | Hlásky             | Vzor     | Aoristový kmen |
 | ---------- | ------------------ | -------- | -------------- |
-| samohláska | ευ, υ              | παιδεύ-ω | παιδευσ(α)-    |
-| velára     | κ, γ, χ, ττ, σσ, ζ | φυλάττ-ω | φυλαξ(α)-      |
-| alveolára  | τ, δ, θ, ζ         | πείθ-ω   | πεισ(α)-       |
-| labiála    | π, β, φ, πτ        | γράφ-ω   | γραψ(α)-       |
+| samohláska | ευ, υ              | παιδεύ-ω | παιδευ-σ(α)-   |
+| velára     | κ, γ, χ, ττ, σσ, ζ | φυλάττ-ω | φυλα-ξ(α)-     |
+| alveolára  | τ, δ, θ, ζ         | πείθ-ω   | πει-σ(α)-      |
+| labiála    | π, β, φ, πτ        | γράφ-ω   | γρα-ψ(α)-      |
 
 Aoristový kmen slabý se tvoří přidáním -σ(α)- k základu, který získámé odstraněním -ω z indikativu prézentu aktiva. Koncový konsonant základu splývá se sigmou nebo vypadává (v případě alveolár) stejně jako v kmenu futura. Sigmatický aorist se také nazývá α-tematický, protože většina jeho tvarů obsahuje řetězec -σα-.
 
@@ -19,14 +19,14 @@ Aorist od futura odlišíme na základě toho, že za aoristovou sigmou následu
 
 ### Určité tvary aktivního aoristu
 
-|     | Indikativ      | Konjunktiv    | Optativ                  | Imperativ     |
-| --- | -------------- | ------------- | ------------------------ | ------------- |
-| 1.  | ἐ-παίδευσ-α    | παιδεύσ-ω     | παιδεύσ-αιμι             |               |
-| 2.  | ἐ-παίδευσ-ας   | παιδεύσ-ῃς    | παιδεύσ-ειας ( n.  -αις) | παίδευσ-ον    |
-| 3.  | ἐ-παίδευσ-ε(ν) | παιδεύσ-ῃ     | παιδεύσ-ειε(ν) (-σαι)    | παιδευσ-άτω   |
-| 1.  | ἐ-παιδεύσ-αμεν | παιδεύσ-ωμεν  | παιδεύσ-αιμεν            |               |
-| 2.  | ἐ-παιδεύσ-ατε  | παιδεύσ-ητε   | παιδεύσ-αιτε             | παιδεύσ-ατε   |
-| 3.  | ἐ-παίδευσ-αν   | παιδεύσωσι(ν) | παιδευσ-ειαν (n. -σαιεν) | παιδευσ-άντων |
+|     | Indikativ       | Konjunktiv      | Optativ                   | Imperativ      |
+| --- | --------------- | --------------- | ------------------------- | -------------- |
+| 1.  | ἐ-παίδευ-σα     | παιδεύ-σ-ω      | παιδεύ-σ-αι-μι            |                |
+| 2.  | ἐ-παίδευ-σα-ς   | παιδεύ-σ-ῃς     | παιδεύ-σ-ειας ( n.  -αις) | παίδευ-σ-ον    |
+| 3.  | ἐ-παίδευ-σ-ε(ν) | παιδεύ-σ-ῃ      | παιδεύ-σ-ειε(ν) (-σαι)    | παιδευ-σά-τω   |
+| 1.  | ἐ-παιδεύ-σα-μεν | παιδεύ-σ-ωμεν   | παιδεύ-σ-αι-μεν           |                |
+| 2.  | ἐ-παιδεύ-σα-τε  | παιδεύ-σ-ητε    | παιδεύ-σ-αι-τε            | παιδεύ-σα-τε   |
+| 3.  | ἐ-παίδευ-σα-ν   | παιδεύ-σ-ωσι(ν) | παιδευ-σ-ειαν (n. -σαιεν) | παιδευ-σά-ντων |
 
 Aoristový kmen se pojí se všemi čtyřmi slovesnými způsoby. Indikativ aoristu je minulý čas, poněvadž aorist se v řečtině nepojí s prézentem. Aoristový kmen dodává výslednému tvaru sémantický komponent dokonavosti (= perfektivní aspekt). **Aoristový kmen má** vyjma indikativu pouze **vidovou platnost**, nikoliv časovou. 
 
@@ -46,7 +46,7 @@ U telických sloves či předikátů, které ze své podstaty popisují děje se
 
 | Participium                         | Infinitiv  |
 | ----------------------------------- | ---------- |
-| παιδεύσ-ᾱς, παιδεύσ-ασᾰ, παιδεῦσ-ᾰν | παιδεῦσ-αι |
+| παιδεύ-σᾱς, παιδεύ-σασᾰ, παιδεῦ-σᾰν | παιδεῦ-σαι |
 
 Neurčité tvary od aoristového kmene mají relativní časovou platnost a označují předčasnost. Absolutní čas jako referenční rovina je ve výpovědi určen určitým slovesným tvarem.
 
@@ -62,18 +62,18 @@ Participium v predikativní pozici můžeme překládat vedlejší větou ve fun
 
 #### Skloňování participia aoristu aktivního
 
-|         | Masc.          | Fem.          | Neut.          |
-| ------- | -------------- | ------------- | -------------- |
-| Nom.    | παιδεύσ-ᾱς     | παιδεύσ-ασα   | παιδεῦσ-αν     |
-| Gen.    | παιδεύσ-αντος  | παιδευσ-άσης  | παιδεύσ-αντος  |
-| Dat.    | παιδεύσ-αντι   | παιδευσ-άσῃ   | παιδεύσ-αντι   |
-| Acc.    | παιδεύσ-αντα   | παιδεύσ-ασαν  | παιδεῦσ-αν     |
-| Voc.    | παιδεύσ-ᾱς     | παιδεύσ-ασα   | παιδεῦσ-αν     |
-| **Pl.** |                |               |                |
-| Nom.    | παιδεύσ-αντες  | παιδεύσ-ασαι  | παιδεύσ-αντα   |
-| Gen.    | παιδευσ-άντων  | παιδευσ-ασῶν  | παιδευσ-άντων  |
-| Dat.    | παιδεύσ-ᾱσι(ν) | παιδευσ-άσαις | παιδεύσ-ᾱσι(ν) |
-| Acc.    | παιδεύσ-αντας  | παιδευσ-άσας  | παιδεύσ-αντα   |
+|         | Masc.           | Fem.           | Neut.           |
+| ------- | --------------- | -------------- | --------------- |
+| Nom.    | παιδεύ-σᾱ-ς     | παιδεύ-σα-σα   | παιδεῦ-σα-ν     |
+| Gen.    | παιδεύ-σα-ντος  | παιδευ-σά-σης  | παιδεύ-σα-ντος  |
+| Dat.    | παιδεύ-σα-ντι   | παιδευ-σά-σῃ   | παιδεύ-σα-ντι   |
+| Acc.    | παιδεύ-σα-ντα   | παιδεύ-σα-σαν  | παιδεῦ-σα-ν     |
+| Voc.    | παιδεύ-σᾱ-ς     | παιδεύ-σα-σα   | παιδεῦ-σα-ν     |
+| **Pl.** |                 |                |                 |
+| Nom.    | παιδεύ-σα-ντες  | παιδεύ-σα-σαι  | παιδεύ-σα-ντα   |
+| Gen.    | παιδευ-σά-ντων  | παιδευ-σα-σῶν  | παιδευ-σά-ντων  |
+| Dat.    | παιδεύ-σᾱ-σι(ν) | παιδευ-σά-σαις | παιδεύ-σᾱ-σι(ν) |
+| Acc.    | παιδεύ-σα-ντας  | παιδευ-σά-σας  | παιδεύ-σα-ντα   |
 
 Participium aoristu aktivního je v mužském a středním rodu ντ-kmenové adjektivum ΙΙΙ. deklinace. V ženském rodu se participium skloňuje podle vzoru θάλαττα, ης I. deklinace. 
 
