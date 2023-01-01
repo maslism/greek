@@ -30,7 +30,7 @@ Aorist od futura odlišíme na základě toho, že za aoristovou sigmou následu
 
 Aoristový kmen se pojí se všemi čtyřmi slovesnými způsoby. Indikativ aoristu je minulý čas, poněvadž aorist se v řečtině nepojí s prézentem. Aoristový kmen dodává výslednému tvaru sémantický komponent dokonavosti (= perfektivní aspekt). **Aoristový kmen má** vyjma indikativu pouze **vidovou platnost**, nikoliv časovou. 
 
-Dokonost můžeme chápat jako časovou ohraničenost děje, který je popisován tvarem aoristu (= gramatický aspekt). Dokonavost se kombinuje s lexikálním významem slovesa, který bez ohledu na časově-aspektuální kmen obsahuje informaci o časové struktuře popisovaného děje (= lexikální aspekt). Tak stavová slovesa popisují homogenní děje, které nemají specifický konečný bod (např. *kralovat, sedět, ležet, spát*). Aorist od stavových sloves může mít kontextuálně odlišnou interpretaci v závisloti na tom, na kterou hranici děje mluvči klade důraz:
+Dokonavost můžeme chápat jako časovou ohraničenost děje, který je popisován tvarem aoristu (= gramatický aspekt). Dokonavost se kombinuje s lexikálním významem slovesa, který bez ohledu na časově-aspektuální kmen obsahuje informaci o časové struktuře popisovaného děje (= lexikální aspekt). Tak stavová slovesa popisují homogenní děje, které nemají specifický konečný bod (např. *kralovat, sedět, ležet, spát*). Aorist od stavových sloves může mít kontextuálně odlišnou interpretaci v závisloti na tom, na kterou hranici děje mluvči klade důraz:
 
 - začátek děje (ingresivní aor.): ἐβασίλευσε 'začal panovat'
 
