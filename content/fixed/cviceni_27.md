@@ -26,7 +26,7 @@ Aorist od futura odlišíme na základě toho, že za aoristovou sigmou následu
 | 3.  | ἐ-παίδευ-σ-ε(ν) | παιδεύ-σ-ῃ      | παιδεύ-σ-ειε(ν) (-σαι)    | παιδευ-σά-τω   |
 | 1.  | ἐ-παιδεύ-σα-μεν | παιδεύ-σ-ωμεν   | παιδεύ-σ-αι-μεν           |                |
 | 2.  | ἐ-παιδεύ-σα-τε  | παιδεύ-σ-ητε    | παιδεύ-σ-αι-τε            | παιδεύ-σα-τε   |
-| 3.  | ἐ-παίδευ-σα-ν   | παιδεύ-σ-ωσι(ν) | παιδευ-σ-ειαν (n. -σαιεν) | παιδευ-σά-ντων |
+| 3.  | ἐ-παίδευ-σα-ν   | παιδεύ-σ-ωσι(ν) | παιδεύ-σ-ειαν (n. -σαιεν) | παιδευ-σά-ντων |
 
 Aoristový kmen se pojí se všemi čtyřmi slovesnými způsoby. Indikativ aoristu je minulý čas, poněvadž aorist se v řečtině nepojí s prézentem. Aoristový kmen dodává výslednému tvaru sémantický komponent dokonavosti (= perfektivní aspekt). **Aoristový kmen má** vyjma indikativu pouze **vidovou platnost**, nikoliv časovou. 
 
