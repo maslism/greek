@@ -32,7 +32,7 @@ Aoristový kmen se pojí se všemi čtyřmi slovesnými způsoby. Indikativ aori
 
 Tvary mediálního aoristu v sobě nezlučují medium a pasivum. Mediální aorist proto v klasické řečtině **nemá pasivní význam**.
 
-### Neurčité tvary aktivního aoristu
+### Neurčité tvary mediálního aoristu
 
 | Participium                                      | Infinitiv      |
 | ------------------------------------------------ | -------------- |
