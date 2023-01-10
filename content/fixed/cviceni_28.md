@@ -30,7 +30,7 @@ Aorist od futura odlišíme na základě toho, že za aoristovou sigmou následu
 
 Aoristový kmen se pojí se všemi čtyřmi slovesnými způsoby. Indikativ aoristu je minulý čas, poněvadž aorist se v řečtině nepojí s prézentem. Aoristový kmen dodává výslednému tvaru sémantický komponent dokonavosti (= perfektivní aspekt). **Aoristový kmen má** vyjma indikativu pouze **vidovou platnost**, nikoliv časovou.
 
-Tvary mediálního aoristu v sobě nezlučují medium a pasivum. Mediální aorist proto v klasické řečtině **nemá pasivní význam**.
+Tvary mediálního aoristu v sobě neslučují medium a pasivum. Mediální aorist proto v klasické řečtině **nemá pasivní význam**.
 
 ### Neurčité tvary mediálního aoristu
 
