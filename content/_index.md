@@ -15,7 +15,7 @@ Průvodní web k základní výuce starořeckého jazyka na Ústavu řeckých a 
 
 \* (hvězdička) rekonstruovaný tvar, morféma nebo hláska 
 
-`*-i̯a` (červený typewriter) rekonstruovaný tvar, morféma nebo hláska; protoindoevropská (PIE), ale také protořecká data  
+`*-i̯a` (červený typewriter) rekonstruovaný tvar, morféma nebo hláska; protoindoevropská (PIE) nebo rekonstruovaná řecká data  
 
 /d͡z/ (šikmé závorky) fonemický přepis podle [International Phonetic Alphabet](https://www.ipachart.com/)
 
